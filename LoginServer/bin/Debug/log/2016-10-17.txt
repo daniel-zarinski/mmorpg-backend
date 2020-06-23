@@ -1,0 +1,1109 @@
+This is the log file of the 2016-10-17
+[ 2016-10-17 00:16:29] Setting up server...
+[ 2016-10-17 00:16:29] Connected to MYSQL.
+[ 2016-10-17 00:16:29] Skill database loaded with [4] skills
+[ 2016-10-17 00:16:29] Item database loaded with [2] items
+[ 2016-10-17 00:16:30] Monster database loaded with [2] monsters
+[ 2016-10-17 00:16:30] Waves database loaded with [1] waves
+[ 2016-10-17 00:16:30] Server is running on port 32211
+[ 2016-10-17 00:16:33] Account logged in UserID = 2
+[ 2016-10-17 00:17:21] Client disconnected.
+[ 2016-10-17 00:17:40] Account logged in UserID = 2
+[ 2016-10-17 00:18:37] Client disconnected.
+[ 2016-10-17 01:25:31] Setting up server...
+[ 2016-10-17 01:25:31] Connected to MYSQL.
+[ 2016-10-17 01:25:31] Skill database loaded with [4] skills
+[ 2016-10-17 01:25:31] Item database loaded with [2] items
+[ 2016-10-17 01:25:31] Monster database loaded with [2] monsters
+[ 2016-10-17 01:25:31] Waves database loaded with [1] waves
+[ 2016-10-17 01:25:31] Server is running on port 32211
+[ 2016-10-17 01:25:37] Account logged in UserID = 2
+[ 2016-10-17 01:25:38] User selected CharacterName = Firstchar
+[ 2016-10-17 01:25:38] Total items = test
+[ 2016-10-17 01:25:38] Total items = test
+[ 2016-10-17 01:25:38] Total items = test
+[ 2016-10-17 01:25:38] Total items = test
+[ 2016-10-17 01:25:38] Total items = test
+[ 2016-10-17 01:25:38] Total items = test2
+[ 2016-10-17 01:25:38] Total items = test
+[ 2016-10-17 01:25:38] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 01:25:38] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 01:25:38] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 01:25:38] Character information sent.
+[ 2016-10-17 01:25:38] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|71|1,2|0|0;2|0|1|52|0,0|1|0;1|0|2|104|0,0|-5|0;1|0|3|112|0,2|-4.9|0;
+[ 2016-10-17 01:25:57] Client disconnected.
+[ 2016-10-17 01:26:15] Account logged in UserID = 2
+[ 2016-10-17 01:26:15] User selected CharacterName = Firstchar
+[ 2016-10-17 01:26:15] Total items = test
+[ 2016-10-17 01:26:15] Total items = test
+[ 2016-10-17 01:26:15] Total items = test
+[ 2016-10-17 01:26:15] Total items = test
+[ 2016-10-17 01:26:15] Total items = test
+[ 2016-10-17 01:26:15] Total items = test2
+[ 2016-10-17 01:26:15] Total items = test
+[ 2016-10-17 01:26:15] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 01:26:15] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 01:26:15] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 01:26:16] Character information sent.
+[ 2016-10-17 01:26:16] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|78|0,2|0|0;2|1|1|65|0,0|1|0;1|1|2|110|0,2|-5|0;1|1|3|103|0,2|-4.9|0;
+[ 2016-10-17 01:26:31] Client disconnected.
+[ 2016-10-17 01:26:46] Account logged in UserID = 2
+[ 2016-10-17 01:26:46] User selected CharacterName = Firstchar
+[ 2016-10-17 01:26:46] Total items = test
+[ 2016-10-17 01:26:46] Total items = test
+[ 2016-10-17 01:26:46] Total items = test
+[ 2016-10-17 01:26:46] Total items = test
+[ 2016-10-17 01:26:46] Total items = test
+[ 2016-10-17 01:26:46] Total items = test2
+[ 2016-10-17 01:26:46] Total items = test
+[ 2016-10-17 01:26:46] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 01:26:46] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 01:26:46] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 01:26:47] Character information sent.
+[ 2016-10-17 01:26:47] Character found in map : 2 name = FirstcharPacket sent = SPAWNM;1|2|0|91|1,2|0|0;2|2|1|33|1,0|1|0;1|2|2|131|0,0|-5|0;1|2|3|114|0,2|-4.9|0;
+[ 2016-10-17 01:27:19] Client disconnected.
+[ 2016-10-17 01:28:43] Account logged in UserID = 2
+[ 2016-10-17 01:28:44] User selected CharacterName = Firstchar
+[ 2016-10-17 01:28:44] Total items = test
+[ 2016-10-17 01:28:44] Total items = test
+[ 2016-10-17 01:28:44] Total items = test
+[ 2016-10-17 01:28:44] Total items = test
+[ 2016-10-17 01:28:44] Total items = test
+[ 2016-10-17 01:28:44] Total items = test2
+[ 2016-10-17 01:28:44] Total items = test
+[ 2016-10-17 01:28:44] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 01:28:44] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 01:28:44] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 01:28:44] Character information sent.
+[ 2016-10-17 01:28:45] Character found in map : 3 name = FirstcharPacket sent = SPAWNM;1|3|0|81|0,0|0|0;2|3|1|68|0,0|1|0;1|3|2|118|1,2|-5|0;1|3|3|96|0,2|-4.9|0;
+[ 2016-10-17 01:28:51] Client disconnected.
+[ 2016-10-17 01:29:54] Account logged in UserID = 2
+[ 2016-10-17 01:29:55] User selected CharacterName = Firstchar
+[ 2016-10-17 01:29:55] Total items = test
+[ 2016-10-17 01:29:55] Total items = test
+[ 2016-10-17 01:29:55] Total items = test
+[ 2016-10-17 01:29:55] Total items = test
+[ 2016-10-17 01:29:55] Total items = test
+[ 2016-10-17 01:29:55] Total items = test2
+[ 2016-10-17 01:29:55] Total items = test
+[ 2016-10-17 01:29:55] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 01:29:55] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 01:29:55] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 01:29:55] Character information sent.
+[ 2016-10-17 01:29:55] Character found in map : 4 name = FirstcharPacket sent = SPAWNM;1|4|0|69|0,0|0|0;2|4|1|62|0,0|1|0;1|4|2|77|0,2|-5|0;1|4|3|89|0,2|-4.9|0;
+[ 2016-10-17 01:30:04] Client disconnected.
+[ 2016-10-17 01:30:18] Account logged in UserID = 2
+[ 2016-10-17 01:30:19] User selected CharacterName = Firstchar
+[ 2016-10-17 01:30:19] Total items = test
+[ 2016-10-17 01:30:19] Total items = test
+[ 2016-10-17 01:30:19] Total items = test
+[ 2016-10-17 01:30:19] Total items = test
+[ 2016-10-17 01:30:19] Total items = test
+[ 2016-10-17 01:30:19] Total items = test2
+[ 2016-10-17 01:30:19] Total items = test
+[ 2016-10-17 01:30:19] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 01:30:19] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 01:30:19] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 01:30:19] Character information sent.
+[ 2016-10-17 01:30:19] Character found in map : 5 name = FirstcharPacket sent = SPAWNM;1|5|0|116|0,0|0|0;2|5|1|32|1,0|1|0;1|5|2|96|0,2|-5|0;1|5|3|73|0,0|-4.9|0;
+[ 2016-10-17 01:30:24] Client disconnected.
+[ 2016-10-17 01:31:00] Account logged in UserID = 2
+[ 2016-10-17 01:31:01] User selected CharacterName = Firstchar
+[ 2016-10-17 01:31:01] Total items = test
+[ 2016-10-17 01:31:01] Total items = test
+[ 2016-10-17 01:31:01] Total items = test
+[ 2016-10-17 01:31:01] Total items = test
+[ 2016-10-17 01:31:01] Total items = test
+[ 2016-10-17 01:31:01] Total items = test2
+[ 2016-10-17 01:31:01] Total items = test
+[ 2016-10-17 01:31:01] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 01:31:01] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 01:31:01] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 01:31:01] Character information sent.
+[ 2016-10-17 01:31:01] Character found in map : 6 name = FirstcharPacket sent = SPAWNM;1|6|0|71|1,2|0|0;2|6|1|51|1,0|1|0;1|6|2|94|1,0|-5|0;1|6|3|110|0,0|-4.9|0;
+[ 2016-10-17 01:31:32] Client disconnected.
+[ 2016-10-17 01:34:32] Account logged in UserID = 2
+[ 2016-10-17 01:34:33] User selected CharacterName = Firstchar
+[ 2016-10-17 01:34:33] Total items = test
+[ 2016-10-17 01:34:33] Total items = test
+[ 2016-10-17 01:34:33] Total items = test
+[ 2016-10-17 01:34:33] Total items = test
+[ 2016-10-17 01:34:33] Total items = test
+[ 2016-10-17 01:34:33] Total items = test2
+[ 2016-10-17 01:34:33] Total items = test
+[ 2016-10-17 01:34:33] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 01:34:33] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 01:34:33] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 01:34:33] Character information sent.
+[ 2016-10-17 01:34:33] Character found in map : 7 name = FirstcharPacket sent = SPAWNM;1|7|0|101|0,2|0|0;2|7|1|65|0,2|1|0;1|7|2|101|0,2|-5|0;1|7|3|66|0,0|-4.9|0;
+[ 2016-10-17 01:34:45] Client disconnected.
+[ 2016-10-17 01:35:44] Account logged in UserID = 2
+[ 2016-10-17 01:35:45] User selected CharacterName = Firstchar
+[ 2016-10-17 01:35:45] Total items = test
+[ 2016-10-17 01:35:45] Total items = test
+[ 2016-10-17 01:35:45] Total items = test
+[ 2016-10-17 01:35:45] Total items = test
+[ 2016-10-17 01:35:45] Total items = test
+[ 2016-10-17 01:35:45] Total items = test2
+[ 2016-10-17 01:35:45] Total items = test
+[ 2016-10-17 01:35:45] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 01:35:45] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 01:35:45] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 01:35:46] Character information sent.
+[ 2016-10-17 01:35:47] Character found in map : 8 name = FirstcharPacket sent = SPAWNM;1|8|0|101|0,2|0|0;2|8|1|42|0,0|1|0;1|8|2|71|1,0|-5|0;1|8|3|63|0,0|-4.9|0;
+[ 2016-10-17 01:35:52] Client disconnected.
+[ 2016-10-17 01:36:03] Account logged in UserID = 2
+[ 2016-10-17 01:36:03] User selected CharacterName = Firstchar
+[ 2016-10-17 01:36:03] Total items = test
+[ 2016-10-17 01:36:03] Total items = test
+[ 2016-10-17 01:36:03] Total items = test
+[ 2016-10-17 01:36:03] Total items = test
+[ 2016-10-17 01:36:03] Total items = test
+[ 2016-10-17 01:36:03] Total items = test2
+[ 2016-10-17 01:36:03] Total items = test
+[ 2016-10-17 01:36:03] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 01:36:03] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 01:36:03] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 01:36:04] Character information sent.
+[ 2016-10-17 01:36:05] Character found in map : 9 name = FirstcharPacket sent = SPAWNM;1|9|0|133|0,0|0|0;2|9|1|47|0,0|1|0;1|9|2|101|0,2|-5|0;1|9|3|133|0,0|-4.9|0;
+[ 2016-10-17 01:36:23] Client disconnected.
+[ 2016-10-17 01:36:34] Account logged in UserID = 2
+[ 2016-10-17 01:36:35] User selected CharacterName = Firstchar
+[ 2016-10-17 01:36:35] Total items = test
+[ 2016-10-17 01:36:35] Total items = test
+[ 2016-10-17 01:36:35] Total items = test
+[ 2016-10-17 01:36:35] Total items = test
+[ 2016-10-17 01:36:35] Total items = test
+[ 2016-10-17 01:36:35] Total items = test2
+[ 2016-10-17 01:36:35] Total items = test
+[ 2016-10-17 01:36:35] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 01:36:35] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 01:36:35] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 01:36:35] Character information sent.
+[ 2016-10-17 01:36:36] Character found in map : 10 name = FirstcharPacket sent = SPAWNM;1|10|0|117|1,0|0|0;2|10|1|47|0,0|1|0;1|10|2|92|0,2|-5|0;1|10|3|89|0,0|-4.9|0;
+[ 2016-10-17 01:36:57] Client disconnected.
+[ 2016-10-17 02:21:12] Setting up server...
+[ 2016-10-17 02:21:12] Connected to MYSQL.
+[ 2016-10-17 02:21:12] Skill database loaded with [4] skills
+[ 2016-10-17 02:21:12] Item database loaded with [2] items
+[ 2016-10-17 02:21:12] Monster database loaded with [2] monsters
+[ 2016-10-17 02:21:14] Waves database loaded with [0] waves
+[ 2016-10-17 02:21:14] Server is running on port 32211
+[ 2016-10-17 02:21:22] Setting up server...
+[ 2016-10-17 02:21:22] Connected to MYSQL.
+[ 2016-10-17 02:21:22] Skill database loaded with [4] skills
+[ 2016-10-17 02:21:22] Item database loaded with [2] items
+[ 2016-10-17 02:21:22] Monster database loaded with [2] monsters
+[ 2016-10-17 02:21:29] Waves database loaded with [0] waves
+[ 2016-10-17 02:21:29] Server is running on port 32211
+[ 2016-10-17 02:22:11] Setting up server...
+[ 2016-10-17 02:22:11] Connected to MYSQL.
+[ 2016-10-17 02:22:11] Skill database loaded with [4] skills
+[ 2016-10-17 02:22:12] Item database loaded with [2] items
+[ 2016-10-17 02:22:12] Monster database loaded with [2] monsters
+[ 2016-10-17 02:22:12] Waves database loaded with [1] waves
+[ 2016-10-17 02:22:12] Server is running on port 32211
+[ 2016-10-17 02:22:37] Account logged in UserID = 2
+[ 2016-10-17 02:22:38] User selected CharacterName = Firstchar
+[ 2016-10-17 02:22:38] Total items = test
+[ 2016-10-17 02:22:38] Total items = test
+[ 2016-10-17 02:22:38] Total items = test
+[ 2016-10-17 02:22:38] Total items = test
+[ 2016-10-17 02:22:38] Total items = test
+[ 2016-10-17 02:22:38] Total items = test2
+[ 2016-10-17 02:22:38] Total items = test
+[ 2016-10-17 02:22:38] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 02:22:38] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 02:22:38] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 02:22:38] Character information sent.
+[ 2016-10-17 02:22:39] -4.9
+[ 2016-10-17 02:22:39] 1
+[ 2016-10-17 02:22:39] -4.9
+[ 2016-10-17 02:22:39] -4.9
+[ 2016-10-17 02:22:39] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|70|0,0|-4.9|0;2|0|1|32|0,2|1|0;1|0|2|70|0,0|-4.9|0;1|0|3|97|0,2|-4.9|0;
+[ 2016-10-17 02:24:42] Setting up server...
+[ 2016-10-17 02:24:42] Connected to MYSQL.
+[ 2016-10-17 02:24:42] Skill database loaded with [4] skills
+[ 2016-10-17 02:24:42] Item database loaded with [2] items
+[ 2016-10-17 02:24:42] Monster database loaded with [2] monsters
+[ 2016-10-17 02:24:42] Waves database loaded with [1] waves
+[ 2016-10-17 02:24:42] Server is running on port 32211
+[ 2016-10-17 02:24:45] Account logged in UserID = 2
+[ 2016-10-17 02:24:46] User selected CharacterName = Firstchar
+[ 2016-10-17 02:24:46] Total items = test
+[ 2016-10-17 02:24:46] Total items = test
+[ 2016-10-17 02:24:46] Total items = test
+[ 2016-10-17 02:24:46] Total items = test
+[ 2016-10-17 02:24:46] Total items = test
+[ 2016-10-17 02:24:46] Total items = test2
+[ 2016-10-17 02:24:46] Total items = test
+[ 2016-10-17 02:24:46] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 02:24:46] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 02:24:46] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 02:24:46] Character information sent.
+[ 2016-10-17 02:24:47] -4.9
+[ 2016-10-17 02:24:47] 1
+[ 2016-10-17 02:24:47] -4.9
+[ 2016-10-17 02:24:47] -4.9
+[ 2016-10-17 02:24:47] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|125|0,2|-4.9|0;2|0|1|62|0,0|1|0;1|0|2|74|0,0|-4.9|0;1|0|3|119|0,2|-4.9|0;
+[ 2016-10-17 02:24:49] Client disconnected.
+[ 2016-10-17 02:27:46] Setting up server...
+[ 2016-10-17 02:27:46] Connected to MYSQL.
+[ 2016-10-17 02:27:46] Skill database loaded with [4] skills
+[ 2016-10-17 02:27:46] Item database loaded with [2] items
+[ 2016-10-17 02:27:46] Monster database loaded with [2] monsters
+[ 2016-10-17 02:27:46] Waves database loaded with [1] waves
+[ 2016-10-17 02:27:46] Server is running on port 32211
+[ 2016-10-17 02:27:52] Account logged in UserID = 2
+[ 2016-10-17 02:27:52] User selected CharacterName = Firstchar
+[ 2016-10-17 02:27:52] Total items = test
+[ 2016-10-17 02:27:52] Total items = test
+[ 2016-10-17 02:27:52] Total items = test
+[ 2016-10-17 02:27:52] Total items = test
+[ 2016-10-17 02:27:52] Total items = test
+[ 2016-10-17 02:27:52] Total items = test2
+[ 2016-10-17 02:27:52] Total items = test
+[ 2016-10-17 02:27:52] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 02:27:52] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 02:27:52] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 02:27:53] Character information sent.
+[ 2016-10-17 02:27:53] -4.9
+[ 2016-10-17 02:27:53] 1
+[ 2016-10-17 02:27:53] -4.9
+[ 2016-10-17 02:27:53] -4.9
+[ 2016-10-17 02:27:53] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|77|0,2|-4.9|0;2|0|1|58|0,0|1|0;1|0|2|105|0,0|-4.9|0;1|0|3|72|0,2|-4.9|0;
+[ 2016-10-17 02:27:55] Client disconnected.
+[ 2016-10-17 02:44:38] Setting up server...
+[ 2016-10-17 02:44:38] Connected to MYSQL.
+[ 2016-10-17 02:44:38] Skill database loaded with [4] skills
+[ 2016-10-17 02:44:38] Item database loaded with [2] items
+[ 2016-10-17 02:44:38] Monster database loaded with [2] monsters
+[ 2016-10-17 02:44:38] Waves database loaded with [1] waves
+[ 2016-10-17 02:44:38] Server is running on port 32211
+[ 2016-10-17 02:44:43] Account logged in UserID = 2
+[ 2016-10-17 02:44:44] User selected CharacterName = Firstchar
+[ 2016-10-17 02:44:44] Total items = test
+[ 2016-10-17 02:44:44] Total items = test
+[ 2016-10-17 02:44:44] Total items = test
+[ 2016-10-17 02:44:44] Total items = test
+[ 2016-10-17 02:44:44] Total items = test
+[ 2016-10-17 02:44:44] Total items = test2
+[ 2016-10-17 02:44:44] Total items = test
+[ 2016-10-17 02:44:44] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 02:44:44] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 02:44:44] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 02:44:44] Character information sent.
+[ 2016-10-17 02:44:45] 0
+[ 2016-10-17 02:44:45] 1
+[ 2016-10-17 02:44:45] -5
+[ 2016-10-17 02:44:45] -4.9
+[ 2016-10-17 02:44:45] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|81|0,0|0|0;2|0|1|34|0,0|1|0;1|0|2|97|1,0|-5|0;1|0|3|117|1,0|-4.9|0;
+[ 2016-10-17 16:27:16] Setting up server...
+[ 2016-10-17 16:27:16] Connected to MYSQL.
+[ 2016-10-17 16:27:16] Skill database loaded with [4] skills
+[ 2016-10-17 16:27:16] Item database loaded with [2] items
+[ 2016-10-17 16:27:16] Monster database loaded with [2] monsters
+[ 2016-10-17 16:27:16] Waves database loaded with [1] waves
+[ 2016-10-17 16:27:16] Server is running on port 32211
+[ 2016-10-17 16:27:22] Account logged in UserID = 2
+[ 2016-10-17 16:27:23] User selected CharacterName = Firstchar
+[ 2016-10-17 16:27:23] Total items = test
+[ 2016-10-17 16:27:23] Total items = test
+[ 2016-10-17 16:27:23] Total items = test
+[ 2016-10-17 16:27:23] Total items = test
+[ 2016-10-17 16:27:23] Total items = test
+[ 2016-10-17 16:27:23] Total items = test2
+[ 2016-10-17 16:27:23] Total items = test
+[ 2016-10-17 16:27:23] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 16:27:23] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 16:27:23] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 16:27:23] Character information sent.
+[ 2016-10-17 16:27:24] -4.9
+[ 2016-10-17 16:27:24] 1
+[ 2016-10-17 16:27:24] -4.9
+[ 2016-10-17 16:27:24] -4.9
+[ 2016-10-17 16:27:24] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|103|0,0|-4.9|0;2|0|1|57|1,0|1|0;1|0|2|61|0,2|-4.9|0;1|0|3|76|0,2|-4.9|0;
+[ 2016-10-17 16:27:30] Client disconnected.
+[ 2016-10-17 16:36:19] Setting up server...
+[ 2016-10-17 16:36:20] Connected to MYSQL.
+[ 2016-10-17 16:36:20] Skill database loaded with [4] skills
+[ 2016-10-17 16:36:20] Item database loaded with [2] items
+[ 2016-10-17 16:36:20] Monster database loaded with [2] monsters
+[ 2016-10-17 16:36:22] Waves database loaded with [0] waves
+[ 2016-10-17 16:36:22] Server is running on port 32211
+[ 2016-10-17 16:36:56] Setting up server...
+[ 2016-10-17 16:36:56] Connected to MYSQL.
+[ 2016-10-17 16:36:56] Skill database loaded with [4] skills
+[ 2016-10-17 16:36:56] Item database loaded with [2] items
+[ 2016-10-17 16:36:56] Monster database loaded with [2] monsters
+[ 2016-10-17 16:36:56] Waves database loaded with [1] waves
+[ 2016-10-17 16:36:56] Server is running on port 32211
+[ 2016-10-17 16:37:01] Account logged in UserID = 2
+[ 2016-10-17 16:37:02] User selected CharacterName = Firstchar
+[ 2016-10-17 16:37:02] Total items = test
+[ 2016-10-17 16:37:02] Total items = test
+[ 2016-10-17 16:37:02] Total items = test
+[ 2016-10-17 16:37:02] Total items = test
+[ 2016-10-17 16:37:02] Total items = test
+[ 2016-10-17 16:37:02] Total items = test2
+[ 2016-10-17 16:37:02] Total items = test
+[ 2016-10-17 16:37:02] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 16:37:02] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 16:37:02] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 16:37:02] Character information sent.
+[ 2016-10-17 16:37:03] 0
+[ 2016-10-17 16:37:03] 1
+[ 2016-10-17 16:37:03] -5
+[ 2016-10-17 16:37:03] -4.9
+[ 2016-10-17 16:37:03] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|100|0,2|0|0;2|0|1|55|0,0|1|0;1|0|2|120|0,2|-5|0;1|0|3|81|0,2|-4.9|0;
+[ 2016-10-17 16:45:47] Setting up server...
+[ 2016-10-17 16:45:47] Connected to MYSQL.
+[ 2016-10-17 16:45:47] Skill database loaded with [4] skills
+[ 2016-10-17 16:45:47] Item database loaded with [2] items
+[ 2016-10-17 16:45:48] Monster database loaded with [2] monsters
+[ 2016-10-17 16:45:48] Waves database loaded with [1] waves
+[ 2016-10-17 16:45:48] Server is running on port 32211
+[ 2016-10-17 16:45:53] Account logged in UserID = 2
+[ 2016-10-17 16:45:54] User selected CharacterName = Firstchar
+[ 2016-10-17 16:45:54] Total items = test
+[ 2016-10-17 16:45:54] Total items = test
+[ 2016-10-17 16:45:54] Total items = test
+[ 2016-10-17 16:45:54] Total items = test
+[ 2016-10-17 16:45:54] Total items = test
+[ 2016-10-17 16:45:54] Total items = test2
+[ 2016-10-17 16:45:54] Total items = test
+[ 2016-10-17 16:45:54] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 16:45:54] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 16:45:54] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 16:45:55] Character information sent.
+[ 2016-10-17 16:45:56] 0
+[ 2016-10-17 16:45:56] 1
+[ 2016-10-17 16:45:56] -5
+[ 2016-10-17 16:45:56] -4.9
+[ 2016-10-17 16:45:56] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|79|0,2|0|0;2|0|1|60|0,0|1|0;1|0|2|139|0,0|-5|0;1|0|3|91|0,0|-4.9|0;
+[ 2016-10-17 19:08:03] Setting up server...
+[ 2016-10-17 19:08:03] Connected to MYSQL.
+[ 2016-10-17 19:08:03] Skill database loaded with [4] skills
+[ 2016-10-17 19:08:03] Item database loaded with [2] items
+[ 2016-10-17 19:08:03] Monster database loaded with [2] monsters
+[ 2016-10-17 19:08:03] Waves database loaded with [1] waves
+[ 2016-10-17 19:08:03] Server is running on port 32211
+[ 2016-10-17 19:08:08] Account logged in UserID = 2
+[ 2016-10-17 19:08:09] User selected CharacterName = Firstchar
+[ 2016-10-17 19:08:09] Total items = test
+[ 2016-10-17 19:08:09] Total items = test
+[ 2016-10-17 19:08:09] Total items = test
+[ 2016-10-17 19:08:09] Total items = test
+[ 2016-10-17 19:08:09] Total items = test
+[ 2016-10-17 19:08:09] Total items = test2
+[ 2016-10-17 19:08:09] Total items = test
+[ 2016-10-17 19:08:09] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 19:08:09] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 19:08:09] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 19:08:09] Character information sent.
+[ 2016-10-17 19:08:09] 0
+[ 2016-10-17 19:08:09] 1
+[ 2016-10-17 19:08:09] -5
+[ 2016-10-17 19:08:09] -4.9
+[ 2016-10-17 19:08:09] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|129|0,0|0|0;2|0|1|34|0,0|1|0;1|0|2|125|1,0|-5|0;1|0|3|88|1,0|-4.9|0;
+[ 2016-10-17 19:08:25] Client disconnected.
+[ 2016-10-17 19:08:53] Account logged in UserID = 2
+[ 2016-10-17 19:08:54] User selected CharacterName = Firstchar
+[ 2016-10-17 19:08:54] Total items = test
+[ 2016-10-17 19:08:54] Total items = test
+[ 2016-10-17 19:08:54] Total items = test
+[ 2016-10-17 19:08:54] Total items = test
+[ 2016-10-17 19:08:54] Total items = test
+[ 2016-10-17 19:08:54] Total items = test2
+[ 2016-10-17 19:08:54] Total items = test
+[ 2016-10-17 19:08:54] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 19:08:54] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 19:08:54] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 19:08:54] Character information sent.
+[ 2016-10-17 19:08:54] 0
+[ 2016-10-17 19:08:54] 1
+[ 2016-10-17 19:08:54] -5
+[ 2016-10-17 19:08:55] -4.9
+[ 2016-10-17 19:08:55] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|131|0,0|0|0;2|1|1|30|0,0|1|0;1|1|2|87|1,2|-5|0;1|1|3|105|0,2|-4.9|0;
+[ 2016-10-17 19:09:07] Client disconnected.
+[ 2016-10-17 19:12:22] Account logged in UserID = 2
+[ 2016-10-17 19:12:31] Client disconnected.
+[ 2016-10-17 19:13:38] Account logged in UserID = 2
+[ 2016-10-17 19:14:07] Client disconnected.
+[ 2016-10-17 19:16:27] Account logged in UserID = 2
+[ 2016-10-17 19:16:36] Client disconnected.
+[ 2016-10-17 19:17:40] Account logged in UserID = 2
+[ 2016-10-17 19:17:49] Client disconnected.
+[ 2016-10-17 19:18:00] Account logged in UserID = 2
+[ 2016-10-17 19:18:02] Client disconnected.
+[ 2016-10-17 19:18:10] Account logged in UserID = 2
+[ 2016-10-17 19:18:19] Client disconnected.
+[ 2016-10-17 19:23:01] Account logged in UserID = 2
+[ 2016-10-17 19:23:07] Client disconnected.
+[ 2016-10-17 19:37:25] Account logged in UserID = 2
+[ 2016-10-17 19:37:29] User selected CharacterName = Firstchar
+[ 2016-10-17 19:37:29] Total items = test
+[ 2016-10-17 19:37:29] Total items = test
+[ 2016-10-17 19:37:29] Total items = test
+[ 2016-10-17 19:37:29] Total items = test
+[ 2016-10-17 19:37:29] Total items = test
+[ 2016-10-17 19:37:29] Total items = test2
+[ 2016-10-17 19:37:29] Total items = test
+[ 2016-10-17 19:37:29] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-17 19:37:29] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-17 19:37:29] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-17 19:37:29] Character information sent.
+[ 2016-10-17 19:37:30] 0
+[ 2016-10-17 19:37:30] 1
+[ 2016-10-17 19:37:30] -5
+[ 2016-10-17 19:37:30] -4.9
+[ 2016-10-17 19:37:30] Character found in map : 2 name = FirstcharPacket sent = SPAWNM;1|2|0|125|0,0|0|0;2|2|1|66|0,2|1|0;1|2|2|60|0,2|-5|0;1|2|3|73|0,2|-4.9|0;
+[ 2016-10-17 19:37:46] Client disconnected.
+[ 2016-10-17 20:47:00] Setting up server...
+[ 2016-10-17 20:47:00] Connected to MYSQL.
+[ 2016-10-17 20:47:00] Skill database loaded with [4] skills
+[ 2016-10-17 20:47:00] Item database loaded with [4] items
+[ 2016-10-17 20:47:00] Monster database loaded with [2] monsters
+[ 2016-10-17 20:47:00] Waves database loaded with [1] waves
+[ 2016-10-17 20:47:00] Server is running on port 32211
+[ 2016-10-17 20:47:09] Account logged in UserID = 2
+[ 2016-10-17 20:47:11] User selected CharacterName = Firstchar
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = Azure Gladius
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] Total items = 
+[ 2016-10-17 20:47:11] 1;Firstchar;10000;100;10;9968;10;5;5;5;4425;0;
+[ 2016-10-17 20:47:11] Character information sent.
+[ 2016-10-17 20:47:11] 0
+[ 2016-10-17 20:47:11] 1
+[ 2016-10-17 20:47:11] -5
+[ 2016-10-17 20:47:11] -4.9
+[ 2016-10-17 20:47:11] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|98|0,0|0|0;2|0|1|67|0,0|1|0;1|0|2|72|0,0|-5|0;1|0|3|120|0,2|-4.9|0;
+[ 2016-10-17 20:48:16] Setting up server...
+[ 2016-10-17 20:48:16] Connected to MYSQL.
+[ 2016-10-17 20:48:16] Skill database loaded with [4] skills
+[ 2016-10-17 20:48:16] Item database loaded with [4] items
+[ 2016-10-17 20:48:16] Monster database loaded with [2] monsters
+[ 2016-10-17 20:48:16] Waves database loaded with [1] waves
+[ 2016-10-17 20:48:16] Server is running on port 32211
+[ 2016-10-17 20:48:21] Account logged in UserID = 2
+[ 2016-10-17 20:48:23] User selected CharacterName = Firstchar
+[ 2016-10-17 20:48:23] 1;Firstchar;10000;100;10;9968;10;5;5;5;4425;0;0;
+[ 2016-10-17 20:48:23] Character information sent.
+[ 2016-10-17 20:48:24] 0
+[ 2016-10-17 20:48:24] 1
+[ 2016-10-17 20:48:24] -5
+[ 2016-10-17 20:48:24] -4.9
+[ 2016-10-17 20:48:24] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|80|0,0|0|0;2|0|1|65|1,0|1|0;1|0|2|67|0,2|-5|0;1|0|3|71|0,0|-4.9|0;
+[ 2016-10-17 20:48:53] Setting up server...
+[ 2016-10-17 20:48:53] Connected to MYSQL.
+[ 2016-10-17 20:48:53] Skill database loaded with [4] skills
+[ 2016-10-17 20:48:53] Item database loaded with [4] items
+[ 2016-10-17 20:48:53] Monster database loaded with [2] monsters
+[ 2016-10-17 20:48:53] Waves database loaded with [1] waves
+[ 2016-10-17 20:48:53] Server is running on port 32211
+[ 2016-10-17 20:48:58] Account logged in UserID = 2
+[ 2016-10-17 20:48:59] User selected CharacterName = Firstchar
+[ 2016-10-17 20:49:00] 1;Firstchar;10000;100;10;9968;10;5;5;5;4425;0;0;0;0;0;1;0;0;0;
+[ 2016-10-17 20:49:00] Character information sent.
+[ 2016-10-17 20:49:00] 0
+[ 2016-10-17 20:49:00] 1
+[ 2016-10-17 20:49:00] -5
+[ 2016-10-17 20:49:00] -4.9
+[ 2016-10-17 20:49:00] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|95|0,0|0|0;2|0|1|40|0,0|1|0;1|0|2|92|0,0|-5|0;1|0|3|74|0,2|-4.9|0;
+[ 2016-10-17 21:05:45] Setting up server...
+[ 2016-10-17 21:05:45] Connected to MYSQL.
+[ 2016-10-17 21:05:45] Skill database loaded with [4] skills
+[ 2016-10-17 21:05:45] Item database loaded with [4] items
+[ 2016-10-17 21:05:45] Monster database loaded with [2] monsters
+[ 2016-10-17 21:05:45] Waves database loaded with [1] waves
+[ 2016-10-17 21:05:45] Server is running on port 32211
+[ 2016-10-17 21:05:50] Account logged in UserID = 2
+[ 2016-10-17 21:05:50] Login Error MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'mmo_db.items' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at LoginServer.frmLoginServer.GetAllCharactersAndInfo(Int32 accountid) in C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\Login Server.cs:line 217
+[ 2016-10-17 21:05:57] Client disconnected.
+[ 2016-10-17 21:06:26] Setting up server...
+[ 2016-10-17 21:06:26] Connected to MYSQL.
+[ 2016-10-17 21:06:26] Skill database loaded with [4] skills
+[ 2016-10-17 21:06:26] Item database loaded with [4] items
+[ 2016-10-17 21:06:26] Monster database loaded with [2] monsters
+[ 2016-10-17 21:06:26] Waves database loaded with [1] waves
+[ 2016-10-17 21:06:26] Server is running on port 32211
+[ 2016-10-17 21:06:31] Account logged in UserID = 2
+[ 2016-10-17 21:06:34] Client disconnected.
+[ 2016-10-17 21:07:28] Setting up server...
+[ 2016-10-17 21:07:29] Connected to MYSQL.
+[ 2016-10-17 21:07:29] Skill database loaded with [4] skills
+[ 2016-10-17 21:07:29] Item database loaded with [4] items
+[ 2016-10-17 21:07:29] Monster database loaded with [2] monsters
+[ 2016-10-17 21:07:29] Waves database loaded with [1] waves
+[ 2016-10-17 21:07:29] Server is running on port 32211
+[ 2016-10-17 21:07:34] Account logged in UserID = 2
+[ 2016-10-17 21:13:13] Setting up server...
+[ 2016-10-17 21:13:13] Connected to MYSQL.
+[ 2016-10-17 21:13:13] Skill database loaded with [4] skills
+[ 2016-10-17 21:13:13] Item database loaded with [4] items
+[ 2016-10-17 21:13:13] Monster database loaded with [2] monsters
+[ 2016-10-17 21:13:14] Waves database loaded with [1] waves
+[ 2016-10-17 21:13:14] Server is running on port 32211
+[ 2016-10-17 21:13:17] Account logged in UserID = 2
+[ 2016-10-17 21:14:49] Setting up server...
+[ 2016-10-17 21:14:49] Connected to MYSQL.
+[ 2016-10-17 21:14:49] Skill database loaded with [4] skills
+[ 2016-10-17 21:14:49] Item database loaded with [4] items
+[ 2016-10-17 21:14:49] Monster database loaded with [2] monsters
+[ 2016-10-17 21:14:49] Waves database loaded with [1] waves
+[ 2016-10-17 21:14:49] Server is running on port 32211
+[ 2016-10-17 21:14:55] Account logged in UserID = 2
+[ 2016-10-17 21:17:55] Setting up server...
+[ 2016-10-17 21:17:55] Connected to MYSQL.
+[ 2016-10-17 21:17:55] Skill database loaded with [4] skills
+[ 2016-10-17 21:17:55] Item database loaded with [4] items
+[ 2016-10-17 21:17:55] Monster database loaded with [2] monsters
+[ 2016-10-17 21:17:55] Waves database loaded with [1] waves
+[ 2016-10-17 21:17:55] Server is running on port 32211
+[ 2016-10-17 21:18:00] Account logged in UserID = 2
+[ 2016-10-17 21:18:04] Client disconnected.
+[ 2016-10-17 21:18:22] Setting up server...
+[ 2016-10-17 21:18:22] Connected to MYSQL.
+[ 2016-10-17 21:18:22] Skill database loaded with [4] skills
+[ 2016-10-17 21:18:22] Item database loaded with [4] items
+[ 2016-10-17 21:18:22] Monster database loaded with [2] monsters
+[ 2016-10-17 21:18:22] Waves database loaded with [1] waves
+[ 2016-10-17 21:18:22] Server is running on port 32211
+[ 2016-10-17 21:18:28] Account logged in UserID = 2
+[ 2016-10-17 21:19:08] Setting up server...
+[ 2016-10-17 21:19:08] Connected to MYSQL.
+[ 2016-10-17 21:19:08] Skill database loaded with [4] skills
+[ 2016-10-17 21:19:08] Item database loaded with [4] items
+[ 2016-10-17 21:19:08] Monster database loaded with [2] monsters
+[ 2016-10-17 21:19:08] Waves database loaded with [1] waves
+[ 2016-10-17 21:19:08] Server is running on port 32211
+[ 2016-10-17 21:19:14] Account logged in UserID = 2
+[ 2016-10-17 21:20:38] Setting up server...
+[ 2016-10-17 21:20:38] Connected to MYSQL.
+[ 2016-10-17 21:20:38] Skill database loaded with [4] skills
+[ 2016-10-17 21:20:38] Item database loaded with [4] items
+[ 2016-10-17 21:20:38] Monster database loaded with [2] monsters
+[ 2016-10-17 21:20:38] Waves database loaded with [1] waves
+[ 2016-10-17 21:20:38] Server is running on port 32211
+[ 2016-10-17 21:20:43] Account logged in UserID = 2
+[ 2016-10-17 21:20:47] Client disconnected.
+[ 2016-10-17 21:21:03] Setting up server...
+[ 2016-10-17 21:21:03] Connected to MYSQL.
+[ 2016-10-17 21:21:03] Skill database loaded with [4] skills
+[ 2016-10-17 21:21:03] Item database loaded with [4] items
+[ 2016-10-17 21:21:03] Monster database loaded with [2] monsters
+[ 2016-10-17 21:21:03] Waves database loaded with [1] waves
+[ 2016-10-17 21:21:03] Server is running on port 32211
+[ 2016-10-17 21:21:08] Account logged in UserID = 2
+[ 2016-10-17 21:21:08] 1
+[ 2016-10-17 21:21:08] 
+[ 2016-10-17 21:21:08] 
+[ 2016-10-17 21:21:37] Setting up server...
+[ 2016-10-17 21:21:37] Connected to MYSQL.
+[ 2016-10-17 21:21:37] Skill database loaded with [4] skills
+[ 2016-10-17 21:21:37] Item database loaded with [4] items
+[ 2016-10-17 21:21:37] Monster database loaded with [2] monsters
+[ 2016-10-17 21:21:37] Waves database loaded with [1] waves
+[ 2016-10-17 21:21:37] Server is running on port 32211
+[ 2016-10-17 21:21:41] Account logged in UserID = 2
+[ 2016-10-17 21:21:41] 1
+[ 2016-10-17 21:21:41] 2
+[ 2016-10-17 21:21:41] 
+[ 2016-10-17 21:21:41] 
+[ 2016-10-17 21:21:49] Client disconnected.
+[ 2016-10-17 21:21:57] Account logged in UserID = 2
+[ 2016-10-17 21:21:57] 1
+[ 2016-10-17 21:21:57] 2
+[ 2016-10-17 21:21:57] 
+[ 2016-10-17 21:21:57] 
+[ 2016-10-17 21:21:58] Client disconnected.
+[ 2016-10-17 21:24:39] Setting up server...
+[ 2016-10-17 21:24:39] Connected to MYSQL.
+[ 2016-10-17 21:24:39] Skill database loaded with [4] skills
+[ 2016-10-17 21:24:39] Item database loaded with [4] items
+[ 2016-10-17 21:24:39] Monster database loaded with [2] monsters
+[ 2016-10-17 21:24:39] Waves database loaded with [1] waves
+[ 2016-10-17 21:24:39] Server is running on port 32211
+[ 2016-10-17 21:24:44] Account logged in UserID = 2
+[ 2016-10-17 21:24:44] Login Error MySql.Data.MySqlClient.MySqlException (0x80004005): Operand should contain 1 column(s)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at LoginServer.frmLoginServer.GetAllCharactersAndInfo(Int32 accountid) in C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\Login Server.cs:line 217
+[ 2016-10-17 21:25:09] Setting up server...
+[ 2016-10-17 21:25:10] Connected to MYSQL.
+[ 2016-10-17 21:25:10] Skill database loaded with [4] skills
+[ 2016-10-17 21:25:10] Item database loaded with [4] items
+[ 2016-10-17 21:25:10] Monster database loaded with [2] monsters
+[ 2016-10-17 21:25:10] Waves database loaded with [1] waves
+[ 2016-10-17 21:25:10] Server is running on port 32211
+[ 2016-10-17 21:25:14] Account logged in UserID = 2
+[ 2016-10-17 21:25:14] 1
+[ 2016-10-17 21:25:14] 2
+[ 2016-10-17 21:25:14] 
+[ 2016-10-17 21:25:14] 
+[ 2016-10-17 21:25:22] Client disconnected.
+[ 2016-10-17 21:26:10] Setting up server...
+[ 2016-10-17 21:26:10] Connected to MYSQL.
+[ 2016-10-17 21:26:10] Skill database loaded with [4] skills
+[ 2016-10-17 21:26:10] Item database loaded with [4] items
+[ 2016-10-17 21:26:10] Monster database loaded with [2] monsters
+[ 2016-10-17 21:26:10] Waves database loaded with [1] waves
+[ 2016-10-17 21:26:10] Server is running on port 32211
+[ 2016-10-17 21:26:14] Account logged in UserID = 2
+[ 2016-10-17 21:26:14] 1
+[ 2016-10-17 21:26:14] 2
+[ 2016-10-17 21:26:14] 
+[ 2016-10-17 21:28:18] Setting up server...
+[ 2016-10-17 21:28:18] Connected to MYSQL.
+[ 2016-10-17 21:28:18] Skill database loaded with [4] skills
+[ 2016-10-17 21:28:18] Item database loaded with [4] items
+[ 2016-10-17 21:28:18] Monster database loaded with [2] monsters
+[ 2016-10-17 21:28:18] Waves database loaded with [1] waves
+[ 2016-10-17 21:28:18] Server is running on port 32211
+[ 2016-10-17 21:28:23] Account logged in UserID = 2
+[ 2016-10-17 21:28:23] 1
+[ 2016-10-17 21:28:23] 2
+[ 2016-10-17 21:28:23] 
+[ 2016-10-17 21:28:40] Client disconnected.
+[ 2016-10-17 21:29:03] Setting up server...
+[ 2016-10-17 21:29:03] Connected to MYSQL.
+[ 2016-10-17 21:29:03] Skill database loaded with [4] skills
+[ 2016-10-17 21:29:03] Item database loaded with [4] items
+[ 2016-10-17 21:29:03] Monster database loaded with [2] monsters
+[ 2016-10-17 21:29:03] Waves database loaded with [1] waves
+[ 2016-10-17 21:29:03] Server is running on port 32211
+[ 2016-10-17 21:29:07] Account logged in UserID = 2
+[ 2016-10-17 21:29:07] 1|Firstchar|10|10,5,5,51
+[ 2016-10-17 21:29:07] 1|Firstchar|10|10,5,5,51+1|Firstchar|10|10,5,5,52
+[ 2016-10-17 21:29:07] 1|Firstchar|10|10,5,5,51+1|Firstchar|10|10,5,5,52+2|Test2|4|10,7,5,5
+[ 2016-10-17 21:30:02] Client disconnected.
+[ 2016-10-17 21:30:28] Setting up server...
+[ 2016-10-17 21:30:29] Connected to MYSQL.
+[ 2016-10-17 21:30:29] Skill database loaded with [4] skills
+[ 2016-10-17 21:30:29] Item database loaded with [4] items
+[ 2016-10-17 21:30:29] Monster database loaded with [2] monsters
+[ 2016-10-17 21:30:29] Waves database loaded with [1] waves
+[ 2016-10-17 21:30:29] Server is running on port 32211
+[ 2016-10-17 21:30:33] Account logged in UserID = 2
+[ 2016-10-17 21:30:43] Setting up server...
+[ 2016-10-17 21:30:43] Connected to MYSQL.
+[ 2016-10-17 21:30:43] Skill database loaded with [4] skills
+[ 2016-10-17 21:30:43] Item database loaded with [4] items
+[ 2016-10-17 21:30:43] Monster database loaded with [2] monsters
+[ 2016-10-17 21:30:43] Waves database loaded with [1] waves
+[ 2016-10-17 21:30:43] Server is running on port 32211
+[ 2016-10-17 21:30:48] Account logged in UserID = 2
+[ 2016-10-17 21:30:48] 1|Firstchar|10|10,5,5,5
+[ 2016-10-17 21:30:48] 1|Firstchar|10|10,5,5,5+2|Test2|4|10,7,5,5
+[ 2016-10-17 21:31:12] Client disconnected.
+[ 2016-10-17 21:35:23] Setting up server...
+[ 2016-10-17 21:35:23] Connected to MYSQL.
+[ 2016-10-17 21:35:23] Skill database loaded with [4] skills
+[ 2016-10-17 21:35:23] Item database loaded with [4] items
+[ 2016-10-17 21:35:23] Monster database loaded with [2] monsters
+[ 2016-10-17 21:35:23] Waves database loaded with [1] waves
+[ 2016-10-17 21:35:23] Server is running on port 32211
+[ 2016-10-17 21:35:27] Account logged in UserID = 2
+[ 2016-10-17 21:35:27] 1|Firstchar|10|10,5,5,5
+[ 2016-10-17 21:35:27] 1|Firstchar|10|10,5,5,5+1|Firstchar|10|10,5,5,5
+[ 2016-10-17 21:35:37] Client disconnected.
+[ 2016-10-17 21:36:26] Setting up server...
+[ 2016-10-17 21:36:26] Connected to MYSQL.
+[ 2016-10-17 21:36:26] Skill database loaded with [4] skills
+[ 2016-10-17 21:36:26] Item database loaded with [4] items
+[ 2016-10-17 21:36:26] Monster database loaded with [2] monsters
+[ 2016-10-17 21:36:26] Waves database loaded with [1] waves
+[ 2016-10-17 21:36:26] Server is running on port 32211
+[ 2016-10-17 21:36:30] Account logged in UserID = 2
+[ 2016-10-17 21:36:30] 1|Firstchar|10|10,5,5,5
+[ 2016-10-17 21:36:30] 1|Firstchar|10|10,5,5,5+2|Test2|4|10,7,5,5
+[ 2016-10-17 21:36:32] Client disconnected.
+[ 2016-10-17 21:39:14] Setting up server...
+[ 2016-10-17 21:39:14] Connected to MYSQL.
+[ 2016-10-17 21:39:14] Skill database loaded with [4] skills
+[ 2016-10-17 21:39:14] Item database loaded with [4] items
+[ 2016-10-17 21:39:14] Monster database loaded with [2] monsters
+[ 2016-10-17 21:39:14] Waves database loaded with [1] waves
+[ 2016-10-17 21:39:14] Server is running on port 32211
+[ 2016-10-17 21:39:18] Account logged in UserID = 2
+[ 2016-10-17 21:39:18] MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at LoginServer.frmLoginServer.GetAllCharactersAndInfo(Int32 accountid) in C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\Login Server.cs:line 243
+[ 2016-10-17 21:39:18] 1|Firstchar|10|10,5,5,5
+[ 2016-10-17 21:39:18] MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at LoginServer.frmLoginServer.GetAllCharactersAndInfo(Int32 accountid) in C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\Login Server.cs:line 243
+[ 2016-10-17 21:39:18] 1|Firstchar|10|10,5,5,5+2|Test2|4|10,7,5,5
+[ 2016-10-17 21:39:36] Setting up server...
+[ 2016-10-17 21:39:36] Connected to MYSQL.
+[ 2016-10-17 21:39:36] Skill database loaded with [4] skills
+[ 2016-10-17 21:39:36] Item database loaded with [4] items
+[ 2016-10-17 21:39:36] Monster database loaded with [2] monsters
+[ 2016-10-17 21:39:36] Waves database loaded with [1] waves
+[ 2016-10-17 21:39:36] Server is running on port 32211
+[ 2016-10-17 21:39:42] Account logged in UserID = 2
+[ 2016-10-17 21:39:42] MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at LoginServer.frmLoginServer.GetAllCharactersAndInfo(Int32 accountid) in C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\Login Server.cs:line 243
+[ 2016-10-17 21:39:42] 1|Firstchar|10|10,5,5,5
+[ 2016-10-17 21:39:42] MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at LoginServer.frmLoginServer.GetAllCharactersAndInfo(Int32 accountid) in C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\Login Server.cs:line 243
+[ 2016-10-17 21:39:42] 1|Firstchar|10|10,5,5,5+2|Test2|4|10,7,5,5
+[ 2016-10-17 21:39:48] Client disconnected.
+[ 2016-10-17 21:44:19] Setting up server...
+[ 2016-10-17 21:44:19] Connected to MYSQL.
+[ 2016-10-17 21:44:19] Skill database loaded with [4] skills
+[ 2016-10-17 21:44:19] Item database loaded with [4] items
+[ 2016-10-17 21:44:19] Monster database loaded with [2] monsters
+[ 2016-10-17 21:44:19] Waves database loaded with [1] waves
+[ 2016-10-17 21:44:19] Server is running on port 32211
+[ 2016-10-17 21:44:24] Account logged in UserID = 2
+[ 2016-10-17 21:44:30] Client disconnected.
+[ 2016-10-17 21:49:37] Setting up server...
+[ 2016-10-17 21:49:37] Connected to MYSQL.
+[ 2016-10-17 21:49:37] Skill database loaded with [4] skills
+[ 2016-10-17 21:49:37] Item database loaded with [4] items
+[ 2016-10-17 21:49:37] Monster database loaded with [2] monsters
+[ 2016-10-17 21:49:37] Waves database loaded with [1] waves
+[ 2016-10-17 21:49:37] Server is running on port 32211
+[ 2016-10-17 21:49:42] Account logged in UserID = 2
+[ 2016-10-17 21:49:42] Login Error MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   at LoginServer.frmLoginServer.GetAllCharactersAndInfo(Int32 accountid) in C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\Login Server.cs:line 228
+[ 2016-10-17 21:49:47] Client disconnected.
+[ 2016-10-17 21:49:57] Setting up server...
+[ 2016-10-17 21:49:57] Connected to MYSQL.
+[ 2016-10-17 21:49:57] Skill database loaded with [4] skills
+[ 2016-10-17 21:49:57] Item database loaded with [4] items
+[ 2016-10-17 21:49:57] Monster database loaded with [2] monsters
+[ 2016-10-17 21:49:57] Waves database loaded with [1] waves
+[ 2016-10-17 21:49:57] Server is running on port 32211
+[ 2016-10-17 21:50:01] Account logged in UserID = 2
+[ 2016-10-17 21:50:01] MYSQL ROWS = 1
+[ 2016-10-17 21:53:15] Setting up server...
+[ 2016-10-17 21:53:15] Connected to MYSQL.
+[ 2016-10-17 21:53:15] Skill database loaded with [4] skills
+[ 2016-10-17 21:53:15] Item database loaded with [4] items
+[ 2016-10-17 21:53:15] Monster database loaded with [2] monsters
+[ 2016-10-17 21:53:15] Waves database loaded with [1] waves
+[ 2016-10-17 21:53:15] Server is running on port 32211
+[ 2016-10-17 21:53:19] Account logged in UserID = 2
+[ 2016-10-17 21:53:19] MYSQL ROWS = 1
+[ 2016-10-17 21:53:20] Client disconnected.
+[ 2016-10-17 21:53:40] Setting up server...
+[ 2016-10-17 21:53:41] Connected to MYSQL.
+[ 2016-10-17 21:53:41] Skill database loaded with [4] skills
+[ 2016-10-17 21:53:41] Item database loaded with [4] items
+[ 2016-10-17 21:53:41] Monster database loaded with [2] monsters
+[ 2016-10-17 21:53:41] Waves database loaded with [1] waves
+[ 2016-10-17 21:53:41] Server is running on port 32211
+[ 2016-10-17 21:53:42] Account logged in UserID = 2
+[ 2016-10-17 21:53:42] MYSQL ROWS = 1
+[ 2016-10-17 21:53:46] Client disconnected.
+[ 2016-10-17 21:57:52] Setting up server...
+[ 2016-10-17 21:57:52] Connected to MYSQL.
+[ 2016-10-17 21:57:52] Skill database loaded with [4] skills
+[ 2016-10-17 21:57:52] Item database loaded with [4] items
+[ 2016-10-17 21:57:52] Monster database loaded with [2] monsters
+[ 2016-10-17 21:57:52] Waves database loaded with [1] waves
+[ 2016-10-17 21:57:52] Server is running on port 32211
+[ 2016-10-17 21:57:57] Account logged in UserID = 2
+[ 2016-10-17 21:57:57] CharIDs size = 3
+[ 2016-10-17 22:18:40] Setting up server...
+[ 2016-10-17 22:18:41] Connected to MYSQL.
+[ 2016-10-17 22:18:41] Skill database loaded with [4] skills
+[ 2016-10-17 22:18:41] Item database loaded with [4] items
+[ 2016-10-17 22:18:41] Monster database loaded with [2] monsters
+[ 2016-10-17 22:18:41] Waves database loaded with [1] waves
+[ 2016-10-17 22:18:41] Server is running on port 32211
+[ 2016-10-17 22:19:38] Setting up server...
+[ 2016-10-17 22:19:38] Connected to MYSQL.
+[ 2016-10-17 22:19:38] Skill database loaded with [4] skills
+[ 2016-10-17 22:19:38] Item database loaded with [4] items
+[ 2016-10-17 22:19:38] Monster database loaded with [2] monsters
+[ 2016-10-17 22:19:38] Waves database loaded with [1] waves
+[ 2016-10-17 22:19:38] Server is running on port 32211
+[ 2016-10-17 22:19:44] Account logged in UserID = 2
+[ 2016-10-17 22:19:49] Client disconnected.
+[ 2016-10-17 22:22:08] Setting up server...
+[ 2016-10-17 22:22:08] Connected to MYSQL.
+[ 2016-10-17 22:22:08] Skill database loaded with [4] skills
+[ 2016-10-17 22:22:08] Item database loaded with [4] items
+[ 2016-10-17 22:22:08] Monster database loaded with [2] monsters
+[ 2016-10-17 22:22:08] Waves database loaded with [1] waves
+[ 2016-10-17 22:22:08] Server is running on port 32211
+[ 2016-10-17 22:22:15] Account logged in UserID = 2
+[ 2016-10-17 22:22:16] Client disconnected.
+[ 2016-10-17 22:25:36] Setting up server...
+[ 2016-10-17 22:25:36] Connected to MYSQL.
+[ 2016-10-17 22:25:36] Skill database loaded with [4] skills
+[ 2016-10-17 22:25:36] Item database loaded with [4] items
+[ 2016-10-17 22:25:36] Monster database loaded with [2] monsters
+[ 2016-10-17 22:25:36] Waves database loaded with [1] waves
+[ 2016-10-17 22:25:36] Server is running on port 32211
+[ 2016-10-17 22:25:41] Account logged in UserID = 2
+[ 2016-10-17 22:25:48] Client disconnected.
+[ 2016-10-17 22:27:23] Setting up server...
+[ 2016-10-17 22:27:23] Connected to MYSQL.
+[ 2016-10-17 22:27:23] Skill database loaded with [4] skills
+[ 2016-10-17 22:27:23] Item database loaded with [4] items
+[ 2016-10-17 22:27:23] Monster database loaded with [2] monsters
+[ 2016-10-17 22:27:23] Waves database loaded with [1] waves
+[ 2016-10-17 22:27:23] Server is running on port 32211
+[ 2016-10-17 22:27:30] Account logged in UserID = 2
+[ 2016-10-17 22:27:32] Client disconnected.
+[ 2016-10-17 22:33:59] Setting up server...
+[ 2016-10-17 22:33:59] Connected to MYSQL.
+[ 2016-10-17 22:33:59] Skill database loaded with [4] skills
+[ 2016-10-17 22:33:59] Item database loaded with [4] items
+[ 2016-10-17 22:33:59] Monster database loaded with [2] monsters
+[ 2016-10-17 22:33:59] Waves database loaded with [1] waves
+[ 2016-10-17 22:33:59] Server is running on port 32211
+[ 2016-10-17 22:34:06] Account logged in UserID = 2
+[ 2016-10-17 22:34:07] Client disconnected.
+[ 2016-10-17 22:39:04] Setting up server...
+[ 2016-10-17 22:39:04] Connected to MYSQL.
+[ 2016-10-17 22:39:04] Skill database loaded with [4] skills
+[ 2016-10-17 22:39:04] Item database loaded with [4] items
+[ 2016-10-17 22:39:04] Monster database loaded with [2] monsters
+[ 2016-10-17 22:39:04] Waves database loaded with [1] waves
+[ 2016-10-17 22:39:04] Server is running on port 32211
+[ 2016-10-17 22:39:08] Account logged in UserID = 2
+[ 2016-10-17 22:39:16] Client disconnected.
+[ 2016-10-17 22:41:45] Setting up server...
+[ 2016-10-17 22:41:45] Connected to MYSQL.
+[ 2016-10-17 22:41:45] Skill database loaded with [4] skills
+[ 2016-10-17 22:41:45] Item database loaded with [4] items
+[ 2016-10-17 22:41:45] Monster database loaded with [2] monsters
+[ 2016-10-17 22:41:45] Waves database loaded with [1] waves
+[ 2016-10-17 22:41:45] Server is running on port 32211
+[ 2016-10-17 22:41:48] Account logged in UserID = 2
+[ 2016-10-17 22:41:57] Client disconnected.
+[ 2016-10-17 22:57:27] Setting up server...
+[ 2016-10-17 22:57:27] Connected to MYSQL.
+[ 2016-10-17 22:57:27] Skill database loaded with [4] skills
+[ 2016-10-17 22:57:27] Item database loaded with [4] items
+[ 2016-10-17 22:57:27] Monster database loaded with [2] monsters
+[ 2016-10-17 22:57:27] Waves database loaded with [1] waves
+[ 2016-10-17 22:57:27] Server is running on port 32211
+[ 2016-10-17 22:58:01] Account logged in UserID = 2
+[ 2016-10-17 22:58:04] Client disconnected.
+[ 2016-10-17 22:58:15] Setting up server...
+[ 2016-10-17 22:58:15] Connected to MYSQL.
+[ 2016-10-17 22:58:15] Skill database loaded with [4] skills
+[ 2016-10-17 22:58:15] Item database loaded with [4] items
+[ 2016-10-17 22:58:15] Monster database loaded with [2] monsters
+[ 2016-10-17 22:58:15] Waves database loaded with [1] waves
+[ 2016-10-17 22:58:15] Server is running on port 32211
+[ 2016-10-17 22:59:09] Setting up server...
+[ 2016-10-17 22:59:10] Connected to MYSQL.
+[ 2016-10-17 22:59:10] Skill database loaded with [4] skills
+[ 2016-10-17 22:59:10] Item database loaded with [4] items
+[ 2016-10-17 22:59:10] Monster database loaded with [2] monsters
+[ 2016-10-17 22:59:10] Waves database loaded with [1] waves
+[ 2016-10-17 22:59:10] Server is running on port 32211
+[ 2016-10-17 23:00:03] Setting up server...
+[ 2016-10-17 23:00:03] Connected to MYSQL.
+[ 2016-10-17 23:00:03] Skill database loaded with [4] skills
+[ 2016-10-17 23:00:03] Item database loaded with [4] items
+[ 2016-10-17 23:00:03] Monster database loaded with [2] monsters
+[ 2016-10-17 23:00:03] Waves database loaded with [1] waves
+[ 2016-10-17 23:00:03] Server is running on port 32211
+[ 2016-10-17 23:00:08] Account logged in UserID = 2
+[ 2016-10-17 23:00:19] Client disconnected.
+[ 2016-10-17 23:04:25] Setting up server...
+[ 2016-10-17 23:04:25] Connected to MYSQL.
+[ 2016-10-17 23:04:25] Skill database loaded with [4] skills
+[ 2016-10-17 23:04:25] Item database loaded with [4] items
+[ 2016-10-17 23:04:25] Monster database loaded with [2] monsters
+[ 2016-10-17 23:04:25] Waves database loaded with [1] waves
+[ 2016-10-17 23:04:25] Server is running on port 32211
+[ 2016-10-17 23:04:29] Account logged in UserID = 2
+[ 2016-10-17 23:04:41] Client disconnected.
+[ 2016-10-17 23:05:01] Setting up server...
+[ 2016-10-17 23:05:01] Connected to MYSQL.
+[ 2016-10-17 23:05:01] Skill database loaded with [4] skills
+[ 2016-10-17 23:05:01] Item database loaded with [4] items
+[ 2016-10-17 23:05:01] Monster database loaded with [2] monsters
+[ 2016-10-17 23:05:01] Waves database loaded with [1] waves
+[ 2016-10-17 23:05:01] Server is running on port 32211
+[ 2016-10-17 23:05:05] Account logged in UserID = 2
+[ 2016-10-17 23:05:08] Client disconnected.
+[ 2016-10-17 23:05:24] Setting up server...
+[ 2016-10-17 23:05:24] Connected to MYSQL.
+[ 2016-10-17 23:05:24] Skill database loaded with [4] skills
+[ 2016-10-17 23:05:24] Item database loaded with [4] items
+[ 2016-10-17 23:05:24] Monster database loaded with [2] monsters
+[ 2016-10-17 23:05:24] Waves database loaded with [1] waves
+[ 2016-10-17 23:05:24] Server is running on port 32211
+[ 2016-10-17 23:05:28] Account logged in UserID = 2
+[ 2016-10-17 23:05:59] Client disconnected.
+[ 2016-10-17 23:08:39] Setting up server...
+[ 2016-10-17 23:08:39] Connected to MYSQL.
+[ 2016-10-17 23:08:39] Skill database loaded with [4] skills
+[ 2016-10-17 23:08:39] Item database loaded with [4] items
+[ 2016-10-17 23:08:39] Monster database loaded with [2] monsters
+[ 2016-10-17 23:08:39] Waves database loaded with [1] waves
+[ 2016-10-17 23:08:39] Server is running on port 32211
+[ 2016-10-17 23:08:44] Account logged in UserID = 2
+[ 2016-10-17 23:09:24] Setting up server...
+[ 2016-10-17 23:09:25] Connected to MYSQL.
+[ 2016-10-17 23:09:25] Skill database loaded with [4] skills
+[ 2016-10-17 23:09:25] Item database loaded with [4] items
+[ 2016-10-17 23:09:25] Monster database loaded with [2] monsters
+[ 2016-10-17 23:09:25] Waves database loaded with [1] waves
+[ 2016-10-17 23:09:25] Server is running on port 32211
+[ 2016-10-17 23:09:30] Account logged in UserID = 2
+[ 2016-10-17 23:10:03] Setting up server...
+[ 2016-10-17 23:10:03] Connected to MYSQL.
+[ 2016-10-17 23:10:03] Skill database loaded with [4] skills
+[ 2016-10-17 23:10:03] Item database loaded with [4] items
+[ 2016-10-17 23:10:03] Monster database loaded with [2] monsters
+[ 2016-10-17 23:10:03] Waves database loaded with [1] waves
+[ 2016-10-17 23:10:03] Server is running on port 32211
+[ 2016-10-17 23:10:08] Account logged in UserID = 2
+[ 2016-10-17 23:10:29] Setting up server...
+[ 2016-10-17 23:10:29] Connected to MYSQL.
+[ 2016-10-17 23:10:29] Skill database loaded with [4] skills
+[ 2016-10-17 23:10:29] Item database loaded with [4] items
+[ 2016-10-17 23:10:29] Monster database loaded with [2] monsters
+[ 2016-10-17 23:10:29] Waves database loaded with [1] waves
+[ 2016-10-17 23:10:29] Server is running on port 32211
+[ 2016-10-17 23:10:34] Account logged in UserID = 2
+[ 2016-10-17 23:10:39] Client disconnected.
+[ 2016-10-17 23:11:41] Setting up server...
+[ 2016-10-17 23:11:42] Connected to MYSQL.
+[ 2016-10-17 23:11:42] Skill database loaded with [4] skills
+[ 2016-10-17 23:11:42] Item database loaded with [4] items
+[ 2016-10-17 23:11:42] Monster database loaded with [2] monsters
+[ 2016-10-17 23:11:42] Waves database loaded with [1] waves
+[ 2016-10-17 23:11:42] Server is running on port 32211
+[ 2016-10-17 23:11:44] Account logged in UserID = 2
+[ 2016-10-17 23:11:50] Client disconnected.
+[ 2016-10-17 23:26:47] Setting up server...
+[ 2016-10-17 23:26:47] Connected to MYSQL.
+[ 2016-10-17 23:26:47] Skill database loaded with [4] skills
+[ 2016-10-17 23:26:47] Item database loaded with [4] items
+[ 2016-10-17 23:26:47] Monster database loaded with [2] monsters
+[ 2016-10-17 23:26:47] Waves database loaded with [1] waves
+[ 2016-10-17 23:26:47] Server is running on port 32211
+[ 2016-10-17 23:26:55] Account logged in UserID = 2
+[ 2016-10-17 23:26:58] Client disconnected.
+[ 2016-10-17 23:27:08] Setting up server...
+[ 2016-10-17 23:27:08] Connected to MYSQL.
+[ 2016-10-17 23:27:08] Skill database loaded with [4] skills
+[ 2016-10-17 23:27:08] Item database loaded with [4] items
+[ 2016-10-17 23:27:08] Monster database loaded with [2] monsters
+[ 2016-10-17 23:27:08] Waves database loaded with [1] waves
+[ 2016-10-17 23:27:08] Server is running on port 32211
+[ 2016-10-17 23:27:35] Account logged in UserID = 2
+[ 2016-10-17 23:27:37] Client disconnected.
+[ 2016-10-17 23:29:26] Account logged in UserID = 2
+[ 2016-10-17 23:29:28] Client disconnected.
+[ 2016-10-17 23:30:58] Account logged in UserID = 2
+[ 2016-10-17 23:31:02] Client disconnected.
+[ 2016-10-17 23:31:34] Account logged in UserID = 2
+[ 2016-10-17 23:31:35] Client disconnected.
+[ 2016-10-17 23:32:46] Account logged in UserID = 2
+[ 2016-10-17 23:32:49] Client disconnected.
+[ 2016-10-17 23:34:10] Account logged in UserID = 2
+[ 2016-10-17 23:35:30] Client disconnected.
+[ 2016-10-17 23:35:53] Account logged in UserID = 2
+[ 2016-10-17 23:35:55] Client disconnected.
+[ 2016-10-17 23:36:42] Account logged in UserID = 2
+[ 2016-10-17 23:36:45] Client disconnected.
+[ 2016-10-17 23:36:54] Account logged in UserID = 2
+[ 2016-10-17 23:37:16] Client disconnected.
+[ 2016-10-17 23:37:40] Account logged in UserID = 2
+[ 2016-10-17 23:41:17] Setting up server...
+[ 2016-10-17 23:41:17] Connected to MYSQL.
+[ 2016-10-17 23:41:18] Skill database loaded with [4] skills
+[ 2016-10-17 23:41:18] Item database loaded with [4] items
+[ 2016-10-17 23:41:18] Monster database loaded with [2] monsters
+[ 2016-10-17 23:41:18] Waves database loaded with [1] waves
+[ 2016-10-17 23:41:18] Server is running on port 32211
+[ 2016-10-17 23:41:20] Account logged in UserID = 2
+[ 2016-10-17 23:41:27] Client disconnected.
+[ 2016-10-17 23:41:34] Account logged in UserID = 2
+[ 2016-10-17 23:41:48] Client disconnected.

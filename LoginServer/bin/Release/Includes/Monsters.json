@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"title": "Green Slime",
+		"level": 1,
+		"attack": 15,
+		"defense": 5,
+		"maxhp": 100,
+		"slug": "GreenSlime",
+		"ranged": false,
+		"damagerate": 1,
+		"pushbacktoplayerx": 700,
+		"pushbacktoplayery": 200,
+		"exp": 2,
+		"speed": 300,
+		"distancetostop": 5,
+		"meeleeattack": true,
+		"projectile": {
+			"attack": 10,
+			"speed": 10,
+			"pushbackx": 700,
+			"pushbacky": 200
+		}
+
+	},
+	{
+		"id": 2,
+		"title": "Ice Turtle",
+		"level": 1,
+		"attack": 5,
+		"defense": 5,
+		"maxhp": 100,
+		"slug": "IceTurtle",
+		"ranged": true,
+		"rangedattack": 10,
+		"damagerate": 1,
+		"pushbacktoplayerx": 600,
+		"pushbacktoplayery": 400,
+		"exp": 4,
+		"speed": 300,
+		"distancetostop": 5,
+		"meeleeattack": true,
+		"projectile": {
+			"attack": 15,
+			"speed": 10,
+			"pushbackx": 700,
+			"pushbacky": 200
+		}
+	}
+]

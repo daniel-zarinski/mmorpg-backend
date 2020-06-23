@@ -1,0 +1,743 @@
+This is the log file of the 2016-10-21
+[ 2016-10-21 00:00:56] Setting up server...
+[ 2016-10-21 00:00:56] Connected to MYSQL.
+[ 2016-10-21 00:00:56] Skill database loaded with [4] skills
+[ 2016-10-21 00:00:56] Item database loaded with [5] items
+[ 2016-10-21 00:00:56] Monster database loaded with [2] monsters
+[ 2016-10-21 00:00:56] Waves database loaded with [1] waves
+[ 2016-10-21 00:00:56] Server is running on port 32211
+[ 2016-10-21 00:01:04] Account logged in UserID = 2
+[ 2016-10-21 00:01:04] User selected CharacterName = Firstchar
+[ 2016-10-21 00:01:04] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:01:04] Character information sent.
+[ 2016-10-21 00:01:05] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|80|0,0|0|0;2|0|1|33|0,2+21+0+0+0+50|1|0;1|0|2|83|0,2+16+0+0+0+34|-5|0;1|0|3|118|0,0|-4.9|0;
+[ 2016-10-21 00:01:10] Firstchar Item added successfully. to slot 4 itemid = 2 stat1 = 0
+[ 2016-10-21 00:01:11] Firstchar Item added successfully. to slot 5 itemid = 2 stat1 = 0
+[ 2016-10-21 00:01:16] Item -1 was moved to slot 10
+[ 2016-10-21 00:01:19] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:01:19] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:01:22] Account logged in UserID = 2
+[ 2016-10-21 00:01:23] User selected CharacterName = Firstchar
+[ 2016-10-21 00:01:23] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:01:23] Character information sent.
+[ 2016-10-21 00:01:23] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|111|0,2+24+0+0+28+0|0|0;2|1|1|51|0,0|1|0;1|1|2|129|0,0|-5|0;1|1|3|103|0,0|-4.9|0;
+[ 2016-10-21 00:01:31] Firstchar Item added successfully. to slot 3 itemid = 2 stat1 = 28
+[ 2016-10-21 00:01:59] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:01:59] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:02:03] Account logged in UserID = 2
+[ 2016-10-21 00:02:04] User selected CharacterName = Firstchar
+[ 2016-10-21 00:02:04] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:02:04] Character information sent.
+[ 2016-10-21 00:02:04] Character found in map : 2 name = FirstcharPacket sent = SPAWNM;1|2|0|84|0,0|0|0;2|2|1|54|1+13+0+0+33+0,2+24+0+0+16+51|1|0;1|2|2|105|1+17+0+0+0+30,0|-5|0;1|2|3|92|0,0|-4.9|0;
+[ 2016-10-21 00:02:12] Firstchar Item added successfully. to slot 3 itemid = 1 stat1 = 0
+[ 2016-10-21 00:02:14] Firstchar Item added successfully. to slot 4 itemid = 2 stat1 = 16
+[ 2016-10-21 00:02:15] Firstchar Item added successfully. to slot 5 itemid = 1 stat1 = 33
+[ 2016-10-21 00:02:29] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:02:29] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:02:34] Account logged in UserID = 2
+[ 2016-10-21 00:02:35] User selected CharacterName = Firstchar
+[ 2016-10-21 00:02:35] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:02:35] Character information sent.
+[ 2016-10-21 00:02:36] Character found in map : 3 name = FirstcharPacket sent = SPAWNM;1|3|0|111|0,0|0|0;2|3|1|57|0,0|1|0;1|3|2|73|0,0|-5|0;1|3|3|113|0,0|-4.9|0;
+[ 2016-10-21 00:02:39] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:02:39] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:05:00] Setting up server...
+[ 2016-10-21 00:05:00] Connected to MYSQL.
+[ 2016-10-21 00:05:00] Skill database loaded with [4] skills
+[ 2016-10-21 00:05:00] Item database loaded with [5] items
+[ 2016-10-21 00:05:00] Monster database loaded with [2] monsters
+[ 2016-10-21 00:05:00] Waves database loaded with [1] waves
+[ 2016-10-21 00:05:00] Server is running on port 32211
+[ 2016-10-21 00:05:05] Account logged in UserID = 2
+[ 2016-10-21 00:05:05] User selected CharacterName = Firstchar
+[ 2016-10-21 00:05:05] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:05:06] Character information sent.
+[ 2016-10-21 00:05:06] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|136|0,0|0|0;2|0|1|47|0,0|1|0;1|0|2|110|1+12+0+0+21+23,0|-5|0;1|0|3|88|1+12+0+0+50+53,0|-4.9|0;
+[ 2016-10-21 00:05:13] Firstchar Item added successfully. to slot 3 itemid = 1 stat1 = 21
+[ 2016-10-21 00:05:14] Firstchar Item added successfully. to slot 4 itemid = 1 stat1 = 50
+[ 2016-10-21 00:05:24] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:05:24] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:05:28] Account logged in UserID = 2
+[ 2016-10-21 00:05:28] User selected CharacterName = Firstchar
+[ 2016-10-21 00:05:28] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:05:28] Character information sent.
+[ 2016-10-21 00:05:29] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|83|0,2+24+0+0+0+20|0|0;2|1|1|65|0,0|1|0;1|1|2|123|0,0|-5|0;1|1|3|93|0,0|-4.9|0;
+[ 2016-10-21 00:05:54] Firstchar Item added successfully. to slot 3 itemid = 2 stat1 = 0
+[ 2016-10-21 00:06:12] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:06:12] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:06:16] Account logged in UserID = 2
+[ 2016-10-21 00:06:17] User selected CharacterName = Firstchar
+[ 2016-10-21 00:06:17] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:06:17] Character information sent.
+[ 2016-10-21 00:06:17] Character found in map : 2 name = FirstcharPacket sent = SPAWNM;1|2|0|104|1+17+0+0+24+0,0|0|0;2|2|1|55|0,2+23+0+0+0+20|1|0;1|2|2|133|1+16+0+0+23+11,0|-5|0;1|2|3|133|0,0|-4.9|0;
+[ 2016-10-21 00:06:31] Firstchar Item added successfully. to slot 3 itemid = 1 stat1 = 23
+[ 2016-10-21 00:06:54] Firstchar Item added successfully. to slot 4 itemid = 2 stat1 = 0
+[ 2016-10-21 00:07:06] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:07:06] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:07:13] Account logged in UserID = 2
+[ 2016-10-21 00:07:14] User selected CharacterName = Firstchar
+[ 2016-10-21 00:07:14] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:07:14] Character information sent.
+[ 2016-10-21 00:07:14] Character found in map : 3 name = FirstcharPacket sent = SPAWNM;1|3|0|84|0,0|0|0;2|3|1|50|0,0|1|0;1|3|2|67|0,0|-5|0;1|3|3|131|1+12+0+0+31+0,0|-4.9|0;
+[ 2016-10-21 00:07:27] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:07:27] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:08:21] Setting up server...
+[ 2016-10-21 00:08:21] Connected to MYSQL.
+[ 2016-10-21 00:08:21] Skill database loaded with [4] skills
+[ 2016-10-21 00:08:21] Item database loaded with [5] items
+[ 2016-10-21 00:08:21] Monster database loaded with [2] monsters
+[ 2016-10-21 00:08:21] Waves database loaded with [1] waves
+[ 2016-10-21 00:08:21] Server is running on port 32211
+[ 2016-10-21 00:08:27] Account logged in UserID = 2
+[ 2016-10-21 00:08:28] User selected CharacterName = Firstchar
+[ 2016-10-21 00:08:28] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:08:28] Character information sent.
+[ 2016-10-21 00:08:28] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|134|0,0|0|0;2|0|1|31|0,0|1|0;1|0|2|77|0,0|-5|0;1|0|3|119|1+15+0+0+0+0,2+20+0+0+43+0|-4.9|0;
+[ 2016-10-21 00:08:33] INVENTORY_PICKUP_Packet - adding item to an existing slot = 0
+[ 2016-10-21 00:08:33] INVENTORY_PICKUP_Packet - adding item to an existing slot = 0Overwritten to slot = 3 itemid = 1 stat1 = 0
+[ 2016-10-21 00:08:33] Firstchar Item added successfully. to slot 0 itemid = 2 stat1 = 43
+[ 2016-10-21 00:09:06] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:09:06] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:09:42] Account logged in UserID = 2
+[ 2016-10-21 00:09:44] User selected CharacterName = Firstchar
+[ 2016-10-21 00:09:44] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:09:44] Character information sent.
+[ 2016-10-21 00:09:44] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|132|0,0|0|0;2|1|1|37|0,0|1|0;1|1|2|133|0,2+24+0+0+0+6|-5|0;1|1|3|128|0,0|-4.9|0;
+[ 2016-10-21 00:09:56] Firstchar Item added successfully. to slot 4 itemid = 2 stat1 = 0
+[ 2016-10-21 00:10:11] Item -1 was moved to slot 7
+[ 2016-10-21 00:10:17] Item -1 was moved to slot 0
+[ 2016-10-21 00:10:23] Item -1 was moved to slot 7
+[ 2016-10-21 00:10:27] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:10:27] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:10:39] Account logged in UserID = 2
+[ 2016-10-21 00:10:40] User selected CharacterName = Firstchar
+[ 2016-10-21 00:10:40] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:10:40] Character information sent.
+[ 2016-10-21 00:10:40] Character found in map : 2 name = FirstcharPacket sent = SPAWNM;1|2|0|135|1+16+0+0+24+0,0|0|0;2|2|1|66|0,2+21+0+0+40+40|1|0;1|2|2|89|1+16+0+0+21+23,2+24+0+0+3+51|-5|0;1|2|3|72|0,2+23+0+0+0+1|-4.9|0;
+[ 2016-10-21 00:10:46] Firstchar Item added successfully. to slot 0 itemid = 2 stat1 = 0
+[ 2016-10-21 00:10:46] INVENTORY_PICKUP_Packet - adding item to an existing slot = 0
+[ 2016-10-21 00:10:46] INVENTORY_PICKUP_Packet - adding item to an existing slot = 0
+[ 2016-10-21 00:10:46] INVENTORY_PICKUP_Packet - adding item to an existing slot = 0Overwritten to slot = 5 itemid = 2 stat1 = 3
+[ 2016-10-21 00:10:46] INVENTORY_PICKUP_Packet - adding item to an existing slot = 0Overwritten to slot = 6 itemid = 1 stat1 = 21
+[ 2016-10-21 00:11:00] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:11:00] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:16:29] Account logged in UserID = 2
+[ 2016-10-21 00:16:33] User selected CharacterName = Firstchar
+[ 2016-10-21 00:16:33] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:16:33] Character information sent.
+[ 2016-10-21 00:16:33] Character found in map : 3 name = FirstcharPacket sent = SPAWNM;1|3|0|114|0,0|0|0;2|3|1|60|0,2+23+0+0+0+31|1|0;1|3|2|85|0,2+18+0+0+23+3|-5|0;1|3|3|114|1+14+0+0+0+1,0|-4.9|0;
+[ 2016-10-21 00:16:38] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:16:38] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:18:49] Account logged in UserID = 2
+[ 2016-10-21 00:18:50] User selected CharacterName = Firstchar
+[ 2016-10-21 00:18:50] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:18:50] Character information sent.
+[ 2016-10-21 00:18:50] Character found in map : 4 name = FirstcharPacket sent = SPAWNM;1|4|0|112|0,0|0|0;2|4|1|57|0,0|1|0;1|4|2|88|0,0|-5|0;1|4|3|104|0,0|-4.9|0;
+[ 2016-10-21 00:18:59] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:18:59] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:19:02] Account logged in UserID = 2
+[ 2016-10-21 00:19:03] User selected CharacterName = Firstchar
+[ 2016-10-21 00:19:03] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:19:03] Character information sent.
+[ 2016-10-21 00:19:03] Character found in map : 5 name = FirstcharPacket sent = SPAWNM;1|5|0|98|0,0|0|0;2|5|1|60|0,0|1|0;1|5|2|107|0,0|-5|0;1|5|3|131|1+15+0+0+0+0,0|-4.9|0;
+[ 2016-10-21 00:19:12] Firstchar Item added successfully. to slot 8 itemid = 1 stat1 = 0
+[ 2016-10-21 00:19:16] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:19:17] Forcing a client to logout.
+[ 2016-10-21 00:26:17] Account logged in UserID = 2
+[ 2016-10-21 00:26:17] User selected CharacterName = Firstchar
+[ 2016-10-21 00:26:17] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:26:17] Character information sent.
+[ 2016-10-21 00:26:18] Character found in map : 6 name = FirstcharPacket sent = SPAWNM;1|6|0|88|1+14+0+0+0+0,0|0|0;2|6|1|57|0,2+19+0+0+40+0|1|0;1|6|2|135|1+14+0+0+0+30,2+21+0+0+0+1|-5|0;1|6|3|98|1+16+0+0+11+0,0|-4.9|0;
+[ 2016-10-21 00:26:25] Firstchar Item added successfully. to slot 9 itemid = 2 stat1 = 0
+[ 2016-10-21 00:26:27] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:26:27] Forcing a client to logout.
+[ 2016-10-21 00:29:00] Account logged in UserID = 2
+[ 2016-10-21 00:29:01] User selected CharacterName = Firstchar
+[ 2016-10-21 00:29:01] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:29:01] Character information sent.
+[ 2016-10-21 00:29:02] Character found in map : 7 name = FirstcharPacket sent = SPAWNM;1|7|0|123|1+15+0+0+0+34,2+18+0+0+0+0|0|0;2|7|1|53|0,2+24+0+0+0+0|1|0;1|7|2|90|0,0|-5|0;1|7|3|119|0,0|-4.9|0;
+[ 2016-10-21 00:29:07] Firstchar Item added successfully. to slot 11 itemid = 1 stat1 = 0
+[ 2016-10-21 00:29:13] Firstchar Item added successfully. to slot 13 itemid = 2 stat1 = 0
+[ 2016-10-21 00:29:13] INVENTORY_PICKUP_Packet - adding item to an existing slot = 13
+[ 2016-10-21 00:29:13] INVENTORY_PICKUP_Packet - adding item to an existing slot = 13Overwritten to slot = 14 itemid = 2 stat1 = 0
+[ 2016-10-21 00:29:25] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:29:25] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:29:33] Account logged in UserID = 2
+[ 2016-10-21 00:29:33] User selected CharacterName = Firstchar
+[ 2016-10-21 00:29:33] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:29:33] Character information sent.
+[ 2016-10-21 00:29:34] Character found in map : 8 name = FirstcharPacket sent = SPAWNM;1|8|0|101|0,2+20+0+0+0+0|0|0;2|8|1|62|0,0|1|0;1|8|2|73|0,0|-5|0;1|8|3|132|0,2+17+0+0+53+0|-4.9|0;
+[ 2016-10-21 00:29:40] Firstchar Item added successfully. to slot 15 itemid = 2 stat1 = 53
+[ 2016-10-21 00:29:42] Firstchar Item added successfully. to slot 16 itemid = 2 stat1 = 0
+[ 2016-10-21 00:29:49] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:29:49] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:30:00] Account logged in UserID = 2
+[ 2016-10-21 00:30:01] User selected CharacterName = Firstchar
+[ 2016-10-21 00:30:01] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:30:01] Character information sent.
+[ 2016-10-21 00:30:02] Character found in map : 9 name = FirstcharPacket sent = SPAWNM;1|9|0|61|0,0|0|0;2|9|1|37|0,0|1|0;1|9|2|117|0,0|-5|0;1|9|3|72|1+15+0+0+0+13,0|-4.9|0;
+[ 2016-10-21 00:30:07] Firstchar Item added successfully. to slot 1 itemid = 1 stat1 = 0
+[ 2016-10-21 00:30:13] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:30:13] Forcing a ClientList to disconnect..
+[ 2016-10-21 00:30:16] Account logged in UserID = 2
+[ 2016-10-21 00:30:17] User selected CharacterName = Firstchar
+[ 2016-10-21 00:30:17] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 00:30:17] Character information sent.
+[ 2016-10-21 00:30:17] Character found in map : 10 name = FirstcharPacket sent = SPAWNM;1|10|0|95|0,0|0|0;2|10|1|47|1+17+0+0+0+51,2+23+0+0+13+46|1|0;1|10|2|67|0,2+17+0+0+13+51|-5|0;1|10|3|97|0,2+19+0+0+36+0|-4.9|0;
+[ 2016-10-21 00:30:26] Firstchar Item added successfully. to slot 2 itemid = 2 stat1 = 36
+[ 2016-10-21 00:30:26] INVENTORY_PICKUP_Packet - adding item to an existing slot = 2
+[ 2016-10-21 00:30:26] INVENTORY_PICKUP_Packet - adding item to an existing slot = 2Overwritten to slot = 3 itemid = 2 stat1 = 13
+[ 2016-10-21 00:30:27] Firstchar Item added successfully. to slot 4 itemid = 2 stat1 = 13
+[ 2016-10-21 00:30:27] INVENTORY_PICKUP_Packet - adding item to an existing slot = 4
+[ 2016-10-21 00:30:27] INVENTORY_PICKUP_Packet - adding item to an existing slot = 4Overwritten to slot = 5 itemid = 1 stat1 = 0
+[ 2016-10-21 00:30:40] Client disconnected. - ServerInit line 45
+[ 2016-10-21 00:30:40] Forcing a ClientList to disconnect..
+[ 2016-10-21 13:11:05] Setting up server...
+[ 2016-10-21 13:11:05] Connected to MYSQL.
+[ 2016-10-21 13:11:05] Skill database loaded with [4] skills
+[ 2016-10-21 13:11:05] Item database loaded with [5] items
+[ 2016-10-21 13:11:05] Monster database loaded with [2] monsters
+[ 2016-10-21 13:11:05] Waves database loaded with [1] waves
+[ 2016-10-21 13:11:05] Server is running on port 32211
+[ 2016-10-21 13:11:09] Account logged in UserID = 2
+[ 2016-10-21 13:11:11] Client disconnected. - ServerInit line 45
+[ 2016-10-21 13:12:37] Login attempt failed. username= password=
+[ 2016-10-21 13:15:20] Setting up server...
+[ 2016-10-21 13:15:20] Connected to MYSQL.
+[ 2016-10-21 13:15:20] Skill database loaded with [4] skills
+[ 2016-10-21 13:15:20] Item database loaded with [5] items
+[ 2016-10-21 13:15:20] Monster database loaded with [2] monsters
+[ 2016-10-21 13:15:20] Waves database loaded with [1] waves
+[ 2016-10-21 13:15:20] Server is running on port 32211
+[ 2016-10-21 13:15:58] Setting up server...
+[ 2016-10-21 13:15:58] Connected to MYSQL.
+[ 2016-10-21 13:15:58] Skill database loaded with [4] skills
+[ 2016-10-21 13:15:58] Item database loaded with [5] items
+[ 2016-10-21 13:15:58] Monster database loaded with [2] monsters
+[ 2016-10-21 13:15:58] Waves database loaded with [1] waves
+[ 2016-10-21 13:15:58] Server is running on port 32211
+[ 2016-10-21 13:17:38] Setting up server...
+[ 2016-10-21 13:17:38] Connected to MYSQL.
+[ 2016-10-21 13:17:38] Skill database loaded with [4] skills
+[ 2016-10-21 13:17:38] Item database loaded with [5] items
+[ 2016-10-21 13:17:38] Monster database loaded with [2] monsters
+[ 2016-10-21 13:17:38] Waves database loaded with [1] waves
+[ 2016-10-21 13:17:38] Server is running on port 32211
+[ 2016-10-21 13:23:52] Setting up server...
+[ 2016-10-21 13:23:52] Connected to MYSQL.
+[ 2016-10-21 13:23:52] Skill database loaded with [4] skills
+[ 2016-10-21 13:23:52] Item database loaded with [5] items
+[ 2016-10-21 13:23:52] Monster database loaded with [2] monsters
+[ 2016-10-21 13:23:52] Waves database loaded with [1] waves
+[ 2016-10-21 13:23:52] Server is running on port 32211
+[ 2016-10-21 13:31:43] Login attempt failed. username= password=
+[ 2016-10-21 13:34:07] Setting up server...
+[ 2016-10-21 13:34:07] Connected to MYSQL.
+[ 2016-10-21 13:34:07] Skill database loaded with [4] skills
+[ 2016-10-21 13:34:07] Item database loaded with [5] items
+[ 2016-10-21 13:34:07] Monster database loaded with [2] monsters
+[ 2016-10-21 13:34:07] Waves database loaded with [1] waves
+[ 2016-10-21 13:34:07] Server is running on port 32211
+[ 2016-10-21 13:34:21] Account logged in UserID = 2
+[ 2016-10-21 13:34:49] Account logged in UserID = 2
+[ 2016-10-21 13:34:53] Account logged in UserID = 2
+[ 2016-10-21 13:42:37] Setting up server...
+[ 2016-10-21 13:42:37] Connected to MYSQL.
+[ 2016-10-21 13:42:37] Skill database loaded with [4] skills
+[ 2016-10-21 13:42:37] Item database loaded with [5] items
+[ 2016-10-21 13:42:37] Monster database loaded with [2] monsters
+[ 2016-10-21 13:42:37] Waves database loaded with [1] waves
+[ 2016-10-21 13:42:37] Server is running on port 32211
+[ 2016-10-21 13:43:13] Setting up server...
+[ 2016-10-21 13:43:13] Connected to MYSQL.
+[ 2016-10-21 13:43:13] Skill database loaded with [4] skills
+[ 2016-10-21 13:43:13] Item database loaded with [5] items
+[ 2016-10-21 13:43:13] Monster database loaded with [2] monsters
+[ 2016-10-21 13:43:13] Waves database loaded with [1] waves
+[ 2016-10-21 13:43:13] Server is running on port 32211
+[ 2016-10-21 13:43:22] Account logged in UserID = 2
+[ 2016-10-21 13:46:40] Setting up server...
+[ 2016-10-21 13:46:40] Connected to MYSQL.
+[ 2016-10-21 13:46:40] Skill database loaded with [4] skills
+[ 2016-10-21 13:46:40] Item database loaded with [5] items
+[ 2016-10-21 13:46:40] Monster database loaded with [2] monsters
+[ 2016-10-21 13:46:40] Waves database loaded with [1] waves
+[ 2016-10-21 13:46:40] Server is running on port 32211
+[ 2016-10-21 13:46:59] Account logged in UserID = 2
+[ 2016-10-21 13:51:37] Setting up server...
+[ 2016-10-21 13:51:37] Connected to MYSQL.
+[ 2016-10-21 13:51:37] Skill database loaded with [4] skills
+[ 2016-10-21 13:51:37] Item database loaded with [5] items
+[ 2016-10-21 13:51:37] Monster database loaded with [2] monsters
+[ 2016-10-21 13:51:37] Waves database loaded with [1] waves
+[ 2016-10-21 13:51:37] Server is running on port 32211
+[ 2016-10-21 13:51:44] Login attempt failed. username= password=
+[ 2016-10-21 13:55:12] Setting up server...
+[ 2016-10-21 13:55:12] Connected to MYSQL.
+[ 2016-10-21 13:55:12] Skill database loaded with [4] skills
+[ 2016-10-21 13:55:12] Item database loaded with [5] items
+[ 2016-10-21 13:55:12] Monster database loaded with [2] monsters
+[ 2016-10-21 13:55:12] Waves database loaded with [1] waves
+[ 2016-10-21 13:55:12] Server is running on port 32211
+[ 2016-10-21 13:55:50] Setting up server...
+[ 2016-10-21 13:55:50] Connected to MYSQL.
+[ 2016-10-21 13:55:50] Skill database loaded with [4] skills
+[ 2016-10-21 13:55:50] Item database loaded with [5] items
+[ 2016-10-21 13:55:50] Monster database loaded with [2] monsters
+[ 2016-10-21 13:55:50] Waves database loaded with [1] waves
+[ 2016-10-21 13:55:50] Server is running on port 32211
+[ 2016-10-21 13:56:03] Login attempt failed. username= password=
+[ 2016-10-21 13:58:19] Setting up server...
+[ 2016-10-21 13:58:19] Connected to MYSQL.
+[ 2016-10-21 13:58:19] Skill database loaded with [4] skills
+[ 2016-10-21 13:58:19] Item database loaded with [5] items
+[ 2016-10-21 13:58:19] Monster database loaded with [2] monsters
+[ 2016-10-21 13:58:19] Waves database loaded with [1] waves
+[ 2016-10-21 13:58:19] Server is running on port 32211
+[ 2016-10-21 13:58:25] Account logged in UserID = 2
+[ 2016-10-21 13:59:04] Setting up server...
+[ 2016-10-21 13:59:05] Connected to MYSQL.
+[ 2016-10-21 13:59:05] Skill database loaded with [4] skills
+[ 2016-10-21 13:59:05] Item database loaded with [5] items
+[ 2016-10-21 13:59:05] Monster database loaded with [2] monsters
+[ 2016-10-21 13:59:05] Waves database loaded with [1] waves
+[ 2016-10-21 13:59:05] Server is running on port 32211
+[ 2016-10-21 13:59:11] Account logged in UserID = 2
+[ 2016-10-21 14:01:54] Setting up server...
+[ 2016-10-21 14:01:54] Connected to MYSQL.
+[ 2016-10-21 14:01:54] Skill database loaded with [4] skills
+[ 2016-10-21 14:01:54] Item database loaded with [5] items
+[ 2016-10-21 14:01:54] Monster database loaded with [2] monsters
+[ 2016-10-21 14:01:54] Waves database loaded with [1] waves
+[ 2016-10-21 14:01:54] Server is running on port 32211
+[ 2016-10-21 14:03:33] Setting up server...
+[ 2016-10-21 14:03:33] Connected to MYSQL.
+[ 2016-10-21 14:03:33] Skill database loaded with [4] skills
+[ 2016-10-21 14:03:33] Item database loaded with [5] items
+[ 2016-10-21 14:03:33] Monster database loaded with [2] monsters
+[ 2016-10-21 14:03:33] Waves database loaded with [1] waves
+[ 2016-10-21 14:03:33] Server is running on port 32211
+[ 2016-10-21 14:03:35] Login attempt failed. username= password=
+[ 2016-10-21 14:06:41] Setting up server...
+[ 2016-10-21 14:06:41] Connected to MYSQL.
+[ 2016-10-21 14:06:41] Skill database loaded with [4] skills
+[ 2016-10-21 14:06:41] Item database loaded with [5] items
+[ 2016-10-21 14:06:41] Monster database loaded with [2] monsters
+[ 2016-10-21 14:06:41] Waves database loaded with [1] waves
+[ 2016-10-21 14:06:41] Server is running on port 32211
+[ 2016-10-21 14:09:26] Setting up server...
+[ 2016-10-21 14:09:26] Connected to MYSQL.
+[ 2016-10-21 14:09:26] Skill database loaded with [4] skills
+[ 2016-10-21 14:09:26] Item database loaded with [5] items
+[ 2016-10-21 14:09:26] Monster database loaded with [2] monsters
+[ 2016-10-21 14:09:26] Waves database loaded with [1] waves
+[ 2016-10-21 14:09:26] Server is running on port 32211
+[ 2016-10-21 14:09:28] Login attempt failed. username=test password=
+[ 2016-10-21 14:11:19] Setting up server...
+[ 2016-10-21 14:11:19] Connected to MYSQL.
+[ 2016-10-21 14:11:19] Skill database loaded with [4] skills
+[ 2016-10-21 14:11:19] Item database loaded with [5] items
+[ 2016-10-21 14:11:19] Monster database loaded with [2] monsters
+[ 2016-10-21 14:11:19] Waves database loaded with [1] waves
+[ 2016-10-21 14:11:19] Server is running on port 32211
+[ 2016-10-21 14:12:29] Setting up server...
+[ 2016-10-21 14:12:29] Connected to MYSQL.
+[ 2016-10-21 14:12:29] Skill database loaded with [4] skills
+[ 2016-10-21 14:12:29] Item database loaded with [5] items
+[ 2016-10-21 14:12:29] Monster database loaded with [2] monsters
+[ 2016-10-21 14:12:30] Waves database loaded with [1] waves
+[ 2016-10-21 14:12:30] Server is running on port 32211
+[ 2016-10-21 14:12:33] Login attempt failed. username= password=
+[ 2016-10-21 14:13:19] Setting up server...
+[ 2016-10-21 14:13:19] Connected to MYSQL.
+[ 2016-10-21 14:13:19] Skill database loaded with [4] skills
+[ 2016-10-21 14:13:19] Item database loaded with [5] items
+[ 2016-10-21 14:13:19] Monster database loaded with [2] monsters
+[ 2016-10-21 14:13:19] Waves database loaded with [1] waves
+[ 2016-10-21 14:13:19] Server is running on port 32211
+[ 2016-10-21 14:13:21] Login attempt failed. username= password=
+[ 2016-10-21 14:14:26] Setting up server...
+[ 2016-10-21 14:14:26] Connected to MYSQL.
+[ 2016-10-21 14:14:26] Skill database loaded with [4] skills
+[ 2016-10-21 14:14:26] Item database loaded with [5] items
+[ 2016-10-21 14:14:26] Monster database loaded with [2] monsters
+[ 2016-10-21 14:14:26] Waves database loaded with [1] waves
+[ 2016-10-21 14:14:26] Server is running on port 32211
+[ 2016-10-21 14:14:29] Login attempt failed. username= password=
+[ 2016-10-21 14:15:50] Setting up server...
+[ 2016-10-21 14:15:50] Connected to MYSQL.
+[ 2016-10-21 14:15:50] Skill database loaded with [4] skills
+[ 2016-10-21 14:15:50] Item database loaded with [5] items
+[ 2016-10-21 14:15:50] Monster database loaded with [2] monsters
+[ 2016-10-21 14:15:50] Waves database loaded with [1] waves
+[ 2016-10-21 14:15:50] Server is running on port 32211
+[ 2016-10-21 14:16:57] Setting up server...
+[ 2016-10-21 14:16:57] Connected to MYSQL.
+[ 2016-10-21 14:16:57] Skill database loaded with [4] skills
+[ 2016-10-21 14:16:57] Item database loaded with [5] items
+[ 2016-10-21 14:16:57] Monster database loaded with [2] monsters
+[ 2016-10-21 14:16:57] Waves database loaded with [1] waves
+[ 2016-10-21 14:16:57] Server is running on port 32211
+[ 2016-10-21 14:18:01] Setting up server...
+[ 2016-10-21 14:18:01] Connected to MYSQL.
+[ 2016-10-21 14:18:01] Skill database loaded with [4] skills
+[ 2016-10-21 14:18:01] Item database loaded with [5] items
+[ 2016-10-21 14:18:01] Monster database loaded with [2] monsters
+[ 2016-10-21 14:18:01] Waves database loaded with [1] waves
+[ 2016-10-21 14:18:01] Server is running on port 32211
+[ 2016-10-21 14:18:05] Login attempt failed. username= password=
+[ 2016-10-21 14:18:06] Login attempt failed. username= password=
+[ 2016-10-21 14:18:07] Login attempt failed. username= password=
+[ 2016-10-21 14:18:07] Login attempt failed. username= password=
+[ 2016-10-21 14:18:08] Login attempt failed. username= password=
+[ 2016-10-21 14:18:08] Login attempt failed. username= password=
+[ 2016-10-21 14:18:08] Login attempt failed. username= password=
+[ 2016-10-21 14:18:08] Login attempt failed. username= password=
+[ 2016-10-21 14:18:08] Login attempt failed. username= password=
+[ 2016-10-21 14:18:08] Login attempt failed. username= password=
+[ 2016-10-21 14:18:09] Login attempt failed. username= password=
+[ 2016-10-21 14:20:22] Setting up server...
+[ 2016-10-21 14:20:22] Connected to MYSQL.
+[ 2016-10-21 14:20:22] Skill database loaded with [4] skills
+[ 2016-10-21 14:20:22] Item database loaded with [5] items
+[ 2016-10-21 14:20:22] Monster database loaded with [2] monsters
+[ 2016-10-21 14:20:22] Waves database loaded with [1] waves
+[ 2016-10-21 14:20:22] Server is running on port 32211
+[ 2016-10-21 14:21:26] Setting up server...
+[ 2016-10-21 14:21:27] Connected to MYSQL.
+[ 2016-10-21 14:21:27] Skill database loaded with [4] skills
+[ 2016-10-21 14:21:27] Item database loaded with [5] items
+[ 2016-10-21 14:21:27] Monster database loaded with [2] monsters
+[ 2016-10-21 14:21:27] Waves database loaded with [1] waves
+[ 2016-10-21 14:21:27] Server is running on port 32211
+[ 2016-10-21 14:22:39] Setting up server...
+[ 2016-10-21 14:22:39] Connected to MYSQL.
+[ 2016-10-21 14:22:39] Skill database loaded with [4] skills
+[ 2016-10-21 14:22:39] Item database loaded with [5] items
+[ 2016-10-21 14:22:39] Monster database loaded with [2] monsters
+[ 2016-10-21 14:22:39] Waves database loaded with [1] waves
+[ 2016-10-21 14:22:39] Server is running on port 32211
+[ 2016-10-21 14:22:40] Login attempt failed. username= password=
+[ 2016-10-21 14:24:49] Setting up server...
+[ 2016-10-21 14:24:49] Connected to MYSQL.
+[ 2016-10-21 14:24:49] Skill database loaded with [4] skills
+[ 2016-10-21 14:24:49] Item database loaded with [5] items
+[ 2016-10-21 14:24:49] Monster database loaded with [2] monsters
+[ 2016-10-21 14:24:49] Waves database loaded with [1] waves
+[ 2016-10-21 14:24:49] Server is running on port 32211
+[ 2016-10-21 14:24:56] Login attempt failed. username= password=
+[ 2016-10-21 14:26:30] Setting up server...
+[ 2016-10-21 14:26:30] Connected to MYSQL.
+[ 2016-10-21 14:26:30] Skill database loaded with [4] skills
+[ 2016-10-21 14:26:30] Item database loaded with [5] items
+[ 2016-10-21 14:26:30] Monster database loaded with [2] monsters
+[ 2016-10-21 14:26:30] Waves database loaded with [1] waves
+[ 2016-10-21 14:26:30] Server is running on port 32211
+[ 2016-10-21 14:26:53] Setting up server...
+[ 2016-10-21 14:26:54] Connected to MYSQL.
+[ 2016-10-21 14:26:54] Skill database loaded with [4] skills
+[ 2016-10-21 14:26:54] Item database loaded with [5] items
+[ 2016-10-21 14:26:54] Monster database loaded with [2] monsters
+[ 2016-10-21 14:26:54] Waves database loaded with [1] waves
+[ 2016-10-21 14:26:54] Server is running on port 32211
+[ 2016-10-21 14:27:29] Setting up server...
+[ 2016-10-21 14:27:30] Connected to MYSQL.
+[ 2016-10-21 14:27:30] Skill database loaded with [4] skills
+[ 2016-10-21 14:27:30] Item database loaded with [5] items
+[ 2016-10-21 14:27:30] Monster database loaded with [2] monsters
+[ 2016-10-21 14:27:30] Waves database loaded with [1] waves
+[ 2016-10-21 14:27:30] Server is running on port 32211
+[ 2016-10-21 14:27:32] Login attempt failed. username= password=
+[ 2016-10-21 14:34:02] Setting up server...
+[ 2016-10-21 14:34:02] Connected to MYSQL.
+[ 2016-10-21 14:34:02] Skill database loaded with [4] skills
+[ 2016-10-21 14:34:02] Item database loaded with [5] items
+[ 2016-10-21 14:34:02] Monster database loaded with [2] monsters
+[ 2016-10-21 14:34:02] Waves database loaded with [1] waves
+[ 2016-10-21 14:34:03] Server is running on port 32211
+[ 2016-10-21 14:34:06] Login attempt failed. username= password=
+[ 2016-10-21 14:34:08] Account logged in UserID = 2
+[ 2016-10-21 14:34:09] User selected CharacterName = Firstchar
+[ 2016-10-21 14:34:09] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 14:34:09] Character information sent.
+[ 2016-10-21 14:34:10] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|123|0,2+18+0+0+0+33|0|0;2|0|1|36|0,0|1|0;1|0|2|85|1+14+0+0+10+0,0|-5|0;1|0|3|79|1+15+0+0+14+21,0|-4.9|0;
+[ 2016-10-21 14:34:19] Client disconnected. - ServerInit line 45
+[ 2016-10-21 14:34:19] Forcing a ClientList to disconnect..
+[ 2016-10-21 15:28:09] Setting up server...
+[ 2016-10-21 15:28:09] Connected to MYSQL.
+[ 2016-10-21 15:28:09] Skill database loaded with [4] skills
+[ 2016-10-21 15:28:09] Item database loaded with [5] items
+[ 2016-10-21 15:28:09] Monster database loaded with [2] monsters
+[ 2016-10-21 15:28:09] Waves database loaded with [1] waves
+[ 2016-10-21 15:28:09] Server is running on port 32211
+[ 2016-10-21 15:30:25] Setting up server...
+[ 2016-10-21 15:30:25] Connected to MYSQL.
+[ 2016-10-21 15:30:25] Skill database loaded with [4] skills
+[ 2016-10-21 15:30:25] Item database loaded with [5] items
+[ 2016-10-21 15:30:25] Monster database loaded with [2] monsters
+[ 2016-10-21 15:30:25] Waves database loaded with [1] waves
+[ 2016-10-21 15:30:25] Server is running on port 32211
+[ 2016-10-21 16:09:01] Setting up server...
+[ 2016-10-21 16:09:01] Connected to MYSQL.
+[ 2016-10-21 16:09:01] Skill database loaded with [4] skills
+[ 2016-10-21 16:09:01] Item database loaded with [5] items
+[ 2016-10-21 16:09:01] Monster database loaded with [2] monsters
+[ 2016-10-21 16:09:01] Waves database loaded with [1] waves
+[ 2016-10-21 16:09:01] Server is running on port 32211
+[ 2016-10-21 16:09:08] Account logged in UserID = 2
+[ 2016-10-21 16:10:37] Setting up server...
+[ 2016-10-21 16:10:37] Connected to MYSQL.
+[ 2016-10-21 16:10:37] Skill database loaded with [4] skills
+[ 2016-10-21 16:10:37] Item database loaded with [5] items
+[ 2016-10-21 16:10:37] Monster database loaded with [2] monsters
+[ 2016-10-21 16:10:37] Waves database loaded with [1] waves
+[ 2016-10-21 16:10:37] Server is running on port 32211
+[ 2016-10-21 16:10:40] Account logged in UserID = 2
+[ 2016-10-21 16:11:00] Setting up server...
+[ 2016-10-21 16:11:00] Connected to MYSQL.
+[ 2016-10-21 16:11:00] Skill database loaded with [4] skills
+[ 2016-10-21 16:11:00] Item database loaded with [5] items
+[ 2016-10-21 16:11:00] Monster database loaded with [2] monsters
+[ 2016-10-21 16:11:00] Waves database loaded with [1] waves
+[ 2016-10-21 16:11:00] Server is running on port 32211
+[ 2016-10-21 16:11:33] Setting up server...
+[ 2016-10-21 16:11:33] Connected to MYSQL.
+[ 2016-10-21 16:11:33] Skill database loaded with [4] skills
+[ 2016-10-21 16:11:33] Item database loaded with [5] items
+[ 2016-10-21 16:11:33] Monster database loaded with [2] monsters
+[ 2016-10-21 16:11:33] Waves database loaded with [1] waves
+[ 2016-10-21 16:11:33] Server is running on port 32211
+[ 2016-10-21 16:11:40] Account logged in UserID = 2
+[ 2016-10-21 16:12:35] Setting up server...
+[ 2016-10-21 16:12:35] Connected to MYSQL.
+[ 2016-10-21 16:12:35] Skill database loaded with [4] skills
+[ 2016-10-21 16:12:35] Item database loaded with [5] items
+[ 2016-10-21 16:12:35] Monster database loaded with [2] monsters
+[ 2016-10-21 16:12:35] Waves database loaded with [1] waves
+[ 2016-10-21 16:12:35] Server is running on port 32211
+[ 2016-10-21 16:12:40] Account logged in UserID = 2
+[ 2016-10-21 16:13:14] Setting up server...
+[ 2016-10-21 16:13:14] Connected to MYSQL.
+[ 2016-10-21 16:13:14] Skill database loaded with [4] skills
+[ 2016-10-21 16:13:14] Item database loaded with [5] items
+[ 2016-10-21 16:13:14] Monster database loaded with [2] monsters
+[ 2016-10-21 16:13:14] Waves database loaded with [1] waves
+[ 2016-10-21 16:13:14] Server is running on port 32211
+[ 2016-10-21 16:13:19] Login attempt failed. username= password=
+[ 2016-10-21 16:15:10] Setting up server...
+[ 2016-10-21 16:15:10] Connected to MYSQL.
+[ 2016-10-21 16:15:10] Skill database loaded with [4] skills
+[ 2016-10-21 16:15:10] Item database loaded with [5] items
+[ 2016-10-21 16:15:10] Monster database loaded with [2] monsters
+[ 2016-10-21 16:15:10] Waves database loaded with [1] waves
+[ 2016-10-21 16:15:10] Server is running on port 32211
+[ 2016-10-21 16:15:15] Account logged in UserID = 2
+[ 2016-10-21 16:23:51] Setting up server...
+[ 2016-10-21 16:23:51] Connected to MYSQL.
+[ 2016-10-21 16:23:51] Skill database loaded with [4] skills
+[ 2016-10-21 16:23:51] Item database loaded with [5] items
+[ 2016-10-21 16:23:51] Monster database loaded with [2] monsters
+[ 2016-10-21 16:23:51] Waves database loaded with [1] waves
+[ 2016-10-21 16:23:51] Server is running on port 32211
+[ 2016-10-21 16:23:52] Login attempt failed. username= password=
+[ 2016-10-21 16:27:49] Setting up server...
+[ 2016-10-21 16:27:49] Connected to MYSQL.
+[ 2016-10-21 16:27:49] Skill database loaded with [4] skills
+[ 2016-10-21 16:27:49] Item database loaded with [5] items
+[ 2016-10-21 16:27:49] Monster database loaded with [2] monsters
+[ 2016-10-21 16:27:49] Waves database loaded with [1] waves
+[ 2016-10-21 16:27:49] Server is running on port 32211
+[ 2016-10-21 16:28:46] Setting up server...
+[ 2016-10-21 16:28:46] Connected to MYSQL.
+[ 2016-10-21 16:28:46] Skill database loaded with [4] skills
+[ 2016-10-21 16:28:46] Item database loaded with [5] items
+[ 2016-10-21 16:28:46] Monster database loaded with [2] monsters
+[ 2016-10-21 16:28:46] Waves database loaded with [1] waves
+[ 2016-10-21 16:28:46] Server is running on port 32211
+[ 2016-10-21 16:28:48] Account logged in UserID = 2
+[ 2016-10-21 16:28:49] User selected CharacterName = Firstchar
+[ 2016-10-21 16:28:49] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 16:28:49] Character information sent.
+[ 2016-10-21 16:28:50] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|93|0,0|0|0;2|0|1|62|0,2+20+0+0+0+40|1|0;1|0|2|134|1+16+0+0+0+16,2+18+0+0+1+48|-5|0;1|0|3|93|0,0|-4.9|0;
+[ 2016-10-21 16:29:10] Client disconnected. - ServerInit line 45
+[ 2016-10-21 16:29:10] Forcing a ClientList to disconnect..
+[ 2016-10-21 16:36:03] Setting up server...
+[ 2016-10-21 16:36:04] Connected to MYSQL.
+[ 2016-10-21 16:36:04] Skill database loaded with [4] skills
+[ 2016-10-21 16:36:04] Item database loaded with [5] items
+[ 2016-10-21 16:36:04] Monster database loaded with [2] monsters
+[ 2016-10-21 16:36:04] Waves database loaded with [1] waves
+[ 2016-10-21 16:36:04] Server is running on port 32211
+[ 2016-10-21 16:49:25] Setting up server...
+[ 2016-10-21 16:49:25] Connected to MYSQL.
+[ 2016-10-21 16:49:25] Skill database loaded with [4] skills
+[ 2016-10-21 16:49:25] Item database loaded with [5] items
+[ 2016-10-21 16:49:25] Monster database loaded with [2] monsters
+[ 2016-10-21 16:49:25] Waves database loaded with [1] waves
+[ 2016-10-21 16:49:25] Server is running on port 32211
+[ 2016-10-21 16:49:52] Account logged in UserID = 2
+[ 2016-10-21 16:49:53] User selected CharacterName = Firstchar
+[ 2016-10-21 16:49:53] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 16:49:53] Character information sent.
+[ 2016-10-21 16:49:53] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|111|0,2+20+0+0+34+0|0|0;2|0|1|43|1+16+0+0+0+0,2+24+0+0+0+0|1|0;1|0|2|68|1+13+0+0+0+51,2+18+0+0+0+0|-5|0;1|0|3|84|1+12+0+0+0+46,0|-4.9|0;
+[ 2016-10-21 16:50:02] Firstchar Item added successfully. to slot 6 itemid = 1 stat1 = 0
+[ 2016-10-21 16:50:02] INVENTORY_PICKUP_Packet - adding item to an existing slot = 6
+[ 2016-10-21 16:50:02] INVENTORY_PICKUP_Packet - adding item to an existing slot = 6Overwritten to slot = 7 itemid = 1 stat1 = 0
+[ 2016-10-21 16:50:15] Client disconnected. - ServerInit line 45
+[ 2016-10-21 16:50:15] Forcing a ClientList to disconnect..
+[ 2016-10-21 20:17:18] Setting up server...
+[ 2016-10-21 20:17:18] Connected to MYSQL.
+[ 2016-10-21 20:17:18] Skill database loaded with [4] skills
+[ 2016-10-21 20:17:18] Item database loaded with [5] items
+[ 2016-10-21 20:17:18] Monster database loaded with [2] monsters
+[ 2016-10-21 20:17:18] Waves database loaded with [1] waves
+[ 2016-10-21 20:17:18] Server is running on port 32211
+[ 2016-10-21 20:17:23] Account logged in UserID = 2
+[ 2016-10-21 20:17:24] User selected CharacterName = Firstchar
+[ 2016-10-21 20:17:24] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 20:17:24] Character information sent.
+[ 2016-10-21 20:17:25] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|113|0,0|0|0;2|0|1|57|1+17+0+0+0+0,0|1|0;1|0|2|67|0,0|-5|0;1|0|3|119|1+17+0+0+34+26,2+19+0+0+0+41|-4.9|0;
+[ 2016-10-21 20:17:33] Firstchar Item added successfully. to slot 8 itemid = 1 stat1 = 34
+[ 2016-10-21 20:17:34] Firstchar Item added successfully. to slot 9 itemid = 2 stat1 = 0
+[ 2016-10-21 20:17:36] Firstchar Item added successfully. to slot 10 itemid = 1 stat1 = 0
+[ 2016-10-21 20:17:40] Client disconnected. - ServerInit line 45
+[ 2016-10-21 20:17:40] Forcing a ClientList to disconnect..
+[ 2016-10-21 20:21:17] Setting up server...
+[ 2016-10-21 20:21:17] Connected to MYSQL.
+[ 2016-10-21 20:21:17] Skill database loaded with [4] skills
+[ 2016-10-21 20:21:17] Item database loaded with [5] items
+[ 2016-10-21 20:21:17] Monster database loaded with [2] monsters
+[ 2016-10-21 20:21:17] Waves database loaded with [1] waves
+[ 2016-10-21 20:21:17] Server is running on port 32211
+[ 2016-10-21 20:21:30] Account logged in UserID = 2
+[ 2016-10-21 20:21:31] User selected CharacterName = Firstchar
+[ 2016-10-21 20:21:31] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 20:21:31] Character information sent.
+[ 2016-10-21 20:21:31] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|74|0,2+24+0+0+0+0|0|0;2|0|1|58|0,2+24+0+0+24+16|1|0;1|0|2|92|1+14+0+0+21+0,2+23+0+0+0+10|-5|0;1|0|3|93|0,0|-4.9|0;
+[ 2016-10-21 20:21:38] Firstchar Item added successfully. to slot 11 itemid = 1 stat1 = 21
+[ 2016-10-21 20:21:38] Firstchar Item added successfully. to slot 11 itemid = 2 stat1 = 0
+[ 2016-10-21 20:29:36] Setting up server...
+[ 2016-10-21 20:29:36] Connected to MYSQL.
+[ 2016-10-21 20:29:36] Skill database loaded with [4] skills
+[ 2016-10-21 20:29:36] Item database loaded with [5] items
+[ 2016-10-21 20:29:36] Monster database loaded with [2] monsters
+[ 2016-10-21 20:29:36] Waves database loaded with [1] waves
+[ 2016-10-21 20:29:36] Server is running on port 32211
+[ 2016-10-21 20:29:40] Account logged in UserID = 2
+[ 2016-10-21 20:29:41] User selected CharacterName = Firstchar
+[ 2016-10-21 20:29:41] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 20:29:42] Character information sent.
+[ 2016-10-21 20:29:42] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|111|0,0|0|0;2|0|1|60|0,0|1|0;1|0|2|111|0,2+16+0+0+0+0|-5|0;1|0|3|100|0,2+21+0+0+0+0|-4.9|0;
+[ 2016-10-21 20:29:46] Firstchar Item added successfully. to slot 12 itemid = 2 stat1 = 0
+[ 2016-10-21 20:29:46] INVENTORY_PICKUP_Packet - adding item to an existing slot = 12
+[ 2016-10-21 20:29:46] INVENTORY_PICKUP_Packet - adding item to an existing slot = 12Overwritten to slot = 13 itemid = 2 stat1 = 0
+[ 2016-10-21 20:30:17] Client disconnected. - ServerInit line 45
+[ 2016-10-21 20:30:17] Forcing a ClientList to disconnect..
+[ 2016-10-21 20:32:00] Account logged in UserID = 2
+[ 2016-10-21 20:32:01] User selected CharacterName = Firstchar
+[ 2016-10-21 20:32:01] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 20:32:01] Character information sent.
+[ 2016-10-21 20:32:02] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|101|0,0|0|0;2|1|1|58|0,0|1|0;1|1|2|124|1+16+0+0+0+34,0|-5|0;1|1|3|112|0,0|-4.9|0;
+[ 2016-10-21 20:32:08] Client disconnected. - ServerInit line 45
+[ 2016-10-21 20:32:08] Forcing a ClientList to disconnect..
+[ 2016-10-21 20:32:35] Account logged in UserID = 2
+[ 2016-10-21 20:32:36] User selected CharacterName = Firstchar
+[ 2016-10-21 20:32:36] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 20:32:36] Character information sent.
+[ 2016-10-21 20:32:36] Character found in map : 2 name = FirstcharPacket sent = SPAWNM;1|2|0|107|0,2+24+0+0+41+23|0|0;2|2|1|54|1+13+0+0+30+0,0|1|0;1|2|2|103|1+14+0+0+51+0,0|-5|0;1|2|3|70|1+13+0+0+0+44,0|-4.9|0;
+[ 2016-10-21 20:32:58] Firstchar Item added successfully. to slot 14 itemid = 2 stat1 = 41
+[ 2016-10-21 20:33:04] Firstchar Item added successfully. to slot 15 itemid = 1 stat1 = 0
+[ 2016-10-21 20:33:04] INVENTORY_PICKUP_Packet - adding item to an existing slot = 15
+[ 2016-10-21 20:33:04] INVENTORY_PICKUP_Packet - adding item to an existing slot = 15Overwritten to slot = 16 itemid = 1 stat1 = 51
+[ 2016-10-21 20:33:05] Firstchar Item added successfully. to slot 17 itemid = 1 stat1 = 30
+[ 2016-10-21 20:33:15] Client disconnected. - ServerInit line 45
+[ 2016-10-21 20:33:15] Forcing a ClientList to disconnect..
+[ 2016-10-21 20:36:19] Setting up server...
+[ 2016-10-21 20:36:20] Connected to MYSQL.
+[ 2016-10-21 20:36:20] Skill database loaded with [4] skills
+[ 2016-10-21 20:36:20] Item database loaded with [5] items
+[ 2016-10-21 20:36:20] Monster database loaded with [2] monsters
+[ 2016-10-21 20:36:20] Waves database loaded with [1] waves
+[ 2016-10-21 20:36:20] Server is running on port 32211
+[ 2016-10-21 20:36:23] Account logged in UserID = 2
+[ 2016-10-21 20:36:24] User selected CharacterName = Firstchar
+[ 2016-10-21 20:36:24] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 20:36:24] Character information sent.
+[ 2016-10-21 20:36:25] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|81|1+16+0+0+0+0,2+20+0+0+0+0|0|0;2|0|1|56|0,2+18+0+0+30+0|1|0;1|0|2|127|1+17+0+0+18+0,0|-5|0;1|0|3|92|0,0|-4.9|0;
+[ 2016-10-21 20:36:29] Firstchar Item added successfully. to slot 0 itemid = 1 stat1 = 18
+[ 2016-10-21 20:36:30] Firstchar Item added successfully. to slot 1 itemid = 1 stat1 = 0
+[ 2016-10-21 20:36:32] Firstchar Item added successfully. to slot 2 itemid = 2 stat1 = 30
+[ 2016-10-21 20:36:32] INVENTORY_PICKUP_Packet - adding item to an existing slot = 2
+[ 2016-10-21 20:36:32] INVENTORY_PICKUP_Packet - adding item to an existing slot = 2Overwritten to slot = 3 itemid = 2 stat1 = 0
+[ 2016-10-21 20:36:51] Item -1 was moved to slot 4
+[ 2016-10-21 20:37:12] Item -1 was moved to slot 26
+[ 2016-10-21 20:39:39] Setting up server...
+[ 2016-10-21 20:39:39] Connected to MYSQL.
+[ 2016-10-21 20:39:39] Skill database loaded with [4] skills
+[ 2016-10-21 20:39:39] Item database loaded with [5] items
+[ 2016-10-21 20:39:39] Monster database loaded with [2] monsters
+[ 2016-10-21 20:39:39] Waves database loaded with [1] waves
+[ 2016-10-21 20:39:39] Server is running on port 32211
+[ 2016-10-21 20:39:41] Account logged in UserID = 2
+[ 2016-10-21 20:39:41] User selected CharacterName = Firstchar
+[ 2016-10-21 20:39:41] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 20:39:41] Character information sent.
+[ 2016-10-21 20:39:42] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|92|0,0|0|0;2|0|1|54|0,0|1|0;1|0|2|125|1+12+0+0+0+1,0|-5|0;1|0|3|78|0,0|-4.9|0;
+[ 2016-10-21 20:39:46] Firstchar Item added successfully. to slot 4 itemid = 1 power = 1
+[ 2016-10-21 20:44:19] Setting up server...
+[ 2016-10-21 20:44:19] Connected to MYSQL.
+[ 2016-10-21 20:44:19] Skill database loaded with [4] skills
+[ 2016-10-21 20:44:19] Item database loaded with [5] items
+[ 2016-10-21 20:44:19] Monster database loaded with [2] monsters
+[ 2016-10-21 20:44:19] Waves database loaded with [1] waves
+[ 2016-10-21 20:44:19] Server is running on port 32211
+[ 2016-10-21 20:44:22] Account logged in UserID = 2
+[ 2016-10-21 20:44:24] User selected CharacterName = Firstchar
+[ 2016-10-21 20:44:24] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 20:44:24] Character information sent.
+[ 2016-10-21 20:44:24] 0,0
+[ 2016-10-21 20:44:24] 0,0
+[ 2016-10-21 20:44:24] 0,0
+[ 2016-10-21 20:44:24] 0,2+17+0+0+0+40
+[ 2016-10-21 20:44:24] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|67|0,0|0|0;2|0|1|66|0,0|1|0;1|0|2|77|0,0|-5|0;1|0|3|94|0,2+17+0+0+0+40|-4.9|0;
+[ 2016-10-21 20:44:59] Firstchar Item added successfully. to slot 0 itemid = 2 power = 21
+[ 2016-10-21 20:46:08] Client disconnected. - ServerInit line 45
+[ 2016-10-21 20:46:09] Forcing a ClientList to disconnect..
+[ 2016-10-21 20:48:57] Account logged in UserID = 2
+[ 2016-10-21 20:48:58] User selected CharacterName = Firstchar
+[ 2016-10-21 20:48:58] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-21 20:48:58] Character information sent.
+[ 2016-10-21 20:48:58] 0,0
+[ 2016-10-21 20:48:58] 0,0
+[ 2016-10-21 20:48:58] 1+14+0+0+0+0,0
+[ 2016-10-21 20:48:58] 0,0
+[ 2016-10-21 20:48:58] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|133|0,0|0|0;2|1|1|51|0,0|1|0;1|1|2|126|1+14+0+0+0+0,0|-5|0;1|1|3|109|0,0|-4.9|0;
+[ 2016-10-21 20:49:05] Firstchar Item added successfully. to slot 1 itemid = 1 power = 14
+[ 2016-10-21 20:54:14] Firstchar Increased stat 2
+[ 2016-10-21 20:54:14] Firstchar Increased stat 2
+[ 2016-10-21 20:54:15] Firstchar Increased stat 2
+[ 2016-10-21 20:54:15] Firstchar Increased stat 2
+[ 2016-10-21 20:54:15] Firstchar Increased stat 2
+[ 2016-10-21 20:54:15] Firstchar Increased stat 2
+[ 2016-10-21 20:54:16] Firstchar Increased stat 2
+[ 2016-10-21 20:54:16] Firstchar Increased stat 2
+[ 2016-10-21 21:03:24] Setting up server...
+[ 2016-10-21 21:03:24] Connected to MYSQL.
+[ 2016-10-21 21:03:24] Skill database loaded with [4] skills
+[ 2016-10-21 21:03:24] Item database loaded with [5] items
+[ 2016-10-21 21:03:24] Monster database loaded with [2] monsters
+[ 2016-10-21 21:03:24] Waves database loaded with [1] waves
+[ 2016-10-21 21:03:24] Server is running on port 32211
+[ 2016-10-21 21:03:26] Account logged in UserID = 2
+[ 2016-10-21 21:03:27] User selected CharacterName = Firstchar
+[ 2016-10-21 21:03:27] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;0;
+[ 2016-10-21 21:03:27] Character information sent.
+[ 2016-10-21 21:03:27] 1+13+0+0+0+0,0
+[ 2016-10-21 21:03:27] 0,0
+[ 2016-10-21 21:03:27] 1+12+0+0+0+66,0
+[ 2016-10-21 21:03:27] 0,0
+[ 2016-10-21 21:03:27] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|105|1+13+0+0+0+0,0|0|0;2|0|1|33|0,0|1|0;1|0|2|74|1+12+0+0+0+66,0|-5|0;1|0|3|127|0,0|-4.9|0;
+[ 2016-10-21 21:03:35] Firstchar Item added successfully. to slot 2 itemid = 1 power = 12
+[ 2016-10-21 21:03:39] Firstchar Item added successfully. to slot 3 itemid = 1 power = 13
+[ 2016-10-21 23:30:42] Client disconnected. - ServerInit line 45
+[ 2016-10-21 23:30:42] Forcing a ClientList to disconnect..

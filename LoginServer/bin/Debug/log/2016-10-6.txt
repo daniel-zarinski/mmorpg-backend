@@ -1,0 +1,734 @@
+This is the log file of the 2016-10-6
+[ 2016-10-06 00:00:00] Receive: LOGIN
+[ 2016-10-06 00:00:00] Account logged in. Character = Firstchar
+[ 2016-10-06 00:00:00] Skill 0 = Skill1 / 30
+[ 2016-10-06 00:00:00] Skill 1 = Skill2 / 50
+[ 2016-10-06 00:00:02] Client disconnected.
+[ 2016-10-06 00:00:33] Receive: LOGIN
+[ 2016-10-06 00:00:33] Account logged in. Character = Firstchar
+[ 2016-10-06 00:00:33] Skill 0 = Skill1 / 30
+[ 2016-10-06 00:00:33] Skill 1 = Skill2 / 50
+[ 2016-10-06 00:00:38] Client disconnected.
+[ 2016-10-06 01:41:10] Receive: LOGIN
+[ 2016-10-06 01:41:10] Login attempt failed. username=test password=tset
+[ 2016-10-06 01:41:13] Receive: LOGIN
+[ 2016-10-06 01:41:13] Account logged in. Character = Firstchar
+[ 2016-10-06 01:41:13] Skill 0 = Skill1 / 30
+[ 2016-10-06 01:41:13] Skill 1 = Skill2 / 50
+[ 2016-10-06 01:41:15] Client disconnected.
+[ 2016-10-06 01:42:10] Receive: LOGIN
+[ 2016-10-06 01:42:10] Account logged in. Character = Firstchar
+[ 2016-10-06 01:42:10] Skill 0 = Skill1 / 30
+[ 2016-10-06 01:42:10] Skill 1 = Skill2 / 50
+[ 2016-10-06 01:42:24] Client disconnected.
+[ 2016-10-06 02:13:45] Receive: LOGIN
+[ 2016-10-06 02:13:45] Login attempt failed. username=test password=tets
+[ 2016-10-06 02:13:47] Receive: LOGIN
+[ 2016-10-06 02:13:47] Account logged in. Character = Firstchar
+[ 2016-10-06 02:13:47] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:13:47] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:13:57] Client disconnected.
+[ 2016-10-06 02:14:13] Receive: LOGIN
+[ 2016-10-06 02:14:13] Account logged in. Character = Firstchar
+[ 2016-10-06 02:14:13] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:14:13] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:14:16] Client disconnected.
+[ 2016-10-06 02:14:26] Receive: LOGIN
+[ 2016-10-06 02:14:26] Account logged in. Character = Firstchar
+[ 2016-10-06 02:14:26] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:14:26] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:14:30] Client disconnected.
+[ 2016-10-06 02:14:36] Receive: LOGIN
+[ 2016-10-06 02:14:36] Account logged in. Character = Firstchar
+[ 2016-10-06 02:14:36] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:14:36] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:15:19] Client disconnected.
+[ 2016-10-06 02:15:37] Receive: LOGIN
+[ 2016-10-06 02:15:37] Account logged in. Character = Firstchar
+[ 2016-10-06 02:15:37] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:15:37] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:15:55] Client disconnected.
+[ 2016-10-06 02:22:14] Receive: LOGIN
+[ 2016-10-06 02:22:14] Account logged in. Character = Firstchar
+[ 2016-10-06 02:22:14] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:22:14] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:22:35] Client disconnected.
+[ 2016-10-06 02:25:10] Receive: LOGIN
+[ 2016-10-06 02:25:10] Account logged in. Character = Firstchar
+[ 2016-10-06 02:25:10] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:25:10] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:25:21] Client disconnected.
+[ 2016-10-06 02:26:00] Receive: LOGIN
+[ 2016-10-06 02:26:00] Account logged in. Character = Firstchar
+[ 2016-10-06 02:26:00] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:26:00] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:26:23] Client disconnected.
+[ 2016-10-06 02:37:07] Receive: LOGIN
+[ 2016-10-06 02:37:07] Account logged in. Character = Firstchar
+[ 2016-10-06 02:37:07] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:37:07] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:37:12] Client disconnected.
+[ 2016-10-06 02:37:30] Receive: LOGIN
+[ 2016-10-06 02:37:30] Account logged in. Character = Firstchar
+[ 2016-10-06 02:37:30] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:37:30] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:37:38] Client disconnected.
+[ 2016-10-06 02:37:43] Receive: LOGIN
+[ 2016-10-06 02:37:43] Account logged in. Character = Firstchar
+[ 2016-10-06 02:37:43] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:37:43] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:37:58] Client disconnected.
+[ 2016-10-06 02:42:07] Receive: LOGIN
+[ 2016-10-06 02:42:07] Account logged in. Character = Firstchar
+[ 2016-10-06 02:42:07] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:42:07] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:42:24] Client disconnected.
+[ 2016-10-06 02:45:19] Receive: LOGIN
+[ 2016-10-06 02:45:19] Account logged in. Character = Firstchar
+[ 2016-10-06 02:45:19] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:45:19] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:45:37] Client disconnected.
+[ 2016-10-06 02:46:40] Receive: LOGIN
+[ 2016-10-06 02:46:40] Account logged in. Character = Firstchar
+[ 2016-10-06 02:46:40] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:46:40] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:46:51] Client disconnected.
+[ 2016-10-06 02:51:50] Receive: LOGIN
+[ 2016-10-06 02:51:50] Account logged in. Character = Firstchar
+[ 2016-10-06 02:51:50] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:51:50] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:51:52] Client disconnected.
+[ 2016-10-06 02:51:55] Receive: LOGIN
+[ 2016-10-06 02:51:55] Account logged in. Character = Firstchar
+[ 2016-10-06 02:51:55] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:51:55] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:52:18] Client disconnected.
+[ 2016-10-06 02:52:22] Receive: LOGIN
+[ 2016-10-06 02:52:22] Account logged in. Character = Firstchar
+[ 2016-10-06 02:52:22] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:52:22] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:52:26] Client disconnected.
+[ 2016-10-06 02:55:11] Receive: LOGIN
+[ 2016-10-06 02:55:11] Account logged in. Character = Firstchar
+[ 2016-10-06 02:55:11] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:55:11] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:55:17] Client disconnected.
+[ 2016-10-06 02:59:11] Receive: LOGIN
+[ 2016-10-06 02:59:11] Account logged in. Character = Firstchar
+[ 2016-10-06 02:59:11] Skill 0 = Skill1 / 30
+[ 2016-10-06 02:59:11] Skill 1 = Skill2 / 50
+[ 2016-10-06 02:59:29] Client disconnected.
+[ 2016-10-06 03:00:30] Receive: LOGIN
+[ 2016-10-06 03:00:30] Account logged in. Character = Firstchar
+[ 2016-10-06 03:00:30] Skill 0 = Skill1 / 30
+[ 2016-10-06 03:00:30] Skill 1 = Skill2 / 50
+[ 2016-10-06 03:01:53] Client disconnected.
+[ 2016-10-06 03:16:02] Receive: LOGIN
+[ 2016-10-06 03:16:02] Account logged in. Character = Firstchar
+[ 2016-10-06 03:16:02] Skill 0 = Skill1 / 30
+[ 2016-10-06 03:16:02] Skill 1 = Skill2 / 50
+[ 2016-10-06 03:16:14] Client disconnected.
+[ 2016-10-06 03:19:41] Receive: LOGIN
+[ 2016-10-06 03:19:41] Login attempt failed. username= password=
+[ 2016-10-06 03:19:43] Client disconnected.
+[ 2016-10-06 03:26:46] Receive: LOGIN
+[ 2016-10-06 03:26:46] Account logged in. Character = Firstchar
+[ 2016-10-06 03:26:46] Skill 0 = Skill1 / 30
+[ 2016-10-06 03:26:46] Skill 1 = Skill2 / 50
+[ 2016-10-06 03:26:56] Client disconnected.
+[ 2016-10-06 03:27:41] Receive: LOGIN
+[ 2016-10-06 03:27:41] Account logged in. Character = Firstchar
+[ 2016-10-06 03:27:41] Skill 0 = Skill1 / 30
+[ 2016-10-06 03:27:41] Skill 1 = Skill2 / 50
+[ 2016-10-06 03:28:46] Client disconnected.
+[ 2016-10-06 03:29:32] Receive: LOGIN
+[ 2016-10-06 03:29:32] Account logged in. Character = Firstchar
+[ 2016-10-06 03:29:32] Skill 0 = Skill1 / 30
+[ 2016-10-06 03:29:32] Skill 1 = Skill2 / 50
+[ 2016-10-06 03:30:15] Client disconnected.
+[ 2016-10-06 03:30:23] Receive: LOGIN
+[ 2016-10-06 03:30:23] Account logged in. Character = Firstchar
+[ 2016-10-06 03:30:23] Skill 0 = Skill1 / 30
+[ 2016-10-06 03:30:23] Skill 1 = Skill2 / 50
+[ 2016-10-06 03:30:35] Client disconnected.
+[ 2016-10-06 03:30:53] Receive: LOGIN
+[ 2016-10-06 03:30:53] Account logged in. Character = Firstchar
+[ 2016-10-06 03:30:53] Skill 0 = Skill1 / 30
+[ 2016-10-06 03:30:53] Skill 1 = Skill2 / 50
+[ 2016-10-06 03:31:20] Client disconnected.
+[ 2016-10-06 03:32:28] Receive: LOGIN
+[ 2016-10-06 03:32:28] Account logged in. Character = Firstchar
+[ 2016-10-06 03:32:28] Skill 0 = Skill1 / 30
+[ 2016-10-06 03:32:28] Skill 1 = Skill2 / 50
+[ 2016-10-06 03:32:36] Client disconnected.
+[ 2016-10-06 03:33:54] Receive: LOGIN
+[ 2016-10-06 03:33:54] Account logged in. Character = Firstchar
+[ 2016-10-06 03:33:54] Skill 0 = Skill1 / 30
+[ 2016-10-06 03:33:54] Skill 1 = Skill2 / 50
+[ 2016-10-06 03:34:03] Client disconnected.
+[ 2016-10-06 03:34:23] Receive: LOGIN
+[ 2016-10-06 03:34:23] Account logged in. Character = Firstchar
+[ 2016-10-06 03:34:23] Skill 0 = Skill1 / 30
+[ 2016-10-06 03:34:23] Skill 1 = Skill2 / 50
+[ 2016-10-06 03:34:27] Client disconnected.
+[ 2016-10-06 03:35:58] Receive: LOGIN
+[ 2016-10-06 03:35:58] Account logged in. Character = Firstchar
+[ 2016-10-06 03:35:58] Skill 0 = Skill1 / 30
+[ 2016-10-06 03:35:58] Skill 1 = Skill2 / 50
+[ 2016-10-06 03:36:43] Client disconnected.
+[ 2016-10-06 03:36:48] Receive: LOGIN
+[ 2016-10-06 03:36:48] Account logged in. Character = Firstchar
+[ 2016-10-06 03:36:48] Skill 0 = Skill1 / 30
+[ 2016-10-06 03:36:48] Skill 1 = Skill2 / 50
+[ 2016-10-06 03:36:52] Client disconnected.
+[ 2016-10-06 03:42:17] Receive: LOGIN
+[ 2016-10-06 03:42:17] Account logged in. Character = Firstchar
+[ 2016-10-06 03:42:17] Skill 0 = Skill1 / 30
+[ 2016-10-06 03:42:17] Skill 1 = Skill2 / 50
+[ 2016-10-06 03:42:46] Client disconnected.
+[ 2016-10-06 04:29:18] Receive: LOGIN
+[ 2016-10-06 04:29:18] Account logged in. Character = Firstchar
+[ 2016-10-06 04:29:18] Skill 0 = Skill1 / 30
+[ 2016-10-06 04:29:18] Skill 1 = Skill2 / 50
+[ 2016-10-06 04:30:12] Client disconnected.
+[ 2016-10-06 04:40:39] Setting up server...
+[ 2016-10-06 04:40:39] Connected to MYSQL.
+[ 2016-10-06 04:40:39] Server is running on port 32211
+[ 2016-10-06 04:40:53] Receive: LOGIN
+[ 2016-10-06 04:40:53] 0
+[ 2016-10-06 04:40:53] 1
+[ 2016-10-06 04:40:53] Account logged in. Character = Test2
+[ 2016-10-06 04:40:53] Skill 0 = Skill1 / 30
+[ 2016-10-06 04:40:53] Skill 1 = Skill2 / 50
+[ 2016-10-06 04:41:00] Client disconnected.
+[ 2016-10-06 04:46:20] Setting up server...
+[ 2016-10-06 04:46:20] Connected to MYSQL.
+[ 2016-10-06 04:46:20] Server is running on port 32211
+[ 2016-10-06 04:46:28] Receive: LOGIN
+[ 2016-10-06 04:46:28] 1|Firstchar|10|0,0,0,0,-2|Test2|4|0,0,0,0,-
+[ 2016-10-06 04:46:28] Account logged in. Character = Test2
+[ 2016-10-06 04:46:28] Skill 0 = Skill1 / 30
+[ 2016-10-06 04:46:28] Skill 1 = Skill2 / 50
+[ 2016-10-06 04:48:49] Setting up server...
+[ 2016-10-06 04:48:49] Connected to MYSQL.
+[ 2016-10-06 04:48:49] Server is running on port 32211
+[ 2016-10-06 04:48:56] Receive: LOGIN
+[ 2016-10-06 04:48:56] 1|Firstchar|10|0,0,0,0,+2|Test2|4|0,0,0,0,+
+[ 2016-10-06 04:48:56] Account logged in. Character = Test2
+[ 2016-10-06 04:48:56] Skill 0 = Skill1 / 30
+[ 2016-10-06 04:48:56] Skill 1 = Skill2 / 50
+[ 2016-10-06 04:49:11] Client disconnected.
+[ 2016-10-06 04:53:54] Setting up server...
+[ 2016-10-06 04:53:54] Connected to MYSQL.
+[ 2016-10-06 04:53:54] Server is running on port 32211
+[ 2016-10-06 04:54:38] Receive: LOGIN
+[ 2016-10-06 04:54:38] 1|Firstchar|10|0,0,0,0+2|Test2|4|0,0,0,0+
+[ 2016-10-06 04:54:38] Account logged in. Character = Test2
+[ 2016-10-06 04:54:38] Skill 0 = Skill1 / 30
+[ 2016-10-06 04:54:38] Skill 1 = Skill2 / 50
+[ 2016-10-06 04:54:47] Client disconnected.
+[ 2016-10-06 04:57:23] Receive: LOGIN
+[ 2016-10-06 04:57:23] 1|Firstchar|10|0,0,0,0+2|Test2|4|0,0,0,0+
+[ 2016-10-06 04:57:23] Account logged in. Character = Test2
+[ 2016-10-06 04:57:23] Skill 0 = Skill1 / 30
+[ 2016-10-06 04:57:23] Skill 1 = Skill2 / 50
+[ 2016-10-06 04:58:18] Client disconnected.
+[ 2016-10-06 04:58:21] Receive: LOGIN
+[ 2016-10-06 04:58:21] 1|Firstchar|10|10,7,5,5+2|Test2|4|10,7,5,5+
+[ 2016-10-06 04:58:21] Account logged in. Character = Test2
+[ 2016-10-06 04:58:21] Skill 0 = Skill1 / 30
+[ 2016-10-06 04:58:21] Skill 1 = Skill2 / 50
+[ 2016-10-06 04:58:43] Client disconnected.
+[ 2016-10-06 05:01:31] Setting up server...
+[ 2016-10-06 05:01:31] Connected to MYSQL.
+[ 2016-10-06 05:01:31] Server is running on port 32211
+[ 2016-10-06 05:02:08] Setting up server...
+[ 2016-10-06 05:02:08] Connected to MYSQL.
+[ 2016-10-06 05:02:08] Server is running on port 32211
+[ 2016-10-06 05:02:16] Receive: LOGIN
+[ 2016-10-06 05:02:16] 1|Firstchar|10|10,7,5,5+2|Test2|4|10,7,5,5+
+[ 2016-10-06 05:02:16] Account logged in. Character = Test2
+[ 2016-10-06 05:02:16] Skill 0 = Skill1 / 30
+[ 2016-10-06 05:02:16] Skill 1 = Skill2 / 50
+[ 2016-10-06 05:02:17] Receive: GETWORLD
+[ 2016-10-06 05:02:17] User selected character = 1
+[ 2016-10-06 05:02:17] Character information sent.
+[ 2016-10-06 05:02:17] Receive: MOVE
+[ 2016-10-06 05:02:17] Receive: ADVANCEWAVE
+[ 2016-10-06 05:02:17] Test2 is advancing wave..
+[ 2016-10-06 05:02:18] Receive: MOVE
+[ 2016-10-06 05:02:18] Receive: MOVE
+[ 2016-10-06 05:02:18] Receive: MOVE
+[ 2016-10-06 05:02:18] Receive: MOVE
+[ 2016-10-06 05:02:18] Receive: MOVE
+[ 2016-10-06 05:02:19] Receive: MOVE
+[ 2016-10-06 05:02:19] Receive: MOVE
+[ 2016-10-06 05:02:19] Receive: MOVE
+[ 2016-10-06 05:02:19] Receive: MOVE
+[ 2016-10-06 05:02:19] Receive: MOVE
+[ 2016-10-06 05:02:20] Receive: MOVE
+[ 2016-10-06 05:02:20] Receive: MOVE
+[ 2016-10-06 05:02:20] Receive: MOVE
+[ 2016-10-06 05:02:20] Receive: MOVE
+[ 2016-10-06 05:02:21] Receive: MOVE
+[ 2016-10-06 05:02:21] Receive: MOVE
+[ 2016-10-06 05:02:21] Receive: MOVE
+[ 2016-10-06 05:02:21] Receive: MOVE
+[ 2016-10-06 05:02:21] Receive: MOVE
+[ 2016-10-06 05:02:22] Receive: MOVE
+[ 2016-10-06 05:02:22] Receive: MOVE
+[ 2016-10-06 05:02:22] Receive: MOVE
+[ 2016-10-06 05:02:22] Receive: MOVE
+[ 2016-10-06 05:02:22] Receive: MOVE
+[ 2016-10-06 05:02:23] Receive: MOVE
+[ 2016-10-06 05:02:23] Receive: MOVE
+[ 2016-10-06 05:02:23] Receive: MOVE
+[ 2016-10-06 05:02:23] Receive: MOVE
+[ 2016-10-06 05:02:23] Receive: MOVE
+[ 2016-10-06 05:02:24] Receive: MOVE
+[ 2016-10-06 05:02:24] Receive: MOVE
+[ 2016-10-06 05:02:24] Receive: MOVE
+[ 2016-10-06 05:02:24] Receive: MOVE
+[ 2016-10-06 05:02:24] Receive: MOVE
+[ 2016-10-06 05:02:25] Receive: MOVE
+[ 2016-10-06 05:02:25] Receive: MOVE
+[ 2016-10-06 05:02:25] Receive: MOVE
+[ 2016-10-06 05:02:25] Receive: MOVE
+[ 2016-10-06 05:02:26] Receive: MOVE
+[ 2016-10-06 05:02:26] Receive: MOVE
+[ 2016-10-06 05:02:26] Receive: MOVE
+[ 2016-10-06 05:02:26] Receive: MOVE
+[ 2016-10-06 05:02:26] Receive: MOVE
+[ 2016-10-06 05:02:27] Receive: MOVE
+[ 2016-10-06 05:02:27] Receive: MOVE
+[ 2016-10-06 05:02:27] Receive: MOVE
+[ 2016-10-06 05:02:27] Client disconnected.
+[ 2016-10-06 05:02:40] Receive: LOGIN
+[ 2016-10-06 05:02:40] 1|Firstchar|10|10,7,5,5+2|Test2|4|10,7,5,5+
+[ 2016-10-06 05:02:40] Account logged in. Character = Test2
+[ 2016-10-06 05:02:40] Skill 0 = Skill1 / 30
+[ 2016-10-06 05:02:40] Skill 1 = Skill2 / 50
+[ 2016-10-06 05:02:41] Receive: GETWORLD
+[ 2016-10-06 05:02:41] User selected character = 1
+[ 2016-10-06 05:02:41] Character information sent.
+[ 2016-10-06 05:02:41] Receive: MOVE
+[ 2016-10-06 05:02:41] Receive: ADVANCEWAVE
+[ 2016-10-06 05:02:41] Test2 is advancing wave..
+[ 2016-10-06 05:02:41] Receive: MOVE
+[ 2016-10-06 05:02:42] Receive: MOVE
+[ 2016-10-06 05:02:42] Receive: MOVE
+[ 2016-10-06 05:02:42] Receive: MOVE
+[ 2016-10-06 05:02:42] Receive: MOVE
+[ 2016-10-06 05:02:43] Receive: MOVE
+[ 2016-10-06 05:02:43] Receive: MOVE
+[ 2016-10-06 05:02:43] Receive: MOVE
+[ 2016-10-06 05:02:43] Receive: MOVE
+[ 2016-10-06 05:02:43] Receive: MOVE
+[ 2016-10-06 05:02:44] Receive: MOVE
+[ 2016-10-06 05:02:44] Receive: MOVE
+[ 2016-10-06 05:02:44] Receive: MOVE
+[ 2016-10-06 05:02:44] Receive: MOVE
+[ 2016-10-06 05:02:44] Receive: MOVE
+[ 2016-10-06 05:02:45] Receive: MOVE
+[ 2016-10-06 05:02:45] Receive: MOVE
+[ 2016-10-06 05:02:45] Receive: MOVE
+[ 2016-10-06 05:02:45] Receive: MOVE
+[ 2016-10-06 05:02:45] Receive: MOVE
+[ 2016-10-06 05:02:46] Receive: MOVE
+[ 2016-10-06 05:02:46] Receive: MOVE
+[ 2016-10-06 05:02:46] Receive: MOVE
+[ 2016-10-06 05:02:46] Receive: MOVE
+[ 2016-10-06 05:02:46] Receive: MOVE
+[ 2016-10-06 05:02:47] Receive: MOVE
+[ 2016-10-06 05:02:47] Receive: MOVE
+[ 2016-10-06 05:02:47] Receive: MOVE
+[ 2016-10-06 05:02:59] Client disconnected.
+[ 2016-10-06 05:03:10] Receive: LOGIN
+[ 2016-10-06 05:03:10] 1|Firstchar|10|10,7,5,5+2|Test2|4|10,7,5,5+
+[ 2016-10-06 05:03:10] Account logged in. Character = Test2
+[ 2016-10-06 05:03:10] Skill 0 = Skill1 / 30
+[ 2016-10-06 05:03:10] Skill 1 = Skill2 / 50
+[ 2016-10-06 05:03:11] Receive: GETWORLD
+[ 2016-10-06 05:03:11] User selected character = 1
+[ 2016-10-06 05:03:11] Character information sent.
+[ 2016-10-06 05:03:11] Receive: MOVE
+[ 2016-10-06 05:03:11] Receive: ADVANCEWAVE
+[ 2016-10-06 05:03:11] Test2 is advancing wave..
+[ 2016-10-06 05:03:12] Receive: MOVE
+[ 2016-10-06 05:03:12] Receive: MOVE
+[ 2016-10-06 05:03:12] Receive: MOVE
+[ 2016-10-06 05:03:12] Receive: MOVE
+[ 2016-10-06 05:03:13] Receive: MOVE
+[ 2016-10-06 05:03:13] Receive: MOVE
+[ 2016-10-06 05:03:13] Receive: MOVE
+[ 2016-10-06 05:03:13] Receive: MOVE
+[ 2016-10-06 05:03:13] Receive: MOVE
+[ 2016-10-06 05:03:14] Receive: MOVE
+[ 2016-10-06 05:03:14] Receive: MOVE
+[ 2016-10-06 05:03:14] Receive: MOVE
+[ 2016-10-06 05:03:14] Receive: MOVE
+[ 2016-10-06 05:03:14] Receive: MOVE
+[ 2016-10-06 05:03:15] Receive: MOVE
+[ 2016-10-06 05:03:15] Receive: MOVE
+[ 2016-10-06 05:03:15] Receive: MOVE
+[ 2016-10-06 05:03:15] Receive: MOVE
+[ 2016-10-06 05:03:16] Receive: MOVE
+[ 2016-10-06 05:03:16] Receive: MOVE
+[ 2016-10-06 05:03:16] Receive: MOVE
+[ 2016-10-06 05:03:16] Receive: MOVE
+[ 2016-10-06 05:03:16] Receive: MOVE
+[ 2016-10-06 05:03:17] Receive: MOVE
+[ 2016-10-06 05:03:17] Receive: MOVE
+[ 2016-10-06 05:03:17] Receive: MOVE
+[ 2016-10-06 05:03:17] Receive: MOVE
+[ 2016-10-06 05:03:17] Receive: MOVE
+[ 2016-10-06 05:03:18] Receive: MOVE
+[ 2016-10-06 05:03:18] Receive: SHOOT
+[ 2016-10-06 05:03:18] Receive: MOVE
+[ 2016-10-06 05:03:18] Receive: SHOOT
+[ 2016-10-06 05:03:18] Receive: MOVE
+[ 2016-10-06 05:03:18] Receive: SHOOT
+[ 2016-10-06 05:03:18] Receive: MOVE
+[ 2016-10-06 05:03:18] Receive: ADVANCEWAVE
+[ 2016-10-06 05:03:18] Test2 is advancing wave..
+[ 2016-10-06 05:03:18] Receive: SHOOT
+[ 2016-10-06 05:03:18] Receive: MOVE
+[ 2016-10-06 05:03:19] Receive: MOVE
+[ 2016-10-06 05:03:19] Receive: SHOOT
+[ 2016-10-06 05:03:19] Receive: MOVE
+[ 2016-10-06 05:03:19] Receive: SHOOT
+[ 2016-10-06 05:03:19] Receive: MOVE
+[ 2016-10-06 05:03:19] Receive: MOVE
+[ 2016-10-06 05:03:19] Receive: MOVE
+[ 2016-10-06 05:03:20] Receive: MOVE
+[ 2016-10-06 05:03:20] Receive: ADVANCEWAVE
+[ 2016-10-06 05:03:20] Receive: MOVE
+[ 2016-10-06 05:03:20] Test2 is advancing wave..
+[ 2016-10-06 05:03:20] Receive: MOVE
+[ 2016-10-06 05:03:20] Receive: MOVE
+[ 2016-10-06 05:03:20] Receive: MOVE
+[ 2016-10-06 05:03:21] Receive: MOVE
+[ 2016-10-06 05:03:21] Receive: MOVE
+[ 2016-10-06 05:03:21] Receive: MOVE
+[ 2016-10-06 05:03:21] Receive: MOVE
+[ 2016-10-06 05:03:22] Receive: MOVE
+[ 2016-10-06 05:03:22] Receive: MOVE
+[ 2016-10-06 05:03:22] Receive: MOVE
+[ 2016-10-06 05:03:22] Receive: MOVE
+[ 2016-10-06 05:03:22] Receive: MOVE
+[ 2016-10-06 05:03:23] Receive: MOVE
+[ 2016-10-06 05:03:23] Receive: MOVE
+[ 2016-10-06 05:03:23] Receive: MOVE
+[ 2016-10-06 05:03:23] Receive: MOVE
+[ 2016-10-06 05:03:23] Receive: MOVE
+[ 2016-10-06 05:03:24] Receive: MOVE
+[ 2016-10-06 05:03:24] Receive: MOVE
+[ 2016-10-06 05:03:24] Receive: MOVE
+[ 2016-10-06 05:03:24] Receive: MOVE
+[ 2016-10-06 05:03:24] Receive: MOVE
+[ 2016-10-06 05:03:25] Receive: MOVE
+[ 2016-10-06 05:03:25] Receive: MOVE
+[ 2016-10-06 05:03:25] Receive: MOVE
+[ 2016-10-06 05:03:25] Receive: MOVE
+[ 2016-10-06 05:03:25] Receive: MOVE
+[ 2016-10-06 05:03:26] Receive: MOVE
+[ 2016-10-06 05:03:26] Receive: MOVE
+[ 2016-10-06 05:03:26] Receive: MOVE
+[ 2016-10-06 05:03:26] Receive: MOVE
+[ 2016-10-06 05:03:27] Receive: MOVE
+[ 2016-10-06 05:03:27] Receive: MOVE
+[ 2016-10-06 05:03:27] Receive: MOVE
+[ 2016-10-06 05:03:27] Receive: MOVE
+[ 2016-10-06 05:03:27] Receive: MOVE
+[ 2016-10-06 05:03:28] Receive: MOVE
+[ 2016-10-06 05:03:28] Receive: MOVE
+[ 2016-10-06 05:03:28] Receive: MOVE
+[ 2016-10-06 05:03:28] Receive: MOVE
+[ 2016-10-06 05:03:28] Receive: MOVE
+[ 2016-10-06 05:03:29] Receive: MOVE
+[ 2016-10-06 05:03:29] Receive: MOVE
+[ 2016-10-06 05:03:29] Receive: MOVE
+[ 2016-10-06 05:03:29] Receive: MOVE
+[ 2016-10-06 05:03:29] Receive: MOVE
+[ 2016-10-06 05:03:30] Receive: MOVE
+[ 2016-10-06 05:03:30] Receive: MOVE
+[ 2016-10-06 05:03:30] Receive: MOVE
+[ 2016-10-06 05:03:30] Receive: MOVE
+[ 2016-10-06 05:03:31] Receive: MOVE
+[ 2016-10-06 05:03:31] Receive: MOVE
+[ 2016-10-06 05:03:31] Receive: MOVE
+[ 2016-10-06 05:03:31] Receive: MOVE
+[ 2016-10-06 05:03:31] Receive: MOVE
+[ 2016-10-06 05:03:32] Receive: MOVE
+[ 2016-10-06 05:03:32] Receive: MOVE
+[ 2016-10-06 05:03:32] Receive: MOVE
+[ 2016-10-06 05:03:32] Receive: MOVE
+[ 2016-10-06 05:03:32] Receive: MOVE
+[ 2016-10-06 05:03:33] Receive: MOVE
+[ 2016-10-06 05:03:33] Receive: MOVE
+[ 2016-10-06 05:03:33] Receive: MOVE
+[ 2016-10-06 05:03:33] Receive: MOVE
+[ 2016-10-06 05:03:33] Receive: MOVE
+[ 2016-10-06 05:03:34] Receive: MOVE
+[ 2016-10-06 05:03:34] Receive: MOVE
+[ 2016-10-06 05:03:34] Receive: MOVE
+[ 2016-10-06 05:03:34] Receive: MOVE
+[ 2016-10-06 05:03:34] Receive: MOVE
+[ 2016-10-06 05:03:35] Receive: MOVE
+[ 2016-10-06 05:03:35] Receive: MOVE
+[ 2016-10-06 05:03:35] Receive: MOVE
+[ 2016-10-06 05:03:35] Receive: MOVE
+[ 2016-10-06 05:03:35] Receive: MOVE
+[ 2016-10-06 05:03:36] Receive: MOVE
+[ 2016-10-06 05:03:36] Receive: MOVE
+[ 2016-10-06 05:03:36] Receive: MOVE
+[ 2016-10-06 05:03:36] Receive: MOVE
+[ 2016-10-06 05:03:37] Receive: MOVE
+[ 2016-10-06 05:03:37] Receive: MOVE
+[ 2016-10-06 05:03:37] Receive: MOVE
+[ 2016-10-06 05:03:37] Receive: MOVE
+[ 2016-10-06 05:03:37] Receive: MOVE
+[ 2016-10-06 05:03:38] Receive: MOVE
+[ 2016-10-06 05:03:38] Receive: MOVE
+[ 2016-10-06 05:03:38] Receive: MOVE
+[ 2016-10-06 05:03:38] Receive: MOVE
+[ 2016-10-06 05:03:38] Receive: MOVE
+[ 2016-10-06 05:03:39] Receive: MOVE
+[ 2016-10-06 05:03:39] Receive: MOVE
+[ 2016-10-06 05:03:39] Receive: MOVE
+[ 2016-10-06 05:03:39] Receive: MOVE
+[ 2016-10-06 05:03:39] Receive: MOVE
+[ 2016-10-06 05:03:40] Receive: MOVE
+[ 2016-10-06 05:03:40] Receive: MOVE
+[ 2016-10-06 05:03:40] Receive: MOVE
+[ 2016-10-06 05:03:40] Receive: MOVE
+[ 2016-10-06 05:03:40] Receive: MOVE
+[ 2016-10-06 05:03:41] Receive: MOVE
+[ 2016-10-06 05:03:41] Receive: MOVE
+[ 2016-10-06 05:03:41] Receive: MOVE
+[ 2016-10-06 05:03:41] Receive: MOVE
+[ 2016-10-06 05:03:42] Receive: MOVE
+[ 2016-10-06 05:03:42] Receive: MOVE
+[ 2016-10-06 05:03:42] Receive: MOVE
+[ 2016-10-06 05:03:42] Receive: MOVE
+[ 2016-10-06 05:03:42] Receive: MOVE
+[ 2016-10-06 05:03:43] Receive: MOVE
+[ 2016-10-06 05:03:43] Receive: MOVE
+[ 2016-10-06 05:03:43] Receive: MOVE
+[ 2016-10-06 05:03:43] Receive: MOVE
+[ 2016-10-06 05:03:43] Receive: MOVE
+[ 2016-10-06 05:03:44] Receive: MOVE
+[ 2016-10-06 05:03:44] Receive: MOVE
+[ 2016-10-06 05:03:44] Receive: MOVE
+[ 2016-10-06 05:03:44] Receive: MOVE
+[ 2016-10-06 05:03:44] Receive: MOVE
+[ 2016-10-06 05:03:45] Receive: MOVE
+[ 2016-10-06 05:03:45] Receive: MOVE
+[ 2016-10-06 05:03:45] Receive: MOVE
+[ 2016-10-06 05:03:45] Receive: MOVE
+[ 2016-10-06 05:03:45] Receive: MOVE
+[ 2016-10-06 05:03:46] Receive: MOVE
+[ 2016-10-06 05:03:46] Receive: MOVE
+[ 2016-10-06 05:03:46] Receive: MOVE
+[ 2016-10-06 05:03:46] Receive: MOVE
+[ 2016-10-06 05:03:46] Receive: MOVE
+[ 2016-10-06 05:03:47] Receive: MOVE
+[ 2016-10-06 05:03:47] Receive: MOVE
+[ 2016-10-06 05:03:47] Receive: MOVE
+[ 2016-10-06 05:03:47] Receive: MOVE
+[ 2016-10-06 05:03:48] Receive: MOVE
+[ 2016-10-06 05:03:48] Receive: MOVE
+[ 2016-10-06 05:03:48] Receive: MOVE
+[ 2016-10-06 05:03:48] Receive: MOVE
+[ 2016-10-06 05:03:48] Receive: MOVE
+[ 2016-10-06 05:03:49] Receive: MOVE
+[ 2016-10-06 05:03:49] Receive: MOVE
+[ 2016-10-06 05:03:49] Receive: MOVE
+[ 2016-10-06 05:03:49] Receive: MOVE
+[ 2016-10-06 05:03:49] Receive: MOVE
+[ 2016-10-06 05:03:50] Client disconnected.
+[ 2016-10-06 05:04:59] Receive: LOGIN
+[ 2016-10-06 05:04:59] 1|Firstchar|10|10,7,5,5+2|Test2|4|10,7,5,5+
+[ 2016-10-06 05:04:59] Account logged in. Character = Test2
+[ 2016-10-06 05:04:59] Skill 0 = Skill1 / 30
+[ 2016-10-06 05:04:59] Skill 1 = Skill2 / 50
+[ 2016-10-06 05:05:00] Receive: GETWORLD
+[ 2016-10-06 05:05:00] User selected character = 1
+[ 2016-10-06 05:05:00] Character information sent.
+[ 2016-10-06 05:05:00] Receive: MOVE
+[ 2016-10-06 05:05:00] Receive: ADVANCEWAVE
+[ 2016-10-06 05:05:00] Test2 is advancing wave..
+[ 2016-10-06 05:05:01] Receive: MOVE
+[ 2016-10-06 05:05:01] Receive: MOVE
+[ 2016-10-06 05:05:01] Receive: MOVE
+[ 2016-10-06 05:05:01] Receive: MOVE
+[ 2016-10-06 05:05:02] Receive: MOVE
+[ 2016-10-06 05:05:02] Receive: MOVE
+[ 2016-10-06 05:05:02] Receive: MOVE
+[ 2016-10-06 05:05:02] Receive: MOVE
+[ 2016-10-06 05:05:02] Receive: MOVE
+[ 2016-10-06 05:05:03] Receive: MOVE
+[ 2016-10-06 05:05:03] Receive: MOVE
+[ 2016-10-06 05:05:03] Receive: MOVE
+[ 2016-10-06 05:05:03] Receive: MOVE
+[ 2016-10-06 05:05:03] Receive: MOVE
+[ 2016-10-06 05:05:04] Receive: MOVE
+[ 2016-10-06 05:05:04] Receive: MOVE
+[ 2016-10-06 05:05:04] Receive: MOVE
+[ 2016-10-06 05:05:04] Receive: MOVE
+[ 2016-10-06 05:05:04] Receive: MOVE
+[ 2016-10-06 05:05:05] Receive: MOVE
+[ 2016-10-06 05:05:05] Receive: MOVE
+[ 2016-10-06 05:05:05] Receive: MOVE
+[ 2016-10-06 05:05:05] Receive: MOVE
+[ 2016-10-06 05:05:05] Receive: MOVE
+[ 2016-10-06 05:05:06] Receive: MOVE
+[ 2016-10-06 05:05:06] Receive: MOVE
+[ 2016-10-06 05:05:06] Receive: MOVE
+[ 2016-10-06 05:05:06] Receive: MOVE
+[ 2016-10-06 05:05:07] Receive: MOVE
+[ 2016-10-06 05:05:07] Receive: MOVE
+[ 2016-10-06 05:05:07] Receive: MOVE
+[ 2016-10-06 05:05:07] Receive: MOVE
+[ 2016-10-06 05:05:07] Receive: MOVE
+[ 2016-10-06 05:05:08] Receive: MOVE
+[ 2016-10-06 05:05:08] Receive: MOVE
+[ 2016-10-06 05:05:08] Receive: MOVE
+[ 2016-10-06 05:05:08] Receive: MOVE
+[ 2016-10-06 05:05:08] Receive: MOVE
+[ 2016-10-06 05:05:09] Receive: MOVE
+[ 2016-10-06 05:05:09] Receive: MOVE
+[ 2016-10-06 05:05:09] Receive: MOVE
+[ 2016-10-06 05:05:09] Receive: MOVE
+[ 2016-10-06 05:05:09] Receive: MOVE
+[ 2016-10-06 05:05:10] Receive: MOVE
+[ 2016-10-06 05:05:10] Receive: MOVE
+[ 2016-10-06 05:05:10] Receive: MOVE
+[ 2016-10-06 05:05:10] Receive: MOVE
+[ 2016-10-06 05:05:10] Receive: MOVE
+[ 2016-10-06 05:05:11] Receive: MOVE
+[ 2016-10-06 05:05:11] Receive: MOVE
+[ 2016-10-06 05:05:11] Receive: MOVE
+[ 2016-10-06 05:05:11] Receive: MOVE
+[ 2016-10-06 05:05:12] Receive: MOVE
+[ 2016-10-06 05:05:12] Receive: MOVE
+[ 2016-10-06 05:05:12] Receive: MOVE
+[ 2016-10-06 05:05:12] Receive: MOVE
+[ 2016-10-06 05:05:12] Receive: MOVE
+[ 2016-10-06 05:05:13] Receive: MOVE
+[ 2016-10-06 05:05:13] Receive: MOVE
+[ 2016-10-06 05:05:13] Receive: MOVE
+[ 2016-10-06 05:05:13] Receive: MOVE
+[ 2016-10-06 05:05:13] Receive: MOVE
+[ 2016-10-06 05:05:14] Receive: MOVE
+[ 2016-10-06 05:05:14] Receive: MOVE
+[ 2016-10-06 05:05:14] Receive: MOVE
+[ 2016-10-06 05:05:14] Receive: MOVE
+[ 2016-10-06 05:05:14] Receive: MOVE
+[ 2016-10-06 05:05:15] Receive: MOVE
+[ 2016-10-06 05:05:15] Receive: MOVE
+[ 2016-10-06 05:05:15] Receive: MOVE
+[ 2016-10-06 05:05:15] Receive: MOVE
+[ 2016-10-06 05:05:15] Receive: MOVE
+[ 2016-10-06 05:05:16] Receive: MOVE
+[ 2016-10-06 05:05:16] Receive: MOVE
+[ 2016-10-06 05:05:16] Receive: MOVE
+[ 2016-10-06 05:05:16] Receive: MOVE
+[ 2016-10-06 05:05:17] Receive: MOVE
+[ 2016-10-06 05:05:17] Receive: MOVE
+[ 2016-10-06 05:05:17] Receive: MOVE
+[ 2016-10-06 05:05:17] Receive: MOVE
+[ 2016-10-06 05:05:17] Receive: MOVE
+[ 2016-10-06 05:05:18] Receive: MOVE
+[ 2016-10-06 05:05:18] Receive: MOVE
+[ 2016-10-06 05:05:18] Receive: MOVE
+[ 2016-10-06 05:05:18] Receive: MOVE
+[ 2016-10-06 05:05:18] Receive: MOVE
+[ 2016-10-06 05:05:19] Receive: MOVE
+[ 2016-10-06 05:05:19] Receive: MOVE
+[ 2016-10-06 05:05:19] Receive: MOVE
+[ 2016-10-06 05:05:19] Receive: MOVE
+[ 2016-10-06 05:05:19] Receive: MOVE
+[ 2016-10-06 05:05:20] Receive: MOVE
+[ 2016-10-06 05:05:20] Receive: SHOOT
+[ 2016-10-06 05:05:20] Receive: MOVE
+[ 2016-10-06 05:05:20] Receive: SHOOT
+[ 2016-10-06 05:05:20] Receive: MOVE
+[ 2016-10-06 05:05:20] Receive: SHOOT
+[ 2016-10-06 05:05:20] Receive: MOVE
+[ 2016-10-06 05:05:20] Receive: SHOOT
+[ 2016-10-06 05:05:20] Receive: MOVE
+[ 2016-10-06 05:05:21] Receive: MOVE
+[ 2016-10-06 05:05:21] Receive: SHOOT
+[ 2016-10-06 05:05:21] Receive: ADVANCEWAVE
+[ 2016-10-06 05:05:21] Test2 is advancing wave..
+[ 2016-10-06 05:05:21] Receive: MOVE
+[ 2016-10-06 05:05:21] Receive: SHOOT
+[ 2016-10-06 05:05:21] Receive: MOVE
+[ 2016-10-06 05:05:21] Receive: SHOOT
+[ 2016-10-06 05:05:21] Receive: MOVE
+[ 2016-10-06 05:05:21] Receive: SHOOT
+[ 2016-10-06 05:05:22] Receive: MOVE
+[ 2016-10-06 05:05:22] Receive: MOVE
+[ 2016-10-06 05:05:22] Receive: SHOOT
+[ 2016-10-06 05:05:22] Receive: MOVE
+[ 2016-10-06 05:05:22] Receive: SHOOT
+[ 2016-10-06 05:05:22] Receive: ADVANCEWAVE
+[ 2016-10-06 05:05:22] Test2 is advancing wave..
+[ 2016-10-06 05:05:22] Receive: MOVE
+[ 2016-10-06 05:05:22] Receive: SHOOT
+[ 2016-10-06 05:05:22] Receive: MOVE
+[ 2016-10-06 05:05:23] Receive: MOVE
+[ 2016-10-06 05:05:23] Receive: MOVE
+[ 2016-10-06 05:05:23] Receive: MOVE
+[ 2016-10-06 05:05:23] Receive: MOVE
+[ 2016-10-06 05:05:23] Receive: MOVE
+[ 2016-10-06 05:05:24] Client disconnected.
+[ 2016-10-06 16:05:35] Setting up server...
+[ 2016-10-06 16:05:35] Connected to MYSQL.
+[ 2016-10-06 16:05:35] Server is running on port 32211
+[ 2016-10-06 16:05:39] Login attempt failed. username=test password=tset
+[ 2016-10-06 16:05:45] Client disconnected.
+[ 2016-10-06 16:05:51] 1|Firstchar|10|10,7,5,5+2|Test2|4|10,7,5,5+
+[ 2016-10-06 16:05:51] Account logged in. Character = Test2
+[ 2016-10-06 16:05:51] Skill 0 = Skill1 / 30
+[ 2016-10-06 16:05:51] Skill 1 = Skill2 / 50
+[ 2016-10-06 16:06:30] Client disconnected.
+[ 2016-10-06 16:06:34] Login attempt failed. username=test password=teset
+[ 2016-10-06 16:06:37] Client disconnected.
+[ 2016-10-06 16:06:44] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-06 16:06:44] Account logged in. Character = Test2
+[ 2016-10-06 16:06:44] Skill 0 = Skill1 / 30
+[ 2016-10-06 16:06:44] Skill 1 = Skill2 / 50
+[ 2016-10-06 16:06:48] User selected character = 1
+[ 2016-10-06 16:06:48] Character information sent.
+[ 2016-10-06 16:06:48] Test2 is advancing wave..
+[ 2016-10-06 16:07:06] Client disconnected.
+[ 2016-10-06 16:08:00] Setting up server...
+[ 2016-10-06 16:08:00] Connected to MYSQL.
+[ 2016-10-06 16:08:00] Server is running on port 32211
+[ 2016-10-06 16:08:03] Login attempt failed. username=test password=1
+[ 2016-10-06 16:08:05] Login attempt failed. username=test password=
+[ 2016-10-06 16:08:06] Login attempt failed. username=test password=
+[ 2016-10-06 16:08:06] Login attempt failed. username=test password=
+[ 2016-10-06 16:08:10] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-06 16:08:10] Account logged in. Character = Test2
+[ 2016-10-06 16:08:10] Skill 0 = Skill1 / 30
+[ 2016-10-06 16:08:10] Skill 1 = Skill2 / 50
+[ 2016-10-06 16:08:15] User selected character = 1
+[ 2016-10-06 16:08:15] Character information sent.
+[ 2016-10-06 16:08:15] Test2 is advancing wave..
+[ 2016-10-06 16:08:18] Client disconnected.
+[ 2016-10-06 16:38:09] Setting up server...
+[ 2016-10-06 16:38:09] Connected to MYSQL.
+[ 2016-10-06 16:38:09] Server is running on port 32211
+[ 2016-10-06 16:38:12] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-06 16:38:12] Account logged in. Character = Test2
+[ 2016-10-06 16:38:12] Skill 0 = Skill1 / 30
+[ 2016-10-06 16:38:12] Skill 1 = Skill2 / 50
+[ 2016-10-06 16:38:13] User selected character = 1
+[ 2016-10-06 16:38:13] Character information sent.
+[ 2016-10-06 16:38:13] Test2 is advancing wave..
+[ 2016-10-06 16:38:16] Test2 is advancing wave..
+[ 2016-10-06 16:38:17] Test2 is advancing wave..
+[ 2016-10-06 16:38:27] Client disconnected.

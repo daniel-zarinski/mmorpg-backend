@@ -1,0 +1,128 @@
+This is the log file of the 2016-10-28
+[ 2016-10-28 18:22:38] Setting up server...
+[ 2016-10-28 18:22:39] Can't connect to database. MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at LoginServer.frmLoginServer.SetupServer() in C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\Login Server.cs:line 120
+[ 2016-10-28 18:22:39] Connected to MYSQL.
+[ 2016-10-28 18:22:40] Skill database loaded with [0] skills
+[ 2016-10-28 18:22:43] Item database loaded with [0] items
+[ 2016-10-28 18:22:43] Monster database loaded with [2] monsters
+[ 2016-10-28 18:22:43] Waves database loaded with [1] waves
+[ 2016-10-28 18:22:43] Server is running on port 32211
+[ 2016-10-28 18:25:59] Setting up server...
+[ 2016-10-28 18:25:59] Connected to MYSQL.
+[ 2016-10-28 18:25:59] Skill database loaded with [4] skills
+[ 2016-10-28 18:25:59] Item database loaded with [5] items
+[ 2016-10-28 18:25:59] Monster database loaded with [2] monsters
+[ 2016-10-28 18:25:59] Waves database loaded with [1] waves
+[ 2016-10-28 18:25:59] Server is running on port 32211
+[ 2016-10-28 18:26:32] Setting up server...
+[ 2016-10-28 18:26:32] Connected to MYSQL.
+[ 2016-10-28 18:26:32] Skill database loaded with [4] skills
+[ 2016-10-28 18:26:32] Item database loaded with [5] items
+[ 2016-10-28 18:26:32] Monster database loaded with [2] monsters
+[ 2016-10-28 18:26:32] Waves database loaded with [1] waves
+[ 2016-10-28 18:26:32] Server is running on port 32211
+[ 2016-10-28 18:27:45] Setting up server...
+[ 2016-10-28 18:27:46] Connected to MYSQL.
+[ 2016-10-28 18:27:46] Skill database loaded with [4] skills
+[ 2016-10-28 18:27:46] Item database loaded with [5] items
+[ 2016-10-28 18:27:46] Monster database loaded with [2] monsters
+[ 2016-10-28 18:27:46] Waves database loaded with [1] waves
+[ 2016-10-28 18:27:46] Server is running on port 32211
+[ 2016-10-28 18:29:40] Setting up server...
+[ 2016-10-28 18:29:40] Connected to MYSQL.
+[ 2016-10-28 18:29:40] Skill database loaded with [4] skills
+[ 2016-10-28 18:29:40] Item database loaded with [5] items
+[ 2016-10-28 18:29:40] Monster database loaded with [2] monsters
+[ 2016-10-28 18:29:40] Waves database loaded with [1] waves
+[ 2016-10-28 18:29:40] Server is running on port 32211
+[ 2016-10-28 18:30:11] Setting up server...
+[ 2016-10-28 18:30:11] Connected to MYSQL.
+[ 2016-10-28 18:30:11] Skill database loaded with [4] skills
+[ 2016-10-28 18:30:11] Item database loaded with [5] items
+[ 2016-10-28 18:30:11] Monster database loaded with [2] monsters
+[ 2016-10-28 18:30:11] Waves database loaded with [1] waves
+[ 2016-10-28 18:30:11] Server is running on port 32211
+[ 2016-10-28 18:34:17] Setting up server...
+[ 2016-10-28 18:34:17] Connected to MYSQL.
+[ 2016-10-28 18:34:17] Skill database loaded with [4] skills
+[ 2016-10-28 18:34:17] Item database loaded with [5] items
+[ 2016-10-28 18:34:17] Monster database loaded with [2] monsters
+[ 2016-10-28 18:34:17] Waves database loaded with [1] waves
+[ 2016-10-28 18:34:17] Server is running on port 32211
+[ 2016-10-28 18:34:44] Setting up server...
+[ 2016-10-28 18:34:44] Connected to MYSQL.
+[ 2016-10-28 18:34:44] Skill database loaded with [4] skills
+[ 2016-10-28 18:34:44] Item database loaded with [5] items
+[ 2016-10-28 18:34:44] Monster database loaded with [2] monsters
+[ 2016-10-28 18:34:44] Waves database loaded with [1] waves
+[ 2016-10-28 18:34:44] Server is running on port 32211
+[ 2016-10-28 18:45:03] Setting up server...
+[ 2016-10-28 18:45:04] Connected to MYSQL.
+[ 2016-10-28 18:45:04] Skill database loaded with [4] skills
+[ 2016-10-28 18:45:04] Item database loaded with [5] items
+[ 2016-10-28 18:45:04] Monster database loaded with [2] monsters
+[ 2016-10-28 18:45:04] Waves database loaded with [1] waves
+[ 2016-10-28 18:45:04] Server is running on port 32211
+[ 2016-10-28 18:45:19] Setting up server...
+[ 2016-10-28 18:45:19] Connected to MYSQL.
+[ 2016-10-28 18:45:19] Skill database loaded with [4] skills
+[ 2016-10-28 18:45:19] Item database loaded with [5] items
+[ 2016-10-28 18:45:20] Monster database loaded with [2] monsters
+[ 2016-10-28 18:45:20] Waves database loaded with [1] waves
+[ 2016-10-28 18:45:20] Server is running on port 32211
+[ 2016-10-28 18:48:04] Setting up server...
+[ 2016-10-28 18:48:04] Connected to MYSQL.
+[ 2016-10-28 18:48:04] Skill database loaded with [4] skills
+[ 2016-10-28 18:48:04] Item database loaded with [5] items
+[ 2016-10-28 18:48:04] Monster database loaded with [2] monsters
+[ 2016-10-28 18:48:04] Waves database loaded with [1] waves
+[ 2016-10-28 18:48:04] Server is running on port 32211
+[ 2016-10-28 18:50:11] Setting up server...
+[ 2016-10-28 18:50:11] Connected to MYSQL.
+[ 2016-10-28 18:50:11] Skill database loaded with [4] skills
+[ 2016-10-28 18:50:11] Item database loaded with [5] items
+[ 2016-10-28 18:50:11] Monster database loaded with [2] monsters
+[ 2016-10-28 18:50:11] Waves database loaded with [1] waves
+[ 2016-10-28 18:50:11] Server is running on port 32211
+[ 2016-10-28 20:00:56] Setting up server...
+[ 2016-10-28 20:00:56] Connected to MYSQL.
+[ 2016-10-28 20:00:56] Skill database loaded with [4] skills
+[ 2016-10-28 20:00:56] Item database loaded with [5] items
+[ 2016-10-28 20:00:56] Monster database loaded with [2] monsters
+[ 2016-10-28 20:00:56] Waves database loaded with [1] waves
+[ 2016-10-28 20:00:56] Server is running on port 32211
+[ 2016-10-28 20:02:15] Setting up server...
+[ 2016-10-28 20:02:16] Connected to MYSQL.
+[ 2016-10-28 20:02:16] Skill database loaded with [4] skills
+[ 2016-10-28 20:02:16] Item database loaded with [5] items
+[ 2016-10-28 20:02:16] Monster database loaded with [2] monsters
+[ 2016-10-28 20:02:16] Waves database loaded with [1] waves
+[ 2016-10-28 20:02:16] Server is running on port 32211
+[ 2016-10-28 20:02:27] Setting up server...
+[ 2016-10-28 20:02:27] Connected to MYSQL.
+[ 2016-10-28 20:02:27] Skill database loaded with [4] skills
+[ 2016-10-28 20:02:27] Item database loaded with [5] items
+[ 2016-10-28 20:02:27] Monster database loaded with [2] monsters
+[ 2016-10-28 20:02:27] Waves database loaded with [1] waves
+[ 2016-10-28 20:02:27] Server is running on port 32211
+[ 2016-10-28 20:07:04] Setting up server...
+[ 2016-10-28 20:07:04] Connected to MYSQL.
+[ 2016-10-28 20:07:04] Skill database loaded with [4] skills
+[ 2016-10-28 20:07:04] Item database loaded with [5] items
+[ 2016-10-28 20:07:04] Monster database loaded with [2] monsters
+[ 2016-10-28 20:07:04] Waves database loaded with [1] waves
+[ 2016-10-28 20:07:04] Server is running on port 32211
+[ 2016-10-28 23:18:02] Setting up server...
+[ 2016-10-28 23:18:02] Server is running on port 32211
+[ 2016-10-28 23:18:39] Setting up server...
+[ 2016-10-28 23:20:17] Setting up server...
+[ 2016-10-28 23:21:41] Setting up server...

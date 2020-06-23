@@ -1,0 +1,9 @@
+This is the log file of the 2016-11-23
+[2016-11-23 22:22:59] Connected to MYSQL.
+[2016-11-23 22:22:59] Skill database loaded with [4] skills
+[2016-11-23 22:22:59] Item database loaded with [20] items
+[2016-11-23 22:22:59] Monster database loaded with [2] monsters
+[2016-11-23 22:22:59] Waves database loaded with [1] waves
+[2016-11-23 22:22:59] NPC database loaded with [1] NPCs!
+[2016-11-23 22:22:59] Setting up server...
+[2016-11-23 22:22:59] Server is running on port 32211

@@ -1,0 +1,212 @@
+This is the log file of the 2016-10-26
+[ 2016-10-26 01:22:22] Account logged in UserID = 2
+[ 2016-10-26 01:22:23] User selected CharacterName = Firstchar
+[ 2016-10-26 01:22:23] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 01:22:23] Character information sent.
+[ 2016-10-26 01:22:24] Character found in map : 13 name = FirstcharPacket sent = SPAWNM;1|13|0|112|0,0|0|0;2|13|1|57|0,0|1|0;1|13|2|68|0,2+23+0+0+54+8|-5|0;1|13|3|139|0,0|-4.9|0;
+[ 2016-10-26 01:22:35] Client disconnected. - ServerInit line 45
+[ 2016-10-26 01:22:35] Forcing a ClientList to disconnect..
+[ 2016-10-26 01:23:16] Account logged in UserID = 2
+[ 2016-10-26 01:23:17] User selected CharacterName = Firstchar
+[ 2016-10-26 01:23:17] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 01:23:17] Character information sent.
+[ 2016-10-26 01:23:18] Character found in map : 14 name = FirstcharPacket sent = SPAWNM;1|14|0|63|1+14+0+0+0+0,0|0|0;2|14|1|40|0,0|1|0;1|14|2|120|0,2+22+0+0+0+18|-5|0;1|14|3|77|1+12+0+0+0+0,0|-4.9|0;
+[ 2016-10-26 01:23:39] Client disconnected. - ServerInit line 45
+[ 2016-10-26 01:23:39] Forcing a ClientList to disconnect..
+[ 2016-10-26 01:24:30] Account logged in UserID = 2
+[ 2016-10-26 01:24:31] User selected CharacterName = Firstchar
+[ 2016-10-26 01:24:31] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 01:24:31] Character information sent.
+[ 2016-10-26 01:24:32] Character found in map : 15 name = FirstcharPacket sent = SPAWNM;1|15|0|123|1+16+0+0+0+0,0|0|0;2|15|1|56|0,2+20+0+0+0+18|1|0;1|15|2|130|0,0|-5|0;1|15|3|72|0,2+24+0+0+14+1|-4.9|0;
+[ 2016-10-26 01:24:45] Client disconnected. - ServerInit line 45
+[ 2016-10-26 01:24:45] Forcing a ClientList to disconnect..
+[ 2016-10-26 01:38:05] Account logged in UserID = 2
+[ 2016-10-26 01:38:06] User selected CharacterName = Firstchar
+[ 2016-10-26 01:38:06] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 01:38:06] Character information sent.
+[ 2016-10-26 01:38:07] Character found in map : 16 name = FirstcharPacket sent = SPAWNM;1|16|0|133|0,0|0|0;2|16|1|50|1+13+0+0+51+0,2+22+0+0+24+0|1|0;1|16|2|112|0,0|-5|0;1|16|3|124|1+17+0+0+0+0,0|-4.9|0;
+[ 2016-10-26 01:38:21] Item 2 was moved to slot 0
+[ 2016-10-26 01:39:12] Client disconnected. - ServerInit line 45
+[ 2016-10-26 01:39:12] Forcing a ClientList to disconnect..
+[ 2016-10-26 01:41:51] Account logged in UserID = 2
+[ 2016-10-26 01:41:52] User selected CharacterName = Firstchar
+[ 2016-10-26 01:41:52] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 01:41:52] Character information sent.
+[ 2016-10-26 01:41:52] Character found in map : 17 name = FirstcharPacket sent = SPAWNM;1|17|0|111|0,0|0|0;2|17|1|45|0,0|1|0;1|17|2|81|1+16+0+0+41+40,2+24+0+0+0+0|-5|0;1|17|3|105|1+14+0+0+0+26,0|-4.9|0;
+[ 2016-10-26 01:42:29] Client disconnected. - ServerInit line 45
+[ 2016-10-26 01:42:29] Forcing a ClientList to disconnect..
+[ 2016-10-26 01:44:48] Account logged in UserID = 2
+[ 2016-10-26 01:44:48] User selected CharacterName = Firstchar
+[ 2016-10-26 01:44:48] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 01:44:48] Character information sent.
+[ 2016-10-26 01:44:49] Character found in map : 18 name = FirstcharPacket sent = SPAWNM;1|18|0|121|1+15+0+0+56+0,2+23+0+0+0+16|0|0;2|18|1|41|0,0|1|0;1|18|2|101|0,0|-5|0;1|18|3|76|1+16+0+0+40+0,0|-4.9|0;
+[ 2016-10-26 01:45:21] Client disconnected. - ServerInit line 45
+[ 2016-10-26 01:45:21] Forcing a ClientList to disconnect..
+[ 2016-10-26 01:46:20] Account logged in UserID = 2
+[ 2016-10-26 01:46:21] User selected CharacterName = Firstchar
+[ 2016-10-26 01:46:21] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 01:46:21] Character information sent.
+[ 2016-10-26 01:46:22] Character found in map : 19 name = FirstcharPacket sent = SPAWNM;1|19|0|64|0,0|0|0;2|19|1|46|1+12+0+0+21+0,2+21+0+0+0+0|1|0;1|19|2|60|0,2+22+0+0+30+0|-5|0;1|19|3|104|0,2+23+0+0+0+0|-4.9|0;
+[ 2016-10-26 01:46:26] Client disconnected. - ServerInit line 45
+[ 2016-10-26 01:46:26] Forcing a ClientList to disconnect..
+[ 2016-10-26 01:46:45] Account logged in UserID = 2
+[ 2016-10-26 01:46:46] User selected CharacterName = Firstchar
+[ 2016-10-26 01:46:46] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 01:46:46] Character information sent.
+[ 2016-10-26 01:46:46] Character found in map : 20 name = FirstcharPacket sent = SPAWNM;1|20|0|115|0,2+21+0+0+1+10|0|0;2|20|1|52|0,0|1|0;1|20|2|129|0,0|-5|0;1|20|3|78|0,2+23+0+0+0+0|-4.9|0;
+[ 2016-10-26 01:46:55] Client disconnected. - ServerInit line 45
+[ 2016-10-26 01:46:55] Forcing a ClientList to disconnect..
+[ 2016-10-26 01:47:21] Account logged in UserID = 2
+[ 2016-10-26 01:47:21] User selected CharacterName = Firstchar
+[ 2016-10-26 01:47:21] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 01:47:21] Character information sent.
+[ 2016-10-26 01:47:22] Character found in map : 21 name = FirstcharPacket sent = SPAWNM;1|21|0|72|0,0|0|0;2|21|1|33|0,2+17+0+0+0+66|1|0;1|21|2|106|0,0|-5|0;1|21|3|109|1+15+0+0+0+0,0|-4.9|0;
+[ 2016-10-26 01:47:32] Client disconnected. - ServerInit line 45
+[ 2016-10-26 01:47:32] Forcing a ClientList to disconnect..
+[ 2016-10-26 01:47:49] Account logged in UserID = 2
+[ 2016-10-26 01:47:50] User selected CharacterName = Firstchar
+[ 2016-10-26 01:47:50] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 01:47:50] Character information sent.
+[ 2016-10-26 01:47:51] Character found in map : 22 name = FirstcharPacket sent = SPAWNM;1|22|0|74|0,2+22+0+0+56+51|0|0;2|22|1|44|0,2+17+0+0+0+14|1|0;1|22|2|89|1+13+0+0+40+0,0|-5|0;1|22|3|121|1+15+0+0+0+0,0|-4.9|0;
+[ 2016-10-26 01:47:55] Client disconnected. - ServerInit line 45
+[ 2016-10-26 01:47:55] Forcing a ClientList to disconnect..
+[ 2016-10-26 01:48:11] Account logged in UserID = 2
+[ 2016-10-26 01:48:12] User selected CharacterName = Firstchar
+[ 2016-10-26 01:48:12] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 01:48:12] Character information sent.
+[ 2016-10-26 01:48:13] Character found in map : 23 name = FirstcharPacket sent = SPAWNM;1|23|0|117|1+15+0+0+61+0,0|0|0;2|23|1|66|1+16+0+0+51+20,2+22+0+0+56+0|1|0;1|23|2|77|0,2+17+0+0+51+0|-5|0;1|23|3|96|0,2+17+0+0+1+0|-4.9|0;
+[ 2016-10-26 01:49:59] Item 1 was moved to slot 12
+[ 2016-10-26 01:50:44] Client disconnected. - ServerInit line 45
+[ 2016-10-26 01:50:44] Forcing a ClientList to disconnect..
+[ 2016-10-26 01:51:52] Account logged in UserID = 2
+[ 2016-10-26 01:51:53] User selected CharacterName = Firstchar
+[ 2016-10-26 01:51:53] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 01:51:53] Character information sent.
+[ 2016-10-26 01:51:53] Character found in map : 24 name = FirstcharPacket sent = SPAWNM;1|24|0|120|1+15+0+0+41+0,0|0|0;2|24|1|53|0,2+20+0+0+51+0|1|0;1|24|2|128|0,0|-5|0;1|24|3|89|1+15+0+0+50+36,2+18+0+0+60+0|-4.9|0;
+[ 2016-10-26 01:52:19] Client disconnected. - ServerInit line 45
+[ 2016-10-26 01:52:19] Forcing a ClientList to disconnect..
+[ 2016-10-26 02:03:21] Account logged in UserID = 2
+[ 2016-10-26 02:03:22] User selected CharacterName = Firstchar
+[ 2016-10-26 02:03:22] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 02:03:22] Character information sent.
+[ 2016-10-26 02:03:22] Character found in map : 25 name = FirstcharPacket sent = SPAWNM;1|25|0|97|0,0|0|0;2|25|1|39|1+16+0+0+0+0,0|1|0;1|25|2|67|1+14+0+0+11+0,2+24+0+0+0+0|-5|0;1|25|3|73|1+16+0+0+13+0,0|-4.9|0;
+[ 2016-10-26 02:03:33] Client disconnected. - ServerInit line 45
+[ 2016-10-26 02:03:33] Forcing a ClientList to disconnect..
+[ 2016-10-26 02:05:17] Account logged in UserID = 2
+[ 2016-10-26 02:05:18] User selected CharacterName = Firstchar
+[ 2016-10-26 02:05:18] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 02:05:18] Character information sent.
+[ 2016-10-26 02:05:18] Character found in map : 26 name = FirstcharPacket sent = SPAWNM;1|26|0|125|1+14+0+0+16+44,0|0|0;2|26|1|35|0,2+16+0+0+30+0|1|0;1|26|2|101|1+17+0+0+63+0,2+21+0+0+40+10|-5|0;1|26|3|136|1+14+0+0+0+3,2+23+0+0+26+0|-4.9|0;
+[ 2016-10-26 02:05:54] Client disconnected. - ServerInit line 45
+[ 2016-10-26 02:05:54] Forcing a ClientList to disconnect..
+[ 2016-10-26 02:06:04] Account logged in UserID = 2
+[ 2016-10-26 02:06:05] User selected CharacterName = Firstchar
+[ 2016-10-26 02:06:05] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 02:06:05] Character information sent.
+[ 2016-10-26 02:06:05] Character found in map : 27 name = FirstcharPacket sent = SPAWNM;1|27|0|62|1+14+0+0+46+21,2+24+0+0+0+1|0|0;2|27|1|45|0,0|1|0;1|27|2|131|0,0|-5|0;1|27|3|134|0,0|-4.9|0;
+[ 2016-10-26 02:06:20] Client disconnected. - ServerInit line 45
+[ 2016-10-26 02:06:20] Forcing a ClientList to disconnect..
+[ 2016-10-26 02:06:27] Account logged in UserID = 2
+[ 2016-10-26 02:06:27] User selected CharacterName = Firstchar
+[ 2016-10-26 02:06:27] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 02:06:27] Character information sent.
+[ 2016-10-26 02:06:27] Character found in map : 28 name = FirstcharPacket sent = SPAWNM;1|28|0|88|1+12+0+0+0+0,0|0|0;2|28|1|51|0,2+23+0+0+0+0|1|0;1|28|2|89|0,0|-5|0;1|28|3|87|1+15+0+0+4+31,0|-4.9|0;
+[ 2016-10-26 02:07:21] Client disconnected. - ServerInit line 45
+[ 2016-10-26 02:07:21] Forcing a ClientList to disconnect..
+[ 2016-10-26 02:07:57] Account logged in UserID = 2
+[ 2016-10-26 02:07:58] User selected CharacterName = Firstchar
+[ 2016-10-26 02:07:58] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 02:07:58] Character information sent.
+[ 2016-10-26 02:07:59] Character found in map : 29 name = FirstcharPacket sent = SPAWNM;1|29|0|97|1+15+0+0+0+3,0|0|0;2|29|1|42|0,0|1|0;1|29|2|100|0,2+19+0+0+0+0|-5|0;1|29|3|87|0,0|-4.9|0;
+[ 2016-10-26 02:09:02] Client disconnected. - ServerInit line 45
+[ 2016-10-26 02:09:02] Forcing a ClientList to disconnect..
+[ 2016-10-26 02:09:12] Account logged in UserID = 2
+[ 2016-10-26 02:09:13] User selected CharacterName = Firstchar
+[ 2016-10-26 02:09:13] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 02:09:13] Character information sent.
+[ 2016-10-26 02:09:13] Character found in map : 30 name = FirstcharPacket sent = SPAWNM;1|30|0|90|1+13+0+0+0+0,2+23+0+0+0+0|0|0;2|30|1|55|0,2+22+0+0+0+0|1|0;1|30|2|108|0,0|-5|0;1|30|3|93|1+17+0+0+26+0,0|-4.9|0;
+[ 2016-10-26 02:10:03] Setting up server...
+[ 2016-10-26 02:10:03] Connected to MYSQL.
+[ 2016-10-26 02:10:03] Skill database loaded with [4] skills
+[ 2016-10-26 02:10:03] Item database loaded with [5] items
+[ 2016-10-26 02:10:03] Monster database loaded with [2] monsters
+[ 2016-10-26 02:10:03] Waves database loaded with [1] waves
+[ 2016-10-26 02:10:03] Server is running on port 32211
+[ 2016-10-26 02:10:11] Account logged in UserID = 2
+[ 2016-10-26 02:10:12] User selected CharacterName = Firstchar
+[ 2016-10-26 02:10:12] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 02:10:12] Character information sent.
+[ 2016-10-26 02:10:13] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|126|1+17+0+0+13+0,0|0|0;2|0|1|42|1+17+0+0+0+0,0|1|0;1|0|2|81|0,2+17+0+0+31+0|-5|0;1|0|3|81|1+17+0+0+0+0,0|-4.9|0;
+[ 2016-10-26 02:10:56] Firstchar Set a skill to active/deactive.
+[ 2016-10-26 02:10:58] Firstchar Set a skill to active/deactive.
+[ 2016-10-26 02:11:00] Firstchar Set a skill to active/deactive.
+[ 2016-10-26 02:11:20] Firstchar Set a skill to active/deactive.
+[ 2016-10-26 02:11:21] Firstchar Set a skill to active/deactive.
+[ 2016-10-26 02:11:22] Firstchar Set a skill to active/deactive.
+[ 2016-10-26 02:11:25] Client disconnected. - ServerInit line 45
+[ 2016-10-26 02:11:25] Forcing a ClientList to disconnect..
+[ 2016-10-26 02:11:30] Account logged in UserID = 2
+[ 2016-10-26 02:11:31] User selected CharacterName = Firstchar
+[ 2016-10-26 02:11:31] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 02:11:31] Character information sent.
+[ 2016-10-26 02:11:31] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|127|1+14+0+0+0+0,0|0|0;2|1|1|46|0,0|1|0;1|1|2|91|1+12+0+0+0+0,0|-5|0;1|1|3|123|1+15+0+0+26+40,0|-4.9|0;
+[ 2016-10-26 02:11:42] Firstchar Set a skill to active/deactive.
+[ 2016-10-26 02:11:43] Firstchar Set a skill to active/deactive.
+[ 2016-10-26 02:11:44] Firstchar Set a skill to active/deactive.
+[ 2016-10-26 02:11:58] Client disconnected. - ServerInit line 45
+[ 2016-10-26 02:11:58] Forcing a ClientList to disconnect..
+[ 2016-10-26 02:12:08] Account logged in UserID = 2
+[ 2016-10-26 02:12:09] User selected CharacterName = Firstchar
+[ 2016-10-26 02:12:09] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 02:12:09] Character information sent.
+[ 2016-10-26 02:12:09] Character found in map : 2 name = FirstcharPacket sent = SPAWNM;1|2|0|71|0,0|0|0;2|2|1|49|0,0|1|0;1|2|2|68|0,0|-5|0;1|2|3|99|0,2+23+0+0+0+0|-4.9|0;
+[ 2016-10-26 02:12:14] Firstchar Set a skill to active/deactive.
+[ 2016-10-26 02:12:15] Firstchar Set a skill to active/deactive.
+[ 2016-10-26 02:12:17] Firstchar Set a skill to active/deactive.
+[ 2016-10-26 02:12:19] Client disconnected. - ServerInit line 45
+[ 2016-10-26 02:12:19] Forcing a ClientList to disconnect..
+[ 2016-10-26 02:12:22] Account logged in UserID = 2
+[ 2016-10-26 02:12:22] User selected CharacterName = Firstchar
+[ 2016-10-26 02:12:22] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 02:12:22] Character information sent.
+[ 2016-10-26 02:12:22] Character found in map : 3 name = FirstcharPacket sent = SPAWNM;1|3|0|104|0,0|0|0;2|3|1|54|1+13+0+0+50+56,0|1|0;1|3|2|79|0,0|-5|0;1|3|3|73|0,0|-4.9|0;
+[ 2016-10-26 02:12:31] Client disconnected. - ServerInit line 45
+[ 2016-10-26 02:12:31] Forcing a ClientList to disconnect..
+[ 2016-10-26 04:14:52] Account logged in UserID = 2
+[ 2016-10-26 04:14:54] User selected CharacterName = Firstchar
+[ 2016-10-26 04:14:54] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 04:14:54] Character information sent.
+[ 2016-10-26 04:14:54] Character found in map : 4 name = FirstcharPacket sent = SPAWNM;1|4|0|118|0,0|0|0;2|4|1|37|0,0|1|0;1|4|2|94|0,0|-5|0;1|4|3|129|0,0|-4.9|0;
+[ 2016-10-26 04:15:24] Client disconnected. - ServerInit line 45
+[ 2016-10-26 04:15:24] Forcing a ClientList to disconnect..
+[ 2016-10-26 04:16:37] Account logged in UserID = 2
+[ 2016-10-26 04:16:38] User selected CharacterName = Firstchar
+[ 2016-10-26 04:16:38] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 04:16:38] Character information sent.
+[ 2016-10-26 04:16:38] Character found in map : 5 name = FirstcharPacket sent = SPAWNM;1|5|0|78|0,0|0|0;2|5|1|69|0,0|1|0;1|5|2|100|1+15+0+0+46+0,0|-5|0;1|5|3|108|1+15+0+0+63+0,0|-4.9|0;
+[ 2016-10-26 04:16:48] Client disconnected. - ServerInit line 45
+[ 2016-10-26 04:16:48] Forcing a ClientList to disconnect..
+[ 2016-10-26 14:55:34] Setting up server...
+[ 2016-10-26 14:55:34] Connected to MYSQL.
+[ 2016-10-26 14:55:34] Skill database loaded with [4] skills
+[ 2016-10-26 14:55:34] Item database loaded with [5] items
+[ 2016-10-26 14:55:34] Monster database loaded with [2] monsters
+[ 2016-10-26 14:55:34] Waves database loaded with [1] waves
+[ 2016-10-26 14:55:34] Server is running on port 32211
+[ 2016-10-26 14:55:35] Account logged in UserID = 2
+[ 2016-10-26 14:55:36] User selected CharacterName = Firstchar
+[ 2016-10-26 14:55:36] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-26 14:55:36] Character information sent.
+[ 2016-10-26 14:55:36] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|128|0,0|0|0;2|0|1|31|0,0|1|0;1|0|2|112|0,0|-5|0;1|0|3|92|0,0|-4.9|0;
+[ 2016-10-26 14:58:33] IN: KILLMONSTER 3 1 0
+[ 2016-10-26 14:58:33] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-26 14:58:33] Found monster in map!!! YAY - now removing it.
+[ 2016-10-26 14:58:33] IN: KILLMONSTER 1 2 0
+[ 2016-10-26 14:58:33] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-26 14:58:33] Found monster in map!!! YAY - now removing it.
+[ 2016-10-26 14:58:35] IN: KILLMONSTER 0 1 0
+[ 2016-10-26 14:58:35] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-26 14:58:35] Found monster in map!!! YAY - now removing it.
+[ 2016-10-26 15:00:54] Item 1 was moved to slot 12
+[ 2016-10-26 15:00:56] Item 1 was moved to slot 12
+[ 2016-10-26 15:00:57] Item 1 was moved to slot 12

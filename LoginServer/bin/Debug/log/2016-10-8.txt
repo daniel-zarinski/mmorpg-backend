@@ -1,0 +1,150 @@
+This is the log file of the 2016-10-8
+[ 2016-10-08 19:16:46] Setting up server...
+[ 2016-10-08 19:16:46] Connected to MYSQL.
+[ 2016-10-08 19:16:46] Server is running on port 32211
+[ 2016-10-08 19:32:03] Setting up server...
+[ 2016-10-08 19:32:03] Connected to MYSQL.
+[ 2016-10-08 19:32:03] Server is running on port 32211
+[ 2016-10-08 22:41:05] Setting up server...
+[ 2016-10-08 22:41:05] Connected to MYSQL.
+[ 2016-10-08 22:41:05] Server is running on port 32211
+[ 2016-10-08 22:41:05] Skill database loaded with [4] skills
+[ 2016-10-08 22:41:05] Item database loaded with [0] items
+[ 2016-10-08 22:43:36] Setting up server...
+[ 2016-10-08 22:43:36] Connected to MYSQL.
+[ 2016-10-08 22:43:36] Server is running on port 32211
+[ 2016-10-08 22:43:36] Skill database loaded with [4] skills
+[ 2016-10-08 22:43:36] Item database loaded with [0] items
+[ 2016-10-08 22:43:55] Setting up server...
+[ 2016-10-08 22:43:55] Connected to MYSQL.
+[ 2016-10-08 22:43:55] Server is running on port 32211
+[ 2016-10-08 22:43:55] Skill database loaded with [4] skills
+[ 2016-10-08 22:43:55] Item database loaded with [0] items
+[ 2016-10-08 22:43:55] test
+[ 2016-10-08 22:44:25] Setting up server...
+[ 2016-10-08 22:44:25] Connected to MYSQL.
+[ 2016-10-08 22:44:25] Skill database loaded with [4] skills
+[ 2016-10-08 22:44:25] Item database loaded with [0] items
+[ 2016-10-08 22:44:25] Server is running on port 32211
+[ 2016-10-08 22:45:22] Setting up server...
+[ 2016-10-08 22:45:22] Connected to MYSQL.
+[ 2016-10-08 22:45:22] Skill database loaded with [4] skills
+[ 2016-10-08 22:45:22] Item database loaded with [0] items
+[ 2016-10-08 22:45:22] Server is running on port 32211
+[ 2016-10-08 22:45:36] Setting up server...
+[ 2016-10-08 22:45:36] Connected to MYSQL.
+[ 2016-10-08 22:45:36] Skill database loaded with [4] skills
+[ 2016-10-08 22:45:36] Item database loaded with [0] items
+[ 2016-10-08 22:45:36] Server is running on port 32211
+[ 2016-10-08 22:45:59] Setting up server...
+[ 2016-10-08 22:45:59] Connected to MYSQL.
+[ 2016-10-08 22:45:59] Skill database loaded with [4] skills
+[ 2016-10-08 22:45:59] Item database loaded with [1] items
+[ 2016-10-08 22:45:59] Server is running on port 32211
+[ 2016-10-08 22:46:58] Setting up server...
+[ 2016-10-08 22:46:58] Connected to MYSQL.
+[ 2016-10-08 22:46:58] Skill database loaded with [4] skills
+[ 2016-10-08 22:46:58] Item database loaded with [1] items
+[ 2016-10-08 22:46:58] Server is running on port 32211
+[ 2016-10-08 22:47:12] Setting up server...
+[ 2016-10-08 22:47:12] Connected to MYSQL.
+[ 2016-10-08 22:47:12] Skill database loaded with [4] skills
+[ 2016-10-08 22:47:12] Item database loaded with [1] items
+[ 2016-10-08 22:47:12] Server is running on port 32211
+[ 2016-10-08 22:47:36] Setting up server...
+[ 2016-10-08 22:47:36] Connected to MYSQL.
+[ 2016-10-08 22:47:36] Skill database loaded with [4] skills
+[ 2016-10-08 22:47:36] Item database loaded with [1] items
+[ 2016-10-08 22:47:36] Server is running on port 32211
+[ 2016-10-08 23:09:31] Setting up server...
+[ 2016-10-08 23:09:32] Connected to MYSQL.
+[ 2016-10-08 23:09:32] Skill database loaded with [4] skills
+[ 2016-10-08 23:09:32] Item database loaded with [1] items
+[ 2016-10-08 23:09:32] Server is running on port 32211
+[ 2016-10-08 23:09:37] Setting up server...
+[ 2016-10-08 23:09:37] Connected to MYSQL.
+[ 2016-10-08 23:09:37] Skill database loaded with [4] skills
+[ 2016-10-08 23:09:42] Item database loaded with [0] items
+[ 2016-10-08 23:09:42] Server is running on port 32211
+[ 2016-10-08 23:10:01] Setting up server...
+[ 2016-10-08 23:10:02] Connected to MYSQL.
+[ 2016-10-08 23:10:02] Skill database loaded with [4] skills
+[ 2016-10-08 23:10:08] Item database loaded with [0] items
+[ 2016-10-08 23:10:08] Server is running on port 32211
+[ 2016-10-08 23:10:26] Setting up server...
+[ 2016-10-08 23:10:26] Connected to MYSQL.
+[ 2016-10-08 23:10:26] Skill database loaded with [4] skills
+[ 2016-10-08 23:10:28] Item database loaded with [0] items
+[ 2016-10-08 23:10:28] Server is running on port 32211
+[ 2016-10-08 23:10:38] Setting up server...
+[ 2016-10-08 23:10:38] Connected to MYSQL.
+[ 2016-10-08 23:10:38] Skill database loaded with [4] skills
+[ 2016-10-08 23:10:38] Item database loaded with [1] items
+[ 2016-10-08 23:10:38] Server is running on port 32211
+[ 2016-10-08 23:10:45] Setting up server...
+[ 2016-10-08 23:10:45] Connected to MYSQL.
+[ 2016-10-08 23:10:45] Skill database loaded with [4] skills
+[ 2016-10-08 23:10:45] Item database loaded with [1] items
+[ 2016-10-08 23:10:45] Server is running on port 32211
+[ 2016-10-08 23:14:45] Setting up server...
+[ 2016-10-08 23:14:45] Connected to MYSQL.
+[ 2016-10-08 23:14:45] Skill database loaded with [4] skills
+[ 2016-10-08 23:14:45] Item database loaded with [1] items
+[ 2016-10-08 23:14:45] Server is running on port 32211
+[ 2016-10-08 23:52:13] Setting up server...
+[ 2016-10-08 23:52:13] Connected to MYSQL.
+[ 2016-10-08 23:52:13] Skill database loaded with [4] skills
+[ 2016-10-08 23:52:13] Item database loaded with [1] items
+[ 2016-10-08 23:52:13] Server is running on port 32211
+[ 2016-10-08 23:52:33] Setting up server...
+[ 2016-10-08 23:52:34] Connected to MYSQL.
+[ 2016-10-08 23:52:34] Skill database loaded with [4] skills
+[ 2016-10-08 23:52:34] Item database loaded with [1] items
+[ 2016-10-08 23:52:34] Server is running on port 32211
+[ 2016-10-08 23:53:15] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-08 23:53:15] Account logged in. Character = Test2
+[ 2016-10-08 23:53:15] Skill 0 = Skill1 / 30
+[ 2016-10-08 23:53:15] Skill 1 = Skill2 / 50
+[ 2016-10-08 23:53:31] Client disconnected.
+[ 2016-10-08 23:53:45] Setting up server...
+[ 2016-10-08 23:53:45] Connected to MYSQL.
+[ 2016-10-08 23:53:45] Skill database loaded with [4] skills
+[ 2016-10-08 23:53:45] Item database loaded with [1] items
+[ 2016-10-08 23:53:45] Server is running on port 32211
+[ 2016-10-08 23:53:52] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-08 23:53:52] Account logged in. Character = Test2
+[ 2016-10-08 23:53:52] Skill 0 = Skill1 / 30
+[ 2016-10-08 23:53:52] Skill 1 = Skill2 / 50
+[ 2016-10-08 23:53:55] Client disconnected.
+[ 2016-10-08 23:56:17] Setting up server...
+[ 2016-10-08 23:56:17] Connected to MYSQL.
+[ 2016-10-08 23:56:17] Skill database loaded with [4] skills
+[ 2016-10-08 23:56:17] Item database loaded with [2] items
+[ 2016-10-08 23:56:17] Server is running on port 32211
+[ 2016-10-08 23:56:24] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-08 23:56:24] Account logged in. Character = Test2
+[ 2016-10-08 23:56:24] Skill 0 = Skill1 / 30
+[ 2016-10-08 23:56:24] Skill 1 = Skill2 / 50
+[ 2016-10-08 23:56:35] Client disconnected.
+[ 2016-10-08 23:57:18] Setting up server...
+[ 2016-10-08 23:57:18] Connected to MYSQL.
+[ 2016-10-08 23:57:18] Skill database loaded with [4] skills
+[ 2016-10-08 23:57:18] Item database loaded with [2] items
+[ 2016-10-08 23:57:18] Server is running on port 32211
+[ 2016-10-08 23:57:25] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-08 23:57:25] Account logged in. Character = Test2
+[ 2016-10-08 23:57:25] Skill 0 = Skill1 / 30
+[ 2016-10-08 23:57:25] Skill 1 = Skill2 / 50
+[ 2016-10-08 23:57:28] Client disconnected.
+[ 2016-10-08 23:59:06] Setting up server...
+[ 2016-10-08 23:59:06] Connected to MYSQL.
+[ 2016-10-08 23:59:06] Skill database loaded with [4] skills
+[ 2016-10-08 23:59:06] Item database loaded with [2] items
+[ 2016-10-08 23:59:06] Server is running on port 32211
+[ 2016-10-08 23:59:13] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-08 23:59:13] Total items = test
+[ 2016-10-08 23:59:13] Total items = test2
+[ 2016-10-08 23:59:13] Account logged in. Character = Test2
+[ 2016-10-08 23:59:13] Skill 0 = Skill1 / 30
+[ 2016-10-08 23:59:13] Skill 1 = Skill2 / 50
+[ 2016-10-08 23:59:23] Client disconnected.

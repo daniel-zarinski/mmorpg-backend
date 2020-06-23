@@ -1,0 +1,6 @@
+This is the log file of the 2016-10-13
+[ 2016-10-13 23:19:36] Setting up server...
+[ 2016-10-13 23:19:36] Connected to MYSQL.
+[ 2016-10-13 23:19:36] Skill database loaded with [4] skills
+[ 2016-10-13 23:19:36] Item database loaded with [2] items
+[ 2016-10-13 23:19:36] Server is running on port 32211

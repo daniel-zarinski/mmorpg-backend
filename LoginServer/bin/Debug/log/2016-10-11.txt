@@ -1,0 +1,817 @@
+This is the log file of the 2016-10-11
+[ 2016-10-11 18:45:22] Setting up server...
+[ 2016-10-11 18:45:22] Connected to MYSQL.
+[ 2016-10-11 18:45:23] Skill database loaded with [4] skills
+[ 2016-10-11 18:45:23] Item database loaded with [2] items
+[ 2016-10-11 18:45:23] Server is running on port 32211
+[ 2016-10-11 18:45:27] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 18:45:27] Account logged in UserID = 2
+[ 2016-10-11 18:45:29] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 18:45:29] User selected CharacterName = Firstchar
+[ 2016-10-11 18:45:29] Total items = test
+[ 2016-10-11 18:45:29] Total items = test2
+[ 2016-10-11 18:45:29] Total items = test
+[ 2016-10-11 18:45:29] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 18:45:29] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 18:45:29] Character information sent.
+[ 2016-10-11 18:45:29] Firstchar is advancing wave..
+[ 2016-10-11 18:46:11] Client disconnected.
+[ 2016-10-11 18:50:13] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 18:50:13] Account logged in UserID = 2
+[ 2016-10-11 18:50:21] User selected characterID = GETWORLD;2;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 18:50:21] User selected CharacterName = Test2
+[ 2016-10-11 18:50:21] Character information sent.
+[ 2016-10-11 18:50:21] Test2 is advancing wave..
+[ 2016-10-11 18:51:03] Client disconnected.
+[ 2016-10-11 18:51:23] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 18:51:23] Account logged in UserID = 2
+[ 2016-10-11 18:51:24] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 18:51:24] User selected CharacterName = Firstchar
+[ 2016-10-11 18:51:24] Total items = test
+[ 2016-10-11 18:51:24] Total items = test
+[ 2016-10-11 18:51:24] Total items = test
+[ 2016-10-11 18:51:24] Total items = test2
+[ 2016-10-11 18:51:24] Total items = test
+[ 2016-10-11 18:51:24] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 18:51:24] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 18:51:24] Character information sent.
+[ 2016-10-11 18:51:24] Firstchar is advancing wave..
+[ 2016-10-11 18:51:55] Client disconnected.
+[ 2016-10-11 19:08:24] Setting up server...
+[ 2016-10-11 19:08:24] Connected to MYSQL.
+[ 2016-10-11 19:08:24] Skill database loaded with [4] skills
+[ 2016-10-11 19:08:24] Item database loaded with [2] items
+[ 2016-10-11 19:08:24] Server is running on port 32211
+[ 2016-10-11 19:12:02] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 19:12:02] Account logged in UserID = 2
+[ 2016-10-11 19:12:03] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 19:12:03] User selected CharacterName = Firstchar
+[ 2016-10-11 19:12:03] Total items = test
+[ 2016-10-11 19:12:03] Total items = test
+[ 2016-10-11 19:12:03] Total items = test
+[ 2016-10-11 19:12:03] Total items = test
+[ 2016-10-11 19:12:03] Total items = test
+[ 2016-10-11 19:12:03] Total items = test2
+[ 2016-10-11 19:12:03] Total items = test
+[ 2016-10-11 19:12:03] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 19:12:03] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 19:12:03] Character information could not be sent. Unknown charatcer.
+[ 2016-10-11 19:12:29] Client disconnected.
+[ 2016-10-11 19:12:36] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 19:12:36] Account logged in UserID = 2
+[ 2016-10-11 19:12:39] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 19:12:39] User selected CharacterName = Firstchar
+[ 2016-10-11 19:12:39] Total items = test
+[ 2016-10-11 19:12:39] Total items = test
+[ 2016-10-11 19:12:39] Total items = test
+[ 2016-10-11 19:12:39] Total items = test
+[ 2016-10-11 19:12:39] Total items = test
+[ 2016-10-11 19:12:39] Total items = test2
+[ 2016-10-11 19:12:39] Total items = test
+[ 2016-10-11 19:12:39] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 19:12:39] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 19:12:39] Character information could not be sent. Unknown charatcer.
+[ 2016-10-11 19:12:42] Client disconnected.
+[ 2016-10-11 19:13:03] Setting up server...
+[ 2016-10-11 19:13:03] Connected to MYSQL.
+[ 2016-10-11 19:13:03] Skill database loaded with [4] skills
+[ 2016-10-11 19:13:03] Item database loaded with [2] items
+[ 2016-10-11 19:13:03] Server is running on port 32211
+[ 2016-10-11 19:13:11] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 19:13:11] Account logged in UserID = 2
+[ 2016-10-11 19:13:12] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 19:13:12] User selected CharacterName = Firstchar
+[ 2016-10-11 19:13:12] Total items = test
+[ 2016-10-11 19:13:12] Total items = test
+[ 2016-10-11 19:13:12] Total items = test
+[ 2016-10-11 19:13:12] Total items = test
+[ 2016-10-11 19:13:12] Total items = test
+[ 2016-10-11 19:13:12] Total items = test2
+[ 2016-10-11 19:13:12] Total items = test
+[ 2016-10-11 19:13:12] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 19:13:12] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 19:13:12] Character information sent.
+[ 2016-10-11 19:13:13] Firstchar is advancing wave..
+[ 2016-10-11 19:13:17] Client disconnected.
+[ 2016-10-11 19:19:45] Setting up server...
+[ 2016-10-11 19:19:46] Connected to MYSQL.
+[ 2016-10-11 19:19:46] Skill database loaded with [4] skills
+[ 2016-10-11 19:19:46] Item database loaded with [2] items
+[ 2016-10-11 19:19:46] Server is running on port 32211
+[ 2016-10-11 19:19:55] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 19:19:55] Account logged in UserID = 2
+[ 2016-10-11 19:19:57] User selected characterID = GETWORLD;2;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 19:19:57] User selected CharacterName = Test2
+[ 2016-10-11 19:19:57] Total items = test
+[ 2016-10-11 19:19:57] Total items = test2
+[ 2016-10-11 19:19:57] Total items = test
+[ 2016-10-11 19:19:57] Character information sent.
+[ 2016-10-11 19:19:57] Test2 is advancing wave..
+[ 2016-10-11 19:20:13] Client disconnected.
+[ 2016-10-11 19:21:57] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 19:21:57] Account logged in UserID = 2
+[ 2016-10-11 19:22:03] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 19:22:03] User selected CharacterName = Firstchar
+[ 2016-10-11 19:22:03] Total items = test
+[ 2016-10-11 19:22:03] Total items = test
+[ 2016-10-11 19:22:03] Total items = test
+[ 2016-10-11 19:22:03] Total items = test
+[ 2016-10-11 19:22:03] Total items = test
+[ 2016-10-11 19:22:03] Total items = test2
+[ 2016-10-11 19:22:03] Total items = test
+[ 2016-10-11 19:22:03] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 19:22:03] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 19:22:03] Character information sent.
+[ 2016-10-11 19:22:03] Firstchar is advancing wave..
+[ 2016-10-11 19:22:17] Client disconnected.
+[ 2016-10-11 19:22:21] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 19:22:21] Account logged in UserID = 2
+[ 2016-10-11 19:22:22] User selected characterID = GETWORLD;2;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 19:22:22] User selected CharacterName = Test2
+[ 2016-10-11 19:22:22] Total items = test
+[ 2016-10-11 19:22:22] Total items = test2
+[ 2016-10-11 19:22:22] Total items = test
+[ 2016-10-11 19:22:22] Character information sent.
+[ 2016-10-11 19:22:22] Test2 is advancing wave..
+[ 2016-10-11 19:22:25] Client disconnected.
+[ 2016-10-11 19:22:29] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 19:22:29] Account logged in UserID = 2
+[ 2016-10-11 19:22:30] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 19:22:30] User selected CharacterName = Firstchar
+[ 2016-10-11 19:22:30] Total items = test
+[ 2016-10-11 19:22:30] Total items = test
+[ 2016-10-11 19:22:30] Total items = test
+[ 2016-10-11 19:22:30] Total items = test
+[ 2016-10-11 19:22:30] Total items = test
+[ 2016-10-11 19:22:30] Total items = test2
+[ 2016-10-11 19:22:30] Total items = test
+[ 2016-10-11 19:22:30] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 19:22:30] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 19:22:30] Character information sent.
+[ 2016-10-11 19:22:30] Firstchar is advancing wave..
+[ 2016-10-11 19:22:41] Client disconnected.
+[ 2016-10-11 19:22:58] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 19:22:58] Account logged in UserID = 2
+[ 2016-10-11 19:22:59] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 19:22:59] User selected CharacterName = Firstchar
+[ 2016-10-11 19:22:59] Total items = test
+[ 2016-10-11 19:22:59] Total items = test
+[ 2016-10-11 19:22:59] Total items = test
+[ 2016-10-11 19:22:59] Total items = test
+[ 2016-10-11 19:22:59] Total items = test
+[ 2016-10-11 19:22:59] Total items = test2
+[ 2016-10-11 19:22:59] Total items = test
+[ 2016-10-11 19:22:59] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 19:22:59] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 19:22:59] Character information sent.
+[ 2016-10-11 19:23:01] Firstchar is advancing wave..
+[ 2016-10-11 19:23:11] Client disconnected.
+[ 2016-10-11 19:32:24] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 19:32:24] Account logged in UserID = 2
+[ 2016-10-11 19:32:32] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 19:32:32] User selected CharacterName = Firstchar
+[ 2016-10-11 19:32:32] Total items = test
+[ 2016-10-11 19:32:32] Total items = test
+[ 2016-10-11 19:32:32] Total items = test
+[ 2016-10-11 19:32:32] Total items = test
+[ 2016-10-11 19:32:32] Total items = test
+[ 2016-10-11 19:32:32] Total items = test2
+[ 2016-10-11 19:32:32] Total items = test
+[ 2016-10-11 19:32:32] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 19:32:32] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 19:32:32] Character information sent.
+[ 2016-10-11 19:32:32] Firstchar is advancing wave..
+[ 2016-10-11 19:32:41] Firstchar is advancing wave..
+[ 2016-10-11 19:32:41] Firstchar is advancing wave..
+[ 2016-10-11 19:32:46] Client disconnected.
+[ 2016-10-11 20:02:01] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 20:02:01] Account logged in UserID = 2
+[ 2016-10-11 20:02:02] User selected characterID = GETWORLD;2;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 20:02:02] User selected CharacterName = Test2
+[ 2016-10-11 20:02:02] Total items = test
+[ 2016-10-11 20:02:02] Total items = test2
+[ 2016-10-11 20:02:02] Total items = test
+[ 2016-10-11 20:02:02] Character information sent.
+[ 2016-10-11 20:02:02] Test2 is advancing wave..
+[ 2016-10-11 20:02:13] Client disconnected.
+[ 2016-10-11 20:09:27] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 20:09:27] Account logged in UserID = 2
+[ 2016-10-11 20:09:28] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 20:09:28] User selected CharacterName = Firstchar
+[ 2016-10-11 20:09:28] Total items = test
+[ 2016-10-11 20:09:28] Total items = test
+[ 2016-10-11 20:09:28] Total items = test
+[ 2016-10-11 20:09:28] Total items = test
+[ 2016-10-11 20:09:28] Total items = test
+[ 2016-10-11 20:09:28] Total items = test2
+[ 2016-10-11 20:09:28] Total items = test
+[ 2016-10-11 20:09:28] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 20:09:28] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 20:09:28] Character information sent.
+[ 2016-10-11 20:09:28] Firstchar is advancing wave..
+[ 2016-10-11 20:09:36] Client disconnected.
+[ 2016-10-11 20:10:26] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 20:10:26] Account logged in UserID = 2
+[ 2016-10-11 20:10:28] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 20:10:28] User selected CharacterName = Firstchar
+[ 2016-10-11 20:10:28] Total items = test
+[ 2016-10-11 20:10:28] Total items = test
+[ 2016-10-11 20:10:28] Total items = test
+[ 2016-10-11 20:10:28] Total items = test
+[ 2016-10-11 20:10:28] Total items = test
+[ 2016-10-11 20:10:28] Total items = test2
+[ 2016-10-11 20:10:28] Total items = test
+[ 2016-10-11 20:10:28] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 20:10:28] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 20:10:28] Character information sent.
+[ 2016-10-11 20:10:28] Firstchar is advancing wave..
+[ 2016-10-11 20:11:00] Client disconnected.
+[ 2016-10-11 20:11:04] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 20:11:04] Account logged in UserID = 2
+[ 2016-10-11 20:11:06] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 20:11:06] User selected CharacterName = Firstchar
+[ 2016-10-11 20:11:06] Total items = test
+[ 2016-10-11 20:11:06] Total items = test
+[ 2016-10-11 20:11:06] Total items = test
+[ 2016-10-11 20:11:06] Total items = test
+[ 2016-10-11 20:11:06] Total items = test
+[ 2016-10-11 20:11:06] Total items = test2
+[ 2016-10-11 20:11:06] Total items = test
+[ 2016-10-11 20:11:06] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 20:11:06] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 20:11:06] Character information sent.
+[ 2016-10-11 20:11:06] Firstchar is advancing wave..
+[ 2016-10-11 20:11:42] Client disconnected.
+[ 2016-10-11 20:16:13] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 20:16:13] Account logged in UserID = 2
+[ 2016-10-11 20:16:16] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 20:16:16] User selected CharacterName = Firstchar
+[ 2016-10-11 20:16:16] Total items = test
+[ 2016-10-11 20:16:16] Total items = test
+[ 2016-10-11 20:16:16] Total items = test
+[ 2016-10-11 20:16:16] Total items = test
+[ 2016-10-11 20:16:16] Total items = test
+[ 2016-10-11 20:16:16] Total items = test2
+[ 2016-10-11 20:16:16] Total items = test
+[ 2016-10-11 20:16:16] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 20:16:16] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 20:16:16] Character information sent.
+[ 2016-10-11 20:16:16] Firstchar is advancing wave..
+[ 2016-10-11 20:16:34] Client disconnected.
+[ 2016-10-11 20:17:06] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 20:17:06] Account logged in UserID = 2
+[ 2016-10-11 20:17:08] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 20:17:08] User selected CharacterName = Firstchar
+[ 2016-10-11 20:17:08] Total items = test
+[ 2016-10-11 20:17:08] Total items = test
+[ 2016-10-11 20:17:08] Total items = test
+[ 2016-10-11 20:17:08] Total items = test
+[ 2016-10-11 20:17:08] Total items = test
+[ 2016-10-11 20:17:08] Total items = test2
+[ 2016-10-11 20:17:08] Total items = test
+[ 2016-10-11 20:17:08] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 20:17:08] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 20:17:08] Character information sent.
+[ 2016-10-11 20:17:08] Firstchar is advancing wave..
+[ 2016-10-11 20:17:15] Client disconnected.
+[ 2016-10-11 20:17:32] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 20:17:32] Account logged in UserID = 2
+[ 2016-10-11 20:17:34] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 20:17:34] User selected CharacterName = Firstchar
+[ 2016-10-11 20:17:34] Total items = test
+[ 2016-10-11 20:17:34] Total items = test
+[ 2016-10-11 20:17:34] Total items = test
+[ 2016-10-11 20:17:34] Total items = test
+[ 2016-10-11 20:17:34] Total items = test
+[ 2016-10-11 20:17:34] Total items = test2
+[ 2016-10-11 20:17:34] Total items = test
+[ 2016-10-11 20:17:34] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 20:17:34] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 20:17:34] Character information sent.
+[ 2016-10-11 20:17:35] Firstchar is advancing wave..
+[ 2016-10-11 20:17:38] Client disconnected.
+[ 2016-10-11 20:23:30] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 20:23:30] Account logged in UserID = 2
+[ 2016-10-11 20:23:32] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 20:23:32] User selected CharacterName = Firstchar
+[ 2016-10-11 20:23:32] Total items = test
+[ 2016-10-11 20:23:32] Total items = test
+[ 2016-10-11 20:23:32] Total items = test
+[ 2016-10-11 20:23:32] Total items = test
+[ 2016-10-11 20:23:32] Total items = test
+[ 2016-10-11 20:23:32] Total items = test2
+[ 2016-10-11 20:23:32] Total items = test
+[ 2016-10-11 20:23:32] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 20:23:32] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 20:23:32] Character information sent.
+[ 2016-10-11 20:23:32] Firstchar is advancing wave..
+[ 2016-10-11 20:23:39] Client disconnected.
+[ 2016-10-11 20:24:31] Setting up server...
+[ 2016-10-11 20:24:31] Connected to MYSQL.
+[ 2016-10-11 20:24:31] Skill database loaded with [4] skills
+[ 2016-10-11 20:24:31] Item database loaded with [2] items
+[ 2016-10-11 20:24:32] Server is running on port 32211
+[ 2016-10-11 20:24:33] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 20:24:33] Account logged in UserID = 2
+[ 2016-10-11 20:24:35] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 20:24:35] User selected CharacterName = Firstchar
+[ 2016-10-11 20:24:35] Total items = test
+[ 2016-10-11 20:24:35] Total items = test
+[ 2016-10-11 20:24:35] Total items = test
+[ 2016-10-11 20:24:35] Total items = test
+[ 2016-10-11 20:24:35] Total items = test
+[ 2016-10-11 20:24:35] Total items = test2
+[ 2016-10-11 20:24:35] Total items = test
+[ 2016-10-11 20:24:35] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 20:24:35] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 20:24:40] Character information sent.
+[ 2016-10-11 20:24:40] Firstchar is advancing wave..
+[ 2016-10-11 20:24:43] Client disconnected.
+[ 2016-10-11 21:03:14] Setting up server...
+[ 2016-10-11 21:03:15] Connected to MYSQL.
+[ 2016-10-11 21:03:15] Skill database loaded with [4] skills
+[ 2016-10-11 21:03:15] Item database loaded with [2] items
+[ 2016-10-11 21:03:15] Server is running on port 32211
+[ 2016-10-11 21:05:16] Setting up server...
+[ 2016-10-11 21:05:17] Connected to MYSQL.
+[ 2016-10-11 21:05:17] Skill database loaded with [4] skills
+[ 2016-10-11 21:05:17] Item database loaded with [2] items
+[ 2016-10-11 21:05:17] Server is running on port 32211
+[ 2016-10-11 21:05:43] Setting up server...
+[ 2016-10-11 21:05:43] Connected to MYSQL.
+[ 2016-10-11 21:05:43] Skill database loaded with [4] skills
+[ 2016-10-11 21:05:43] Item database loaded with [2] items
+[ 2016-10-11 21:05:43] Server is running on port 32211
+[ 2016-10-11 21:05:50] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:05:50] Account logged in UserID = 2
+[ 2016-10-11 21:05:51] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:05:51] User selected CharacterName = Firstchar
+[ 2016-10-11 21:05:51] Total items = test
+[ 2016-10-11 21:05:51] Total items = test
+[ 2016-10-11 21:05:51] Total items = test
+[ 2016-10-11 21:05:51] Total items = test
+[ 2016-10-11 21:05:51] Total items = test
+[ 2016-10-11 21:05:51] Total items = test2
+[ 2016-10-11 21:05:51] Total items = test
+[ 2016-10-11 21:05:51] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:05:51] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:05:56] Character information sent.
+[ 2016-10-11 21:05:56] Firstchar is advancing wave..
+[ 2016-10-11 21:06:04] Client disconnected.
+[ 2016-10-11 21:07:15] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:07:15] Account logged in UserID = 2
+[ 2016-10-11 21:07:16] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:07:16] User selected CharacterName = Firstchar
+[ 2016-10-11 21:07:16] Total items = test
+[ 2016-10-11 21:07:16] Total items = test
+[ 2016-10-11 21:07:16] Total items = test
+[ 2016-10-11 21:07:16] Total items = test
+[ 2016-10-11 21:07:16] Total items = test
+[ 2016-10-11 21:07:16] Total items = test2
+[ 2016-10-11 21:07:16] Total items = test
+[ 2016-10-11 21:07:16] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:07:16] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:07:21] Character information sent.
+[ 2016-10-11 21:07:21] Firstchar is advancing wave..
+[ 2016-10-11 21:07:31] Client disconnected.
+[ 2016-10-11 21:07:47] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:07:47] Account logged in UserID = 2
+[ 2016-10-11 21:07:48] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:07:48] User selected CharacterName = Firstchar
+[ 2016-10-11 21:07:48] Total items = test
+[ 2016-10-11 21:07:48] Total items = test
+[ 2016-10-11 21:07:48] Total items = test
+[ 2016-10-11 21:07:48] Total items = test
+[ 2016-10-11 21:07:48] Total items = test
+[ 2016-10-11 21:07:48] Total items = test2
+[ 2016-10-11 21:07:48] Total items = test
+[ 2016-10-11 21:07:48] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:07:48] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:07:53] Character information sent.
+[ 2016-10-11 21:07:53] Firstchar is advancing wave..
+[ 2016-10-11 21:08:05] Client disconnected.
+[ 2016-10-11 21:09:18] Setting up server...
+[ 2016-10-11 21:09:18] Connected to MYSQL.
+[ 2016-10-11 21:09:18] Skill database loaded with [4] skills
+[ 2016-10-11 21:09:18] Item database loaded with [2] items
+[ 2016-10-11 21:09:18] Server is running on port 32211
+[ 2016-10-11 21:09:26] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:09:26] Account logged in UserID = 2
+[ 2016-10-11 21:09:27] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:09:27] User selected CharacterName = Firstchar
+[ 2016-10-11 21:09:27] Total items = test
+[ 2016-10-11 21:09:27] Total items = test
+[ 2016-10-11 21:09:27] Total items = test
+[ 2016-10-11 21:09:27] Total items = test
+[ 2016-10-11 21:09:27] Total items = test
+[ 2016-10-11 21:09:27] Total items = test2
+[ 2016-10-11 21:09:27] Total items = test
+[ 2016-10-11 21:09:27] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:09:27] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:09:32] Character information sent.
+[ 2016-10-11 21:09:32] Firstchar is advancing wave..
+[ 2016-10-11 21:09:39] Client disconnected.
+[ 2016-10-11 21:10:24] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:10:24] Account logged in UserID = 2
+[ 2016-10-11 21:10:25] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:10:25] User selected CharacterName = Firstchar
+[ 2016-10-11 21:10:25] Total items = test
+[ 2016-10-11 21:10:25] Total items = test
+[ 2016-10-11 21:10:25] Total items = test
+[ 2016-10-11 21:10:25] Total items = test
+[ 2016-10-11 21:10:25] Total items = test
+[ 2016-10-11 21:10:25] Total items = test2
+[ 2016-10-11 21:10:25] Total items = test
+[ 2016-10-11 21:10:25] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:10:25] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:10:30] Character information sent.
+[ 2016-10-11 21:10:30] Firstchar is advancing wave..
+[ 2016-10-11 21:10:51] Client disconnected.
+[ 2016-10-11 21:12:14] Setting up server...
+[ 2016-10-11 21:12:14] Connected to MYSQL.
+[ 2016-10-11 21:12:14] Skill database loaded with [4] skills
+[ 2016-10-11 21:12:14] Item database loaded with [2] items
+[ 2016-10-11 21:12:14] Server is running on port 32211
+[ 2016-10-11 21:12:22] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:12:22] Account logged in UserID = 2
+[ 2016-10-11 21:12:23] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:12:23] User selected CharacterName = Firstchar
+[ 2016-10-11 21:12:23] Total items = test
+[ 2016-10-11 21:12:23] Total items = test
+[ 2016-10-11 21:12:23] Total items = test
+[ 2016-10-11 21:12:23] Total items = test
+[ 2016-10-11 21:12:23] Total items = test
+[ 2016-10-11 21:12:23] Total items = test2
+[ 2016-10-11 21:12:23] Total items = test
+[ 2016-10-11 21:12:23] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:12:23] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:12:28] Character information sent.
+[ 2016-10-11 21:12:28] Firstchar is advancing wave..
+[ 2016-10-11 21:12:46] Client disconnected.
+[ 2016-10-11 21:15:35] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:15:35] Account logged in UserID = 2
+[ 2016-10-11 21:15:36] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:15:36] User selected CharacterName = Firstchar
+[ 2016-10-11 21:15:36] Total items = test
+[ 2016-10-11 21:15:36] Total items = test
+[ 2016-10-11 21:15:36] Total items = test
+[ 2016-10-11 21:15:36] Total items = test
+[ 2016-10-11 21:15:36] Total items = test
+[ 2016-10-11 21:15:36] Total items = test2
+[ 2016-10-11 21:15:36] Total items = test
+[ 2016-10-11 21:15:36] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:15:36] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:15:41] Character information sent.
+[ 2016-10-11 21:15:42] Firstchar is advancing wave..
+[ 2016-10-11 21:15:52] Client disconnected.
+[ 2016-10-11 21:22:25] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:22:25] Account logged in UserID = 2
+[ 2016-10-11 21:22:26] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:22:26] User selected CharacterName = Firstchar
+[ 2016-10-11 21:22:26] Total items = test
+[ 2016-10-11 21:22:26] Total items = test
+[ 2016-10-11 21:22:26] Total items = test
+[ 2016-10-11 21:22:26] Total items = test
+[ 2016-10-11 21:22:26] Total items = test
+[ 2016-10-11 21:22:26] Total items = test2
+[ 2016-10-11 21:22:26] Total items = test
+[ 2016-10-11 21:22:26] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:22:26] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:22:31] Character information sent.
+[ 2016-10-11 21:22:31] Firstchar is advancing wave..
+[ 2016-10-11 21:22:35] Client disconnected.
+[ 2016-10-11 21:23:11] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:23:11] Account logged in UserID = 2
+[ 2016-10-11 21:23:12] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:23:12] User selected CharacterName = Firstchar
+[ 2016-10-11 21:23:12] Total items = test
+[ 2016-10-11 21:23:12] Total items = test
+[ 2016-10-11 21:23:12] Total items = test
+[ 2016-10-11 21:23:12] Total items = test
+[ 2016-10-11 21:23:12] Total items = test
+[ 2016-10-11 21:23:12] Total items = test2
+[ 2016-10-11 21:23:12] Total items = test
+[ 2016-10-11 21:23:12] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:23:12] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:23:17] Character information sent.
+[ 2016-10-11 21:23:17] Firstchar is advancing wave..
+[ 2016-10-11 21:23:22] Client disconnected.
+[ 2016-10-11 21:23:43] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:23:43] Account logged in UserID = 2
+[ 2016-10-11 21:23:44] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:23:44] User selected CharacterName = Firstchar
+[ 2016-10-11 21:23:44] Total items = test
+[ 2016-10-11 21:23:44] Total items = test
+[ 2016-10-11 21:23:44] Total items = test
+[ 2016-10-11 21:23:44] Total items = test
+[ 2016-10-11 21:23:44] Total items = test
+[ 2016-10-11 21:23:44] Total items = test2
+[ 2016-10-11 21:23:44] Total items = test
+[ 2016-10-11 21:23:44] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:23:44] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:23:49] Character information sent.
+[ 2016-10-11 21:23:49] Firstchar is advancing wave..
+[ 2016-10-11 21:23:53] Client disconnected.
+[ 2016-10-11 21:24:58] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:24:58] Account logged in UserID = 2
+[ 2016-10-11 21:24:59] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:24:59] User selected CharacterName = Firstchar
+[ 2016-10-11 21:24:59] Total items = test
+[ 2016-10-11 21:24:59] Total items = test
+[ 2016-10-11 21:24:59] Total items = test
+[ 2016-10-11 21:24:59] Total items = test
+[ 2016-10-11 21:24:59] Total items = test
+[ 2016-10-11 21:24:59] Total items = test2
+[ 2016-10-11 21:24:59] Total items = test
+[ 2016-10-11 21:24:59] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:24:59] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:25:04] Character information sent.
+[ 2016-10-11 21:25:04] Firstchar is advancing wave..
+[ 2016-10-11 21:25:17] Client disconnected.
+[ 2016-10-11 21:26:04] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:26:04] Account logged in UserID = 2
+[ 2016-10-11 21:26:06] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:26:06] User selected CharacterName = Firstchar
+[ 2016-10-11 21:26:06] Total items = test
+[ 2016-10-11 21:26:06] Total items = test
+[ 2016-10-11 21:26:06] Total items = test
+[ 2016-10-11 21:26:06] Total items = test
+[ 2016-10-11 21:26:06] Total items = test
+[ 2016-10-11 21:26:06] Total items = test2
+[ 2016-10-11 21:26:06] Total items = test
+[ 2016-10-11 21:26:06] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:26:06] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:26:11] Character information sent.
+[ 2016-10-11 21:26:11] Firstchar is advancing wave..
+[ 2016-10-11 21:26:30] Client disconnected.
+[ 2016-10-11 21:26:58] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:26:58] Account logged in UserID = 2
+[ 2016-10-11 21:27:01] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:27:01] User selected CharacterName = Firstchar
+[ 2016-10-11 21:27:01] Total items = test
+[ 2016-10-11 21:27:01] Total items = test
+[ 2016-10-11 21:27:01] Total items = test
+[ 2016-10-11 21:27:01] Total items = test
+[ 2016-10-11 21:27:01] Total items = test
+[ 2016-10-11 21:27:01] Total items = test2
+[ 2016-10-11 21:27:01] Total items = test
+[ 2016-10-11 21:27:01] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:27:01] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:27:06] Character information sent.
+[ 2016-10-11 21:27:06] Firstchar is advancing wave..
+[ 2016-10-11 21:27:14] Client disconnected.
+[ 2016-10-11 21:27:35] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:27:35] Account logged in UserID = 2
+[ 2016-10-11 21:27:36] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:27:36] User selected CharacterName = Firstchar
+[ 2016-10-11 21:27:36] Total items = test
+[ 2016-10-11 21:27:36] Total items = test
+[ 2016-10-11 21:27:36] Total items = test
+[ 2016-10-11 21:27:36] Total items = test
+[ 2016-10-11 21:27:36] Total items = test
+[ 2016-10-11 21:27:36] Total items = test2
+[ 2016-10-11 21:27:36] Total items = test
+[ 2016-10-11 21:27:36] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:27:36] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:27:41] Character information sent.
+[ 2016-10-11 21:27:41] Firstchar is advancing wave..
+[ 2016-10-11 21:27:55] Client disconnected.
+[ 2016-10-11 21:29:48] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:29:48] Account logged in UserID = 2
+[ 2016-10-11 21:30:14] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:30:14] User selected CharacterName = Firstchar
+[ 2016-10-11 21:30:14] Total items = test
+[ 2016-10-11 21:30:14] Total items = test
+[ 2016-10-11 21:30:14] Total items = test
+[ 2016-10-11 21:30:14] Total items = test
+[ 2016-10-11 21:30:14] Total items = test
+[ 2016-10-11 21:30:14] Total items = test2
+[ 2016-10-11 21:30:14] Total items = test
+[ 2016-10-11 21:30:14] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:30:14] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:30:19] Character information sent.
+[ 2016-10-11 21:30:19] Firstchar is advancing wave..
+[ 2016-10-11 21:30:26] Client disconnected.
+[ 2016-10-11 21:31:13] Setting up server...
+[ 2016-10-11 21:31:13] Connected to MYSQL.
+[ 2016-10-11 21:31:13] Skill database loaded with [4] skills
+[ 2016-10-11 21:31:13] Item database loaded with [2] items
+[ 2016-10-11 21:31:13] Server is running on port 32211
+[ 2016-10-11 21:31:15] 1|Firstchar|10|2,3,2,2+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:31:15] Account logged in UserID = 2
+[ 2016-10-11 21:31:16] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:31:17] User selected CharacterName = Firstchar
+[ 2016-10-11 21:31:17] Total items = test
+[ 2016-10-11 21:31:17] Total items = test
+[ 2016-10-11 21:31:17] Total items = test
+[ 2016-10-11 21:31:17] Total items = test
+[ 2016-10-11 21:31:17] Total items = test
+[ 2016-10-11 21:31:17] Total items = test2
+[ 2016-10-11 21:31:17] Total items = test
+[ 2016-10-11 21:31:17] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:31:17] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:31:17] Character information sent.
+[ 2016-10-11 21:31:17] Firstchar is advancing wave..
+[ 2016-10-11 21:31:33] Client disconnected.
+[ 2016-10-11 21:31:48] 1|Firstchar|10|16,18,17,20+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:31:48] Account logged in UserID = 2
+[ 2016-10-11 21:31:49] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:31:49] User selected CharacterName = Firstchar
+[ 2016-10-11 21:31:49] Total items = test
+[ 2016-10-11 21:31:49] Total items = test
+[ 2016-10-11 21:31:49] Total items = test
+[ 2016-10-11 21:31:49] Total items = test
+[ 2016-10-11 21:31:49] Total items = test
+[ 2016-10-11 21:31:49] Total items = test2
+[ 2016-10-11 21:31:49] Total items = test
+[ 2016-10-11 21:31:49] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:31:49] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:31:49] Character information sent.
+[ 2016-10-11 21:31:49] Firstchar is advancing wave..
+[ 2016-10-11 21:32:18] Client disconnected.
+[ 2016-10-11 21:32:24] 1|Firstchar|10|16,18,17,20+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:32:24] Account logged in UserID = 2
+[ 2016-10-11 21:32:26] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:32:26] User selected CharacterName = Firstchar
+[ 2016-10-11 21:32:26] Total items = test
+[ 2016-10-11 21:32:26] Total items = test
+[ 2016-10-11 21:32:26] Total items = test
+[ 2016-10-11 21:32:26] Total items = test
+[ 2016-10-11 21:32:26] Total items = test
+[ 2016-10-11 21:32:26] Total items = test2
+[ 2016-10-11 21:32:26] Total items = test
+[ 2016-10-11 21:32:26] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:32:26] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:32:26] Character information sent.
+[ 2016-10-11 21:32:27] Firstchar is advancing wave..
+[ 2016-10-11 21:33:06] Client disconnected.
+[ 2016-10-11 21:33:53] Setting up server...
+[ 2016-10-11 21:33:53] Connected to MYSQL.
+[ 2016-10-11 21:33:53] Skill database loaded with [4] skills
+[ 2016-10-11 21:33:53] Item database loaded with [2] items
+[ 2016-10-11 21:33:53] Server is running on port 32211
+[ 2016-10-11 21:34:09] 1|Firstchar|10|16,18,17,20+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:34:09] Account logged in UserID = 2
+[ 2016-10-11 21:34:11] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:34:11] User selected CharacterName = Firstchar
+[ 2016-10-11 21:34:11] Total items = test
+[ 2016-10-11 21:34:11] Total items = test
+[ 2016-10-11 21:34:11] Total items = test
+[ 2016-10-11 21:34:11] Total items = test
+[ 2016-10-11 21:34:11] Total items = test
+[ 2016-10-11 21:34:11] Total items = test2
+[ 2016-10-11 21:34:11] Total items = test
+[ 2016-10-11 21:34:11] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:34:11] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:34:12] Character information sent.
+[ 2016-10-11 21:34:12] Firstchar is advancing wave..
+[ 2016-10-11 21:34:13] Client disconnected.
+[ 2016-10-11 21:34:17] 1|Firstchar|10|16,18,17,20+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:34:17] Account logged in UserID = 2
+[ 2016-10-11 21:34:18] User selected characterID = GETWORLD;2;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:34:18] User selected CharacterName = Test2
+[ 2016-10-11 21:34:18] Total items = test
+[ 2016-10-11 21:34:18] Total items = test2
+[ 2016-10-11 21:34:18] Total items = test
+[ 2016-10-11 21:34:18] Character information sent.
+[ 2016-10-11 21:34:18] Test2 is advancing wave..
+[ 2016-10-11 21:34:38] Client disconnected.
+[ 2016-10-11 21:36:36] 1|Firstchar|10|16,18,17,20+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:36:36] Account logged in UserID = 2
+[ 2016-10-11 21:36:37] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:36:37] User selected CharacterName = Firstchar
+[ 2016-10-11 21:36:37] Total items = test
+[ 2016-10-11 21:36:37] Total items = test
+[ 2016-10-11 21:36:37] Total items = test
+[ 2016-10-11 21:36:37] Total items = test
+[ 2016-10-11 21:36:37] Total items = test
+[ 2016-10-11 21:36:37] Total items = test2
+[ 2016-10-11 21:36:37] Total items = test
+[ 2016-10-11 21:36:37] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:36:37] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:36:37] Character information sent.
+[ 2016-10-11 21:36:38] Firstchar is advancing wave..
+[ 2016-10-11 21:38:18] Client disconnected.
+[ 2016-10-11 21:39:27] 1|Firstchar|10|16,18,17,20+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:39:27] Account logged in UserID = 2
+[ 2016-10-11 21:39:28] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:39:28] User selected CharacterName = Firstchar
+[ 2016-10-11 21:39:28] Total items = test
+[ 2016-10-11 21:39:28] Total items = test
+[ 2016-10-11 21:39:28] Total items = test
+[ 2016-10-11 21:39:28] Total items = test
+[ 2016-10-11 21:39:28] Total items = test
+[ 2016-10-11 21:39:28] Total items = test2
+[ 2016-10-11 21:39:28] Total items = test
+[ 2016-10-11 21:39:28] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:39:28] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:39:29] Character information sent.
+[ 2016-10-11 21:39:29] Firstchar is advancing wave..
+[ 2016-10-11 21:39:32] Client disconnected.
+[ 2016-10-11 21:42:09] Setting up server...
+[ 2016-10-11 21:42:10] Connected to MYSQL.
+[ 2016-10-11 21:42:10] Skill database loaded with [4] skills
+[ 2016-10-11 21:42:10] Item database loaded with [2] items
+[ 2016-10-11 21:42:10] Server is running on port 32211
+[ 2016-10-11 21:42:12] 1|Firstchar|10|16,18,17,20+2|Test2|4|10,7,5,5+
+[ 2016-10-11 21:42:12] Account logged in UserID = 2
+[ 2016-10-11 21:42:13] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 21:42:13] User selected CharacterName = Firstchar
+[ 2016-10-11 21:42:13] Total items = test
+[ 2016-10-11 21:42:13] Total items = test
+[ 2016-10-11 21:42:13] Total items = test
+[ 2016-10-11 21:42:13] Total items = test
+[ 2016-10-11 21:42:13] Total items = test
+[ 2016-10-11 21:42:13] Total items = test2
+[ 2016-10-11 21:42:13] Total items = test
+[ 2016-10-11 21:42:13] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 21:42:13] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 21:42:13] Character information sent.
+[ 2016-10-11 21:42:14] Firstchar is advancing wave..
+[ 2016-10-11 21:42:44] Firstchar is advancing wave..
+[ 2016-10-11 21:42:48] Client disconnected.
+[ 2016-10-11 23:19:57] Setting up server...
+[ 2016-10-11 23:19:58] Connected to MYSQL.
+[ 2016-10-11 23:19:58] Skill database loaded with [4] skills
+[ 2016-10-11 23:19:58] Item database loaded with [2] items
+[ 2016-10-11 23:19:58] Server is running on port 32211
+[ 2016-10-11 23:20:01] 1|Firstchar|10|16,18,17,20+2|Test2|4|10,7,5,5+
+[ 2016-10-11 23:20:01] Account logged in UserID = 2
+[ 2016-10-11 23:20:02] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 23:20:02] User selected CharacterName = Firstchar
+[ 2016-10-11 23:20:02] Total items = test
+[ 2016-10-11 23:20:02] Total items = test
+[ 2016-10-11 23:20:02] Total items = test
+[ 2016-10-11 23:20:02] Total items = test
+[ 2016-10-11 23:20:02] Total items = test
+[ 2016-10-11 23:20:02] Total items = test2
+[ 2016-10-11 23:20:02] Total items = test
+[ 2016-10-11 23:20:02] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 23:20:02] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 23:20:03] Character information sent.
+[ 2016-10-11 23:20:03] Firstchar is advancing wave..
+[ 2016-10-11 23:20:30] Client disconnected.
+[ 2016-10-11 23:20:45] 1|Firstchar|10|16,18,17,20+2|Test2|4|10,7,5,5+
+[ 2016-10-11 23:20:45] Account logged in UserID = 2
+[ 2016-10-11 23:20:47] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 23:20:47] User selected CharacterName = Firstchar
+[ 2016-10-11 23:20:47] Total items = test
+[ 2016-10-11 23:20:47] Total items = test
+[ 2016-10-11 23:20:47] Total items = test
+[ 2016-10-11 23:20:47] Total items = test
+[ 2016-10-11 23:20:47] Total items = test
+[ 2016-10-11 23:20:47] Total items = test2
+[ 2016-10-11 23:20:47] Total items = test
+[ 2016-10-11 23:20:47] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 23:20:47] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 23:20:47] Character information sent.
+[ 2016-10-11 23:20:47] Firstchar is advancing wave..
+[ 2016-10-11 23:23:42] Client disconnected.
+[ 2016-10-11 23:23:46] 1|Firstchar|10|16,18,17,20+2|Test2|4|10,7,5,5+
+[ 2016-10-11 23:23:46] Account logged in UserID = 2
+[ 2016-10-11 23:23:47] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 23:23:47] User selected CharacterName = Firstchar
+[ 2016-10-11 23:23:47] Total items = test
+[ 2016-10-11 23:23:47] Total items = test
+[ 2016-10-11 23:23:47] Total items = test
+[ 2016-10-11 23:23:47] Total items = test
+[ 2016-10-11 23:23:47] Total items = test
+[ 2016-10-11 23:23:47] Total items = test2
+[ 2016-10-11 23:23:47] Total items = test
+[ 2016-10-11 23:23:47] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 23:23:47] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 23:23:48] Character information sent.
+[ 2016-10-11 23:23:48] Firstchar is advancing wave..
+[ 2016-10-11 23:27:39] Client disconnected.
+[ 2016-10-11 23:35:55] 1|Firstchar|10|16,18,17,20+2|Test2|4|10,7,5,5+
+[ 2016-10-11 23:35:55] Account logged in UserID = 2
+[ 2016-10-11 23:35:55] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 23:35:55] User selected CharacterName = Firstchar
+[ 2016-10-11 23:35:55] Total items = test
+[ 2016-10-11 23:35:55] Total items = test
+[ 2016-10-11 23:35:55] Total items = test
+[ 2016-10-11 23:35:55] Total items = test
+[ 2016-10-11 23:35:55] Total items = test
+[ 2016-10-11 23:35:55] Total items = test2
+[ 2016-10-11 23:35:55] Total items = test
+[ 2016-10-11 23:35:55] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 23:35:55] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 23:35:56] Character information sent.
+[ 2016-10-11 23:35:56] Firstchar is advancing wave..
+[ 2016-10-11 23:36:03] Client disconnected.
+[ 2016-10-11 23:36:31] 1|Firstchar|10|16,18,17,20+2|Test2|4|10,7,5,5+
+[ 2016-10-11 23:36:31] Account logged in UserID = 2
+[ 2016-10-11 23:36:32] User selected characterID = GETWORLD;1;fa8aa650f125ae59c20856028d850aee;/
+[ 2016-10-11 23:36:32] User selected CharacterName = Firstchar
+[ 2016-10-11 23:36:32] Total items = test
+[ 2016-10-11 23:36:32] Total items = test
+[ 2016-10-11 23:36:32] Total items = test
+[ 2016-10-11 23:36:32] Total items = test
+[ 2016-10-11 23:36:32] Total items = test
+[ 2016-10-11 23:36:32] Total items = test2
+[ 2016-10-11 23:36:32] Total items = test
+[ 2016-10-11 23:36:32] Skill 1 = Skill1 / 30 active = True
+[ 2016-10-11 23:36:32] Skill 2 = Skill2 / 50 active = False
+[ 2016-10-11 23:36:32] Character information sent.
+[ 2016-10-11 23:36:32] Firstchar is advancing wave..
+[ 2016-10-11 23:36:47] Client disconnected.

@@ -1,0 +1,22 @@
+c:\users\jerome\documents\visual studio 2015\Projects\LoginServer\LoginServer\bin\Debug\LoginServer.exe.config
+c:\users\jerome\documents\visual studio 2015\Projects\LoginServer\LoginServer\bin\Debug\LoginServer.exe
+c:\users\jerome\documents\visual studio 2015\Projects\LoginServer\LoginServer\bin\Debug\LoginServer.pdb
+c:\users\jerome\documents\visual studio 2015\Projects\LoginServer\LoginServer\obj\Debug\LoginServer.csprojResolveAssemblyReference.cache
+c:\users\jerome\documents\visual studio 2015\Projects\LoginServer\LoginServer\obj\Debug\LoginServer.frmLoginServer.resources
+c:\users\jerome\documents\visual studio 2015\Projects\LoginServer\LoginServer\obj\Debug\LoginServer.Properties.Resources.resources
+c:\users\jerome\documents\visual studio 2015\Projects\LoginServer\LoginServer\obj\Debug\LoginServer.csproj.GenerateResource.Cache
+c:\users\jerome\documents\visual studio 2015\Projects\LoginServer\LoginServer\obj\Debug\LoginServer.exe
+c:\users\jerome\documents\visual studio 2015\Projects\LoginServer\LoginServer\obj\Debug\LoginServer.pdb
+C:\Users\Jerome\Documents\Visual Studio 2015\Projects\LoginServer\LoginServer\bin\Debug\MySql.Data.dll
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\bin\Debug\LoginServer.exe.config
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\obj\Debug\LoginServer.exe
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\obj\Debug\LoginServer.pdb
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\bin\Debug\LoginServer.exe
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\bin\Debug\LoginServer.pdb
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\obj\Debug\LoginServer.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\obj\Debug\LoginServer.frmLoginServer.resources
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\obj\Debug\LoginServer.Properties.Resources.resources
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\obj\Debug\LoginServer.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\bin\Debug\MySql.Data.dll
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\bin\Debug\MySql.Data.xml
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\bin\Debug\LitJson.dll

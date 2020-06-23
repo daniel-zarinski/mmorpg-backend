@@ -1,0 +1,46 @@
+This is the log file of the 2016-9-12
+[ 2016-09-12 03:58:53] Setting up server...
+[ 2016-09-12 03:58:53] Connected to MYSQL.
+[ 2016-09-12 03:58:53] Server is running on port 32211
+[ 2016-09-12 04:02:59] Account logged in. Character = Firstchar
+[ 2016-09-12 04:02:59] Recieve character packet from Firstchar
+[ 2016-09-12 04:03:01] User selected character = Firstchar
+[ 2016-09-12 04:03:01] Character information sent.
+[ 2016-09-12 04:03:01] Firstchar is advancing wave..
+[ 2016-09-12 04:03:05] Client disconnected.
+[ 2016-09-12 04:03:33] Account logged in. Character = Test2
+[ 2016-09-12 04:03:33] Recieve character packet from Test2
+[ 2016-09-12 04:03:35] User selected character = Test2
+[ 2016-09-12 04:03:35] Character information sent.
+[ 2016-09-12 04:03:35] Test2 is advancing wave..
+[ 2016-09-12 04:03:41] Account logged in. Character = Firstchar
+[ 2016-09-12 04:03:41] Recieve character packet from Firstchar
+[ 2016-09-12 04:03:41] User selected character = Firstchar
+[ 2016-09-12 04:03:41] Character information sent.
+[ 2016-09-12 04:03:42] Firstchar is advancing wave..
+[ 2016-09-12 04:03:42] Sending wave number..
+[ 2016-09-12 04:03:42] Sending wave number..
+[ 2016-09-12 04:04:10] Client disconnected.
+[ 2016-09-12 04:04:17] Client disconnected.
+[ 2016-09-12 04:05:36] Setting up server...
+[ 2016-09-12 04:05:36] Connected to MYSQL.
+[ 2016-09-12 04:05:36] Server is running on port 32211
+[ 2016-09-12 04:06:55] Account logged in. Character = Firstchar
+[ 2016-09-12 04:06:55] Recieve character packet from Firstchar
+[ 2016-09-12 04:06:56] User selected character = Firstchar
+[ 2016-09-12 04:06:56] Character information sent.
+[ 2016-09-12 04:06:56] Firstchar is advancing wave..
+[ 2016-09-12 04:06:59] Account logged in. Character = Test2
+[ 2016-09-12 04:06:59] Recieve character packet from Test2
+[ 2016-09-12 04:07:00] User selected character = Test2
+[ 2016-09-12 04:07:00] Character information sent.
+[ 2016-09-12 04:07:00] Test2 is advancing wave..
+[ 2016-09-12 04:07:00] Sending wave number..
+[ 2016-09-12 04:07:00] Sending wave number..
+[ 2016-09-12 04:07:15] Firstchar is advancing wave..
+[ 2016-09-12 04:07:15] Test2 is advancing wave..
+[ 2016-09-12 04:07:15] Sending wave number..
+[ 2016-09-12 04:07:15] Sending wave number..
+[ 2016-09-12 04:07:23] Client disconnected.
+[ 2016-09-12 04:07:23] Client disconnected.
+[ 2016-09-12 04:07:28] Client disconnected.

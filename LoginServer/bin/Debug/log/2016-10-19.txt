@@ -1,0 +1,703 @@
+This is the log file of the 2016-10-19
+[ 2016-10-19 02:48:06] Setting up server...
+[ 2016-10-19 02:48:06] Connected to MYSQL.
+[ 2016-10-19 02:48:06] Skill database loaded with [4] skills
+[ 2016-10-19 02:48:06] Item database loaded with [5] items
+[ 2016-10-19 02:48:06] Monster database loaded with [2] monsters
+[ 2016-10-19 02:48:06] Waves database loaded with [1] waves
+[ 2016-10-19 02:48:06] Server is running on port 32211
+[ 2016-10-19 02:48:12] Account logged in UserID = 2
+[ 2016-10-19 02:48:13] User selected CharacterName = Firstchar
+[ 2016-10-19 02:48:13] 1;Firstchar;10000;100;10;9816;10;5;5;5;4425;0;
+[ 2016-10-19 02:48:13] Character information sent.
+[ 2016-10-19 02:48:17] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:17] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:17] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:17] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:17] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:17] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:18] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:18] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:18] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:18] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:18] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:19] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:19] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:19] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:19] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:19] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:19] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:20] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:20] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:20] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:20] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:20] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:21] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:21] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:21] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:21] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:21] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:22] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:22] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:22] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:22] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:22] Firstchar Leveled up a skill
+[ 2016-10-19 02:48:23] Client disconnected.
+[ 2016-10-19 02:48:31] Account logged in UserID = 2
+[ 2016-10-19 02:48:32] User selected CharacterName = Test2
+[ 2016-10-19 02:48:32] 2;Test2;100;100;4;168;10;7;5;5;5;0;
+[ 2016-10-19 02:48:32] Character information sent.
+[ 2016-10-19 02:48:36] Test2 Leveled up a skill
+[ 2016-10-19 02:48:36] Test2 Leveled up a skill
+[ 2016-10-19 02:48:36] Test2 Leveled up a skill
+[ 2016-10-19 02:48:36] Test2 Leveled up a skill
+[ 2016-10-19 02:48:36] Test2 Leveled up a skill
+[ 2016-10-19 02:48:37] Test2 Leveled up a skill
+[ 2016-10-19 02:48:37] Test2 Leveled up a skill
+[ 2016-10-19 02:48:37] Test2 Leveled up a skill
+[ 2016-10-19 02:48:37] Test2 Leveled up a skill
+[ 2016-10-19 02:48:38] Test2 Leveled up a skill
+[ 2016-10-19 02:48:38] Test2 Leveled up a skill
+[ 2016-10-19 02:48:38] Test2 Leveled up a skill
+[ 2016-10-19 02:48:38] Test2 Leveled up a skill
+[ 2016-10-19 02:48:39] Test2 Leveled up a skill
+[ 2016-10-19 02:48:39] Test2 Leveled up a skill
+[ 2016-10-19 02:48:39] Test2 Leveled up a skill
+[ 2016-10-19 02:48:39] Test2 Leveled up a skill
+[ 2016-10-19 02:48:39] Test2 Leveled up a skill
+[ 2016-10-19 02:48:39] Test2 Leveled up a skill
+[ 2016-10-19 02:48:39] Test2 Leveled up a skill
+[ 2016-10-19 02:48:40] Test2 Leveled up a skill
+[ 2016-10-19 02:48:40] Test2 Leveled up a skill
+[ 2016-10-19 02:48:40] Test2 Leveled up a skill
+[ 2016-10-19 02:48:40] Test2 Leveled up a skill
+[ 2016-10-19 02:48:40] Test2 Leveled up a skill
+[ 2016-10-19 02:48:40] Test2 Learned skill id = 1
+[ 2016-10-19 02:48:41] Test2 Leveled up a skill
+[ 2016-10-19 02:48:41] Test2 Leveled up a skill
+[ 2016-10-19 02:48:41] Test2 Leveled up a skill
+[ 2016-10-19 02:48:41] Test2 Leveled up a skill
+[ 2016-10-19 02:48:41] Test2 Leveled up a skill
+[ 2016-10-19 02:48:41] Test2 Leveled up a skill
+[ 2016-10-19 02:48:42] Test2 Leveled up a skill
+[ 2016-10-19 02:48:42] Test2 Leveled up a skill
+[ 2016-10-19 02:48:42] Test2 Leveled up a skill
+[ 2016-10-19 02:48:42] Test2 Leveled up a skill
+[ 2016-10-19 02:48:42] Test2 Leveled up a skill
+[ 2016-10-19 02:48:43] Test2 Leveled up a skill
+[ 2016-10-19 02:48:43] Test2 Leveled up a skill
+[ 2016-10-19 02:48:43] Test2 Leveled up a skill
+[ 2016-10-19 02:48:43] Test2 Leveled up a skill
+[ 2016-10-19 02:48:43] Test2 Leveled up a skill
+[ 2016-10-19 02:48:43] Test2 Leveled up a skill
+[ 2016-10-19 02:48:43] Test2 Leveled up a skill
+[ 2016-10-19 02:48:44] Test2 Leveled up a skill
+[ 2016-10-19 02:48:44] Client disconnected.
+[ 2016-10-19 02:48:48] Account logged in UserID = 2
+[ 2016-10-19 02:48:49] User selected CharacterName = Test3
+[ 2016-10-19 02:48:49] 3;Test3;100;100;5;104;10;7;5;5;5;0;
+[ 2016-10-19 02:48:49] Character information sent.
+[ 2016-10-19 02:48:53] Test3 Leveled up a skill
+[ 2016-10-19 02:48:53] Test3 Leveled up a skill
+[ 2016-10-19 02:48:53] Test3 Leveled up a skill
+[ 2016-10-19 02:48:53] Test3 Leveled up a skill
+[ 2016-10-19 02:48:53] Test3 Leveled up a skill
+[ 2016-10-19 02:48:54] Test3 Leveled up a skill
+[ 2016-10-19 02:48:54] Test3 Leveled up a skill
+[ 2016-10-19 02:48:54] Test3 Leveled up a skill
+[ 2016-10-19 02:48:54] Test3 Leveled up a skill
+[ 2016-10-19 02:48:55] Test3 Leveled up a skill
+[ 2016-10-19 02:48:55] Test3 Leveled up a skill
+[ 2016-10-19 02:48:55] Test3 Leveled up a skill
+[ 2016-10-19 02:48:55] Test3 Leveled up a skill
+[ 2016-10-19 02:48:55] Test3 Leveled up a skill
+[ 2016-10-19 02:48:56] Test3 Leveled up a skill
+[ 2016-10-19 02:48:56] Test3 Leveled up a skill
+[ 2016-10-19 02:48:56] Test3 Leveled up a skill
+[ 2016-10-19 02:48:56] Test3 Leveled up a skill
+[ 2016-10-19 02:48:56] Test3 Leveled up a skill
+[ 2016-10-19 02:48:57] Test3 Leveled up a skill
+[ 2016-10-19 02:48:57] Test3 Leveled up a skill
+[ 2016-10-19 02:48:57] Test3 Leveled up a skill
+[ 2016-10-19 02:48:57] Test3 Leveled up a skill
+[ 2016-10-19 02:48:57] Test3 Leveled up a skill
+[ 2016-10-19 02:48:58] Test3 Leveled up a skill
+[ 2016-10-19 02:48:58] Test3 Leveled up a skill
+[ 2016-10-19 02:48:58] Test3 Leveled up a skill
+[ 2016-10-19 02:48:58] Test3 Leveled up a skill
+[ 2016-10-19 02:48:58] Test3 Leveled up a skill
+[ 2016-10-19 02:48:58] Test3 Leveled up a skill
+[ 2016-10-19 02:48:58] Test3 Leveled up a skill
+[ 2016-10-19 02:48:59] Test3 Leveled up a skill
+[ 2016-10-19 02:48:59] Client disconnected.
+[ 2016-10-19 02:49:02] Account logged in UserID = 2
+[ 2016-10-19 02:49:03] User selected CharacterName = Test2
+[ 2016-10-19 02:49:03] 2;Test2;100;100;4;123;10;7;5;5;5;0;
+[ 2016-10-19 02:49:03] Character information sent.
+[ 2016-10-19 02:49:07] Test2 Leveled up a skill
+[ 2016-10-19 02:49:07] Test2 Leveled up a skill
+[ 2016-10-19 02:49:07] Test2 Leveled up a skill
+[ 2016-10-19 02:49:07] Test2 Leveled up a skill
+[ 2016-10-19 02:49:07] Test2 Leveled up a skill
+[ 2016-10-19 02:49:08] Test2 Leveled up a skill
+[ 2016-10-19 02:49:08] Test2 Leveled up a skill
+[ 2016-10-19 02:49:08] Test2 Leveled up a skill
+[ 2016-10-19 02:49:08] Test2 Leveled up a skill
+[ 2016-10-19 02:49:08] Test2 Leveled up a skill
+[ 2016-10-19 02:49:09] Test2 Leveled up a skill
+[ 2016-10-19 02:49:09] Test2 Leveled up a skill
+[ 2016-10-19 02:49:09] Test2 Leveled up a skill
+[ 2016-10-19 02:49:09] Test2 Leveled up a skill
+[ 2016-10-19 02:49:09] Test2 Leveled up a skill
+[ 2016-10-19 02:49:10] Test2 Leveled up a skill
+[ 2016-10-19 02:49:10] Test2 Leveled up a skill
+[ 2016-10-19 02:49:10] Test2 Leveled up a skill
+[ 2016-10-19 02:49:10] Test2 Leveled up a skill
+[ 2016-10-19 02:49:10] Test2 Leveled up a skill
+[ 2016-10-19 02:49:11] Test2 Leveled up a skill
+[ 2016-10-19 02:49:11] Test2 Leveled up a skill
+[ 2016-10-19 02:49:11] Test2 Leveled up a skill
+[ 2016-10-19 02:49:11] Test2 Leveled up a skill
+[ 2016-10-19 02:49:11] Test2 Leveled up a skill
+[ 2016-10-19 02:49:12] Test2 Leveled up a skill
+[ 2016-10-19 02:49:12] Test2 Leveled up a skill
+[ 2016-10-19 02:49:12] Test2 Leveled up a skill
+[ 2016-10-19 02:49:12] Test2 Leveled up a skill
+[ 2016-10-19 02:49:13] Test2 Leveled up a skill
+[ 2016-10-19 02:49:13] Test2 Leveled up a skill
+[ 2016-10-19 02:49:13] Test2 Leveled up a skill
+[ 2016-10-19 02:49:14] Client disconnected.
+[ 2016-10-19 02:49:17] Account logged in UserID = 2
+[ 2016-10-19 02:49:17] User selected CharacterName = Firstchar
+[ 2016-10-19 02:49:17] 1;Firstchar;10000;100;10;9784;10;5;5;5;4425;0;
+[ 2016-10-19 02:49:17] Character information sent.
+[ 2016-10-19 02:49:21] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:21] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:21] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:22] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:23] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:23] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:23] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:23] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:23] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:23] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:24] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:24] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:24] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:24] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:24] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:24] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:24] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:25] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:25] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:25] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:25] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:26] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:26] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:26] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:26] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:27] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:27] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:27] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:27] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:27] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:27] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:28] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:28] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:28] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:28] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:28] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:28] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:29] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:29] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:29] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:29] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:29] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:29] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:30] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:30] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:30] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:30] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:31] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:31] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:31] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:31] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:31] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:32] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:32] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:32] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:32] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:32] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:32] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:33] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:33] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:33] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:33] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:34] Client disconnected.
+[ 2016-10-19 02:49:45] Account logged in UserID = 2
+[ 2016-10-19 02:49:46] User selected CharacterName = Firstchar
+[ 2016-10-19 02:49:46] 1;Firstchar;10000;100;10;9722;10;5;5;5;4425;0;
+[ 2016-10-19 02:49:46] Character information sent.
+[ 2016-10-19 02:49:49] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:50] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:50] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:50] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:50] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:50] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:50] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:50] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:51] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:51] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:51] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:51] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:51] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:52] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:52] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:52] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:52] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:52] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:52] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:52] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:53] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:53] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:53] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:53] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:53] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:53] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:53] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:54] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:54] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:54] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:54] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:54] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:55] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:55] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:55] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:55] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:56] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:56] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:56] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:56] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:56] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:57] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:57] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:57] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:57] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:57] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:57] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:57] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:58] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:58] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:58] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:59] Firstchar Leveled up a skill
+[ 2016-10-19 02:49:59] Firstchar Leveled up a skill
+[ 2016-10-19 02:50:01] Firstchar Leveled up a skill
+[ 2016-10-19 02:50:01] Firstchar Leveled up a skill
+[ 2016-10-19 02:50:01] Firstchar Leveled up a skill
+[ 2016-10-19 02:50:01] Firstchar Leveled up a skill
+[ 2016-10-19 02:50:02] Firstchar Leveled up a skill
+[ 2016-10-19 02:50:02] Firstchar Leveled up a skill
+[ 2016-10-19 02:50:02] Firstchar Leveled up a skill
+[ 2016-10-19 02:50:02] Firstchar Leveled up a skill
+[ 2016-10-19 02:50:02] Firstchar Leveled up a skill
+[ 2016-10-19 02:50:02] Firstchar Leveled up a skill
+[ 2016-10-19 02:50:02] Firstchar Leveled up a skill
+[ 2016-10-19 02:50:03] Firstchar Leveled up a skill
+[ 2016-10-19 02:50:05] Item -1 was moved to slot 2
+[ 2016-10-19 02:50:06] Item -1 was moved to slot 26
+[ 2016-10-19 02:50:11] Client disconnected.
+[ 2016-10-19 02:50:22] Account logged in UserID = 2
+[ 2016-10-19 02:50:23] User selected CharacterName = Test2
+[ 2016-10-19 02:50:23] 2;Test2;100;100;4;91;10;7;5;5;5;0;
+[ 2016-10-19 02:50:23] Character information sent.
+[ 2016-10-19 02:50:27] Test2 Learned skill id = 2
+[ 2016-10-19 02:50:27] Test2 Leveled up a skill
+[ 2016-10-19 02:50:27] Test2 Leveled up a skill
+[ 2016-10-19 02:50:27] Test2 Leveled up a skill
+[ 2016-10-19 02:50:27] Test2 Leveled up a skill
+[ 2016-10-19 02:50:27] Test2 Leveled up a skill
+[ 2016-10-19 02:50:27] Test2 Leveled up a skill
+[ 2016-10-19 02:50:28] Test2 Leveled up a skill
+[ 2016-10-19 02:50:28] Test2 Leveled up a skill
+[ 2016-10-19 02:50:28] Test2 Leveled up a skill
+[ 2016-10-19 02:50:28] Test2 Leveled up a skill
+[ 2016-10-19 02:50:28] Test2 Leveled up a skill
+[ 2016-10-19 02:50:28] Test2 Leveled up a skill
+[ 2016-10-19 02:50:28] Test2 Leveled up a skill
+[ 2016-10-19 02:50:29] Test2 Leveled up a skill
+[ 2016-10-19 02:50:29] Test2 Leveled up a skill
+[ 2016-10-19 02:50:29] Test2 Leveled up a skill
+[ 2016-10-19 02:50:29] Test2 Leveled up a skill
+[ 2016-10-19 02:50:29] Test2 Leveled up a skill
+[ 2016-10-19 02:50:29] Test2 Leveled up a skill
+[ 2016-10-19 02:50:31] Test2 Leveled up a skill
+[ 2016-10-19 02:50:31] Test2 Leveled up a skill
+[ 2016-10-19 02:50:31] Test2 Leveled up a skill
+[ 2016-10-19 02:50:31] Test2 Leveled up a skill
+[ 2016-10-19 02:50:31] Test2 Leveled up a skill
+[ 2016-10-19 02:50:33] Client disconnected.
+[ 2016-10-19 02:50:37] Account logged in UserID = 2
+[ 2016-10-19 02:50:38] User selected CharacterName = Test3
+[ 2016-10-19 02:50:38] 3;Test3;100;100;5;72;10;7;5;5;5;0;
+[ 2016-10-19 02:50:38] Character information sent.
+[ 2016-10-19 02:50:41] Test3 Learned skill id = 3
+[ 2016-10-19 02:50:42] Test3 Leveled up a skill
+[ 2016-10-19 02:50:42] Test3 Leveled up a skill
+[ 2016-10-19 02:50:42] Test3 Leveled up a skill
+[ 2016-10-19 02:50:42] Test3 Leveled up a skill
+[ 2016-10-19 02:50:42] Test3 Learned skill id = 2
+[ 2016-10-19 02:50:42] Test3 Leveled up a skill
+[ 2016-10-19 02:50:43] Test3 Leveled up a skill
+[ 2016-10-19 02:50:43] Test3 Leveled up a skill
+[ 2016-10-19 02:50:43] Test3 Leveled up a skill
+[ 2016-10-19 02:50:43] Test3 Leveled up a skill
+[ 2016-10-19 02:50:43] Test3 Leveled up a skill
+[ 2016-10-19 02:50:44] Test3 Leveled up a skill
+[ 2016-10-19 02:50:44] Test3 Leveled up a skill
+[ 2016-10-19 02:50:44] Test3 Leveled up a skill
+[ 2016-10-19 02:50:44] Test3 Leveled up a skill
+[ 2016-10-19 02:50:44] Test3 Leveled up a skill
+[ 2016-10-19 02:50:44] Test3 Leveled up a skill
+[ 2016-10-19 02:50:44] Test3 Leveled up a skill
+[ 2016-10-19 02:50:45] Test3 Leveled up a skill
+[ 2016-10-19 02:50:45] Test3 Leveled up a skill
+[ 2016-10-19 02:50:45] Test3 Learned skill id = 1
+[ 2016-10-19 02:50:47] Client disconnected.
+[ 2016-10-19 18:01:16] Setting up server...
+[ 2016-10-19 18:01:16] Connected to MYSQL.
+[ 2016-10-19 18:01:16] Skill database loaded with [4] skills
+[ 2016-10-19 18:01:16] Item database loaded with [5] items
+[ 2016-10-19 18:01:16] Monster database loaded with [2] monsters
+[ 2016-10-19 18:01:16] Waves database loaded with [1] waves
+[ 2016-10-19 18:01:16] Server is running on port 32211
+[ 2016-10-19 18:01:26] Account logged in UserID = 2
+[ 2016-10-19 18:01:27] User selected CharacterName = Firstchar
+[ 2016-10-19 18:01:27] 1;Firstchar;10000;100;10;9657;10;5;5;5;4425;0;
+[ 2016-10-19 18:01:27] Character information sent.
+[ 2016-10-19 18:01:36] Item -1 was moved to slot 2
+[ 2016-10-19 18:01:37] Item -1 was moved to slot 26
+[ 2016-10-19 18:01:43] Client disconnected.
+[ 2016-10-19 18:01:43] Forcing a ClientList to disconnect..
+[ 2016-10-19 18:01:43] Exception thrown - IsConnected line 119 
+
+System.ArgumentOutOfRangeException: InvalidArgument=Value of '-1' is not valid for 'index'.
+Parameter name: index
+   at System.Windows.Forms.ListBox.ObjectCollection.RemoveAt(Int32 index)
+   at LoginServer.frmLoginServer.IsConnected(Socket socket) in C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\PacketHandler\ServerInit.cs:line 116
+[ 2016-10-19 18:05:00] Setting up server...
+[ 2016-10-19 18:05:00] Connected to MYSQL.
+[ 2016-10-19 18:05:00] Skill database loaded with [4] skills
+[ 2016-10-19 18:05:00] Item database loaded with [5] items
+[ 2016-10-19 18:05:00] Monster database loaded with [2] monsters
+[ 2016-10-19 18:05:00] Waves database loaded with [1] waves
+[ 2016-10-19 18:05:00] Server is running on port 32211
+[ 2016-10-19 18:05:07] Account logged in UserID = 2
+[ 2016-10-19 18:05:08] User selected CharacterName = Firstchar
+[ 2016-10-19 18:05:08] 1;Firstchar;10000;100;10;9657;10;5;5;5;4425;0;
+[ 2016-10-19 18:05:08] Character information sent.
+[ 2016-10-19 18:05:12] Item -1 was moved to slot 0
+[ 2016-10-19 18:05:17] Client disconnected.
+[ 2016-10-19 18:06:00] Setting up server...
+[ 2016-10-19 18:06:00] Connected to MYSQL.
+[ 2016-10-19 18:06:00] Skill database loaded with [4] skills
+[ 2016-10-19 18:06:00] Item database loaded with [5] items
+[ 2016-10-19 18:06:00] Monster database loaded with [2] monsters
+[ 2016-10-19 18:06:00] Waves database loaded with [1] waves
+[ 2016-10-19 18:06:00] Server is running on port 32211
+[ 2016-10-19 18:06:05] Account logged in UserID = 2
+[ 2016-10-19 18:06:06] User selected CharacterName = Firstchar
+[ 2016-10-19 18:06:06] 1;Firstchar;10000;100;10;9657;10;5;5;5;4425;0;
+[ 2016-10-19 18:06:06] Character information sent.
+[ 2016-10-19 18:06:24] Item -1 was moved to slot 2
+[ 2016-10-19 18:06:29] Item -1 was moved to slot 26
+[ 2016-10-19 18:06:32] Client disconnected.
+[ 2016-10-19 18:08:44] Account logged in UserID = 2
+[ 2016-10-19 18:08:46] User selected CharacterName = Firstchar
+[ 2016-10-19 18:08:46] 1;Firstchar;10000;100;10;9657;10;5;5;5;4425;0;
+[ 2016-10-19 18:08:46] Character information sent.
+[ 2016-10-19 18:08:53] Client disconnected.
+[ 2016-10-19 18:09:34] Account logged in UserID = 2
+[ 2016-10-19 18:09:36] User selected CharacterName = Firstchar
+[ 2016-10-19 18:09:36] 1;Firstchar;10000;100;10;9657;10;5;5;5;4425;0;
+[ 2016-10-19 18:09:36] Character information sent.
+[ 2016-10-19 18:09:44] Item -1 was moved to slot 2
+[ 2016-10-19 18:09:46] Item -1 was moved to slot 26
+[ 2016-10-19 18:09:58] Item -1 was moved to slot 1
+[ 2016-10-19 18:09:59] Item -1 was moved to slot 26
+[ 2016-10-19 18:10:02] Client disconnected.
+[ 2016-10-19 18:11:18] Account logged in UserID = 2
+[ 2016-10-19 18:11:19] User selected CharacterName = Firstchar
+[ 2016-10-19 18:11:19] 1;Firstchar;10000;100;10;9657;10;5;5;5;4425;0;
+[ 2016-10-19 18:11:19] Character information sent.
+[ 2016-10-19 18:11:29] Client disconnected.
+[ 2016-10-19 18:17:00] Account logged in UserID = 2
+[ 2016-10-19 18:17:01] User selected CharacterName = Firstchar
+[ 2016-10-19 18:17:01] 1;Firstchar;10000;100;10;9657;10;5;5;5;4425;0;
+[ 2016-10-19 18:17:01] Character information sent.
+[ 2016-10-19 18:17:05] Client disconnected.
+[ 2016-10-19 18:19:58] Account logged in UserID = 2
+[ 2016-10-19 18:19:59] User selected CharacterName = Firstchar
+[ 2016-10-19 18:19:59] 1;Firstchar;10000;100;10;9657;10;5;5;5;4425;0;
+[ 2016-10-19 18:19:59] Character information sent.
+[ 2016-10-19 18:20:10] Client disconnected.
+[ 2016-10-19 18:29:57] Account logged in UserID = 2
+[ 2016-10-19 18:29:58] User selected CharacterName = Firstchar
+[ 2016-10-19 18:29:58] 1;Firstchar;10000;100;10;9657;10;5;5;5;4425;0;
+[ 2016-10-19 18:29:58] Character information sent.
+[ 2016-10-19 18:30:17] Client disconnected.
+[ 2016-10-19 21:43:36] Setting up server...
+[ 2016-10-19 21:43:37] Connected to MYSQL.
+[ 2016-10-19 21:43:37] Skill database loaded with [4] skills
+[ 2016-10-19 21:43:37] Item database loaded with [5] items
+[ 2016-10-19 21:43:37] Monster database loaded with [2] monsters
+[ 2016-10-19 21:43:37] Waves database loaded with [1] waves
+[ 2016-10-19 21:43:37] Server is running on port 32211
+[ 2016-10-19 21:44:47] Account logged in UserID = 2
+[ 2016-10-19 21:44:48] User selected CharacterName = Firstchar
+[ 2016-10-19 21:44:48] 1;Firstchar;10000;100;10;9657;10;5;5;5;4425;0;
+[ 2016-10-19 21:44:48] Character information sent.
+[ 2016-10-19 21:45:25] Firstchar Increased stat 1
+[ 2016-10-19 21:45:27] Firstchar Increased stat 1
+[ 2016-10-19 21:45:27] Firstchar Increased stat 1
+[ 2016-10-19 21:45:27] Firstchar Increased stat 1
+[ 2016-10-19 21:45:27] Firstchar Increased stat 1
+[ 2016-10-19 21:45:52] Client disconnected.
+[ 2016-10-19 21:46:25] Account logged in UserID = 2
+[ 2016-10-19 21:46:27] User selected CharacterName = Firstchar
+[ 2016-10-19 21:46:27] 1;Firstchar;10000;100;10;9657;15;5;5;5;4420;0;
+[ 2016-10-19 21:46:27] Character information sent.
+[ 2016-10-19 21:46:44] Client disconnected.
+[ 2016-10-19 21:46:58] Account logged in UserID = 2
+[ 2016-10-19 21:46:59] User selected CharacterName = Firstchar
+[ 2016-10-19 21:46:59] 1;Firstchar;10000;100;10;9657;15;5;5;5;4420;0;
+[ 2016-10-19 21:46:59] Character information sent.
+[ 2016-10-19 21:47:05] Firstchar Increased stat 1
+[ 2016-10-19 21:47:05] Firstchar Increased stat 1
+[ 2016-10-19 21:47:05] Firstchar Increased stat 1
+[ 2016-10-19 21:47:05] Firstchar Increased stat 1
+[ 2016-10-19 21:47:29] Client disconnected.
+[ 2016-10-19 21:49:06] Account logged in UserID = 2
+[ 2016-10-19 21:49:06] User selected CharacterName = Firstchar
+[ 2016-10-19 21:49:06] 1;Firstchar;10000;100;10;9657;19;5;5;5;4416;0;
+[ 2016-10-19 21:49:06] Character information sent.
+[ 2016-10-19 21:49:10] Firstchar Increased stat 1
+[ 2016-10-19 21:49:11] Firstchar Increased stat 1
+[ 2016-10-19 21:49:12] Firstchar Increased stat 1
+[ 2016-10-19 21:49:13] Firstchar Increased stat 1
+[ 2016-10-19 21:49:14] Firstchar Increased stat 1
+[ 2016-10-19 21:49:14] Firstchar Increased stat 1
+[ 2016-10-19 21:49:15] Firstchar Increased stat 1
+[ 2016-10-19 21:49:15] Firstchar Increased stat 1
+[ 2016-10-19 21:49:15] Firstchar Increased stat 2
+[ 2016-10-19 21:49:16] Firstchar Increased stat 2
+[ 2016-10-19 21:49:16] Firstchar Increased stat 2
+[ 2016-10-19 21:49:17] Firstchar Increased stat 3
+[ 2016-10-19 21:49:17] Firstchar Increased stat 3
+[ 2016-10-19 21:49:17] Firstchar Increased stat 3
+[ 2016-10-19 21:49:18] Firstchar Increased stat 3
+[ 2016-10-19 21:49:18] Firstchar Increased stat 3
+[ 2016-10-19 21:49:18] Firstchar Increased stat 3
+[ 2016-10-19 21:49:18] Firstchar Increased stat 4
+[ 2016-10-19 21:49:19] Firstchar Increased stat 4
+[ 2016-10-19 21:49:19] Firstchar Increased stat 4
+[ 2016-10-19 21:49:22] Firstchar Increased stat 4
+[ 2016-10-19 21:49:22] Firstchar Increased stat 4
+[ 2016-10-19 21:49:22] Firstchar Increased stat 4
+[ 2016-10-19 21:49:23] Firstchar Increased stat 4
+[ 2016-10-19 21:49:23] Firstchar Increased stat 4
+[ 2016-10-19 21:49:23] Firstchar Increased stat 4
+[ 2016-10-19 21:49:23] Firstchar Increased stat 4
+[ 2016-10-19 21:49:23] Firstchar Increased stat 4
+[ 2016-10-19 21:49:23] Firstchar Increased stat 4
+[ 2016-10-19 21:49:24] Firstchar Increased stat 4
+[ 2016-10-19 21:49:24] Firstchar Increased stat 4
+[ 2016-10-19 21:49:24] Firstchar Increased stat 4
+[ 2016-10-19 21:49:25] Firstchar Increased stat 4
+[ 2016-10-19 21:49:26] Firstchar Increased stat 4
+[ 2016-10-19 21:49:26] Firstchar Increased stat 4
+[ 2016-10-19 21:49:26] Firstchar Increased stat 4
+[ 2016-10-19 21:49:26] Firstchar Increased stat 4
+[ 2016-10-19 21:49:26] Firstchar Increased stat 4
+[ 2016-10-19 21:49:27] Firstchar Increased stat 4
+[ 2016-10-19 21:49:39] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:39] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:40] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:40] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:40] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:40] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:40] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:40] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:40] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:41] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:41] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:41] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:41] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:42] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:42] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:42] Firstchar Leveled up a skill
+[ 2016-10-19 21:49:43] Firstchar Increased stat 1
+[ 2016-10-19 21:49:44] Firstchar Increased stat 1
+[ 2016-10-19 21:50:06] Client disconnected.
+[ 2016-10-19 21:50:09] Account logged in UserID = 2
+[ 2016-10-19 21:50:10] User selected CharacterName = Firstchar
+[ 2016-10-19 21:50:10] 1;Firstchar;10000;100;10;9641;29;8;27;11;4375;0;
+[ 2016-10-19 21:50:10] Character information sent.
+[ 2016-10-19 21:50:37] Client disconnected.
+[ 2016-10-19 21:50:37] Forcing a ClientList to disconnect..
+[ 2016-10-19 21:50:37] Exception thrown - IsConnected line 119 
+
+System.ArgumentOutOfRangeException: InvalidArgument=Value of '-1' is not valid for 'index'.
+Parameter name: index
+   at System.Windows.Forms.ListBox.ObjectCollection.RemoveAt(Int32 index)
+   at LoginServer.frmLoginServer.IsConnected(Socket socket) in C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\PacketHandler\ServerInit.cs:line 116
+[ 2016-10-19 21:51:59] Setting up server...
+[ 2016-10-19 21:52:00] Connected to MYSQL.
+[ 2016-10-19 21:52:00] Skill database loaded with [4] skills
+[ 2016-10-19 21:52:00] Item database loaded with [5] items
+[ 2016-10-19 21:52:00] Monster database loaded with [2] monsters
+[ 2016-10-19 21:52:00] Waves database loaded with [1] waves
+[ 2016-10-19 21:52:00] Server is running on port 32211
+[ 2016-10-19 21:52:03] Account logged in UserID = 2
+[ 2016-10-19 21:52:04] User selected CharacterName = Firstchar
+[ 2016-10-19 21:52:04] 1;Firstchar;10000;100;10;9641;29;8;27;11;4375;0;
+[ 2016-10-19 21:52:04] Character information sent.
+[ 2016-10-19 21:52:13] Item -1 was moved to slot 26
+[ 2016-10-19 21:53:29] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 21:53:33] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 21:53:34] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 21:53:37] Client disconnected.
+[ 2016-10-19 21:53:41] Login attempt failed. username=test password=tet
+[ 2016-10-19 21:53:43] Account logged in UserID = 2
+[ 2016-10-19 21:53:45] User selected CharacterName = Firstchar
+[ 2016-10-19 21:53:45] 1;Firstchar;10000;100;10;9641;29;8;27;11;4375;0;
+[ 2016-10-19 21:53:45] Character information sent.
+[ 2016-10-19 21:53:51] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 21:53:53] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 21:53:55] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 21:54:26] Client disconnected.
+[ 2016-10-19 21:55:30] Account logged in UserID = 2
+[ 2016-10-19 21:55:31] User selected CharacterName = Firstchar
+[ 2016-10-19 21:55:31] 1;Firstchar;10000;100;10;9641;29;8;27;11;4375;0;
+[ 2016-10-19 21:55:31] Character information sent.
+[ 2016-10-19 21:55:34] Client disconnected.
+[ 2016-10-19 21:56:29] Setting up server...
+[ 2016-10-19 21:56:29] Connected to MYSQL.
+[ 2016-10-19 21:56:29] Skill database loaded with [4] skills
+[ 2016-10-19 21:56:29] Item database loaded with [5] items
+[ 2016-10-19 21:56:29] Monster database loaded with [2] monsters
+[ 2016-10-19 21:56:29] Waves database loaded with [1] waves
+[ 2016-10-19 21:56:29] Server is running on port 32211
+[ 2016-10-19 21:56:31] Account logged in UserID = 2
+[ 2016-10-19 21:56:32] User selected CharacterName = Firstchar
+[ 2016-10-19 21:56:32] 1;Firstchar;10000;100;10;9641;29;8;27;11;4375;0;
+[ 2016-10-19 21:56:32] Character information sent.
+[ 2016-10-19 21:56:36] Firstchar Leveled up a skill
+[ 2016-10-19 21:56:36] Firstchar Leveled up a skill
+[ 2016-10-19 21:56:36] Firstchar Leveled up a skill
+[ 2016-10-19 21:56:36] Firstchar Leveled up a skill
+[ 2016-10-19 21:56:36] Firstchar Leveled up a skill
+[ 2016-10-19 21:56:37] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 21:56:39] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 21:56:41] Client disconnected.
+[ 2016-10-19 21:56:45] Account logged in UserID = 2
+[ 2016-10-19 21:56:45] User selected CharacterName = Firstchar
+[ 2016-10-19 21:56:45] 1;Firstchar;10000;100;10;9636;29;8;27;11;4375;0;
+[ 2016-10-19 21:56:45] Character information sent.
+[ 2016-10-19 21:56:56] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 21:57:19] Client disconnected.
+[ 2016-10-19 21:57:26] Account logged in UserID = 2
+[ 2016-10-19 21:57:26] User selected CharacterName = Firstchar
+[ 2016-10-19 21:57:26] 1;Firstchar;10000;100;10;9636;29;8;27;11;4375;0;
+[ 2016-10-19 21:57:26] Character information sent.
+[ 2016-10-19 21:57:49] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 21:57:50] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 21:57:52] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 21:58:03] Client disconnected.
+[ 2016-10-19 21:58:06] Account logged in UserID = 2
+[ 2016-10-19 21:58:07] User selected CharacterName = Firstchar
+[ 2016-10-19 21:58:07] 1;Firstchar;10000;100;10;9636;29;8;27;11;4375;0;
+[ 2016-10-19 21:58:07] Character information sent.
+[ 2016-10-19 21:58:30] Client disconnected.
+[ 2016-10-19 21:58:30] Forcing a ClientList to disconnect..
+[ 2016-10-19 21:58:30] Exception thrown - IsConnected line 119 
+
+System.ArgumentOutOfRangeException: InvalidArgument=Value of '-1' is not valid for 'index'.
+Parameter name: index
+   at System.Windows.Forms.ListBox.ObjectCollection.RemoveAt(Int32 index)
+   at LoginServer.frmLoginServer.IsConnected(Socket socket) in C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\PacketHandler\ServerInit.cs:line 116
+[ 2016-10-19 21:58:30] Forcing a clientSocket to disconnect.
+[ 2016-10-19 21:58:30] Removing a socket (not connected)
+[ 2016-10-19 22:02:15] Setting up server...
+[ 2016-10-19 22:02:16] Connected to MYSQL.
+[ 2016-10-19 22:02:16] Skill database loaded with [4] skills
+[ 2016-10-19 22:02:16] Item database loaded with [5] items
+[ 2016-10-19 22:02:16] Monster database loaded with [2] monsters
+[ 2016-10-19 22:02:16] Waves database loaded with [1] waves
+[ 2016-10-19 22:02:16] Server is running on port 32211
+[ 2016-10-19 22:02:18] Account logged in UserID = 2
+[ 2016-10-19 22:02:18] User selected CharacterName = Firstchar
+[ 2016-10-19 22:02:18] 1;Firstchar;10000;100;10;9636;29;8;27;11;4375;0;
+[ 2016-10-19 22:02:18] Character information sent.
+[ 2016-10-19 22:02:27] Firstchar Leveled up a skill
+[ 2016-10-19 22:02:31] Client disconnected.
+[ 2016-10-19 22:03:23] Account logged in UserID = 2
+[ 2016-10-19 22:03:24] User selected CharacterName = Firstchar
+[ 2016-10-19 22:03:24] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-19 22:03:24] Character information sent.
+[ 2016-10-19 22:03:31] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 22:03:34] Client disconnected.
+[ 2016-10-19 22:03:41] Account logged in UserID = 2
+[ 2016-10-19 22:03:42] User selected CharacterName = Firstchar
+[ 2016-10-19 22:03:42] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-19 22:03:42] Character information sent.
+[ 2016-10-19 22:04:26] Client disconnected.
+[ 2016-10-19 22:04:54] Setting up server...
+[ 2016-10-19 22:04:54] Connected to MYSQL.
+[ 2016-10-19 22:04:54] Skill database loaded with [4] skills
+[ 2016-10-19 22:04:54] Item database loaded with [5] items
+[ 2016-10-19 22:04:54] Monster database loaded with [2] monsters
+[ 2016-10-19 22:04:54] Waves database loaded with [1] waves
+[ 2016-10-19 22:04:54] Server is running on port 32211
+[ 2016-10-19 22:04:57] Account logged in UserID = 2
+[ 2016-10-19 22:04:58] User selected CharacterName = Firstchar
+[ 2016-10-19 22:04:58] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-19 22:04:58] Character information sent.
+[ 2016-10-19 22:05:17] Client disconnected.
+[ 2016-10-19 22:07:03] Setting up server...
+[ 2016-10-19 22:07:03] Connected to MYSQL.
+[ 2016-10-19 22:07:03] Skill database loaded with [4] skills
+[ 2016-10-19 22:07:03] Item database loaded with [5] items
+[ 2016-10-19 22:07:03] Monster database loaded with [2] monsters
+[ 2016-10-19 22:07:03] Waves database loaded with [1] waves
+[ 2016-10-19 22:07:03] Server is running on port 32211
+[ 2016-10-19 22:07:17] Account logged in UserID = 2
+[ 2016-10-19 22:07:18] User selected CharacterName = Firstchar
+[ 2016-10-19 22:07:18] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-19 22:07:18] Character information sent.
+[ 2016-10-19 22:07:28] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 22:07:29] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 22:07:51] Client disconnected.
+[ 2016-10-19 22:07:56] Account logged in UserID = 2
+[ 2016-10-19 22:07:57] User selected CharacterName = Firstchar
+[ 2016-10-19 22:07:57] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-19 22:07:57] Character information sent.
+[ 2016-10-19 22:08:01] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 22:08:01] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 22:08:03] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 22:08:04] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 22:08:10] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 22:08:13] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 22:08:18] Firstchar Set a skill to active/deactive.
+[ 2016-10-19 22:08:55] Client disconnected.
+[ 2016-10-19 22:11:20] Setting up server...
+[ 2016-10-19 22:11:20] Connected to MYSQL.
+[ 2016-10-19 22:11:20] Skill database loaded with [4] skills
+[ 2016-10-19 22:11:20] Item database loaded with [5] items
+[ 2016-10-19 22:11:20] Monster database loaded with [2] monsters
+[ 2016-10-19 22:11:20] Waves database loaded with [1] waves
+[ 2016-10-19 22:11:20] Server is running on port 32211
+[ 2016-10-19 22:11:25] Account logged in UserID = 2
+[ 2016-10-19 22:11:26] User selected CharacterName = Firstchar
+[ 2016-10-19 22:11:26] 1;Firstchar;10000;100;10;9635;29;8;27;11;4375;0;
+[ 2016-10-19 22:11:26] Character information sent.
+[ 2016-10-19 22:13:04] Client disconnected.

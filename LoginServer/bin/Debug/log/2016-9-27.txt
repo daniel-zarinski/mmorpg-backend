@@ -1,0 +1,156 @@
+This is the log file of the 2016-9-27
+[ 2016-09-27 02:09:04] Setting up server...
+[ 2016-09-27 02:09:05] Connected to MYSQL.
+[ 2016-09-27 02:09:05] Server is running on port 32211
+[ 2016-09-27 02:10:33] Setting up server...
+[ 2016-09-27 02:10:33] Connected to MYSQL.
+[ 2016-09-27 02:10:33] Server is running on port 32211
+[ 2016-09-27 02:11:55] Setting up server...
+[ 2016-09-27 02:11:55] Connected to MYSQL.
+[ 2016-09-27 02:11:55] Server is running on port 32211
+[ 2016-09-27 02:12:20] Setting up server...
+[ 2016-09-27 02:12:20] Connected to MYSQL.
+[ 2016-09-27 02:12:20] Server is running on port 32211
+[ 2016-09-27 02:13:17] Setting up server...
+[ 2016-09-27 02:13:17] Connected to MYSQL.
+[ 2016-09-27 02:13:17] Server is running on port 32211
+[ 2016-09-27 02:14:06] Setting up server...
+[ 2016-09-27 02:14:06] Connected to MYSQL.
+[ 2016-09-27 02:14:06] Server is running on port 32211
+[ 2016-09-27 02:15:44] Setting up server...
+[ 2016-09-27 02:15:44] Connected to MYSQL.
+[ 2016-09-27 02:15:44] Server is running on port 32211
+[ 2016-09-27 02:17:42] Setting up server...
+[ 2016-09-27 02:17:43] Connected to MYSQL.
+[ 2016-09-27 02:17:43] Server is running on port 32211
+[ 2016-09-27 02:18:48] Setting up server...
+[ 2016-09-27 02:18:48] Connected to MYSQL.
+[ 2016-09-27 02:18:48] Server is running on port 32211
+[ 2016-09-27 02:18:52] Account logged in. Character = Firstchar
+[ 2016-09-27 02:18:52] Skill 0 = Skill1 / 30
+[ 2016-09-27 02:18:52] Skill 1 = Skill2 / 50
+[ 2016-09-27 02:18:52] Recieve character packet from Firstchar
+[ 2016-09-27 02:18:53] User selected character = Firstchar
+[ 2016-09-27 02:18:53] Character information sent.
+[ 2016-09-27 02:18:53] Firstchar is advancing wave..
+[ 2016-09-27 02:19:18] Client disconnected.
+[ 2016-09-27 02:19:24] Account logged in. Character = Firstchar
+[ 2016-09-27 02:19:24] Skill 0 = Skill1 / 30
+[ 2016-09-27 02:19:24] Skill 1 = Skill2 / 50
+[ 2016-09-27 02:19:24] Recieve character packet from Firstchar
+[ 2016-09-27 02:19:27] User selected character = Firstchar
+[ 2016-09-27 02:19:27] Character information sent.
+[ 2016-09-27 02:19:27] Firstchar is advancing wave..
+[ 2016-09-27 02:20:00] Client disconnected.
+[ 2016-09-27 02:20:25] Account logged in. Character = Firstchar
+[ 2016-09-27 02:20:25] Skill 0 = Skill1 / 30
+[ 2016-09-27 02:20:25] Skill 1 = Skill2 / 50
+[ 2016-09-27 02:20:25] Recieve character packet from Firstchar
+[ 2016-09-27 02:20:26] User selected character = Firstchar
+[ 2016-09-27 02:20:26] Character information sent.
+[ 2016-09-27 02:20:26] Firstchar is advancing wave..
+[ 2016-09-27 02:20:37] Client disconnected.
+[ 2016-09-27 02:21:02] Client disconnected.
+[ 2016-09-27 02:22:36] Setting up server...
+[ 2016-09-27 02:22:36] Connected to MYSQL.
+[ 2016-09-27 02:22:36] Server is running on port 32211
+[ 2016-09-27 02:22:43] Account logged in. Character = Firstchar
+[ 2016-09-27 02:22:43] Skill 0 = Skill1 / 30
+[ 2016-09-27 02:22:43] Skill 1 = Skill2 / 50
+[ 2016-09-27 02:22:43] Recieve character packet from Firstchar
+[ 2016-09-27 02:22:43] User selected character = Firstchar
+[ 2016-09-27 02:22:43] Character information sent.
+[ 2016-09-27 02:22:43] Firstchar is advancing wave..
+[ 2016-09-27 02:22:54] Client disconnected.
+[ 2016-09-27 02:23:01] Account logged in. Character = Firstchar
+[ 2016-09-27 02:23:01] Skill 0 = Skill1 / 30
+[ 2016-09-27 02:23:01] Skill 1 = Skill2 / 50
+[ 2016-09-27 02:23:01] Recieve character packet from Firstchar
+[ 2016-09-27 02:23:02] User selected character = Firstchar
+[ 2016-09-27 02:23:02] Character information sent.
+[ 2016-09-27 02:23:02] Firstchar is advancing wave..
+[ 2016-09-27 02:23:33] Client disconnected.
+[ 2016-09-27 02:25:14] Setting up server...
+[ 2016-09-27 02:25:14] Connected to MYSQL.
+[ 2016-09-27 02:25:14] Server is running on port 32211
+[ 2016-09-27 02:25:17] Account logged in. Character = Firstchar
+[ 2016-09-27 02:25:17] Skill 0 = Skill1 / 30
+[ 2016-09-27 02:25:17] Skill 1 = Skill2 / 50
+[ 2016-09-27 02:25:17] Recieve character packet from Firstchar
+[ 2016-09-27 02:25:18] User selected character = Firstchar
+[ 2016-09-27 02:25:18] Character information sent.
+[ 2016-09-27 02:25:18] Firstchar is advancing wave..
+[ 2016-09-27 02:25:21] Client disconnected.
+[ 2016-09-27 02:25:43] Account logged in. Character = Firstchar
+[ 2016-09-27 02:25:43] Skill 0 = Skill1 / 30
+[ 2016-09-27 02:25:43] Skill 1 = Skill2 / 50
+[ 2016-09-27 02:25:43] Recieve character packet from Firstchar
+[ 2016-09-27 02:25:43] User selected character = Firstchar
+[ 2016-09-27 02:25:43] Character information sent.
+[ 2016-09-27 02:25:44] Firstchar is advancing wave..
+[ 2016-09-27 02:25:47] Client disconnected.
+[ 2016-09-27 02:27:28] Setting up server...
+[ 2016-09-27 02:27:28] Connected to MYSQL.
+[ 2016-09-27 02:27:28] Server is running on port 32211
+[ 2016-09-27 02:27:33] Account logged in. Character = Firstchar
+[ 2016-09-27 02:27:33] Skill 0 = Skill1 / 30
+[ 2016-09-27 02:27:33] Skill 1 = Skill2 / 50
+[ 2016-09-27 02:27:33] Recieve character packet from Firstchar
+[ 2016-09-27 02:27:33] User selected character = Firstchar
+[ 2016-09-27 02:27:33] Character information sent.
+[ 2016-09-27 02:27:33] Firstchar is advancing wave..
+[ 2016-09-27 02:27:53] Client disconnected.
+[ 2016-09-27 02:28:17] Account logged in. Character = Firstchar
+[ 2016-09-27 02:28:17] Skill 0 = Skill1 / 30
+[ 2016-09-27 02:28:17] Skill 1 = Skill2 / 50
+[ 2016-09-27 02:28:17] Recieve character packet from Firstchar
+[ 2016-09-27 02:28:17] User selected character = Firstchar
+[ 2016-09-27 02:28:17] Character information sent.
+[ 2016-09-27 02:28:17] Firstchar is advancing wave..
+[ 2016-09-27 02:28:28] Client disconnected.
+[ 2016-09-27 02:28:45] Account logged in. Character = Firstchar
+[ 2016-09-27 02:28:45] Skill 0 = Skill1 / 30
+[ 2016-09-27 02:28:45] Skill 1 = Skill2 / 50
+[ 2016-09-27 02:28:45] Recieve character packet from Firstchar
+[ 2016-09-27 02:28:46] User selected character = Firstchar
+[ 2016-09-27 02:28:46] Character information sent.
+[ 2016-09-27 02:28:46] Firstchar is advancing wave..
+[ 2016-09-27 02:28:49] Client disconnected.
+[ 2016-09-27 02:29:32] Account logged in. Character = Firstchar
+[ 2016-09-27 02:29:32] Skill 0 = Skill1 / 30
+[ 2016-09-27 02:29:32] Skill 1 = Skill2 / 50
+[ 2016-09-27 02:29:32] Recieve character packet from Firstchar
+[ 2016-09-27 02:29:33] User selected character = Firstchar
+[ 2016-09-27 02:29:33] Character information sent.
+[ 2016-09-27 02:29:33] Firstchar is advancing wave..
+[ 2016-09-27 02:29:37] Client disconnected.
+[ 2016-09-27 02:30:31] Account logged in. Character = Firstchar
+[ 2016-09-27 02:30:31] Skill 0 = Skill1 / 30
+[ 2016-09-27 02:30:31] Skill 1 = Skill2 / 50
+[ 2016-09-27 02:30:31] Recieve character packet from Firstchar
+[ 2016-09-27 02:30:32] User selected character = Firstchar
+[ 2016-09-27 02:30:32] Character information sent.
+[ 2016-09-27 02:30:32] Firstchar is advancing wave..
+[ 2016-09-27 02:30:48] Client disconnected.
+[ 2016-09-27 02:31:11] Setting up server...
+[ 2016-09-27 02:31:11] Connected to MYSQL.
+[ 2016-09-27 02:31:11] Server is running on port 32211
+[ 2016-09-27 02:31:17] Account logged in. Character = Firstchar
+[ 2016-09-27 02:31:17] Skill 0 = Skill1 / 30
+[ 2016-09-27 02:31:17] Skill 1 = Skill2 / 50
+[ 2016-09-27 02:31:17] Recieve character packet from Firstchar
+[ 2016-09-27 02:31:18] User selected character = Firstchar
+[ 2016-09-27 02:31:18] Character information sent.
+[ 2016-09-27 02:31:18] Firstchar is advancing wave..
+[ 2016-09-27 02:31:27] Client disconnected.
+[ 2016-09-27 02:33:08] Setting up server...
+[ 2016-09-27 02:33:08] Connected to MYSQL.
+[ 2016-09-27 02:33:08] Server is running on port 32211
+[ 2016-09-27 02:33:14] Account logged in. Character = Firstchar
+[ 2016-09-27 02:33:14] Skill 0 = Skill1 / 30
+[ 2016-09-27 02:33:14] Skill 1 = Skill2 / 50
+[ 2016-09-27 02:33:14] Recieve character packet from Firstchar
+[ 2016-09-27 02:33:14] User selected character = Firstchar
+[ 2016-09-27 02:33:14] Character information sent.
+[ 2016-09-27 02:33:14] Firstchar is advancing wave..
+[ 2016-09-27 02:33:21] Client disconnected.

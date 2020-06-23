@@ -1,0 +1,104 @@
+This is the log file of the 2016-9-15
+[ 2016-09-15 01:23:51] Setting up server...
+[ 2016-09-15 01:23:52] Connected to MYSQL.
+[ 2016-09-15 01:23:52] Server is running on port 32211
+[ 2016-09-15 01:23:56] Account logged in. Character = Firstchar
+[ 2016-09-15 01:23:56] Recieve character packet from Firstchar
+[ 2016-09-15 01:23:56] User selected character = Firstchar
+[ 2016-09-15 01:23:56] Character information sent.
+[ 2016-09-15 01:23:56] Sending wave number..
+[ 2016-09-15 01:23:56] Firstchar is advancing wave..
+[ 2016-09-15 01:23:57] Sending wave number..
+[ 2016-09-15 01:24:06] ID = 1
+[ 2016-09-15 01:24:07] ID = 1
+[ 2016-09-15 01:24:07] ID = 1
+[ 2016-09-15 01:24:07] ID = 1
+[ 2016-09-15 01:24:08] ID = 1
+[ 2016-09-15 01:24:08] ID = 1
+[ 2016-09-15 01:24:08] ID = 1
+[ 2016-09-15 01:24:08] ID = 1
+[ 2016-09-15 01:24:10] ID = 1
+[ 2016-09-15 01:24:10] ID = 1
+[ 2016-09-15 01:24:10] ID = 1
+[ 2016-09-15 01:24:10] ID = 1
+[ 2016-09-15 01:24:12] ID = 1
+[ 2016-09-15 01:24:12] ID = 1
+[ 2016-09-15 01:24:14] ID = 1
+[ 2016-09-15 01:24:14] ID = 1
+[ 2016-09-15 01:24:15] ID = 1
+[ 2016-09-15 01:24:15] ID = 1
+[ 2016-09-15 01:24:16] ID = 1
+[ 2016-09-15 01:24:16] ID = 1
+[ 2016-09-15 01:24:17] ID = 1
+[ 2016-09-15 01:24:17] ID = 1
+[ 2016-09-15 01:24:24] ID = 1
+[ 2016-09-15 01:24:25] ID = 1
+[ 2016-09-15 01:24:27] ID = 1
+[ 2016-09-15 01:24:29] ID = 1
+[ 2016-09-15 01:24:29] ID = 1
+[ 2016-09-15 01:24:29] ID = 1
+[ 2016-09-15 01:24:31] ID = 1
+[ 2016-09-15 01:24:31] ID = 1
+[ 2016-09-15 01:24:32] ID = 1
+[ 2016-09-15 01:24:32] ID = 1
+[ 2016-09-15 01:24:32] ID = 1
+[ 2016-09-15 01:24:32] ID = 1
+[ 2016-09-15 01:24:33] ID = 1
+[ 2016-09-15 01:24:33] ID = 1
+[ 2016-09-15 01:24:33] ID = 1
+[ 2016-09-15 01:24:33] ID = 1
+[ 2016-09-15 01:24:34] ID = 1
+[ 2016-09-15 01:24:34] ID = 1
+[ 2016-09-15 01:24:34] ID = 1
+[ 2016-09-15 01:24:35] ID = 1
+[ 2016-09-15 01:25:02] Client disconnected.
+[ 2016-09-15 01:25:11] Client disconnected.
+[ 2016-09-15 01:25:27] Client disconnected.
+[ 2016-09-15 01:26:36] Setting up server...
+[ 2016-09-15 01:26:36] Connected to MYSQL.
+[ 2016-09-15 01:26:36] Server is running on port 32211
+[ 2016-09-15 01:26:42] Account logged in. Character = Firstchar
+[ 2016-09-15 01:26:42] Recieve character packet from Firstchar
+[ 2016-09-15 01:26:42] User selected character = Firstchar
+[ 2016-09-15 01:26:42] Character information sent.
+[ 2016-09-15 01:26:42] Firstchar is advancing wave..
+[ 2016-09-15 01:26:42] Sending wave number..
+[ 2016-09-15 01:26:53] Client disconnected.
+[ 2016-09-15 01:27:54] Client disconnected.
+[ 2016-09-15 01:28:13] Client disconnected.
+[ 2016-09-15 01:29:55] Account logged in. Character = Firstchar
+[ 2016-09-15 01:29:55] Recieve character packet from Firstchar
+[ 2016-09-15 01:29:55] User selected character = Firstchar
+[ 2016-09-15 01:29:55] Character information sent.
+[ 2016-09-15 01:29:55] Firstchar is advancing wave..
+[ 2016-09-15 01:29:55] Sending wave number..
+[ 2016-09-15 01:30:09] Client disconnected.
+[ 2016-09-15 01:31:06] Account logged in. Character = Firstchar
+[ 2016-09-15 01:31:06] Recieve character packet from Firstchar
+[ 2016-09-15 01:31:06] User selected character = Firstchar
+[ 2016-09-15 01:31:06] Character information sent.
+[ 2016-09-15 01:31:06] Firstchar is advancing wave..
+[ 2016-09-15 01:31:06] Sending wave number..
+[ 2016-09-15 01:31:23] Client disconnected.
+[ 2016-09-15 01:31:46] Account logged in. Character = Firstchar
+[ 2016-09-15 01:31:46] Recieve character packet from Firstchar
+[ 2016-09-15 01:31:47] User selected character = Firstchar
+[ 2016-09-15 01:31:47] Character information sent.
+[ 2016-09-15 01:31:47] Firstchar is advancing wave..
+[ 2016-09-15 01:31:47] Sending wave number..
+[ 2016-09-15 01:31:50] Client disconnected.
+[ 2016-09-15 01:32:17] Account logged in. Character = Firstchar
+[ 2016-09-15 01:32:17] Recieve character packet from Firstchar
+[ 2016-09-15 01:32:17] User selected character = Firstchar
+[ 2016-09-15 01:32:17] Character information sent.
+[ 2016-09-15 01:32:17] Firstchar is advancing wave..
+[ 2016-09-15 01:32:17] Sending wave number..
+[ 2016-09-15 01:33:05] Client disconnected.
+[ 2016-09-15 01:33:14] Client disconnected.
+[ 2016-09-15 01:35:28] Account logged in. Character = Firstchar
+[ 2016-09-15 01:35:28] Recieve character packet from Firstchar
+[ 2016-09-15 01:35:28] User selected character = Firstchar
+[ 2016-09-15 01:35:28] Character information sent.
+[ 2016-09-15 01:35:28] Firstchar is advancing wave..
+[ 2016-09-15 01:35:29] Sending wave number..
+[ 2016-09-15 01:35:36] Client disconnected.

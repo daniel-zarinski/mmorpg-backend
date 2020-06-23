@@ -1,0 +1,2117 @@
+This is the log file of the 2016-10-16
+[ 2016-10-16 00:45:19] Setting up server...
+[ 2016-10-16 00:45:19] Connected to MYSQL.
+[ 2016-10-16 00:45:19] Skill database loaded with [4] skills
+[ 2016-10-16 00:45:19] Item database loaded with [2] items
+[ 2016-10-16 00:45:19] Monster database loaded with [2] monsters
+[ 2016-10-16 00:45:19] Waves database loaded with [3] waves
+[ 2016-10-16 00:45:19] Maps loaded with [10] maps
+[ 2016-10-16 00:45:19] Server is running on port 32211
+[ 2016-10-16 00:46:06] Setting up server...
+[ 2016-10-16 00:46:06] Connected to MYSQL.
+[ 2016-10-16 00:46:06] Skill database loaded with [4] skills
+[ 2016-10-16 00:46:06] Item database loaded with [2] items
+[ 2016-10-16 00:46:06] Monster database loaded with [2] monsters
+[ 2016-10-16 00:46:06] Waves database loaded with [3] waves
+[ 2016-10-16 00:46:06] Server is running on port 32211
+[ 2016-10-16 00:56:17] Setting up server...
+[ 2016-10-16 00:56:18] Connected to MYSQL.
+[ 2016-10-16 00:56:18] Skill database loaded with [4] skills
+[ 2016-10-16 00:56:18] Item database loaded with [2] items
+[ 2016-10-16 00:56:18] Monster database loaded with [2] monsters
+[ 2016-10-16 00:56:18] Waves database loaded with [3] waves
+[ 2016-10-16 00:56:18] Server is running on port 32211
+[ 2016-10-16 00:56:29] Setting up server...
+[ 2016-10-16 00:56:29] Connected to MYSQL.
+[ 2016-10-16 00:56:29] Skill database loaded with [4] skills
+[ 2016-10-16 00:56:29] Item database loaded with [2] items
+[ 2016-10-16 00:56:29] Monster database loaded with [2] monsters
+[ 2016-10-16 00:56:29] Waves database loaded with [3] waves
+[ 2016-10-16 00:56:29] Server is running on port 32211
+[ 2016-10-16 00:56:59] Setting up server...
+[ 2016-10-16 00:56:59] Connected to MYSQL.
+[ 2016-10-16 00:56:59] Skill database loaded with [4] skills
+[ 2016-10-16 00:56:59] Item database loaded with [2] items
+[ 2016-10-16 00:56:59] Monster database loaded with [2] monsters
+[ 2016-10-16 00:56:59] Waves database loaded with [3] waves
+[ 2016-10-16 00:56:59] Server is running on port 32211
+[ 2016-10-16 00:57:06] Setting up server...
+[ 2016-10-16 00:57:06] Connected to MYSQL.
+[ 2016-10-16 00:57:06] Skill database loaded with [4] skills
+[ 2016-10-16 00:57:06] Item database loaded with [2] items
+[ 2016-10-16 00:57:06] Monster database loaded with [2] monsters
+[ 2016-10-16 00:57:06] Waves database loaded with [0] waves
+[ 2016-10-16 00:57:06] Server is running on port 32211
+[ 2016-10-16 00:58:12] Setting up server...
+[ 2016-10-16 00:58:12] Connected to MYSQL.
+[ 2016-10-16 00:58:12] Skill database loaded with [4] skills
+[ 2016-10-16 00:58:12] Item database loaded with [2] items
+[ 2016-10-16 00:58:12] Monster database loaded with [2] monsters
+[ 2016-10-16 00:58:12] Waves database loaded with [3] waves
+[ 2016-10-16 00:58:12] Server is running on port 32211
+[ 2016-10-16 00:58:17] Setting up server...
+[ 2016-10-16 00:58:17] Connected to MYSQL.
+[ 2016-10-16 00:58:17] Skill database loaded with [4] skills
+[ 2016-10-16 00:58:17] Item database loaded with [2] items
+[ 2016-10-16 00:58:17] Monster database loaded with [2] monsters
+[ 2016-10-16 00:58:21] Waves database loaded with [0] waves
+[ 2016-10-16 00:58:21] Server is running on port 32211
+[ 2016-10-16 00:58:29] Setting up server...
+[ 2016-10-16 00:58:29] Connected to MYSQL.
+[ 2016-10-16 00:58:29] Skill database loaded with [4] skills
+[ 2016-10-16 00:58:29] Item database loaded with [2] items
+[ 2016-10-16 00:58:29] Monster database loaded with [2] monsters
+[ 2016-10-16 00:58:29] Waves database loaded with [3] waves
+[ 2016-10-16 00:58:29] Server is running on port 32211
+[ 2016-10-16 00:58:35] Setting up server...
+[ 2016-10-16 00:58:35] Connected to MYSQL.
+[ 2016-10-16 00:58:35] Skill database loaded with [4] skills
+[ 2016-10-16 00:58:35] Item database loaded with [2] items
+[ 2016-10-16 00:58:35] Monster database loaded with [2] monsters
+[ 2016-10-16 00:58:35] Waves database loaded with [3] waves
+[ 2016-10-16 00:58:35] Server is running on port 32211
+[ 2016-10-16 01:05:55] Setting up server...
+[ 2016-10-16 01:05:55] Connected to MYSQL.
+[ 2016-10-16 01:05:55] Skill database loaded with [4] skills
+[ 2016-10-16 01:05:55] Item database loaded with [2] items
+[ 2016-10-16 01:05:55] Monster database loaded with [2] monsters
+[ 2016-10-16 01:05:55] Waves database loaded with [3] waves
+[ 2016-10-16 01:05:55] Server is running on port 32211
+[ 2016-10-16 01:06:30] Setting up server...
+[ 2016-10-16 01:06:30] Connected to MYSQL.
+[ 2016-10-16 01:06:30] Skill database loaded with [4] skills
+[ 2016-10-16 01:06:30] Item database loaded with [2] items
+[ 2016-10-16 01:06:30] Monster database loaded with [2] monsters
+[ 2016-10-16 01:06:30] Waves database loaded with [3] waves
+[ 2016-10-16 01:06:30] Server is running on port 32211
+[ 2016-10-16 01:06:35] Account logged in UserID = 2
+[ 2016-10-16 01:06:36] User selected CharacterName = Firstchar
+[ 2016-10-16 01:06:36] Total items = test
+[ 2016-10-16 01:06:36] Total items = test
+[ 2016-10-16 01:06:36] Total items = test
+[ 2016-10-16 01:06:36] Total items = test
+[ 2016-10-16 01:06:36] Total items = test
+[ 2016-10-16 01:06:36] Total items = test2
+[ 2016-10-16 01:06:36] Total items = test
+[ 2016-10-16 01:06:36] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 01:06:36] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 01:06:36] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 01:06:36] Character information sent.
+[ 2016-10-16 01:06:36] Firstchar is advancing wave..
+[ 2016-10-16 01:06:46] Client disconnected.
+[ 2016-10-16 01:09:56] Setting up server...
+[ 2016-10-16 01:09:56] Connected to MYSQL.
+[ 2016-10-16 01:09:56] Skill database loaded with [4] skills
+[ 2016-10-16 01:09:56] Item database loaded with [2] items
+[ 2016-10-16 01:09:56] Monster database loaded with [2] monsters
+[ 2016-10-16 01:09:56] Waves database loaded with [3] waves
+[ 2016-10-16 01:09:56] Server is running on port 32211
+[ 2016-10-16 01:10:00] Account logged in UserID = 2
+[ 2016-10-16 01:10:01] User selected CharacterName = Firstchar
+[ 2016-10-16 01:10:01] Total items = test
+[ 2016-10-16 01:10:01] Total items = test
+[ 2016-10-16 01:10:01] Total items = test
+[ 2016-10-16 01:10:01] Total items = test
+[ 2016-10-16 01:10:01] Total items = test
+[ 2016-10-16 01:10:01] Total items = test2
+[ 2016-10-16 01:10:01] Total items = test
+[ 2016-10-16 01:10:01] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 01:10:01] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 01:10:01] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 01:10:02] Character information sent.
+[ 2016-10-16 01:10:02] Firstchar is advancing wave..
+[ 2016-10-16 01:10:02] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;8;1|0|50|1,2|0|0;1|1|50|1,2|0|0;1|2|50|1,2|0|0;1|3|50|1,2|0|0;1|4|50|1,2|0|0;2|5|50|1,2|0|0;2|6|50|1,2|0|0;2|7|50|1,2|0|0;
+[ 2016-10-16 01:39:07] Setting up server...
+[ 2016-10-16 01:39:07] Connected to MYSQL.
+[ 2016-10-16 01:39:07] Skill database loaded with [4] skills
+[ 2016-10-16 01:39:07] Item database loaded with [2] items
+[ 2016-10-16 01:39:07] Monster database loaded with [2] monsters
+[ 2016-10-16 01:39:07] Waves database loaded with [3] waves
+[ 2016-10-16 01:39:07] Server is running on port 32211
+[ 2016-10-16 01:39:12] Account logged in UserID = 2
+[ 2016-10-16 01:39:12] User selected CharacterName = Firstchar
+[ 2016-10-16 01:39:12] Total items = test
+[ 2016-10-16 01:39:12] Total items = test
+[ 2016-10-16 01:39:12] Total items = test
+[ 2016-10-16 01:39:12] Total items = test
+[ 2016-10-16 01:39:12] Total items = test
+[ 2016-10-16 01:39:12] Total items = test2
+[ 2016-10-16 01:39:12] Total items = test
+[ 2016-10-16 01:39:12] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 01:39:12] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 01:39:12] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 01:39:13] Character information sent.
+[ 2016-10-16 01:39:13] Firstchar is advancing wave..
+[ 2016-10-16 01:39:13] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;8;1|0|50|1,2|1|0;1|1|50|1,2|1|0;1|2|50|1,2|1|0;1|3|50|1,2|1|0;1|4|50|1,2|1|0;2|5|50|1,2|2|0;2|6|50|1,2|2|0;2|7|50|1,2|2|0;
+[ 2016-10-16 01:40:29] Setting up server...
+[ 2016-10-16 01:40:29] Connected to MYSQL.
+[ 2016-10-16 01:40:29] Skill database loaded with [4] skills
+[ 2016-10-16 01:40:29] Item database loaded with [2] items
+[ 2016-10-16 01:40:29] Monster database loaded with [2] monsters
+[ 2016-10-16 01:40:29] Waves database loaded with [3] waves
+[ 2016-10-16 01:40:29] Server is running on port 32211
+[ 2016-10-16 01:40:33] Account logged in UserID = 2
+[ 2016-10-16 01:40:34] User selected CharacterName = Firstchar
+[ 2016-10-16 01:40:34] Total items = test
+[ 2016-10-16 01:40:34] Total items = test
+[ 2016-10-16 01:40:34] Total items = test
+[ 2016-10-16 01:40:34] Total items = test
+[ 2016-10-16 01:40:34] Total items = test
+[ 2016-10-16 01:40:34] Total items = test2
+[ 2016-10-16 01:40:34] Total items = test
+[ 2016-10-16 01:40:34] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 01:40:34] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 01:40:34] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 01:40:34] Character information sent.
+[ 2016-10-16 01:40:35] Firstchar is advancing wave..
+[ 2016-10-16 01:40:35] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;8;1|0|50|1,2|1|0;1|1|50|1,2|1|0;1|2|50|1,2|1|0;1|3|50|1,2|1|0;1|4|50|1,2|1|0;2|5|50|1,2|2|0;2|6|50|1,2|2|0;2|7|50|1,2|2|0;
+[ 2016-10-16 01:40:51] Client disconnected.
+[ 2016-10-16 01:41:18] Setting up server...
+[ 2016-10-16 01:41:18] Connected to MYSQL.
+[ 2016-10-16 01:41:18] Skill database loaded with [4] skills
+[ 2016-10-16 01:41:18] Item database loaded with [2] items
+[ 2016-10-16 01:41:18] Monster database loaded with [2] monsters
+[ 2016-10-16 01:41:18] Waves database loaded with [3] waves
+[ 2016-10-16 01:41:18] Server is running on port 32211
+[ 2016-10-16 01:41:23] Account logged in UserID = 2
+[ 2016-10-16 01:41:24] User selected CharacterName = Firstchar
+[ 2016-10-16 01:41:24] Total items = test
+[ 2016-10-16 01:41:24] Total items = test
+[ 2016-10-16 01:41:24] Total items = test
+[ 2016-10-16 01:41:24] Total items = test
+[ 2016-10-16 01:41:24] Total items = test
+[ 2016-10-16 01:41:24] Total items = test2
+[ 2016-10-16 01:41:24] Total items = test
+[ 2016-10-16 01:41:24] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 01:41:24] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 01:41:24] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 01:41:25] Character information sent.
+[ 2016-10-16 01:41:25] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;8;1|0|50|1,2|1.5|0;1|1|50|1,2|1.5|0;1|2|50|1,2|1.5|0;1|3|50|1,2|1.5|0;1|4|50|1,2|1.5|0;2|5|50|1,2|2|0;2|6|50|1,2|2|0;2|7|50|1,2|2|0;
+[ 2016-10-16 01:41:25] Firstchar is advancing wave..
+[ 2016-10-16 01:41:35] Client disconnected.
+[ 2016-10-16 01:44:08] Setting up server...
+[ 2016-10-16 01:44:09] Connected to MYSQL.
+[ 2016-10-16 01:44:09] Skill database loaded with [4] skills
+[ 2016-10-16 01:44:09] Item database loaded with [2] items
+[ 2016-10-16 01:44:09] Monster database loaded with [2] monsters
+[ 2016-10-16 01:44:09] Waves database loaded with [3] waves
+[ 2016-10-16 01:44:09] Server is running on port 32211
+[ 2016-10-16 01:44:13] Account logged in UserID = 2
+[ 2016-10-16 01:44:14] User selected CharacterName = Firstchar
+[ 2016-10-16 01:44:14] Total items = test
+[ 2016-10-16 01:44:14] Total items = test
+[ 2016-10-16 01:44:14] Total items = test
+[ 2016-10-16 01:44:14] Total items = test
+[ 2016-10-16 01:44:14] Total items = test
+[ 2016-10-16 01:44:14] Total items = test2
+[ 2016-10-16 01:44:14] Total items = test
+[ 2016-10-16 01:44:14] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 01:44:14] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 01:44:14] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 01:44:15] Character information sent.
+[ 2016-10-16 01:44:15] Firstchar is advancing wave..
+[ 2016-10-16 01:44:16] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;8;1|0|50|1,2|0|0;1|1|50|1,2|0|0;1|2|50|1,2|0|0;1|3|50|1,2|0|0;1|4|50|1,2|0|0;2|5|50|1,2|0|0;2|6|50|1,2|0|0;2|7|50|1,2|0|0;
+[ 2016-10-16 01:44:56] Setting up server...
+[ 2016-10-16 01:44:56] Connected to MYSQL.
+[ 2016-10-16 01:44:56] Skill database loaded with [4] skills
+[ 2016-10-16 01:44:56] Item database loaded with [2] items
+[ 2016-10-16 01:44:56] Monster database loaded with [2] monsters
+[ 2016-10-16 01:44:56] Waves database loaded with [3] waves
+[ 2016-10-16 01:44:56] Server is running on port 32211
+[ 2016-10-16 01:45:07] Account logged in UserID = 2
+[ 2016-10-16 01:45:08] User selected CharacterName = Firstchar
+[ 2016-10-16 01:45:08] Total items = test
+[ 2016-10-16 01:45:08] Total items = test
+[ 2016-10-16 01:45:08] Total items = test
+[ 2016-10-16 01:45:08] Total items = test
+[ 2016-10-16 01:45:08] Total items = test
+[ 2016-10-16 01:45:08] Total items = test2
+[ 2016-10-16 01:45:08] Total items = test
+[ 2016-10-16 01:45:08] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 01:45:08] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 01:45:08] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 01:45:08] Character information sent.
+[ 2016-10-16 01:45:08] Firstchar is advancing wave..
+[ 2016-10-16 01:45:08] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;8;1|0|50|1,2|0.3|0;1|1|50|1,2|0.3|0;1|2|50|1,2|0.3|0;1|3|50|1,2|0.3|0;1|4|50|1,2|0.3|0;2|5|50|1,2|0.4|0;2|6|50|1,2|0.4|0;2|7|50|1,2|0.4|0;
+[ 2016-10-16 01:45:26] Client disconnected.
+[ 2016-10-16 01:47:54] Setting up server...
+[ 2016-10-16 01:47:54] Connected to MYSQL.
+[ 2016-10-16 01:47:54] Skill database loaded with [4] skills
+[ 2016-10-16 01:47:54] Item database loaded with [2] items
+[ 2016-10-16 01:47:54] Monster database loaded with [2] monsters
+[ 2016-10-16 01:47:54] Waves database loaded with [3] waves
+[ 2016-10-16 01:47:54] Server is running on port 32211
+[ 2016-10-16 01:47:56] Account logged in UserID = 2
+[ 2016-10-16 01:47:57] User selected CharacterName = Firstchar
+[ 2016-10-16 01:47:57] Total items = test
+[ 2016-10-16 01:47:57] Total items = test
+[ 2016-10-16 01:47:57] Total items = test
+[ 2016-10-16 01:47:57] Total items = test
+[ 2016-10-16 01:47:57] Total items = test
+[ 2016-10-16 01:47:57] Total items = test2
+[ 2016-10-16 01:47:57] Total items = test
+[ 2016-10-16 01:47:57] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 01:47:57] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 01:47:57] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 01:47:57] Character information sent.
+[ 2016-10-16 01:47:57] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;8;1|0|50|1,2|3|0;1|1|50|1,2|3|0;1|2|50|1,2|3|0;1|3|50|1,2|3|0;1|4|50|1,2|3|0;2|5|50|1,2|4|0;2|6|50|1,2|4|0;2|7|50|1,2|4|0;
+[ 2016-10-16 01:47:57] Firstchar is advancing wave..
+[ 2016-10-16 01:48:14] Client disconnected.
+[ 2016-10-16 01:50:57] Setting up server...
+[ 2016-10-16 01:50:58] Connected to MYSQL.
+[ 2016-10-16 01:50:58] Skill database loaded with [4] skills
+[ 2016-10-16 01:50:58] Item database loaded with [2] items
+[ 2016-10-16 01:50:58] Monster database loaded with [2] monsters
+[ 2016-10-16 01:51:09] Waves database loaded with [3] waves
+[ 2016-10-16 01:51:09] Server is running on port 32211
+[ 2016-10-16 01:51:23] Setting up server...
+[ 2016-10-16 01:51:23] Connected to MYSQL.
+[ 2016-10-16 01:51:23] Skill database loaded with [4] skills
+[ 2016-10-16 01:51:23] Item database loaded with [2] items
+[ 2016-10-16 01:51:23] Monster database loaded with [2] monsters
+[ 2016-10-16 01:51:31] Waves database loaded with [3] waves
+[ 2016-10-16 01:51:31] Server is running on port 32211
+[ 2016-10-16 01:52:34] Setting up server...
+[ 2016-10-16 01:52:34] Connected to MYSQL.
+[ 2016-10-16 01:52:34] Skill database loaded with [4] skills
+[ 2016-10-16 01:52:34] Item database loaded with [2] items
+[ 2016-10-16 01:52:34] Monster database loaded with [2] monsters
+[ 2016-10-16 01:52:34] Waves database loaded with [3] waves
+[ 2016-10-16 01:52:34] Server is running on port 32211
+[ 2016-10-16 01:52:40] Account logged in UserID = 2
+[ 2016-10-16 01:52:41] User selected CharacterName = Firstchar
+[ 2016-10-16 01:52:41] Total items = test
+[ 2016-10-16 01:52:41] Total items = test
+[ 2016-10-16 01:52:41] Total items = test
+[ 2016-10-16 01:52:41] Total items = test
+[ 2016-10-16 01:52:41] Total items = test
+[ 2016-10-16 01:52:41] Total items = test2
+[ 2016-10-16 01:52:41] Total items = test
+[ 2016-10-16 01:52:41] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 01:52:41] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 01:52:41] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 01:52:41] Character information sent.
+[ 2016-10-16 01:52:41] Firstchar is advancing wave..
+[ 2016-10-16 01:52:42] 0 0.3
+[ 2016-10-16 01:52:42] 1 0.3
+[ 2016-10-16 01:52:42] 2 0.3
+[ 2016-10-16 01:52:42] 3 0.3
+[ 2016-10-16 01:52:42] 4 0.3
+[ 2016-10-16 01:52:42] 5 0.4
+[ 2016-10-16 01:52:42] 6 0.4
+[ 2016-10-16 01:52:42] 7 0.4
+[ 2016-10-16 01:52:42] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;8;1|0|50|1,2|0.3|0;1|1|50|1,2|0.3|0;1|2|50|1,2|0.3|0;1|3|50|1,2|0.3|0;1|4|50|1,2|0.3|0;2|5|50|1,2|0.4|0;2|6|50|1,2|0.4|0;2|7|50|1,2|0.4|0;
+[ 2016-10-16 01:52:56] Client disconnected.
+[ 2016-10-16 01:54:34] Setting up server...
+[ 2016-10-16 01:54:34] Connected to MYSQL.
+[ 2016-10-16 01:54:34] Skill database loaded with [4] skills
+[ 2016-10-16 01:54:34] Item database loaded with [2] items
+[ 2016-10-16 01:54:34] Monster database loaded with [2] monsters
+[ 2016-10-16 01:54:34] Waves database loaded with [3] waves
+[ 2016-10-16 01:54:34] Server is running on port 32211
+[ 2016-10-16 01:54:40] Account logged in UserID = 2
+[ 2016-10-16 01:54:40] User selected CharacterName = Firstchar
+[ 2016-10-16 01:54:40] Total items = test
+[ 2016-10-16 01:54:40] Total items = test
+[ 2016-10-16 01:54:40] Total items = test
+[ 2016-10-16 01:54:40] Total items = test
+[ 2016-10-16 01:54:40] Total items = test
+[ 2016-10-16 01:54:40] Total items = test2
+[ 2016-10-16 01:54:40] Total items = test
+[ 2016-10-16 01:54:40] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 01:54:40] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 01:54:40] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 01:54:41] Character information sent.
+[ 2016-10-16 01:54:41] Firstchar is advancing wave..
+[ 2016-10-16 01:54:42] 0 0.3
+[ 2016-10-16 01:54:42] 1 0.3
+[ 2016-10-16 01:54:42] 2 0.3
+[ 2016-10-16 01:54:42] 3 0.3
+[ 2016-10-16 01:54:42] 4 0.3
+[ 2016-10-16 01:54:42] 5 0.4
+[ 2016-10-16 01:54:42] 6 0.4
+[ 2016-10-16 01:54:42] 7 0.4
+[ 2016-10-16 01:54:42] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;8;1|0|50|1,2|0.3|0;1|1|50|1,2|0.3|0;1|2|50|1,2|0.3|0;1|3|50|1,2|0.3|0;1|4|50|1,2|0.3|0;2|5|50|1,2|0.4|0;2|6|50|1,2|0.4|0;2|7|50|1,2|0.4|0;
+[ 2016-10-16 01:55:06] Client disconnected.
+[ 2016-10-16 01:56:53] Setting up server...
+[ 2016-10-16 01:56:54] Connected to MYSQL.
+[ 2016-10-16 01:56:54] Skill database loaded with [4] skills
+[ 2016-10-16 01:56:54] Item database loaded with [2] items
+[ 2016-10-16 01:56:54] Monster database loaded with [2] monsters
+[ 2016-10-16 01:56:54] Waves database loaded with [3] waves
+[ 2016-10-16 01:56:54] Server is running on port 32211
+[ 2016-10-16 01:57:01] Account logged in UserID = 2
+[ 2016-10-16 01:57:02] User selected CharacterName = Firstchar
+[ 2016-10-16 01:57:02] Total items = test
+[ 2016-10-16 01:57:02] Total items = test
+[ 2016-10-16 01:57:02] Total items = test
+[ 2016-10-16 01:57:02] Total items = test
+[ 2016-10-16 01:57:02] Total items = test
+[ 2016-10-16 01:57:02] Total items = test2
+[ 2016-10-16 01:57:02] Total items = test
+[ 2016-10-16 01:57:02] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 01:57:02] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 01:57:02] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 01:57:02] Character information sent.
+[ 2016-10-16 01:57:02] Firstchar is advancing wave..
+[ 2016-10-16 01:57:03] 0 0.3
+[ 2016-10-16 01:57:03] 1 0.3
+[ 2016-10-16 01:57:03] 2 0.3
+[ 2016-10-16 01:57:03] 3 0.3
+[ 2016-10-16 01:57:03] 4 0.3
+[ 2016-10-16 01:57:03] 5 0.4
+[ 2016-10-16 01:57:03] 6 0.4
+[ 2016-10-16 01:57:03] 7 0.4
+[ 2016-10-16 01:57:03] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;8;1|0|50|1,2|0.3|0;1|1|50|1,2|0.3|0;1|2|50|1,2|0.3|0;1|3|50|1,2|0.3|0;1|4|50|1,2|0.3|0;2|5|50|1,2|0.4|0;2|6|50|1,2|0.4|0;2|7|50|1,2|0.4|0;
+[ 2016-10-16 02:01:09] Setting up server...
+[ 2016-10-16 02:01:09] Connected to MYSQL.
+[ 2016-10-16 02:01:09] Skill database loaded with [4] skills
+[ 2016-10-16 02:01:09] Item database loaded with [2] items
+[ 2016-10-16 02:01:09] Monster database loaded with [2] monsters
+[ 2016-10-16 02:01:09] Waves database loaded with [3] waves
+[ 2016-10-16 02:01:09] Server is running on port 32211
+[ 2016-10-16 02:01:14] Account logged in UserID = 2
+[ 2016-10-16 02:01:15] User selected CharacterName = Firstchar
+[ 2016-10-16 02:01:15] Total items = test
+[ 2016-10-16 02:01:15] Total items = test
+[ 2016-10-16 02:01:15] Total items = test
+[ 2016-10-16 02:01:15] Total items = test
+[ 2016-10-16 02:01:15] Total items = test
+[ 2016-10-16 02:01:15] Total items = test2
+[ 2016-10-16 02:01:15] Total items = test
+[ 2016-10-16 02:01:15] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:01:15] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:01:15] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:01:15] Character information sent.
+[ 2016-10-16 02:01:15] Firstchar is advancing wave..
+[ 2016-10-16 02:01:16] 0 0
+[ 2016-10-16 02:01:16] 1 0
+[ 2016-10-16 02:01:16] 2 0
+[ 2016-10-16 02:01:16] 3 0
+[ 2016-10-16 02:01:16] 4 0
+[ 2016-10-16 02:01:16] 5 0
+[ 2016-10-16 02:01:16] 6 0
+[ 2016-10-16 02:01:16] 7 0
+[ 2016-10-16 02:01:16] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;8;1|0|50|1,2|0.3|0;1|1|50|1,2|0.3|0;1|2|50|1,2|0.3|0;1|3|50|1,2|0.3|0;1|4|50|1,2|0.3|0;2|5|50|1,2|0.4|0;2|6|50|1,2|0.4|0;2|7|50|1,2|0.4|0;
+[ 2016-10-16 02:01:24] Client disconnected.
+[ 2016-10-16 02:01:44] Setting up server...
+[ 2016-10-16 02:01:44] Connected to MYSQL.
+[ 2016-10-16 02:01:44] Skill database loaded with [4] skills
+[ 2016-10-16 02:01:44] Item database loaded with [2] items
+[ 2016-10-16 02:01:44] Monster database loaded with [2] monsters
+[ 2016-10-16 02:01:44] Waves database loaded with [3] waves
+[ 2016-10-16 02:01:44] Server is running on port 32211
+[ 2016-10-16 02:01:49] Account logged in UserID = 2
+[ 2016-10-16 02:01:50] User selected CharacterName = Firstchar
+[ 2016-10-16 02:01:50] Total items = test
+[ 2016-10-16 02:01:50] Total items = test
+[ 2016-10-16 02:01:50] Total items = test
+[ 2016-10-16 02:01:50] Total items = test
+[ 2016-10-16 02:01:50] Total items = test
+[ 2016-10-16 02:01:50] Total items = test2
+[ 2016-10-16 02:01:50] Total items = test
+[ 2016-10-16 02:01:50] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:01:50] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:01:50] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:01:50] Character information sent.
+[ 2016-10-16 02:01:51] Firstchar is advancing wave..
+[ 2016-10-16 02:01:51] 0 3
+[ 2016-10-16 02:01:51] 1 3
+[ 2016-10-16 02:01:51] 2 3
+[ 2016-10-16 02:01:51] 3 3
+[ 2016-10-16 02:01:51] 4 3
+[ 2016-10-16 02:01:51] 5 4
+[ 2016-10-16 02:01:51] 6 4
+[ 2016-10-16 02:01:51] 7 4
+[ 2016-10-16 02:01:51] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;8;1|0|50|1,2|0.3|0;1|1|50|1,2|0.3|0;1|2|50|1,2|0.3|0;1|3|50|1,2|0.3|0;1|4|50|1,2|0.3|0;2|5|50|1,2|0.4|0;2|6|50|1,2|0.4|0;2|7|50|1,2|0.4|0;
+[ 2016-10-16 02:01:58] Client disconnected.
+[ 2016-10-16 02:02:21] Setting up server...
+[ 2016-10-16 02:02:21] Connected to MYSQL.
+[ 2016-10-16 02:02:21] Skill database loaded with [4] skills
+[ 2016-10-16 02:02:21] Item database loaded with [2] items
+[ 2016-10-16 02:02:21] Monster database loaded with [2] monsters
+[ 2016-10-16 02:02:21] Waves database loaded with [3] waves
+[ 2016-10-16 02:02:21] Server is running on port 32211
+[ 2016-10-16 02:02:30] Account logged in UserID = 2
+[ 2016-10-16 02:02:31] User selected CharacterName = Firstchar
+[ 2016-10-16 02:02:31] Total items = test
+[ 2016-10-16 02:02:31] Total items = test
+[ 2016-10-16 02:02:31] Total items = test
+[ 2016-10-16 02:02:31] Total items = test
+[ 2016-10-16 02:02:31] Total items = test
+[ 2016-10-16 02:02:31] Total items = test2
+[ 2016-10-16 02:02:31] Total items = test
+[ 2016-10-16 02:02:31] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:02:31] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:02:31] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:02:32] Character information sent.
+[ 2016-10-16 02:02:32] Firstchar is advancing wave..
+[ 2016-10-16 02:02:32] 0 3
+[ 2016-10-16 02:02:32] 1 3
+[ 2016-10-16 02:02:32] 2 3
+[ 2016-10-16 02:02:32] 3 3
+[ 2016-10-16 02:02:32] 4 3
+[ 2016-10-16 02:02:32] 5 4
+[ 2016-10-16 02:02:32] 6 4
+[ 2016-10-16 02:02:32] 7 4
+[ 2016-10-16 02:02:32] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;8;1|0|50|1,2|0.3|0;1|1|50|1,2|0.3|0;1|2|50|1,2|0.3|0;1|3|50|1,2|0.3|0;1|4|50|1,2|0.3|0;2|5|50|1,2|0.4|0;2|6|50|1,2|0.4|0;2|7|50|1,2|0.4|0;
+[ 2016-10-16 02:03:52] Setting up server...
+[ 2016-10-16 02:03:52] Connected to MYSQL.
+[ 2016-10-16 02:03:52] Skill database loaded with [4] skills
+[ 2016-10-16 02:03:52] Item database loaded with [2] items
+[ 2016-10-16 02:03:52] Monster database loaded with [2] monsters
+[ 2016-10-16 02:03:52] Waves database loaded with [1] waves
+[ 2016-10-16 02:03:52] Server is running on port 32211
+[ 2016-10-16 02:03:57] Account logged in UserID = 2
+[ 2016-10-16 02:03:58] User selected CharacterName = Firstchar
+[ 2016-10-16 02:03:58] Total items = test
+[ 2016-10-16 02:03:58] Total items = test
+[ 2016-10-16 02:03:58] Total items = test
+[ 2016-10-16 02:03:58] Total items = test
+[ 2016-10-16 02:03:58] Total items = test
+[ 2016-10-16 02:03:58] Total items = test2
+[ 2016-10-16 02:03:58] Total items = test
+[ 2016-10-16 02:03:58] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:03:58] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:03:58] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:03:59] Character information sent.
+[ 2016-10-16 02:03:59] Firstchar is advancing wave..
+[ 2016-10-16 02:03:59] 0 4
+[ 2016-10-16 02:03:59] 1 4
+[ 2016-10-16 02:03:59] 2 4
+[ 2016-10-16 02:03:59] 3 4
+[ 2016-10-16 02:03:59] 4 4
+[ 2016-10-16 02:03:59] 5 2
+[ 2016-10-16 02:03:59] 6 2
+[ 2016-10-16 02:03:59] 7 2
+[ 2016-10-16 02:03:59] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;8;1|0|50|1,2|11.4|0;1|1|50|1,2|11.4|0;1|2|50|1,2|11.4|0;1|3|50|1,2|11.4|0;1|4|50|1,2|11.4|0;2|5|50|1,2|2.2|0;2|6|50|1,2|2.2|0;2|7|50|1,2|2.2|0;
+[ 2016-10-16 02:04:51] Setting up server...
+[ 2016-10-16 02:04:51] Connected to MYSQL.
+[ 2016-10-16 02:04:51] Skill database loaded with [4] skills
+[ 2016-10-16 02:04:51] Item database loaded with [2] items
+[ 2016-10-16 02:04:51] Monster database loaded with [2] monsters
+[ 2016-10-16 02:04:51] Waves database loaded with [1] waves
+[ 2016-10-16 02:04:51] Server is running on port 32211
+[ 2016-10-16 02:04:57] Account logged in UserID = 2
+[ 2016-10-16 02:04:57] User selected CharacterName = Firstchar
+[ 2016-10-16 02:04:58] Total items = test
+[ 2016-10-16 02:04:58] Total items = test
+[ 2016-10-16 02:04:58] Total items = test
+[ 2016-10-16 02:04:58] Total items = test
+[ 2016-10-16 02:04:58] Total items = test
+[ 2016-10-16 02:04:58] Total items = test2
+[ 2016-10-16 02:04:58] Total items = test
+[ 2016-10-16 02:04:58] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:04:58] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:04:58] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:04:58] Character information sent.
+[ 2016-10-16 02:04:58] 0 7
+[ 2016-10-16 02:04:58] 1 7
+[ 2016-10-16 02:04:58] 2 7
+[ 2016-10-16 02:04:58] 3 7
+[ 2016-10-16 02:04:58] 4 7
+[ 2016-10-16 02:04:58] 5 7
+[ 2016-10-16 02:04:58] 6 7
+[ 2016-10-16 02:04:58] 7 7
+[ 2016-10-16 02:04:58] 8 2
+[ 2016-10-16 02:04:58] 9 2
+[ 2016-10-16 02:04:58] 10 2
+[ 2016-10-16 02:04:58] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;11;1|0|50|1,2|11.7|0;1|1|50|1,2|11.7|0;1|2|50|1,2|11.7|0;1|3|50|1,2|11.7|0;1|4|50|1,2|11.7|0;1|5|50|1,2|11.7|0;1|6|50|1,2|11.7|0;1|7|50|1,2|11.7|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;
+[ 2016-10-16 02:04:58] Firstchar is advancing wave..
+[ 2016-10-16 02:05:20] Client disconnected.
+[ 2016-10-16 02:05:53] Setting up server...
+[ 2016-10-16 02:05:53] Connected to MYSQL.
+[ 2016-10-16 02:05:53] Skill database loaded with [4] skills
+[ 2016-10-16 02:05:53] Item database loaded with [2] items
+[ 2016-10-16 02:05:53] Monster database loaded with [2] monsters
+[ 2016-10-16 02:05:53] Waves database loaded with [1] waves
+[ 2016-10-16 02:05:53] Server is running on port 32211
+[ 2016-10-16 02:06:00] Account logged in UserID = 2
+[ 2016-10-16 02:06:00] User selected CharacterName = Firstchar
+[ 2016-10-16 02:06:00] Total items = test
+[ 2016-10-16 02:06:00] Total items = test
+[ 2016-10-16 02:06:00] Total items = test
+[ 2016-10-16 02:06:00] Total items = test
+[ 2016-10-16 02:06:00] Total items = test
+[ 2016-10-16 02:06:00] Total items = test2
+[ 2016-10-16 02:06:00] Total items = test
+[ 2016-10-16 02:06:00] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:06:00] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:06:00] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:06:01] Character information sent.
+[ 2016-10-16 02:06:01] 0 7
+[ 2016-10-16 02:06:01] 1 7
+[ 2016-10-16 02:06:01] 2 7
+[ 2016-10-16 02:06:01] 3 7
+[ 2016-10-16 02:06:01] 4 7
+[ 2016-10-16 02:06:01] 5 7
+[ 2016-10-16 02:06:01] 6 7
+[ 2016-10-16 02:06:01] 7 7
+[ 2016-10-16 02:06:01] 8 2
+[ 2016-10-16 02:06:01] 9 2
+[ 2016-10-16 02:06:01] 10 2
+[ 2016-10-16 02:06:01] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;11;1|0|50|1,2|11.7|0;1|1|50|1,2|11.7|0;1|2|50|1,2|11.7|0;1|3|50|1,2|11.7|0;1|4|50|1,2|11.7|0;1|5|50|1,2|11.7|0;1|6|50|1,2|11.7|0;1|7|50|1,2|11.7|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;
+[ 2016-10-16 02:06:01] Firstchar is advancing wave..
+[ 2016-10-16 02:06:05] Client disconnected.
+[ 2016-10-16 02:07:07] Setting up server...
+[ 2016-10-16 02:07:08] Connected to MYSQL.
+[ 2016-10-16 02:07:08] Skill database loaded with [4] skills
+[ 2016-10-16 02:07:08] Item database loaded with [2] items
+[ 2016-10-16 02:07:08] Monster database loaded with [2] monsters
+[ 2016-10-16 02:07:08] Waves database loaded with [1] waves
+[ 2016-10-16 02:07:08] Server is running on port 32211
+[ 2016-10-16 02:07:13] Account logged in UserID = 2
+[ 2016-10-16 02:07:14] User selected CharacterName = Firstchar
+[ 2016-10-16 02:07:14] Total items = test
+[ 2016-10-16 02:07:14] Total items = test
+[ 2016-10-16 02:07:14] Total items = test
+[ 2016-10-16 02:07:14] Total items = test
+[ 2016-10-16 02:07:14] Total items = test
+[ 2016-10-16 02:07:14] Total items = test2
+[ 2016-10-16 02:07:14] Total items = test
+[ 2016-10-16 02:07:14] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:07:14] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:07:14] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:07:15] Character information sent.
+[ 2016-10-16 02:07:15] Firstchar is advancing wave..
+[ 2016-10-16 02:07:16] 0 7
+[ 2016-10-16 02:07:16] 1 7
+[ 2016-10-16 02:07:16] 2 7
+[ 2016-10-16 02:07:16] 3 7
+[ 2016-10-16 02:07:16] 4 7
+[ 2016-10-16 02:07:16] 5 7
+[ 2016-10-16 02:07:16] 6 7
+[ 2016-10-16 02:07:16] 7 7
+[ 2016-10-16 02:07:16] 8 2
+[ 2016-10-16 02:07:16] 9 2
+[ 2016-10-16 02:07:16] 10 2
+[ 2016-10-16 02:07:16] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;11;1|0|50|1,2|11.7|0;1|1|50|1,2|11.7|0;1|2|50|1,2|11.7|0;1|3|50|1,2|11.7|0;1|4|50|1,2|11.7|0;1|5|50|1,2|11.7|0;1|6|50|1,2|11.7|0;1|7|50|1,2|11.7|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;
+[ 2016-10-16 02:09:52] Setting up server...
+[ 2016-10-16 02:09:52] Connected to MYSQL.
+[ 2016-10-16 02:09:52] Skill database loaded with [4] skills
+[ 2016-10-16 02:09:52] Item database loaded with [2] items
+[ 2016-10-16 02:09:52] Monster database loaded with [2] monsters
+[ 2016-10-16 02:09:52] Waves database loaded with [1] waves
+[ 2016-10-16 02:09:52] Server is running on port 32211
+[ 2016-10-16 02:09:59] Account logged in UserID = 2
+[ 2016-10-16 02:10:00] User selected CharacterName = Firstchar
+[ 2016-10-16 02:10:00] Total items = test
+[ 2016-10-16 02:10:00] Total items = test
+[ 2016-10-16 02:10:00] Total items = test
+[ 2016-10-16 02:10:00] Total items = test
+[ 2016-10-16 02:10:00] Total items = test
+[ 2016-10-16 02:10:00] Total items = test2
+[ 2016-10-16 02:10:00] Total items = test
+[ 2016-10-16 02:10:00] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:10:00] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:10:00] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:10:00] 0 7
+[ 2016-10-16 02:10:00] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1;1|0|50|1,2|11.7|0;
+[ 2016-10-16 02:10:00] Firstchar is advancing wave..
+[ 2016-10-16 02:10:05] Character information sent.
+[ 2016-10-16 02:10:07] Client disconnected.
+[ 2016-10-16 02:11:03] Setting up server...
+[ 2016-10-16 02:11:03] Connected to MYSQL.
+[ 2016-10-16 02:11:03] Skill database loaded with [4] skills
+[ 2016-10-16 02:11:03] Item database loaded with [2] items
+[ 2016-10-16 02:11:03] Monster database loaded with [2] monsters
+[ 2016-10-16 02:11:03] Waves database loaded with [1] waves
+[ 2016-10-16 02:11:03] Server is running on port 32211
+[ 2016-10-16 02:11:09] Account logged in UserID = 2
+[ 2016-10-16 02:11:10] User selected CharacterName = Firstchar
+[ 2016-10-16 02:11:10] Total items = test
+[ 2016-10-16 02:11:10] Total items = test
+[ 2016-10-16 02:11:10] Total items = test
+[ 2016-10-16 02:11:10] Total items = test
+[ 2016-10-16 02:11:10] Total items = test
+[ 2016-10-16 02:11:10] Total items = test2
+[ 2016-10-16 02:11:10] Total items = test
+[ 2016-10-16 02:11:10] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:11:10] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:11:10] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:11:11] Firstchar is advancing wave..
+[ 2016-10-16 02:11:11] 0 7
+[ 2016-10-16 02:11:11] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1;1|0|50|1,2|11.7|0;
+[ 2016-10-16 02:13:44] Setting up server...
+[ 2016-10-16 02:13:44] Connected to MYSQL.
+[ 2016-10-16 02:13:44] Skill database loaded with [4] skills
+[ 2016-10-16 02:13:44] Item database loaded with [2] items
+[ 2016-10-16 02:13:44] Monster database loaded with [2] monsters
+[ 2016-10-16 02:13:44] Waves database loaded with [1] waves
+[ 2016-10-16 02:13:44] Server is running on port 32211
+[ 2016-10-16 02:13:47] Account logged in UserID = 2
+[ 2016-10-16 02:13:48] User selected CharacterName = Firstchar
+[ 2016-10-16 02:13:48] Total items = test
+[ 2016-10-16 02:13:48] Total items = test
+[ 2016-10-16 02:13:48] Total items = test
+[ 2016-10-16 02:13:48] Total items = test
+[ 2016-10-16 02:13:48] Total items = test
+[ 2016-10-16 02:13:48] Total items = test2
+[ 2016-10-16 02:13:48] Total items = test
+[ 2016-10-16 02:13:48] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:13:48] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:13:48] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:13:49] Firstchar is advancing wave..
+[ 2016-10-16 02:13:49] 0 7
+[ 2016-10-16 02:13:49] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1;1|0|50|1,2|11.7|0;
+[ 2016-10-16 02:14:07] Setting up server...
+[ 2016-10-16 02:14:07] Connected to MYSQL.
+[ 2016-10-16 02:14:07] Skill database loaded with [4] skills
+[ 2016-10-16 02:14:07] Item database loaded with [2] items
+[ 2016-10-16 02:14:07] Monster database loaded with [2] monsters
+[ 2016-10-16 02:14:07] Waves database loaded with [1] waves
+[ 2016-10-16 02:14:07] Server is running on port 32211
+[ 2016-10-16 02:14:10] Account logged in UserID = 2
+[ 2016-10-16 02:14:11] User selected CharacterName = Firstchar
+[ 2016-10-16 02:14:11] Total items = test
+[ 2016-10-16 02:14:11] Total items = test
+[ 2016-10-16 02:14:11] Total items = test
+[ 2016-10-16 02:14:11] Total items = test
+[ 2016-10-16 02:14:11] Total items = test
+[ 2016-10-16 02:14:11] Total items = test2
+[ 2016-10-16 02:14:11] Total items = test
+[ 2016-10-16 02:14:11] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:14:11] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:14:11] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:14:11] Character information sent.
+[ 2016-10-16 02:14:11] Firstchar is advancing wave..
+[ 2016-10-16 02:14:11] 0 7
+[ 2016-10-16 02:14:12] 1 7
+[ 2016-10-16 02:14:12] 2 7
+[ 2016-10-16 02:14:12] 3 7
+[ 2016-10-16 02:14:12] 4 7
+[ 2016-10-16 02:14:12] 5 7
+[ 2016-10-16 02:14:12] 6 7
+[ 2016-10-16 02:14:12] 7 7
+[ 2016-10-16 02:14:12] 8 2
+[ 2016-10-16 02:14:12] 9 2
+[ 2016-10-16 02:14:12] 10 2
+[ 2016-10-16 02:14:12] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;11;1|0|50|1,2|11.7|0;1|1|50|1,2|11.7|0;1|2|50|1,2|11.7|0;1|3|50|1,2|11.7|0;1|4|50|1,2|11.7|0;1|5|50|1,2|11.7|0;1|6|50|1,2|11.7|0;1|7|50|1,2|11.7|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;
+[ 2016-10-16 02:16:12] Setting up server...
+[ 2016-10-16 02:16:12] Connected to MYSQL.
+[ 2016-10-16 02:16:12] Skill database loaded with [4] skills
+[ 2016-10-16 02:16:12] Item database loaded with [2] items
+[ 2016-10-16 02:16:12] Monster database loaded with [2] monsters
+[ 2016-10-16 02:16:12] Waves database loaded with [1] waves
+[ 2016-10-16 02:16:12] Server is running on port 32211
+[ 2016-10-16 02:16:17] Account logged in UserID = 2
+[ 2016-10-16 02:16:18] User selected CharacterName = Firstchar
+[ 2016-10-16 02:16:18] Total items = test
+[ 2016-10-16 02:16:18] Total items = test
+[ 2016-10-16 02:16:18] Total items = test
+[ 2016-10-16 02:16:18] Total items = test
+[ 2016-10-16 02:16:18] Total items = test
+[ 2016-10-16 02:16:18] Total items = test2
+[ 2016-10-16 02:16:18] Total items = test
+[ 2016-10-16 02:16:18] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:16:18] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:16:18] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:16:19] Firstchar is advancing wave..
+[ 2016-10-16 02:16:19] 0 7
+[ 2016-10-16 02:16:19] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1;1|0|50|1,2|11.7|0;
+[ 2016-10-16 02:16:26] Character information sent.
+[ 2016-10-16 02:16:28] Client disconnected.
+[ 2016-10-16 02:17:59] Setting up server...
+[ 2016-10-16 02:18:00] Connected to MYSQL.
+[ 2016-10-16 02:18:00] Skill database loaded with [4] skills
+[ 2016-10-16 02:18:00] Item database loaded with [2] items
+[ 2016-10-16 02:18:00] Monster database loaded with [2] monsters
+[ 2016-10-16 02:18:00] Waves database loaded with [1] waves
+[ 2016-10-16 02:18:00] Server is running on port 32211
+[ 2016-10-16 02:18:07] Account logged in UserID = 2
+[ 2016-10-16 02:18:08] User selected CharacterName = Firstchar
+[ 2016-10-16 02:18:08] Total items = test
+[ 2016-10-16 02:18:08] Total items = test
+[ 2016-10-16 02:18:08] Total items = test
+[ 2016-10-16 02:18:08] Total items = test
+[ 2016-10-16 02:18:08] Total items = test
+[ 2016-10-16 02:18:08] Total items = test2
+[ 2016-10-16 02:18:08] Total items = test
+[ 2016-10-16 02:18:08] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:18:08] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:18:08] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:18:08] Character information sent.
+[ 2016-10-16 02:18:09] Firstchar is advancing wave..
+[ 2016-10-16 02:18:09] 0 7
+[ 2016-10-16 02:18:09] 1 7
+[ 2016-10-16 02:18:09] 2 7
+[ 2016-10-16 02:18:09] 3 7
+[ 2016-10-16 02:18:09] 4 7
+[ 2016-10-16 02:18:09] 5 7
+[ 2016-10-16 02:18:09] 6 7
+[ 2016-10-16 02:18:09] 7 7
+[ 2016-10-16 02:18:09] 8 2
+[ 2016-10-16 02:18:09] 9 2
+[ 2016-10-16 02:18:09] 10 2
+[ 2016-10-16 02:18:09] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;11;1|0|50|1,2|11.7|0;1|1|50|1,2|11.7|0;1|2|50|1,2|11.7|0;1|3|50|1,2|11.7|0;1|4|50|1,2|11.7|0;1|5|50|1,2|11.7|0;1|6|50|1,2|11.7|0;1|7|50|1,2|11.7|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;
+[ 2016-10-16 02:18:18] Client disconnected.
+[ 2016-10-16 02:20:52] Setting up server...
+[ 2016-10-16 02:20:53] Connected to MYSQL.
+[ 2016-10-16 02:20:53] Skill database loaded with [4] skills
+[ 2016-10-16 02:20:53] Item database loaded with [2] items
+[ 2016-10-16 02:20:53] Monster database loaded with [2] monsters
+[ 2016-10-16 02:20:53] Waves database loaded with [1] waves
+[ 2016-10-16 02:20:53] Server is running on port 32211
+[ 2016-10-16 02:20:58] Account logged in UserID = 2
+[ 2016-10-16 02:20:58] User selected CharacterName = Firstchar
+[ 2016-10-16 02:20:58] Total items = test
+[ 2016-10-16 02:20:58] Total items = test
+[ 2016-10-16 02:20:58] Total items = test
+[ 2016-10-16 02:20:58] Total items = test
+[ 2016-10-16 02:20:58] Total items = test
+[ 2016-10-16 02:20:58] Total items = test2
+[ 2016-10-16 02:20:58] Total items = test
+[ 2016-10-16 02:20:58] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:20:58] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:20:58] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:20:59] Character information sent.
+[ 2016-10-16 02:20:59] Firstchar is advancing wave..
+[ 2016-10-16 02:21:00] 0 1
+[ 2016-10-16 02:21:00] 1 1
+[ 2016-10-16 02:21:00] 2 1
+[ 2016-10-16 02:21:00] 3 1
+[ 2016-10-16 02:21:00] 4 1
+[ 2016-10-16 02:21:00] 5 1
+[ 2016-10-16 02:21:00] 6 1
+[ 2016-10-16 02:21:00] 7 1
+[ 2016-10-16 02:21:00] 8 2
+[ 2016-10-16 02:21:00] 9 2
+[ 2016-10-16 02:21:00] 10 2
+[ 2016-10-16 02:21:00] 11 1
+[ 2016-10-16 02:21:00] 12 1
+[ 2016-10-16 02:21:00] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|1,2|3.1|0;1|1|50|1,2|3.1|0;1|2|50|1,2|3.1|0;1|3|50|1,2|3.1|0;1|4|50|1,2|3.1|0;1|5|50|1,2|3.1|0;1|6|50|1,2|3.1|0;1|7|50|1,2|3.1|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;1|11|50|1,2|3.1|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 02:24:58] Setting up server...
+[ 2016-10-16 02:24:58] Connected to MYSQL.
+[ 2016-10-16 02:24:58] Skill database loaded with [4] skills
+[ 2016-10-16 02:24:58] Item database loaded with [2] items
+[ 2016-10-16 02:24:58] Monster database loaded with [2] monsters
+[ 2016-10-16 02:25:02] Waves database loaded with [1] waves
+[ 2016-10-16 02:25:02] Server is running on port 32211
+[ 2016-10-16 02:31:16] Setting up server...
+[ 2016-10-16 02:31:16] Connected to MYSQL.
+[ 2016-10-16 02:31:16] Skill database loaded with [4] skills
+[ 2016-10-16 02:31:16] Item database loaded with [2] items
+[ 2016-10-16 02:31:16] Monster database loaded with [2] monsters
+[ 2016-10-16 02:31:39] Setting up server...
+[ 2016-10-16 02:31:39] Connected to MYSQL.
+[ 2016-10-16 02:31:39] Skill database loaded with [4] skills
+[ 2016-10-16 02:31:39] Item database loaded with [2] items
+[ 2016-10-16 02:31:39] Monster database loaded with [2] monsters
+[ 2016-10-16 02:31:39] Waves database loaded with [1] waves
+[ 2016-10-16 02:31:39] Server is running on port 32211
+[ 2016-10-16 02:31:45] Account logged in UserID = 2
+[ 2016-10-16 02:31:46] User selected CharacterName = Firstchar
+[ 2016-10-16 02:31:46] Total items = test
+[ 2016-10-16 02:31:46] Total items = test
+[ 2016-10-16 02:31:46] Total items = test
+[ 2016-10-16 02:31:46] Total items = test
+[ 2016-10-16 02:31:46] Total items = test
+[ 2016-10-16 02:31:46] Total items = test2
+[ 2016-10-16 02:31:46] Total items = test
+[ 2016-10-16 02:31:46] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:31:46] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:31:46] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:31:46] Character information sent.
+[ 2016-10-16 02:31:47] Firstchar is advancing wave..
+[ 2016-10-16 02:31:47] 0 1
+[ 2016-10-16 02:31:47] 1 1
+[ 2016-10-16 02:31:47] 2 1
+[ 2016-10-16 02:31:47] 3 1
+[ 2016-10-16 02:31:47] 4 1
+[ 2016-10-16 02:31:47] 5 1
+[ 2016-10-16 02:31:47] 6 1
+[ 2016-10-16 02:31:47] 7 1
+[ 2016-10-16 02:31:47] 8 2
+[ 2016-10-16 02:31:47] 9 2
+[ 2016-10-16 02:31:47] 10 2
+[ 2016-10-16 02:31:47] 11 1
+[ 2016-10-16 02:31:47] 12 1
+[ 2016-10-16 02:31:47] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|1,2|3.1|0;1|1|50|1,2|3.1|0;1|2|50|1,2|3.1|0;1|3|50|1,2|3.1|0;1|4|50|1,2|3.1|0;1|5|50|1,2|3.1|0;1|6|50|1,2|3.1|0;1|7|50|1,2|3.1|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;1|11|50|1,2|3.1|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 02:32:02] Client disconnected.
+[ 2016-10-16 02:33:20] Setting up server...
+[ 2016-10-16 02:33:20] Connected to MYSQL.
+[ 2016-10-16 02:33:20] Skill database loaded with [4] skills
+[ 2016-10-16 02:33:20] Item database loaded with [2] items
+[ 2016-10-16 02:33:20] Monster database loaded with [2] monsters
+[ 2016-10-16 02:33:20] Waves database loaded with [1] waves
+[ 2016-10-16 02:33:20] Server is running on port 32211
+[ 2016-10-16 02:33:25] Account logged in UserID = 2
+[ 2016-10-16 02:33:26] User selected CharacterName = Firstchar
+[ 2016-10-16 02:33:26] Total items = test
+[ 2016-10-16 02:33:26] Total items = test
+[ 2016-10-16 02:33:26] Total items = test
+[ 2016-10-16 02:33:26] Total items = test
+[ 2016-10-16 02:33:26] Total items = test
+[ 2016-10-16 02:33:26] Total items = test2
+[ 2016-10-16 02:33:26] Total items = test
+[ 2016-10-16 02:33:26] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:33:26] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:33:26] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:33:26] Character information sent.
+[ 2016-10-16 02:33:26] Firstchar is advancing wave..
+[ 2016-10-16 02:33:27] 0 1
+[ 2016-10-16 02:33:27] 1 1
+[ 2016-10-16 02:33:27] 2 1
+[ 2016-10-16 02:33:27] 3 1
+[ 2016-10-16 02:33:27] 4 1
+[ 2016-10-16 02:33:27] 5 1
+[ 2016-10-16 02:33:27] 6 1
+[ 2016-10-16 02:33:27] 7 1
+[ 2016-10-16 02:33:27] 8 2
+[ 2016-10-16 02:33:27] 9 2
+[ 2016-10-16 02:33:27] 10 2
+[ 2016-10-16 02:33:27] 11 1
+[ 2016-10-16 02:33:27] 12 1
+[ 2016-10-16 02:33:27] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|1,2|3.1|0;1|1|50|1,2|3.1|0;1|2|50|1,2|3.1|0;1|3|50|1,2|3.1|0;1|4|50|1,2|3.1|0;1|5|50|1,2|3.1|0;1|6|50|1,2|3.1|0;1|7|50|1,2|3.1|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;1|11|50|1,2|3.1|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 02:33:33] Client disconnected.
+[ 2016-10-16 02:35:51] Setting up server...
+[ 2016-10-16 02:35:51] Connected to MYSQL.
+[ 2016-10-16 02:35:51] Skill database loaded with [4] skills
+[ 2016-10-16 02:35:51] Item database loaded with [2] items
+[ 2016-10-16 02:35:51] Monster database loaded with [2] monsters
+[ 2016-10-16 02:35:51] Waves database loaded with [1] waves
+[ 2016-10-16 02:35:51] Server is running on port 32211
+[ 2016-10-16 02:36:01] Account logged in UserID = 2
+[ 2016-10-16 02:36:02] User selected CharacterName = Firstchar
+[ 2016-10-16 02:36:02] Total items = test
+[ 2016-10-16 02:36:02] Total items = test
+[ 2016-10-16 02:36:02] Total items = test
+[ 2016-10-16 02:36:02] Total items = test
+[ 2016-10-16 02:36:02] Total items = test
+[ 2016-10-16 02:36:02] Total items = test2
+[ 2016-10-16 02:36:02] Total items = test
+[ 2016-10-16 02:36:02] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:36:02] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:36:02] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:36:03] Character information sent.
+[ 2016-10-16 02:36:03] Firstchar is advancing wave..
+[ 2016-10-16 02:36:03] 0 1
+[ 2016-10-16 02:36:03] 1 1
+[ 2016-10-16 02:36:03] 2 1
+[ 2016-10-16 02:36:03] 3 1
+[ 2016-10-16 02:36:03] 4 1
+[ 2016-10-16 02:36:03] 5 1
+[ 2016-10-16 02:36:03] 6 1
+[ 2016-10-16 02:36:03] 7 1
+[ 2016-10-16 02:36:03] 8 2
+[ 2016-10-16 02:36:03] 9 2
+[ 2016-10-16 02:36:03] 10 2
+[ 2016-10-16 02:36:03] 11 1
+[ 2016-10-16 02:36:03] 12 1
+[ 2016-10-16 02:36:03] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|1,2|3.1|0;1|1|50|1,2|3.1|0;1|2|50|1,2|3.1|0;1|3|50|1,2|3.1|0;1|4|50|1,2|3.1|0;1|5|50|1,2|3.1|0;1|6|50|1,2|3.1|0;1|7|50|1,2|3.1|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;1|11|50|1,2|3.1|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 02:38:39] Setting up server...
+[ 2016-10-16 02:38:39] Connected to MYSQL.
+[ 2016-10-16 02:38:39] Skill database loaded with [4] skills
+[ 2016-10-16 02:38:39] Item database loaded with [2] items
+[ 2016-10-16 02:38:39] Monster database loaded with [2] monsters
+[ 2016-10-16 02:38:39] Waves database loaded with [1] waves
+[ 2016-10-16 02:38:39] Server is running on port 32211
+[ 2016-10-16 02:38:45] Account logged in UserID = 2
+[ 2016-10-16 02:38:46] User selected CharacterName = Firstchar
+[ 2016-10-16 02:38:46] Total items = test
+[ 2016-10-16 02:38:46] Total items = test
+[ 2016-10-16 02:38:46] Total items = test
+[ 2016-10-16 02:38:46] Total items = test
+[ 2016-10-16 02:38:46] Total items = test
+[ 2016-10-16 02:38:46] Total items = test2
+[ 2016-10-16 02:38:46] Total items = test
+[ 2016-10-16 02:38:46] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:38:46] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:38:46] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:38:46] Character information sent.
+[ 2016-10-16 02:38:46] Firstchar is advancing wave..
+[ 2016-10-16 02:38:47] 0 1
+[ 2016-10-16 02:38:47] 1 1
+[ 2016-10-16 02:38:47] 2 1
+[ 2016-10-16 02:38:47] 3 1
+[ 2016-10-16 02:38:47] 4 1
+[ 2016-10-16 02:38:47] 5 1
+[ 2016-10-16 02:38:47] 6 1
+[ 2016-10-16 02:38:47] 7 1
+[ 2016-10-16 02:38:47] 8 2
+[ 2016-10-16 02:38:47] 9 2
+[ 2016-10-16 02:38:47] 10 2
+[ 2016-10-16 02:38:47] 11 1
+[ 2016-10-16 02:38:47] 12 1
+[ 2016-10-16 02:38:47] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|1,2|3.1|0;1|1|50|1,2|3.1|0;1|2|50|1,2|3.1|0;1|3|50|1,2|3.1|0;1|4|50|1,2|3.1|0;1|5|50|1,2|3.1|0;1|6|50|1,2|3.1|0;1|7|50|1,2|3.1|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;1|11|50|1,2|3.1|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 02:38:55] Client disconnected.
+[ 2016-10-16 02:42:17] Setting up server...
+[ 2016-10-16 02:42:17] Connected to MYSQL.
+[ 2016-10-16 02:42:17] Skill database loaded with [4] skills
+[ 2016-10-16 02:42:17] Item database loaded with [2] items
+[ 2016-10-16 02:42:17] Monster database loaded with [2] monsters
+[ 2016-10-16 02:42:17] Waves database loaded with [1] waves
+[ 2016-10-16 02:42:17] Server is running on port 32211
+[ 2016-10-16 02:42:22] Account logged in UserID = 2
+[ 2016-10-16 02:42:23] User selected CharacterName = Firstchar
+[ 2016-10-16 02:42:23] Total items = test
+[ 2016-10-16 02:42:23] Total items = test
+[ 2016-10-16 02:42:23] Total items = test
+[ 2016-10-16 02:42:23] Total items = test
+[ 2016-10-16 02:42:23] Total items = test
+[ 2016-10-16 02:42:23] Total items = test2
+[ 2016-10-16 02:42:23] Total items = test
+[ 2016-10-16 02:42:23] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:42:23] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:42:23] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:42:24] Character information sent.
+[ 2016-10-16 02:42:24] Firstchar is advancing wave..
+[ 2016-10-16 02:42:24] 0 1
+[ 2016-10-16 02:42:24] 1 1
+[ 2016-10-16 02:42:24] 2 1
+[ 2016-10-16 02:42:24] 3 1
+[ 2016-10-16 02:42:24] 4 1
+[ 2016-10-16 02:42:24] 5 1
+[ 2016-10-16 02:42:24] 6 1
+[ 2016-10-16 02:42:24] 7 1
+[ 2016-10-16 02:42:24] 8 2
+[ 2016-10-16 02:42:24] 9 2
+[ 2016-10-16 02:42:24] 10 2
+[ 2016-10-16 02:42:24] 11 1
+[ 2016-10-16 02:42:24] 12 1
+[ 2016-10-16 02:42:24] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|1,2|3.1|0;1|1|50|1,2|3.1|0;1|2|50|1,2|3.1|0;1|3|50|1,2|3.1|0;1|4|50|1,2|3.1|0;1|5|50|1,2|3.1|0;1|6|50|1,2|3.1|0;1|7|50|1,2|3.1|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;1|11|50|1,2|3.1|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 02:45:44] Setting up server...
+[ 2016-10-16 02:45:45] Connected to MYSQL.
+[ 2016-10-16 02:45:45] Skill database loaded with [4] skills
+[ 2016-10-16 02:45:45] Item database loaded with [2] items
+[ 2016-10-16 02:45:45] Monster database loaded with [2] monsters
+[ 2016-10-16 02:45:46] Waves database loaded with [0] waves
+[ 2016-10-16 02:45:46] Server is running on port 32211
+[ 2016-10-16 02:45:57] Setting up server...
+[ 2016-10-16 02:45:57] Connected to MYSQL.
+[ 2016-10-16 02:45:57] Skill database loaded with [4] skills
+[ 2016-10-16 02:45:57] Item database loaded with [2] items
+[ 2016-10-16 02:45:57] Monster database loaded with [2] monsters
+[ 2016-10-16 02:46:00] Waves database loaded with [0] waves
+[ 2016-10-16 02:46:00] Server is running on port 32211
+[ 2016-10-16 02:49:03] Setting up server...
+[ 2016-10-16 02:49:03] Connected to MYSQL.
+[ 2016-10-16 02:49:03] Skill database loaded with [4] skills
+[ 2016-10-16 02:49:03] Item database loaded with [2] items
+[ 2016-10-16 02:49:03] Monster database loaded with [2] monsters
+[ 2016-10-16 02:49:03] Waves database loaded with [1] waves
+[ 2016-10-16 02:49:03] Server is running on port 32211
+[ 2016-10-16 02:49:08] Account logged in UserID = 2
+[ 2016-10-16 02:49:09] User selected CharacterName = Firstchar
+[ 2016-10-16 02:49:09] Total items = test
+[ 2016-10-16 02:49:09] Total items = test
+[ 2016-10-16 02:49:09] Total items = test
+[ 2016-10-16 02:49:10] Total items = test
+[ 2016-10-16 02:49:10] Total items = test
+[ 2016-10-16 02:49:10] Total items = test2
+[ 2016-10-16 02:49:10] Total items = test
+[ 2016-10-16 02:49:10] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:49:10] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:49:10] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:49:10] Character information sent.
+[ 2016-10-16 02:49:10] Firstchar is advancing wave..
+[ 2016-10-16 02:49:11] 0 1
+[ 2016-10-16 02:49:11] 1 1
+[ 2016-10-16 02:49:11] 2 1
+[ 2016-10-16 02:49:11] 3 1
+[ 2016-10-16 02:49:11] 4 1
+[ 2016-10-16 02:49:11] 5 1
+[ 2016-10-16 02:49:11] 6 1
+[ 2016-10-16 02:49:11] 7 1
+[ 2016-10-16 02:49:11] 8 2
+[ 2016-10-16 02:49:11] 9 2
+[ 2016-10-16 02:49:11] 10 2
+[ 2016-10-16 02:49:11] 11 1
+[ 2016-10-16 02:49:11] 12 1
+[ 2016-10-16 02:49:11] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|1,2|3.1|0;1|1|50|1,2|3.1|0;1|2|50|1,2|3.1|0;1|3|50|1,2|3.1|0;1|4|50|1,2|3.1|0;1|5|50|1,2|3.1|0;1|6|50|1,2|3.1|0;1|7|50|1,2|3.1|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;1|11|50|1,2|3.1|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 02:49:19] Client disconnected.
+[ 2016-10-16 02:50:09] Setting up server...
+[ 2016-10-16 02:50:09] Connected to MYSQL.
+[ 2016-10-16 02:50:09] Skill database loaded with [4] skills
+[ 2016-10-16 02:50:09] Item database loaded with [2] items
+[ 2016-10-16 02:50:09] Monster database loaded with [2] monsters
+[ 2016-10-16 02:50:09] Waves database loaded with [1] waves
+[ 2016-10-16 02:50:09] Server is running on port 32211
+[ 2016-10-16 02:50:15] Account logged in UserID = 2
+[ 2016-10-16 02:50:16] User selected CharacterName = Firstchar
+[ 2016-10-16 02:50:16] Total items = test
+[ 2016-10-16 02:50:16] Total items = test
+[ 2016-10-16 02:50:16] Total items = test
+[ 2016-10-16 02:50:16] Total items = test
+[ 2016-10-16 02:50:16] Total items = test
+[ 2016-10-16 02:50:16] Total items = test2
+[ 2016-10-16 02:50:16] Total items = test
+[ 2016-10-16 02:50:16] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:50:16] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:50:16] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:50:17] Character information sent.
+[ 2016-10-16 02:50:17] 0 1
+[ 2016-10-16 02:50:17] 1 1
+[ 2016-10-16 02:50:17] 2 1
+[ 2016-10-16 02:50:17] 3 1
+[ 2016-10-16 02:50:17] 4 1
+[ 2016-10-16 02:50:17] 5 1
+[ 2016-10-16 02:50:17] 6 1
+[ 2016-10-16 02:50:17] 7 1
+[ 2016-10-16 02:50:17] 8 2
+[ 2016-10-16 02:50:17] 9 2
+[ 2016-10-16 02:50:17] 10 2
+[ 2016-10-16 02:50:17] 11 1
+[ 2016-10-16 02:50:17] 12 1
+[ 2016-10-16 02:50:17] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|1,2|3.1|0;1|1|50|1,2|3.1|0;1|2|50|1,2|3.1|0;1|3|50|1,2|3.1|0;1|4|50|1,2|3.1|0;1|5|50|1,2|3.1|0;1|6|50|1,2|3.1|0;1|7|50|1,2|3.1|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;1|11|50|1,2|3.1|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 02:50:17] Firstchar is advancing wave..
+[ 2016-10-16 02:50:19] Client disconnected.
+[ 2016-10-16 02:50:43] Setting up server...
+[ 2016-10-16 02:50:43] Connected to MYSQL.
+[ 2016-10-16 02:50:43] Skill database loaded with [4] skills
+[ 2016-10-16 02:50:43] Item database loaded with [2] items
+[ 2016-10-16 02:50:43] Monster database loaded with [2] monsters
+[ 2016-10-16 02:50:43] Waves database loaded with [1] waves
+[ 2016-10-16 02:50:43] Server is running on port 32211
+[ 2016-10-16 02:50:49] Account logged in UserID = 2
+[ 2016-10-16 02:50:50] User selected CharacterName = Firstchar
+[ 2016-10-16 02:50:50] Total items = test
+[ 2016-10-16 02:50:50] Total items = test
+[ 2016-10-16 02:50:50] Total items = test
+[ 2016-10-16 02:50:50] Total items = test
+[ 2016-10-16 02:50:50] Total items = test
+[ 2016-10-16 02:50:50] Total items = test2
+[ 2016-10-16 02:50:50] Total items = test
+[ 2016-10-16 02:50:50] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:50:50] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:50:50] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:50:51] Character information sent.
+[ 2016-10-16 02:50:51] Firstchar is advancing wave..
+[ 2016-10-16 02:50:51] 0 1
+[ 2016-10-16 02:50:51] 1 1
+[ 2016-10-16 02:50:51] 2 1
+[ 2016-10-16 02:50:51] 3 1
+[ 2016-10-16 02:50:51] 4 1
+[ 2016-10-16 02:50:51] 5 1
+[ 2016-10-16 02:50:51] 6 1
+[ 2016-10-16 02:50:51] 7 1
+[ 2016-10-16 02:50:51] 8 2
+[ 2016-10-16 02:50:51] 9 2
+[ 2016-10-16 02:50:51] 10 2
+[ 2016-10-16 02:50:51] 11 1
+[ 2016-10-16 02:50:51] 12 1
+[ 2016-10-16 02:50:51] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|1,2|3.1|0;1|1|50|1,2|3.1|0;1|2|50|1,2|3.1|0;1|3|50|1,2|3.1|0;1|4|50|1,2|3.1|0;1|5|50|1,2|3.1|0;1|6|50|1,2|3.1|0;1|7|50|1,2|3.1|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;1|11|50|1,2|3.1|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 02:54:52] Setting up server...
+[ 2016-10-16 02:54:53] Connected to MYSQL.
+[ 2016-10-16 02:54:53] Skill database loaded with [4] skills
+[ 2016-10-16 02:54:53] Item database loaded with [2] items
+[ 2016-10-16 02:54:53] Monster database loaded with [2] monsters
+[ 2016-10-16 02:54:53] Waves database loaded with [1] waves
+[ 2016-10-16 02:54:53] Server is running on port 32211
+[ 2016-10-16 02:55:01] Account logged in UserID = 2
+[ 2016-10-16 02:55:02] User selected CharacterName = Firstchar
+[ 2016-10-16 02:55:02] Total items = test
+[ 2016-10-16 02:55:02] Total items = test
+[ 2016-10-16 02:55:02] Total items = test
+[ 2016-10-16 02:55:02] Total items = test
+[ 2016-10-16 02:55:02] Total items = test
+[ 2016-10-16 02:55:02] Total items = test2
+[ 2016-10-16 02:55:02] Total items = test
+[ 2016-10-16 02:55:02] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:55:02] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:55:02] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:55:02] Character information sent.
+[ 2016-10-16 02:55:03] Firstchar is advancing wave..
+[ 2016-10-16 02:55:03] 0 1
+[ 2016-10-16 02:55:03] 1 1
+[ 2016-10-16 02:55:03] 2 1
+[ 2016-10-16 02:55:03] 3 1
+[ 2016-10-16 02:55:03] 4 1
+[ 2016-10-16 02:55:03] 5 1
+[ 2016-10-16 02:55:03] 6 1
+[ 2016-10-16 02:55:03] 7 1
+[ 2016-10-16 02:55:03] 8 2
+[ 2016-10-16 02:55:03] 9 2
+[ 2016-10-16 02:55:03] 10 2
+[ 2016-10-16 02:55:03] 11 1
+[ 2016-10-16 02:55:03] 12 1
+[ 2016-10-16 02:55:03] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|1,2|3.1|0;1|1|50|1,2|3.1|0;1|2|50|1,2|3.1|0;1|3|50|1,2|3.1|0;1|4|50|1,2|3.1|0;1|5|50|1,2|3.1|0;1|6|50|1,2|3.1|0;1|7|50|1,2|3.1|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;1|11|50|1,2|3.1|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 02:55:07] Client disconnected.
+[ 2016-10-16 02:56:28] Setting up server...
+[ 2016-10-16 02:56:28] Connected to MYSQL.
+[ 2016-10-16 02:56:28] Skill database loaded with [4] skills
+[ 2016-10-16 02:56:28] Item database loaded with [2] items
+[ 2016-10-16 02:56:28] Monster database loaded with [2] monsters
+[ 2016-10-16 02:56:28] Waves database loaded with [1] waves
+[ 2016-10-16 02:56:28] Server is running on port 32211
+[ 2016-10-16 02:56:35] Account logged in UserID = 2
+[ 2016-10-16 02:56:35] User selected CharacterName = Firstchar
+[ 2016-10-16 02:56:35] Total items = test
+[ 2016-10-16 02:56:35] Total items = test
+[ 2016-10-16 02:56:35] Total items = test
+[ 2016-10-16 02:56:35] Total items = test
+[ 2016-10-16 02:56:35] Total items = test
+[ 2016-10-16 02:56:35] Total items = test2
+[ 2016-10-16 02:56:35] Total items = test
+[ 2016-10-16 02:56:35] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:56:35] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:56:35] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:56:36] Character information sent.
+[ 2016-10-16 02:56:36] 0 0
+[ 2016-10-16 02:56:36] Firstchar is advancing wave..
+[ 2016-10-16 02:56:49] Setting up server...
+[ 2016-10-16 02:56:50] Connected to MYSQL.
+[ 2016-10-16 02:56:50] Skill database loaded with [4] skills
+[ 2016-10-16 02:56:50] Item database loaded with [2] items
+[ 2016-10-16 02:56:50] Monster database loaded with [2] monsters
+[ 2016-10-16 02:56:50] Waves database loaded with [1] waves
+[ 2016-10-16 02:56:50] Server is running on port 32211
+[ 2016-10-16 02:56:53] Account logged in UserID = 2
+[ 2016-10-16 02:56:54] User selected CharacterName = Firstchar
+[ 2016-10-16 02:56:54] Total items = test
+[ 2016-10-16 02:56:54] Total items = test
+[ 2016-10-16 02:56:54] Total items = test
+[ 2016-10-16 02:56:54] Total items = test
+[ 2016-10-16 02:56:54] Total items = test
+[ 2016-10-16 02:56:54] Total items = test2
+[ 2016-10-16 02:56:54] Total items = test
+[ 2016-10-16 02:56:54] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 02:56:54] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 02:56:54] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 02:56:55] Character information sent.
+[ 2016-10-16 02:56:55] Firstchar is advancing wave..
+[ 2016-10-16 02:56:56] 0 0
+[ 2016-10-16 02:56:56] 1 1
+[ 2016-10-16 02:56:56] 2 2
+[ 2016-10-16 02:56:56] 3 3
+[ 2016-10-16 02:56:56] 4 4
+[ 2016-10-16 02:56:56] 5 5
+[ 2016-10-16 02:56:56] 6 6
+[ 2016-10-16 02:56:56] 7 7
+[ 2016-10-16 02:56:56] 8 0
+[ 2016-10-16 02:56:56] 9 1
+[ 2016-10-16 02:56:56] 10 2
+[ 2016-10-16 02:56:56] 11 0
+[ 2016-10-16 02:56:56] 12 1
+[ 2016-10-16 02:56:56] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;
+[ 2016-10-16 03:01:30] Setting up server...
+[ 2016-10-16 03:01:30] Connected to MYSQL.
+[ 2016-10-16 03:01:30] Skill database loaded with [4] skills
+[ 2016-10-16 03:01:30] Item database loaded with [2] items
+[ 2016-10-16 03:01:30] Monster database loaded with [2] monsters
+[ 2016-10-16 03:01:30] Waves database loaded with [1] waves
+[ 2016-10-16 03:01:30] Server is running on port 32211
+[ 2016-10-16 03:02:02] Setting up server...
+[ 2016-10-16 03:02:02] Connected to MYSQL.
+[ 2016-10-16 03:02:02] Skill database loaded with [4] skills
+[ 2016-10-16 03:02:02] Item database loaded with [2] items
+[ 2016-10-16 03:02:02] Monster database loaded with [2] monsters
+[ 2016-10-16 03:02:02] Waves database loaded with [1] waves
+[ 2016-10-16 03:02:02] Server is running on port 32211
+[ 2016-10-16 03:02:07] Account logged in UserID = 2
+[ 2016-10-16 03:02:08] User selected CharacterName = Firstchar
+[ 2016-10-16 03:02:08] Total items = test
+[ 2016-10-16 03:02:08] Total items = test
+[ 2016-10-16 03:02:08] Total items = test
+[ 2016-10-16 03:02:08] Total items = test
+[ 2016-10-16 03:02:08] Total items = test
+[ 2016-10-16 03:02:08] Total items = test2
+[ 2016-10-16 03:02:08] Total items = test
+[ 2016-10-16 03:02:08] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 03:02:08] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 03:02:08] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 03:02:08] Character information sent.
+[ 2016-10-16 03:02:09] Firstchar is advancing wave..
+[ 2016-10-16 03:02:09] 0 11
+[ 2016-10-16 03:02:09] 1 11.1
+[ 2016-10-16 03:02:09] 2 11.2
+[ 2016-10-16 03:02:09] 3 11.3
+[ 2016-10-16 03:02:09] 4 11.4
+[ 2016-10-16 03:02:09] 5 11.5
+[ 2016-10-16 03:02:09] 6 11.6
+[ 2016-10-16 03:02:09] 7 11.7
+[ 2016-10-16 03:02:09] 8 2
+[ 2016-10-16 03:02:09] 9 2.1
+[ 2016-10-16 03:02:09] 10 2.2
+[ 2016-10-16 03:02:09] 11 3
+[ 2016-10-16 03:02:09] 12 3.1
+[ 2016-10-16 03:02:09] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|1,2|11|0;1|1|50|1,2|11.1|0;1|2|50|1,2|11.2|0;1|3|50|1,2|11.3|0;1|4|50|1,2|11.4|0;1|5|50|1,2|11.5|0;1|6|50|1,2|11.6|0;1|7|50|1,2|11.7|0;2|8|50|1,2|2|0;2|9|50|1,2|2.1|0;2|10|50|1,2|2.2|0;1|11|50|1,2|3|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 03:16:30] Setting up server...
+[ 2016-10-16 03:16:30] Connected to MYSQL.
+[ 2016-10-16 03:16:30] Skill database loaded with [4] skills
+[ 2016-10-16 03:16:30] Item database loaded with [2] items
+[ 2016-10-16 03:16:30] Monster database loaded with [2] monsters
+[ 2016-10-16 03:16:30] Waves database loaded with [1] waves
+[ 2016-10-16 03:16:30] Server is running on port 32211
+[ 2016-10-16 03:16:39] Account logged in UserID = 2
+[ 2016-10-16 03:16:40] User selected CharacterName = Firstchar
+[ 2016-10-16 03:16:40] Total items = test
+[ 2016-10-16 03:16:40] Total items = test
+[ 2016-10-16 03:16:40] Total items = test
+[ 2016-10-16 03:16:40] Total items = test
+[ 2016-10-16 03:16:40] Total items = test
+[ 2016-10-16 03:16:40] Total items = test2
+[ 2016-10-16 03:16:40] Total items = test
+[ 2016-10-16 03:16:40] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 03:16:40] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 03:16:40] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 03:16:40] Character information sent.
+[ 2016-10-16 03:16:41] Firstchar is advancing wave..
+[ 2016-10-16 03:16:41] 0 3.1
+[ 2016-10-16 03:16:41] 1 3.1
+[ 2016-10-16 03:16:41] 2 3.1
+[ 2016-10-16 03:16:41] 3 3.1
+[ 2016-10-16 03:16:41] 4 3.1
+[ 2016-10-16 03:16:41] 5 3.1
+[ 2016-10-16 03:16:41] 6 3.1
+[ 2016-10-16 03:16:41] 7 3.1
+[ 2016-10-16 03:16:41] 8 2.2
+[ 2016-10-16 03:16:41] 9 2.2
+[ 2016-10-16 03:16:41] 10 2.2
+[ 2016-10-16 03:16:41] 11 3.1
+[ 2016-10-16 03:16:41] 12 3.1
+[ 2016-10-16 03:16:41] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|1,2|3.1|0;1|1|50|1,2|3.1|0;1|2|50|1,2|3.1|0;1|3|50|1,2|3.1|0;1|4|50|1,2|3.1|0;1|5|50|1,2|3.1|0;1|6|50|1,2|3.1|0;1|7|50|1,2|3.1|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;1|11|50|1,2|3.1|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 03:17:53] Setting up server...
+[ 2016-10-16 03:17:54] Connected to MYSQL.
+[ 2016-10-16 03:17:54] Skill database loaded with [4] skills
+[ 2016-10-16 03:17:54] Item database loaded with [2] items
+[ 2016-10-16 03:17:54] Monster database loaded with [2] monsters
+[ 2016-10-16 03:17:54] Waves database loaded with [1] waves
+[ 2016-10-16 03:17:54] Server is running on port 32211
+[ 2016-10-16 03:17:57] Account logged in UserID = 2
+[ 2016-10-16 03:17:58] User selected CharacterName = Firstchar
+[ 2016-10-16 03:17:58] Total items = test
+[ 2016-10-16 03:17:58] Total items = test
+[ 2016-10-16 03:17:58] Total items = test
+[ 2016-10-16 03:17:58] Total items = test
+[ 2016-10-16 03:17:58] Total items = test
+[ 2016-10-16 03:17:58] Total items = test2
+[ 2016-10-16 03:17:58] Total items = test
+[ 2016-10-16 03:17:58] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 03:17:58] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 03:17:58] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 03:17:59] Character information sent.
+[ 2016-10-16 03:17:59] Firstchar is advancing wave..
+[ 2016-10-16 03:18:00] 0 3.1
+[ 2016-10-16 03:18:00] 1 3.1
+[ 2016-10-16 03:18:00] 2 3.1
+[ 2016-10-16 03:18:00] 3 3.1
+[ 2016-10-16 03:18:00] 4 3.1
+[ 2016-10-16 03:18:00] 5 3.1
+[ 2016-10-16 03:18:00] 6 3.1
+[ 2016-10-16 03:18:00] 7 3.1
+[ 2016-10-16 03:18:00] 8 2.2
+[ 2016-10-16 03:18:00] 9 2.2
+[ 2016-10-16 03:18:00] 10 2.2
+[ 2016-10-16 03:18:00] 11 3.1
+[ 2016-10-16 03:18:00] 12 3.1
+[ 2016-10-16 03:18:00] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|1,2|3.1|0;1|1|50|1,2|3.1|0;1|2|50|1,2|3.1|0;1|3|50|1,2|3.1|0;1|4|50|1,2|3.1|0;1|5|50|1,2|3.1|0;1|6|50|1,2|3.1|0;1|7|50|1,2|3.1|0;2|8|50|1,2|2.2|0;2|9|50|1,2|2.2|0;2|10|50|1,2|2.2|0;1|11|50|1,2|3.1|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 03:19:04] Setting up server...
+[ 2016-10-16 03:19:04] Connected to MYSQL.
+[ 2016-10-16 03:19:04] Skill database loaded with [4] skills
+[ 2016-10-16 03:19:04] Item database loaded with [2] items
+[ 2016-10-16 03:19:04] Monster database loaded with [2] monsters
+[ 2016-10-16 03:19:04] Waves database loaded with [1] waves
+[ 2016-10-16 03:19:04] Server is running on port 32211
+[ 2016-10-16 03:19:10] Account logged in UserID = 2
+[ 2016-10-16 03:19:10] User selected CharacterName = Firstchar
+[ 2016-10-16 03:19:10] Total items = test
+[ 2016-10-16 03:19:10] Total items = test
+[ 2016-10-16 03:19:10] Total items = test
+[ 2016-10-16 03:19:10] Total items = test
+[ 2016-10-16 03:19:10] Total items = test
+[ 2016-10-16 03:19:10] Total items = test2
+[ 2016-10-16 03:19:10] Total items = test
+[ 2016-10-16 03:19:10] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 03:19:10] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 03:19:10] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 03:19:11] Character information sent.
+[ 2016-10-16 03:19:11] Firstchar is advancing wave..
+[ 2016-10-16 03:19:11] 0 11
+[ 2016-10-16 03:19:11] 1 11.1
+[ 2016-10-16 03:19:11] 2 11.2
+[ 2016-10-16 03:19:11] 3 11.3
+[ 2016-10-16 03:19:11] 4 11.4
+[ 2016-10-16 03:19:11] 5 11.5
+[ 2016-10-16 03:19:11] 6 11.6
+[ 2016-10-16 03:19:11] 7 11.7
+[ 2016-10-16 03:19:11] 8 2
+[ 2016-10-16 03:19:11] 9 2.1
+[ 2016-10-16 03:19:11] 10 2.2
+[ 2016-10-16 03:19:11] 11 3
+[ 2016-10-16 03:19:11] 12 3.1
+[ 2016-10-16 03:19:11] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|1,2|11|0;1|1|50|1,2|11.1|0;1|2|50|1,2|11.2|0;1|3|50|1,2|11.3|0;1|4|50|1,2|11.4|0;1|5|50|1,2|11.5|0;1|6|50|1,2|11.6|0;1|7|50|1,2|11.7|0;2|8|50|1,2|2|0;2|9|50|1,2|2.1|0;2|10|50|1,2|2.2|0;1|11|50|1,2|3|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 15:35:50] Setting up server...
+[ 2016-10-16 15:35:50] Connected to MYSQL.
+[ 2016-10-16 15:35:50] Skill database loaded with [4] skills
+[ 2016-10-16 15:35:50] Item database loaded with [2] items
+[ 2016-10-16 15:35:50] Monster database loaded with [2] monsters
+[ 2016-10-16 15:35:50] Waves database loaded with [1] waves
+[ 2016-10-16 15:35:50] Server is running on port 32211
+[ 2016-10-16 15:35:57] Account logged in UserID = 2
+[ 2016-10-16 15:35:58] User selected CharacterName = Firstchar
+[ 2016-10-16 15:35:58] Total items = test
+[ 2016-10-16 15:35:58] Total items = test
+[ 2016-10-16 15:35:58] Total items = test
+[ 2016-10-16 15:35:58] Total items = test
+[ 2016-10-16 15:35:58] Total items = test
+[ 2016-10-16 15:35:58] Total items = test2
+[ 2016-10-16 15:35:58] Total items = test
+[ 2016-10-16 15:35:58] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 15:35:58] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 15:35:58] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 15:35:58] Character information sent.
+[ 2016-10-16 15:35:58] Firstchar is advancing wave..
+[ 2016-10-16 15:35:59] 0 11
+[ 2016-10-16 15:35:59] 1 11.1
+[ 2016-10-16 15:35:59] 2 11.2
+[ 2016-10-16 15:35:59] 3 11.3
+[ 2016-10-16 15:35:59] 4 11.4
+[ 2016-10-16 15:35:59] 5 11.5
+[ 2016-10-16 15:35:59] 6 11.6
+[ 2016-10-16 15:35:59] 7 11.7
+[ 2016-10-16 15:35:59] 8 2
+[ 2016-10-16 15:35:59] 9 2.1
+[ 2016-10-16 15:35:59] 10 2.2
+[ 2016-10-16 15:35:59] 11 3
+[ 2016-10-16 15:35:59] 12 3.1
+[ 2016-10-16 15:35:59] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|System.Int32[]|11|0;1|1|50|System.Int32[]|11.1|0;1|2|50|System.Int32[]|11.2|0;1|3|50|System.Int32[]|11.3|0;1|4|50|System.Int32[]|11.4|0;1|5|50|System.Int32[]|11.5|0;1|6|50|System.Int32[]|11.6|0;1|7|50|System.Int32[]|11.7|0;2|8|50|System.Int32[]|2|0;2|9|50|System.Int32[]|2.1|0;2|10|50|System.Int32[]|2.2|0;1|11|50|System.Int32[]|3|0;1|12|50|System.Int32[]|3.1|0;
+[ 2016-10-16 15:36:06] Client disconnected.
+[ 2016-10-16 15:36:33] Setting up server...
+[ 2016-10-16 15:36:33] Connected to MYSQL.
+[ 2016-10-16 15:36:33] Skill database loaded with [4] skills
+[ 2016-10-16 15:36:33] Item database loaded with [2] items
+[ 2016-10-16 15:36:33] Monster database loaded with [2] monsters
+[ 2016-10-16 15:36:33] Waves database loaded with [1] waves
+[ 2016-10-16 15:36:33] Server is running on port 32211
+[ 2016-10-16 15:36:35] Account logged in UserID = 2
+[ 2016-10-16 15:36:36] User selected CharacterName = Firstchar
+[ 2016-10-16 15:36:36] Total items = test
+[ 2016-10-16 15:36:36] Total items = test
+[ 2016-10-16 15:36:36] Total items = test
+[ 2016-10-16 15:36:36] Total items = test
+[ 2016-10-16 15:36:36] Total items = test
+[ 2016-10-16 15:36:36] Total items = test2
+[ 2016-10-16 15:36:36] Total items = test
+[ 2016-10-16 15:36:36] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 15:36:36] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 15:36:36] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 15:36:36] Character information sent.
+[ 2016-10-16 15:36:36] Firstchar is advancing wave..
+[ 2016-10-16 15:36:37] 0 11
+[ 2016-10-16 15:36:37] 1 11.1
+[ 2016-10-16 15:36:37] 2 11.2
+[ 2016-10-16 15:36:37] 3 11.3
+[ 2016-10-16 15:36:37] 4 11.4
+[ 2016-10-16 15:36:37] 5 11.5
+[ 2016-10-16 15:36:37] 6 11.6
+[ 2016-10-16 15:36:37] 7 11.7
+[ 2016-10-16 15:36:37] 8 2
+[ 2016-10-16 15:36:37] 9 2.1
+[ 2016-10-16 15:36:37] 10 2.2
+[ 2016-10-16 15:36:37] 11 3
+[ 2016-10-16 15:36:37] 12 3.1
+[ 2016-10-16 15:36:37] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|System.Int32[]|11|0;1|1|50|System.Int32[]|11.1|0;1|2|50|System.Int32[]|11.2|0;1|3|50|System.Int32[]|11.3|0;1|4|50|System.Int32[]|11.4|0;1|5|50|System.Int32[]|11.5|0;1|6|50|System.Int32[]|11.6|0;1|7|50|System.Int32[]|11.7|0;2|8|50|System.Int32[]|2|0;2|9|50|System.Int32[]|2.1|0;2|10|50|System.Int32[]|2.2|0;1|11|50|System.Int32[]|3|0;1|12|50|System.Int32[]|3.1|0;
+[ 2016-10-16 15:39:37] Setting up server...
+[ 2016-10-16 15:39:37] Connected to MYSQL.
+[ 2016-10-16 15:39:37] Skill database loaded with [4] skills
+[ 2016-10-16 15:39:37] Item database loaded with [2] items
+[ 2016-10-16 15:39:37] Monster database loaded with [2] monsters
+[ 2016-10-16 15:39:37] Waves database loaded with [1] waves
+[ 2016-10-16 15:39:37] Server is running on port 32211
+[ 2016-10-16 15:39:40] Account logged in UserID = 2
+[ 2016-10-16 15:39:41] User selected CharacterName = Firstchar
+[ 2016-10-16 15:39:41] Total items = test
+[ 2016-10-16 15:39:41] Total items = test
+[ 2016-10-16 15:39:41] Total items = test
+[ 2016-10-16 15:39:41] Total items = test
+[ 2016-10-16 15:39:41] Total items = test
+[ 2016-10-16 15:39:41] Total items = test2
+[ 2016-10-16 15:39:41] Total items = test
+[ 2016-10-16 15:39:41] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 15:39:41] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 15:39:41] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 15:39:42] Character information sent.
+[ 2016-10-16 15:39:42] 0 11
+[ 2016-10-16 15:39:42] 1 11.1
+[ 2016-10-16 15:39:42] 2 11.2
+[ 2016-10-16 15:39:42] 3 11.3
+[ 2016-10-16 15:39:42] 4 11.4
+[ 2016-10-16 15:39:42] 5 11.5
+[ 2016-10-16 15:39:42] 6 11.6
+[ 2016-10-16 15:39:42] 7 11.7
+[ 2016-10-16 15:39:42] 8 2
+[ 2016-10-16 15:39:42] 9 2.1
+[ 2016-10-16 15:39:42] 10 2.2
+[ 2016-10-16 15:39:42] 11 3
+[ 2016-10-16 15:39:42] 12 3.1
+[ 2016-10-16 15:39:42] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|1,2|11|0;1|1|50|1,2|11.1|0;1|2|50|1,2|11.2|0;1|3|50|1,0|11.3|0;1|4|50|1,0|11.4|0;1|5|50|1,0|11.5|0;1|6|50|1,0|11.6|0;1|7|50|1,0|11.7|0;2|8|50|0,0|2|0;2|9|50|0,0|2.1|0;2|10|50|0,0|2.2|0;1|11|50|0,0|3|0;1|12|50|0,0|3.1|0;
+[ 2016-10-16 15:39:42] Firstchar is advancing wave..
+[ 2016-10-16 15:43:48] Setting up server...
+[ 2016-10-16 15:43:48] Connected to MYSQL.
+[ 2016-10-16 15:43:48] Skill database loaded with [4] skills
+[ 2016-10-16 15:43:48] Item database loaded with [2] items
+[ 2016-10-16 15:43:48] Monster database loaded with [2] monsters
+[ 2016-10-16 15:43:48] Waves database loaded with [1] waves
+[ 2016-10-16 15:43:48] Server is running on port 32211
+[ 2016-10-16 15:43:55] Account logged in UserID = 2
+[ 2016-10-16 15:43:56] User selected CharacterName = Firstchar
+[ 2016-10-16 15:43:56] Total items = test
+[ 2016-10-16 15:43:56] Total items = test
+[ 2016-10-16 15:43:56] Total items = test
+[ 2016-10-16 15:43:56] Total items = test
+[ 2016-10-16 15:43:56] Total items = test
+[ 2016-10-16 15:43:56] Total items = test2
+[ 2016-10-16 15:43:56] Total items = test
+[ 2016-10-16 15:43:56] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 15:43:56] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 15:43:56] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 15:43:57] Character information sent.
+[ 2016-10-16 15:43:57] Firstchar is advancing wave..
+[ 2016-10-16 15:43:57] 0 11
+[ 2016-10-16 15:43:57] 1 11.1
+[ 2016-10-16 15:43:57] 2 11.2
+[ 2016-10-16 15:43:57] 3 11.3
+[ 2016-10-16 15:43:57] 4 11.4
+[ 2016-10-16 15:43:57] 5 11.5
+[ 2016-10-16 15:43:57] 6 11.6
+[ 2016-10-16 15:43:57] 7 11.7
+[ 2016-10-16 15:43:57] 8 2
+[ 2016-10-16 15:43:57] 9 2.1
+[ 2016-10-16 15:43:57] 10 2.2
+[ 2016-10-16 15:43:57] 11 3
+[ 2016-10-16 15:43:57] 12 3.1
+[ 2016-10-16 15:43:57] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|0,0|11|0;1|1|50|1,0|11.1|0;1|2|50|1,0|11.2|0;1|3|50|1,0|11.3|0;1|4|50|1,0|11.4|0;1|5|50|1,0|11.5|0;1|6|50|1,0|11.6|0;1|7|50|1,2|11.7|0;2|8|50|1,0|2|0;2|9|50|1,0|2.1|0;2|10|50|1,0|2.2|0;1|11|50|1,0|3|0;1|12|50|1,0|3.1|0;
+[ 2016-10-16 15:45:36] Setting up server...
+[ 2016-10-16 15:45:36] Connected to MYSQL.
+[ 2016-10-16 15:45:37] Skill database loaded with [4] skills
+[ 2016-10-16 15:45:37] Item database loaded with [2] items
+[ 2016-10-16 15:45:37] Monster database loaded with [2] monsters
+[ 2016-10-16 15:45:37] Waves database loaded with [1] waves
+[ 2016-10-16 15:45:37] Server is running on port 32211
+[ 2016-10-16 15:45:39] Account logged in UserID = 2
+[ 2016-10-16 15:45:40] User selected CharacterName = Firstchar
+[ 2016-10-16 15:45:40] Total items = test
+[ 2016-10-16 15:45:40] Total items = test
+[ 2016-10-16 15:45:40] Total items = test
+[ 2016-10-16 15:45:40] Total items = test
+[ 2016-10-16 15:45:40] Total items = test
+[ 2016-10-16 15:45:40] Total items = test2
+[ 2016-10-16 15:45:40] Total items = test
+[ 2016-10-16 15:45:40] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 15:45:40] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 15:45:40] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 15:45:40] Character information sent.
+[ 2016-10-16 15:45:41] 0 11
+[ 2016-10-16 15:45:41] 1 11.1
+[ 2016-10-16 15:45:41] 2 11.2
+[ 2016-10-16 15:45:41] 3 11.3
+[ 2016-10-16 15:45:41] 4 11.4
+[ 2016-10-16 15:45:41] 5 11.5
+[ 2016-10-16 15:45:41] 6 11.6
+[ 2016-10-16 15:45:41] 7 11.7
+[ 2016-10-16 15:45:41] 8 2
+[ 2016-10-16 15:45:41] 9 2.1
+[ 2016-10-16 15:45:41] 10 2.2
+[ 2016-10-16 15:45:41] 11 3
+[ 2016-10-16 15:45:41] 12 3.1
+[ 2016-10-16 15:45:41] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|0,0|11|0;1|1|50|1,0|11.1|0;1|2|50|1,0|11.2|0;1|3|50|1,0|11.3|0;1|4|50|0,0|11.4|0;1|5|50|1,2|11.5|0;1|6|50|0,0|11.6|0;1|7|50|1,0|11.7|0;2|8|50|0,2|2|0;2|9|50|1,0|2.1|0;2|10|50|0,0|2.2|0;1|11|50|1,2|3|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 15:45:41] Firstchar is advancing wave..
+[ 2016-10-16 15:46:28] Client disconnected.
+[ 2016-10-16 15:46:50] Setting up server...
+[ 2016-10-16 15:46:50] Connected to MYSQL.
+[ 2016-10-16 15:46:50] Skill database loaded with [4] skills
+[ 2016-10-16 15:46:50] Item database loaded with [2] items
+[ 2016-10-16 15:46:50] Monster database loaded with [2] monsters
+[ 2016-10-16 15:46:50] Waves database loaded with [1] waves
+[ 2016-10-16 15:46:50] Server is running on port 32211
+[ 2016-10-16 15:46:53] Account logged in UserID = 2
+[ 2016-10-16 15:46:54] User selected CharacterName = Firstchar
+[ 2016-10-16 15:46:54] Total items = test
+[ 2016-10-16 15:46:54] Total items = test
+[ 2016-10-16 15:46:54] Total items = test
+[ 2016-10-16 15:46:54] Total items = test
+[ 2016-10-16 15:46:54] Total items = test
+[ 2016-10-16 15:46:54] Total items = test2
+[ 2016-10-16 15:46:54] Total items = test
+[ 2016-10-16 15:46:54] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 15:46:54] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 15:46:54] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 15:46:54] Character information sent.
+[ 2016-10-16 15:46:54] Firstchar is advancing wave..
+[ 2016-10-16 15:46:55] 0 11
+[ 2016-10-16 15:46:55] 1 11.1
+[ 2016-10-16 15:46:55] 2 11.2
+[ 2016-10-16 15:46:55] 3 11.3
+[ 2016-10-16 15:46:55] 4 11.4
+[ 2016-10-16 15:46:55] 5 11.5
+[ 2016-10-16 15:46:55] 6 11.6
+[ 2016-10-16 15:46:55] 7 11.7
+[ 2016-10-16 15:46:55] 8 2
+[ 2016-10-16 15:46:55] 9 2.1
+[ 2016-10-16 15:46:55] 10 2.2
+[ 2016-10-16 15:46:55] 11 3
+[ 2016-10-16 15:46:55] 12 3.1
+[ 2016-10-16 15:46:55] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;13;1|0|50|0,2|11|0;1|1|50|0,2|11.1|0;1|2|50|0,2|11.2|0;1|3|50|1,2|11.3|0;1|4|50|0,2|11.4|0;1|5|50|0,2|11.5|0;1|6|50|1,2|11.6|0;1|7|50|0,0|11.7|0;2|8|50|0,2|2|0;2|9|50|1,0|2.1|0;2|10|50|0,0|2.2|0;1|11|50|1,2|3|0;1|12|50|1,2|3.1|0;
+[ 2016-10-16 15:53:00] Setting up server...
+[ 2016-10-16 15:53:00] Connected to MYSQL.
+[ 2016-10-16 15:53:00] Skill database loaded with [4] skills
+[ 2016-10-16 15:53:00] Item database loaded with [2] items
+[ 2016-10-16 15:53:00] Monster database loaded with [2] monsters
+[ 2016-10-16 15:53:00] Waves database loaded with [1] waves
+[ 2016-10-16 15:53:00] Server is running on port 32211
+[ 2016-10-16 15:53:18] Setting up server...
+[ 2016-10-16 15:53:18] Connected to MYSQL.
+[ 2016-10-16 15:53:18] Skill database loaded with [4] skills
+[ 2016-10-16 15:53:18] Item database loaded with [2] items
+[ 2016-10-16 15:53:18] Monster database loaded with [2] monsters
+[ 2016-10-16 15:53:18] Waves database loaded with [1] waves
+[ 2016-10-16 15:53:18] Server is running on port 32211
+[ 2016-10-16 15:53:21] Account logged in UserID = 2
+[ 2016-10-16 15:53:22] User selected CharacterName = Firstchar
+[ 2016-10-16 15:53:22] Total items = test
+[ 2016-10-16 15:53:22] Total items = test
+[ 2016-10-16 15:53:22] Total items = test
+[ 2016-10-16 15:53:22] Total items = test
+[ 2016-10-16 15:53:22] Total items = test
+[ 2016-10-16 15:53:22] Total items = test2
+[ 2016-10-16 15:53:22] Total items = test
+[ 2016-10-16 15:53:22] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 15:53:22] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 15:53:22] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 15:53:22] Character information sent.
+[ 2016-10-16 15:53:22] Firstchar is advancing wave..
+[ 2016-10-16 15:53:23] 0 11
+[ 2016-10-16 15:53:23] 1 11.1
+[ 2016-10-16 15:53:23] 2 11.2
+[ 2016-10-16 15:53:23] 3 11.3
+[ 2016-10-16 15:53:23] 4 11.4
+[ 2016-10-16 15:53:23] 5 11.5
+[ 2016-10-16 15:53:23] 6 11.6
+[ 2016-10-16 15:53:23] 7 11.7
+[ 2016-10-16 15:53:23] 8 11.8
+[ 2016-10-16 15:53:23] 9 11.9
+[ 2016-10-16 15:53:23] 10 12
+[ 2016-10-16 15:53:23] 11 12.1
+[ 2016-10-16 15:53:23] 12 12.2
+[ 2016-10-16 15:53:23] 13 12.3
+[ 2016-10-16 15:53:23] 14 12.4
+[ 2016-10-16 15:53:23] 15 12.5
+[ 2016-10-16 15:53:23] 16 12.6
+[ 2016-10-16 15:53:23] 17 12.7
+[ 2016-10-16 15:53:23] 18 12.8
+[ 2016-10-16 15:53:23] 19 12.9
+[ 2016-10-16 15:53:23] 20 2
+[ 2016-10-16 15:53:23] 21 2.1
+[ 2016-10-16 15:53:23] 22 2.2
+[ 2016-10-16 15:53:23] 23 3
+[ 2016-10-16 15:53:23] 24 3.1
+[ 2016-10-16 15:53:23] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;25;1|0|50|0,0|11|0;1|1|50|1,0|11.1|0;1|2|50|0,0|11.2|0;1|3|50|1,0|11.3|0;1|4|50|0,2|11.4|0;1|5|50|1,2|11.5|0;1|6|50|1,0|11.6|0;1|7|50|0,0|11.7|0;1|8|50|0,0|11.8|0;1|9|50|1,0|11.9|0;1|10|50|1,2|12|0;1|11|50|1,0|12.1|0;1|12|50|0,0|12.2|0;1|13|50|1,0|12.3|0;1|14|50|1,0|12.4|0;1|15|50|1,2|12.5|0;1|16|50|1,2|12.6|0;1|17|50|1,2|12.7|0;1|18|50|0,0|12.8|0;1|19|50|0,2|12.9|0;2|20|50|0,0|2|0;2|21|50|0,0|2.1|0;2|22|50|1,0|2.2|0;1|23|50|1,2|3|0;1|24|50|1,2|3.1|0;
+[ 2016-10-16 15:54:03] Client disconnected.
+[ 2016-10-16 15:54:06] Account logged in UserID = 2
+[ 2016-10-16 15:54:07] User selected CharacterName = Firstchar
+[ 2016-10-16 15:54:07] Total items = test
+[ 2016-10-16 15:54:07] Total items = test
+[ 2016-10-16 15:54:07] Total items = test
+[ 2016-10-16 15:54:07] Total items = test
+[ 2016-10-16 15:54:07] Total items = test
+[ 2016-10-16 15:54:07] Total items = test2
+[ 2016-10-16 15:54:07] Total items = test
+[ 2016-10-16 15:54:07] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 15:54:07] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 15:54:07] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 15:54:08] Character information sent.
+[ 2016-10-16 15:54:08] Firstchar is advancing wave..
+[ 2016-10-16 15:54:08] 0 11
+[ 2016-10-16 15:54:08] 1 11.1
+[ 2016-10-16 15:54:08] 2 11.2
+[ 2016-10-16 15:54:08] 3 11.3
+[ 2016-10-16 15:54:08] 4 11.4
+[ 2016-10-16 15:54:08] 5 11.5
+[ 2016-10-16 15:54:08] 6 11.6
+[ 2016-10-16 15:54:08] 7 11.7
+[ 2016-10-16 15:54:08] 8 11.8
+[ 2016-10-16 15:54:08] 9 11.9
+[ 2016-10-16 15:54:08] 10 12
+[ 2016-10-16 15:54:08] 11 12.1
+[ 2016-10-16 15:54:08] 12 12.2
+[ 2016-10-16 15:54:08] 13 12.3
+[ 2016-10-16 15:54:08] 14 12.4
+[ 2016-10-16 15:54:08] 15 12.5
+[ 2016-10-16 15:54:08] 16 12.6
+[ 2016-10-16 15:54:08] 17 12.7
+[ 2016-10-16 15:54:08] 18 12.8
+[ 2016-10-16 15:54:08] 19 12.9
+[ 2016-10-16 15:54:08] 20 2
+[ 2016-10-16 15:54:08] 21 2.1
+[ 2016-10-16 15:54:08] 22 2.2
+[ 2016-10-16 15:54:08] 23 3
+[ 2016-10-16 15:54:08] 24 3.1
+[ 2016-10-16 15:54:08] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;25;1|0|50|0,2|11|0;1|1|50|0,2|11.1|0;1|2|50|1,0|11.2|0;1|3|50|0,0|11.3|0;1|4|50|0,0|11.4|0;1|5|50|1,0|11.5|0;1|6|50|1,0|11.6|0;1|7|50|0,0|11.7|0;1|8|50|1,2|11.8|0;1|9|50|1,0|11.9|0;1|10|50|0,2|12|0;1|11|50|0,2|12.1|0;1|12|50|0,2|12.2|0;1|13|50|1,2|12.3|0;1|14|50|0,2|12.4|0;1|15|50|1,0|12.5|0;1|16|50|1,2|12.6|0;1|17|50|0,0|12.7|0;1|18|50|0,2|12.8|0;1|19|50|0,2|12.9|0;2|20|50|0,0|2|0;2|21|50|0,0|2.1|0;2|22|50|0,0|2.2|0;1|23|50|1,0|3|0;1|24|50|0,2|3.1|0;
+[ 2016-10-16 15:54:33] Client disconnected.
+[ 2016-10-16 15:56:14] Setting up server...
+[ 2016-10-16 15:56:14] Connected to MYSQL.
+[ 2016-10-16 15:56:14] Skill database loaded with [4] skills
+[ 2016-10-16 15:56:14] Item database loaded with [2] items
+[ 2016-10-16 15:56:14] Monster database loaded with [2] monsters
+[ 2016-10-16 15:56:14] Waves database loaded with [1] waves
+[ 2016-10-16 15:56:14] Server is running on port 32211
+[ 2016-10-16 15:56:17] Account logged in UserID = 2
+[ 2016-10-16 15:56:17] User selected CharacterName = Firstchar
+[ 2016-10-16 15:56:17] Total items = test
+[ 2016-10-16 15:56:17] Total items = test
+[ 2016-10-16 15:56:17] Total items = test
+[ 2016-10-16 15:56:17] Total items = test
+[ 2016-10-16 15:56:18] Total items = test
+[ 2016-10-16 15:56:18] Total items = test2
+[ 2016-10-16 15:56:18] Total items = test
+[ 2016-10-16 15:56:18] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 15:56:18] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 15:56:18] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 15:56:18] Character information sent.
+[ 2016-10-16 15:56:18] Firstchar is advancing wave..
+[ 2016-10-16 15:56:18] 0 11
+[ 2016-10-16 15:56:18] 1 11.1
+[ 2016-10-16 15:56:18] 2 11.2
+[ 2016-10-16 15:56:18] 3 11.3
+[ 2016-10-16 15:56:18] 4 11.4
+[ 2016-10-16 15:56:18] 5 11.5
+[ 2016-10-16 15:56:18] 6 11.6
+[ 2016-10-16 15:56:18] 7 11.7
+[ 2016-10-16 15:56:18] 8 11.8
+[ 2016-10-16 15:56:18] 9 11.9
+[ 2016-10-16 15:56:18] 10 12
+[ 2016-10-16 15:56:18] 11 12.1
+[ 2016-10-16 15:56:18] 12 12.2
+[ 2016-10-16 15:56:18] 13 12.3
+[ 2016-10-16 15:56:18] 14 12.4
+[ 2016-10-16 15:56:18] 15 12.5
+[ 2016-10-16 15:56:18] 16 12.6
+[ 2016-10-16 15:56:18] 17 12.7
+[ 2016-10-16 15:56:18] 18 12.8
+[ 2016-10-16 15:56:18] 19 12.9
+[ 2016-10-16 15:56:18] 20 2
+[ 2016-10-16 15:56:18] 21 2.1
+[ 2016-10-16 15:56:18] 22 2.2
+[ 2016-10-16 15:56:18] 23 3
+[ 2016-10-16 15:56:18] 24 3.1
+[ 2016-10-16 15:56:18] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;25;1|0|50|0,0|11|0;1|1|50|0,0|11.1|0;1|2|50|0,0|11.2|0;1|3|50|0,2|11.3|0;1|4|50|0,0|11.4|0;1|5|50|1,2|11.5|0;1|6|50|1,0|11.6|0;1|7|50|0,2|11.7|0;1|8|50|0,0|11.8|0;1|9|50|0,2|11.9|0;1|10|50|0,0|12|0;1|11|50|1,2|12.1|0;1|12|50|0,0|12.2|0;1|13|50|0,2|12.3|0;1|14|50|0,2|12.4|0;1|15|50|0,2|12.5|0;1|16|50|0,0|12.6|0;1|17|50|0,0|12.7|0;1|18|50|0,0|12.8|0;1|19|50|0,0|12.9|0;2|20|50|0,0|2|0;2|21|50|0,0|2.1|0;2|22|50|0,2|2.2|0;1|23|50|0,0|3|0;1|24|50|1,2|3.1|0;
+[ 2016-10-16 16:01:15] Setting up server...
+[ 2016-10-16 16:01:16] Connected to MYSQL.
+[ 2016-10-16 16:01:16] Skill database loaded with [4] skills
+[ 2016-10-16 16:01:16] Item database loaded with [2] items
+[ 2016-10-16 16:01:16] Monster database loaded with [2] monsters
+[ 2016-10-16 16:01:16] Waves database loaded with [1] waves
+[ 2016-10-16 16:01:16] Server is running on port 32211
+[ 2016-10-16 16:05:05] Setting up server...
+[ 2016-10-16 16:05:05] Connected to MYSQL.
+[ 2016-10-16 16:05:05] Skill database loaded with [4] skills
+[ 2016-10-16 16:05:05] Item database loaded with [2] items
+[ 2016-10-16 16:05:05] Monster database loaded with [2] monsters
+[ 2016-10-16 16:05:05] Waves database loaded with [1] waves
+[ 2016-10-16 16:05:05] Server is running on port 32211
+[ 2016-10-16 16:05:12] Account logged in UserID = 2
+[ 2016-10-16 16:05:14] User selected CharacterName = Firstchar
+[ 2016-10-16 16:05:14] Total items = test
+[ 2016-10-16 16:05:14] Total items = test
+[ 2016-10-16 16:05:14] Total items = test
+[ 2016-10-16 16:05:14] Total items = test
+[ 2016-10-16 16:05:14] Total items = test
+[ 2016-10-16 16:05:14] Total items = test2
+[ 2016-10-16 16:05:14] Total items = test
+[ 2016-10-16 16:05:14] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 16:05:14] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 16:05:14] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 16:05:14] Character information sent.
+[ 2016-10-16 16:05:14] Firstchar is advancing wave..
+[ 2016-10-16 16:05:15] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;25;1|0|0|131|0,2|11|0;1|0|1|132|0,0|11.1|0;1|0|2|70|0,2|11.2|0;1|0|3|98|1,0|11.3|0;1|0|4|62|0,0|11.4|0;1|0|5|85|0,0|11.5|0;1|0|6|123|1,2|11.6|0;1|0|7|60|0,2|11.7|0;1|0|8|116|0,0|11.8|0;1|0|9|78|0,2|11.9|0;1|0|10|131|0,2|12|0;1|0|11|109|0,0|12.1|0;1|0|12|70|0,0|12.2|0;1|0|13|63|0,0|12.3|0;1|0|14|97|0,0|12.4|0;1|0|15|134|0,0|12.5|0;1|0|16|101|0,0|12.6|0;1|0|17|135|0,0|12.7|0;1|0|18|128|1,2|12.8|0;1|0|19|106|1,0|12.9|0;2|0|20|33|0,0|2|0;2|0|21|53|0,0|2.1|0;2|0|22|62|0,0|2.2|0;1|0|23|65|1,0|3|0;1|0|24|125|1,0|3.1|0;
+[ 2016-10-16 16:31:52] Setting up server...
+[ 2016-10-16 16:31:52] Connected to MYSQL.
+[ 2016-10-16 16:31:52] Skill database loaded with [4] skills
+[ 2016-10-16 16:31:52] Item database loaded with [2] items
+[ 2016-10-16 16:31:52] Monster database loaded with [2] monsters
+[ 2016-10-16 16:31:52] Waves database loaded with [1] waves
+[ 2016-10-16 16:31:52] Server is running on port 32211
+[ 2016-10-16 16:31:55] Account logged in UserID = 2
+[ 2016-10-16 16:31:56] User selected CharacterName = Firstchar
+[ 2016-10-16 16:31:56] Total items = test
+[ 2016-10-16 16:31:56] Total items = test
+[ 2016-10-16 16:31:56] Total items = test
+[ 2016-10-16 16:31:56] Total items = test
+[ 2016-10-16 16:31:56] Total items = test
+[ 2016-10-16 16:31:56] Total items = test2
+[ 2016-10-16 16:31:56] Total items = test
+[ 2016-10-16 16:31:56] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 16:31:56] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 16:31:56] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 16:31:56] Character information sent.
+[ 2016-10-16 16:31:57] Firstchar is advancing wave..
+[ 2016-10-16 16:31:57] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;25;1|0|0|65|0,2|11|0;1|0|1|84|0,2|11.1|0;1|0|2|94|0,0|11.2|0;1|0|3|108|0,2|11.3|0;1|0|4|96|0,2|11.4|0;1|0|5|77|0,2|11.5|0;1|0|6|64|0,2|11.6|0;1|0|7|64|0,0|11.7|0;1|0|8|103|0,0|11.8|0;1|0|9|68|0,2|11.9|0;1|0|10|95|0,2|12|0;1|0|11|123|0,0|12.1|0;1|0|12|118|0,2|12.2|0;1|0|13|91|0,0|12.3|0;1|0|14|97|0,2|12.4|0;1|0|15|106|0,0|12.5|0;1|0|16|127|0,2|12.6|0;1|0|17|106|0,0|12.7|0;1|0|18|121|0,0|12.8|0;1|0|19|62|0,0|12.9|0;2|0|20|33|0,2|2|0;2|0|21|35|1,0|2.1|0;2|0|22|66|0,0|2.2|0;1|0|23|128|0,0|3|0;1|0|24|128|1,0|3.1|0;
+[ 2016-10-16 16:32:03] Client disconnected.
+[ 2016-10-16 16:32:13] Setting up server...
+[ 2016-10-16 16:32:13] Connected to MYSQL.
+[ 2016-10-16 16:32:13] Skill database loaded with [4] skills
+[ 2016-10-16 16:32:13] Item database loaded with [2] items
+[ 2016-10-16 16:32:13] Monster database loaded with [2] monsters
+[ 2016-10-16 16:32:13] Waves database loaded with [1] waves
+[ 2016-10-16 16:32:13] Server is running on port 32211
+[ 2016-10-16 16:32:18] Account logged in UserID = 2
+[ 2016-10-16 16:32:18] User selected CharacterName = Firstchar
+[ 2016-10-16 16:32:18] Total items = test
+[ 2016-10-16 16:32:18] Total items = test
+[ 2016-10-16 16:32:18] Total items = test
+[ 2016-10-16 16:32:18] Total items = test
+[ 2016-10-16 16:32:18] Total items = test
+[ 2016-10-16 16:32:18] Total items = test2
+[ 2016-10-16 16:32:18] Total items = test
+[ 2016-10-16 16:32:18] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 16:32:18] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 16:32:18] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 16:32:19] Character information sent.
+[ 2016-10-16 16:32:19] Firstchar is advancing wave..
+[ 2016-10-16 16:32:19] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;25;1|0|0|80|0,2|11|0;1|0|1|76|0,0|11.1|0;1|0|2|106|0,2|11.2|0;1|0|3|82|0,0|11.3|0;1|0|4|91|0,2|11.4|0;1|0|5|77|0,0|11.5|0;1|0|6|111|0,2|11.6|0;1|0|7|133|0,0|11.7|0;1|0|8|123|0,2|11.8|0;1|0|9|119|0,0|11.9|0;1|0|10|84|0,2|12|0;1|0|11|137|1,0|12.1|0;1|0|12|119|1,0|12.2|0;1|0|13|95|0,2|12.3|0;1|0|14|133|0,2|12.4|0;1|0|15|134|0,2|12.5|0;1|0|16|99|0,0|12.6|0;1|0|17|74|0,2|12.7|0;1|0|18|139|0,2|12.8|0;1|0|19|87|1,2|12.9|0;2|0|20|58|0,0|2|0;2|0|21|51|0,0|2.1|0;2|0|22|62|0,2|2.2|0;1|0|23|77|0,0|3|0;1|0|24|99|0,0|3.1|0;
+[ 2016-10-16 16:32:30] Client disconnected.
+[ 2016-10-16 16:33:19] Account logged in UserID = 2
+[ 2016-10-16 16:33:19] User selected CharacterName = Firstchar
+[ 2016-10-16 16:33:19] Total items = test
+[ 2016-10-16 16:33:19] Total items = test
+[ 2016-10-16 16:33:19] Total items = test
+[ 2016-10-16 16:33:19] Total items = test
+[ 2016-10-16 16:33:19] Total items = test
+[ 2016-10-16 16:33:19] Total items = test2
+[ 2016-10-16 16:33:19] Total items = test
+[ 2016-10-16 16:33:19] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 16:33:19] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 16:33:19] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 16:33:20] Character information sent.
+[ 2016-10-16 16:33:20] Firstchar is advancing wave..
+[ 2016-10-16 16:33:20] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;25;1|1|0|77|0,2|11|0;1|1|1|111|0,2|11.1|0;1|1|2|63|0,2|11.2|0;1|1|3|81|1,2|11.3|0;1|1|4|78|0,0|11.4|0;1|1|5|89|0,0|11.5|0;1|1|6|111|0,2|11.6|0;1|1|7|119|0,2|11.7|0;1|1|8|113|1,0|11.8|0;1|1|9|117|0,0|11.9|0;1|1|10|130|1,0|12|0;1|1|11|136|0,0|12.1|0;1|1|12|128|0,2|12.2|0;1|1|13|88|0,2|12.3|0;1|1|14|60|0,0|12.4|0;1|1|15|118|1,0|12.5|0;1|1|16|113|0,2|12.6|0;1|1|17|87|0,0|12.7|0;1|1|18|68|0,0|12.8|0;1|1|19|69|0,0|12.9|0;2|1|20|41|1,0|2|0;2|1|21|33|0,0|2.1|0;2|1|22|52|0,0|2.2|0;1|1|23|68|0,2|3|0;1|1|24|131|0,0|3.1|0;
+[ 2016-10-16 16:33:40] Client disconnected.
+[ 2016-10-16 16:34:05] Setting up server...
+[ 2016-10-16 16:34:05] Connected to MYSQL.
+[ 2016-10-16 16:34:05] Skill database loaded with [4] skills
+[ 2016-10-16 16:34:05] Item database loaded with [2] items
+[ 2016-10-16 16:34:05] Monster database loaded with [2] monsters
+[ 2016-10-16 16:34:05] Waves database loaded with [1] waves
+[ 2016-10-16 16:34:05] Server is running on port 32211
+[ 2016-10-16 16:34:10] Account logged in UserID = 2
+[ 2016-10-16 16:34:11] User selected CharacterName = Firstchar
+[ 2016-10-16 16:34:11] Total items = test
+[ 2016-10-16 16:34:11] Total items = test
+[ 2016-10-16 16:34:11] Total items = test
+[ 2016-10-16 16:34:11] Total items = test
+[ 2016-10-16 16:34:11] Total items = test
+[ 2016-10-16 16:34:11] Total items = test2
+[ 2016-10-16 16:34:11] Total items = test
+[ 2016-10-16 16:34:11] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 16:34:11] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 16:34:11] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 16:34:11] Character information sent.
+[ 2016-10-16 16:34:12] Firstchar is advancing wave..
+[ 2016-10-16 16:34:12] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|74|0,0|11|0;1|0|1|136|0,0|11.1|0;1|0|2|104|0,0|11.2|0;1|0|3|82|0,0|11.3|0;1|0|4|67|0,2|11.4|0;1|0|5|108|0,2|11.5|0;1|0|6|99|0,2|11.6|0;1|0|7|69|1,2|11.7|0;1|0|8|74|0,2|11.8|0;1|0|9|137|1,0|11.9|0;1|0|10|74|1,2|12|0;1|0|11|118|0,2|12.1|0;1|0|12|107|1,2|12.2|0;1|0|13|96|0,0|12.3|0;1|0|14|72|1,2|12.4|0;1|0|15|130|0,0|12.5|0;1|0|16|110|0,2|12.6|0;1|0|17|127|0,0|12.7|0;1|0|18|124|0,0|12.8|0;1|0|19|76|0,2|12.9|0;2|0|20|66|0,0|2|0;2|0|21|64|0,0|2.1|0;2|0|22|36|0,0|2.2|0;1|0|23|68|0,0|3|0;1|0|24|64|0,2|3.1|0;
+[ 2016-10-16 16:34:35] Firstchar Set a skill to active/deactive.
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:38] Firstchar is advancing wave..
+[ 2016-10-16 16:34:39] Firstchar is advancing wave..
+[ 2016-10-16 16:34:39] Firstchar is advancing wave..
+[ 2016-10-16 16:34:47] Client disconnected.
+[ 2016-10-16 16:36:03] Account logged in UserID = 2
+[ 2016-10-16 16:36:03] User selected CharacterName = Firstchar
+[ 2016-10-16 16:36:03] Total items = test
+[ 2016-10-16 16:36:03] Total items = test
+[ 2016-10-16 16:36:03] Total items = test
+[ 2016-10-16 16:36:03] Total items = test
+[ 2016-10-16 16:36:03] Total items = test
+[ 2016-10-16 16:36:03] Total items = test2
+[ 2016-10-16 16:36:03] Total items = test
+[ 2016-10-16 16:36:03] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 16:36:03] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 16:36:03] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 16:36:04] Character information sent.
+[ 2016-10-16 16:36:04] Firstchar is advancing wave..
+[ 2016-10-16 16:36:04] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|101|1,0|11|0;1|1|1|136|0,2|11.1|0;1|1|2|127|0,2|11.2|0;1|1|3|110|0,2|11.3|0;1|1|4|118|1,0|11.4|0;1|1|5|62|0,0|11.5|0;1|1|6|130|0,0|11.6|0;1|1|7|64|0,2|11.7|0;1|1|8|103|0,2|11.8|0;1|1|9|117|1,2|11.9|0;1|1|10|117|1,0|12|0;1|1|11|94|0,0|12.1|0;1|1|12|94|0,0|12.2|0;1|1|13|103|0,2|12.3|0;1|1|14|73|1,2|12.4|0;1|1|15|135|0,0|12.5|0;1|1|16|139|0,0|12.6|0;1|1|17|134|0,2|12.7|0;1|1|18|60|0,2|12.8|0;1|1|19|86|0,0|12.9|0;2|1|20|62|1,0|2|0;2|1|21|50|0,2|2.1|0;2|1|22|53|1,0|2.2|0;1|1|23|80|1,0|3|0;1|1|24|122|1,2|3.1|0;
+[ 2016-10-16 16:36:23] Client disconnected.
+[ 2016-10-16 16:36:41] Account logged in UserID = 2
+[ 2016-10-16 16:36:42] User selected CharacterName = Firstchar
+[ 2016-10-16 16:36:42] Total items = test
+[ 2016-10-16 16:36:42] Total items = test
+[ 2016-10-16 16:36:42] Total items = test
+[ 2016-10-16 16:36:42] Total items = test
+[ 2016-10-16 16:36:42] Total items = test
+[ 2016-10-16 16:36:42] Total items = test2
+[ 2016-10-16 16:36:42] Total items = test
+[ 2016-10-16 16:36:42] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 16:36:42] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 16:36:42] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 16:36:43] Character information sent.
+[ 2016-10-16 16:36:43] Firstchar is advancing wave..
+[ 2016-10-16 16:36:43] Character found in map : 2 name = FirstcharPacket sent = SPAWNM;1|2|0|134|1,2|11|0;1|2|1|109|0,2|11.1|0;1|2|2|134|0,2|11.2|0;1|2|3|125|0,0|11.3|0;1|2|4|120|1,2|11.4|0;1|2|5|118|0,2|11.5|0;1|2|6|109|0,2|11.6|0;1|2|7|118|1,0|11.7|0;1|2|8|98|0,0|11.8|0;1|2|9|62|0,0|11.9|0;1|2|10|108|0,0|12|0;1|2|11|116|0,2|12.1|0;1|2|12|111|0,2|12.2|0;1|2|13|104|0,0|12.3|0;1|2|14|96|0,2|12.4|0;1|2|15|98|0,0|12.5|0;1|2|16|104|0,2|12.6|0;1|2|17|121|0,2|12.7|0;1|2|18|89|0,2|12.8|0;1|2|19|130|0,0|12.9|0;2|2|20|52|1,2|2|0;2|2|21|51|0,0|2.1|0;2|2|22|43|0,2|2.2|0;1|2|23|76|0,0|3|0;1|2|24|95|0,0|3.1|0;
+[ 2016-10-16 16:37:08] Firstchar is advancing wave..
+[ 2016-10-16 16:37:10] Firstchar is advancing wave..
+[ 2016-10-16 16:37:11] Firstchar is advancing wave..
+[ 2016-10-16 16:37:12] Firstchar is advancing wave..
+[ 2016-10-16 16:37:12] Firstchar is advancing wave..
+[ 2016-10-16 16:37:13] Firstchar is advancing wave..
+[ 2016-10-16 16:37:13] Firstchar is advancing wave..
+[ 2016-10-16 16:37:14] Firstchar is advancing wave..
+[ 2016-10-16 16:37:14] Firstchar is advancing wave..
+[ 2016-10-16 16:37:15] Firstchar is advancing wave..
+[ 2016-10-16 16:37:15] Firstchar is advancing wave..
+[ 2016-10-16 16:37:16] Firstchar is advancing wave..
+[ 2016-10-16 16:37:16] Firstchar is advancing wave..
+[ 2016-10-16 16:37:17] Firstchar is advancing wave..
+[ 2016-10-16 16:37:17] Firstchar is advancing wave..
+[ 2016-10-16 16:37:18] Firstchar is advancing wave..
+[ 2016-10-16 16:37:18] Firstchar is advancing wave..
+[ 2016-10-16 16:37:19] Firstchar is advancing wave..
+[ 2016-10-16 16:37:20] Firstchar is advancing wave..
+[ 2016-10-16 16:37:20] Firstchar is advancing wave..
+[ 2016-10-16 16:37:21] Firstchar is advancing wave..
+[ 2016-10-16 16:37:22] Firstchar is advancing wave..
+[ 2016-10-16 16:37:29] Client disconnected.
+[ 2016-10-16 16:41:51] Account logged in UserID = 2
+[ 2016-10-16 16:41:52] User selected CharacterName = Firstchar
+[ 2016-10-16 16:41:52] Total items = test
+[ 2016-10-16 16:41:52] Total items = test
+[ 2016-10-16 16:41:52] Total items = test
+[ 2016-10-16 16:41:52] Total items = test
+[ 2016-10-16 16:41:52] Total items = test
+[ 2016-10-16 16:41:52] Total items = test2
+[ 2016-10-16 16:41:52] Total items = test
+[ 2016-10-16 16:41:52] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 16:41:52] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 16:41:52] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 16:41:53] Character information sent.
+[ 2016-10-16 16:41:53] Firstchar is advancing wave..
+[ 2016-10-16 16:41:53] Character found in map : 3 name = FirstcharPacket sent = SPAWNM;1|3|0|83|0,2|11|0;1|3|1|102|0,2|11.1|0;1|3|2|128|0,0|11.2|0;1|3|3|73|0,0|11.3|0;1|3|4|67|1,0|11.4|0;1|3|5|117|0,2|11.5|0;1|3|6|139|0,2|11.6|0;1|3|7|70|1,0|11.7|0;1|3|8|121|0,2|11.8|0;1|3|9|87|0,0|11.9|0;1|3|10|132|0,0|12|0;1|3|11|75|1,0|12.1|0;1|3|12|74|1,0|12.2|0;1|3|13|67|0,0|12.3|0;1|3|14|66|0,2|12.4|0;1|3|15|95|1,0|12.5|0;1|3|16|69|0,0|12.6|0;1|3|17|104|0,0|12.7|0;1|3|18|96|0,2|12.8|0;1|3|19|93|0,0|12.9|0;2|3|20|57|1,0|2|0;2|3|21|57|0,0|2.1|0;2|3|22|54|0,0|2.2|0;1|3|23|138|1,2|3|0;1|3|24|101|0,2|3.1|0;
+[ 2016-10-16 16:42:32] Firstchar is advancing wave..
+[ 2016-10-16 16:42:34] Firstchar is advancing wave..
+[ 2016-10-16 16:42:37] Firstchar is advancing wave..
+[ 2016-10-16 16:42:38] Firstchar is advancing wave..
+[ 2016-10-16 16:42:39] Firstchar is advancing wave..
+[ 2016-10-16 16:42:39] Firstchar is advancing wave..
+[ 2016-10-16 16:42:39] Firstchar is advancing wave..
+[ 2016-10-16 16:42:40] Firstchar is advancing wave..
+[ 2016-10-16 16:42:40] Firstchar is advancing wave..
+[ 2016-10-16 16:42:40] Firstchar is advancing wave..
+[ 2016-10-16 16:42:41] Firstchar is advancing wave..
+[ 2016-10-16 16:42:48] Client disconnected.
+[ 2016-10-16 16:43:24] Setting up server...
+[ 2016-10-16 16:43:24] Connected to MYSQL.
+[ 2016-10-16 16:43:24] Skill database loaded with [4] skills
+[ 2016-10-16 16:43:24] Item database loaded with [2] items
+[ 2016-10-16 16:43:24] Monster database loaded with [2] monsters
+[ 2016-10-16 16:43:24] Waves database loaded with [1] waves
+[ 2016-10-16 16:43:24] Server is running on port 32211
+[ 2016-10-16 16:44:24] Setting up server...
+[ 2016-10-16 16:44:24] Connected to MYSQL.
+[ 2016-10-16 16:44:24] Skill database loaded with [4] skills
+[ 2016-10-16 16:44:24] Item database loaded with [2] items
+[ 2016-10-16 16:44:24] Monster database loaded with [2] monsters
+[ 2016-10-16 16:44:24] Waves database loaded with [1] waves
+[ 2016-10-16 16:44:24] Server is running on port 32211
+[ 2016-10-16 16:44:26] Account logged in UserID = 2
+[ 2016-10-16 16:44:27] User selected CharacterName = Firstchar
+[ 2016-10-16 16:44:27] Total items = test
+[ 2016-10-16 16:44:27] Total items = test
+[ 2016-10-16 16:44:27] Total items = test
+[ 2016-10-16 16:44:27] Total items = test
+[ 2016-10-16 16:44:27] Total items = test
+[ 2016-10-16 16:44:27] Total items = test2
+[ 2016-10-16 16:44:27] Total items = test
+[ 2016-10-16 16:44:27] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 16:44:27] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 16:44:27] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 16:44:27] Character information sent.
+[ 2016-10-16 16:44:27] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|117|0,0|0|0;2|0|1|66|1,0|1|0;1|0|2|112|0,0|-5|0;1|0|3|75|0,0|-4.9|0;
+[ 2016-10-16 16:44:27] Firstchar is advancing wave..
+[ 2016-10-16 16:44:44] Firstchar Set a skill to active/deactive.
+[ 2016-10-16 16:44:56] Firstchar is advancing wave..
+[ 2016-10-16 16:45:03] Firstchar is advancing wave..
+[ 2016-10-16 16:45:06] Firstchar is advancing wave..
+[ 2016-10-16 16:45:11] Client disconnected.
+[ 2016-10-16 16:51:15] Account logged in UserID = 2
+[ 2016-10-16 16:51:15] User selected CharacterName = Firstchar
+[ 2016-10-16 16:51:15] Total items = test
+[ 2016-10-16 16:51:15] Total items = test
+[ 2016-10-16 16:51:15] Total items = test
+[ 2016-10-16 16:51:15] Total items = test
+[ 2016-10-16 16:51:15] Total items = test
+[ 2016-10-16 16:51:15] Total items = test2
+[ 2016-10-16 16:51:15] Total items = test
+[ 2016-10-16 16:51:15] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 16:51:15] Skill 2 = Skill2 / 55 active = True
+[ 2016-10-16 16:51:15] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 16:51:16] Character information sent.
+[ 2016-10-16 16:51:16] Firstchar is advancing wave..
+[ 2016-10-16 16:51:16] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|107|0,2|0|0;2|1|1|37|0,2|1|0;1|1|2|114|0,0|-5|0;1|1|3|86|0,0|-4.9|0;
+[ 2016-10-16 16:51:40] Firstchar is advancing wave..
+[ 2016-10-16 16:52:05] Firstchar is advancing wave..
+[ 2016-10-16 16:52:17] Client disconnected.
+[ 2016-10-16 16:52:43] Account logged in UserID = 2
+[ 2016-10-16 16:52:44] User selected CharacterName = Firstchar
+[ 2016-10-16 16:52:44] Total items = test
+[ 2016-10-16 16:52:44] Total items = test
+[ 2016-10-16 16:52:44] Total items = test
+[ 2016-10-16 16:52:44] Total items = test
+[ 2016-10-16 16:52:44] Total items = test
+[ 2016-10-16 16:52:44] Total items = test2
+[ 2016-10-16 16:52:44] Total items = test
+[ 2016-10-16 16:52:44] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 16:52:44] Skill 2 = Skill2 / 55 active = True
+[ 2016-10-16 16:52:44] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 16:52:45] Character information sent.
+[ 2016-10-16 16:52:45] Firstchar is advancing wave..
+[ 2016-10-16 16:52:45] Character found in map : 2 name = FirstcharPacket sent = SPAWNM;1|2|0|109|0,2|0|0;2|2|1|35|0,0|1|0;1|2|2|123|0,0|-5|0;1|2|3|103|1,2|-4.9|0;
+[ 2016-10-16 16:52:57] Firstchar Set a skill to active/deactive.
+[ 2016-10-16 16:52:58] Firstchar Set a skill to active/deactive.
+[ 2016-10-16 16:53:00] Firstchar Set a skill to active/deactive.
+[ 2016-10-16 16:53:30] Client disconnected.
+[ 2016-10-16 16:53:35] Account logged in UserID = 2
+[ 2016-10-16 16:53:36] User selected CharacterName = Firstchar
+[ 2016-10-16 16:53:36] Total items = test
+[ 2016-10-16 16:53:36] Total items = test
+[ 2016-10-16 16:53:36] Total items = test
+[ 2016-10-16 16:53:36] Total items = test
+[ 2016-10-16 16:53:36] Total items = test
+[ 2016-10-16 16:53:36] Total items = test2
+[ 2016-10-16 16:53:36] Total items = test
+[ 2016-10-16 16:53:36] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 16:53:36] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 16:53:36] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 16:53:36] Character information sent.
+[ 2016-10-16 16:53:36] Firstchar is advancing wave..
+[ 2016-10-16 16:53:36] Character found in map : 3 name = FirstcharPacket sent = SPAWNM;1|3|0|81|0,0|0|0;2|3|1|59|0,0|1|0;1|3|2|106|0,0|-5|0;1|3|3|134|0,2|-4.9|0;
+[ 2016-10-16 16:54:11] Client disconnected.
+[ 2016-10-16 16:55:51] Setting up server...
+[ 2016-10-16 16:55:51] Connected to MYSQL.
+[ 2016-10-16 16:55:51] Skill database loaded with [4] skills
+[ 2016-10-16 16:55:51] Item database loaded with [2] items
+[ 2016-10-16 16:55:51] Monster database loaded with [2] monsters
+[ 2016-10-16 16:55:51] Waves database loaded with [1] waves
+[ 2016-10-16 16:55:51] Server is running on port 32211
+[ 2016-10-16 16:55:53] Account logged in UserID = 2
+[ 2016-10-16 16:55:55] User selected CharacterName = Firstchar
+[ 2016-10-16 16:55:55] Total items = test
+[ 2016-10-16 16:55:55] Total items = test
+[ 2016-10-16 16:55:55] Total items = test
+[ 2016-10-16 16:55:55] Total items = test
+[ 2016-10-16 16:55:55] Total items = test
+[ 2016-10-16 16:55:55] Total items = test2
+[ 2016-10-16 16:55:55] Total items = test
+[ 2016-10-16 16:55:55] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 16:55:55] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 16:55:55] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 16:55:56] Character information sent.
+[ 2016-10-16 16:55:56] Firstchar is advancing wave..
+[ 2016-10-16 16:55:56] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|90|1,2|0|0;2|0|1|43|1,0|1|0;1|0|2|114|0,0|-5|0;1|0|3|90|1,0|-4.9|0;
+[ 2016-10-16 16:57:08] Client disconnected.
+[ 2016-10-16 16:59:05] Account logged in UserID = 2
+[ 2016-10-16 16:59:06] User selected CharacterName = Firstchar
+[ 2016-10-16 16:59:06] Total items = test
+[ 2016-10-16 16:59:06] Total items = test
+[ 2016-10-16 16:59:06] Total items = test
+[ 2016-10-16 16:59:06] Total items = test
+[ 2016-10-16 16:59:06] Total items = test
+[ 2016-10-16 16:59:06] Total items = test2
+[ 2016-10-16 16:59:06] Total items = test
+[ 2016-10-16 16:59:06] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 16:59:06] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 16:59:06] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 16:59:06] Character information sent.
+[ 2016-10-16 16:59:07] Firstchar is advancing wave..
+[ 2016-10-16 16:59:07] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|134|0,2|0|0;2|1|1|59|0,0|1|0;1|1|2|76|1,2|-5|0;1|1|3|66|0,2|-4.9|0;
+[ 2016-10-16 16:59:19] Client disconnected.
+[ 2016-10-16 17:07:45] Setting up server...
+[ 2016-10-16 17:07:45] Connected to MYSQL.
+[ 2016-10-16 17:07:46] Skill database loaded with [4] skills
+[ 2016-10-16 17:07:46] Item database loaded with [2] items
+[ 2016-10-16 17:07:46] Monster database loaded with [2] monsters
+[ 2016-10-16 17:07:46] Waves database loaded with [1] waves
+[ 2016-10-16 17:07:46] Server is running on port 32211
+[ 2016-10-16 17:07:48] Account logged in UserID = 2
+[ 2016-10-16 17:07:49] User selected CharacterName = Firstchar
+[ 2016-10-16 17:07:49] Total items = test
+[ 2016-10-16 17:07:49] Total items = test
+[ 2016-10-16 17:07:49] Total items = test
+[ 2016-10-16 17:07:49] Total items = test
+[ 2016-10-16 17:07:49] Total items = test
+[ 2016-10-16 17:07:49] Total items = test2
+[ 2016-10-16 17:07:49] Total items = test
+[ 2016-10-16 17:07:49] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 17:07:49] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 17:07:49] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 17:07:49] Character information sent.
+[ 2016-10-16 17:07:49] Firstchar is advancing wave..
+[ 2016-10-16 17:07:50] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|104|0,2|0|0;2|0|1|47|0,0|1|0;1|0|2|75|0,0|-5|0;1|0|3|111|1,2|-4.9|0;
+[ 2016-10-16 17:07:56] Client disconnected.
+[ 2016-10-16 17:09:33] Account logged in UserID = 2
+[ 2016-10-16 17:09:33] User selected CharacterName = Firstchar
+[ 2016-10-16 17:09:33] Total items = test
+[ 2016-10-16 17:09:33] Total items = test
+[ 2016-10-16 17:09:33] Total items = test
+[ 2016-10-16 17:09:33] Total items = test
+[ 2016-10-16 17:09:33] Total items = test
+[ 2016-10-16 17:09:33] Total items = test2
+[ 2016-10-16 17:09:34] Total items = test
+[ 2016-10-16 17:09:34] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 17:09:34] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 17:09:34] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 17:09:34] Character information sent.
+[ 2016-10-16 17:09:34] Firstchar is advancing wave..
+[ 2016-10-16 17:09:35] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|117|0,0|0|0;2|1|1|47|1,0|1|0;1|1|2|71|1,2|-5|0;1|1|3|81|0,2|-4.9|0;
+[ 2016-10-16 17:09:44] Firstchar is advancing wave..
+[ 2016-10-16 17:09:50] Firstchar is advancing wave..
+[ 2016-10-16 17:09:52] Client disconnected.
+[ 2016-10-16 17:55:47] Setting up server...
+[ 2016-10-16 17:55:47] Connected to MYSQL.
+[ 2016-10-16 17:55:47] Skill database loaded with [4] skills
+[ 2016-10-16 17:55:47] Item database loaded with [2] items
+[ 2016-10-16 17:55:47] Monster database loaded with [2] monsters
+[ 2016-10-16 17:55:47] Waves database loaded with [1] waves
+[ 2016-10-16 17:55:47] Server is running on port 32211
+[ 2016-10-16 17:55:51] Account logged in UserID = 2
+[ 2016-10-16 17:55:52] User selected CharacterName = Firstchar
+[ 2016-10-16 17:55:52] Total items = test
+[ 2016-10-16 17:55:52] Total items = test
+[ 2016-10-16 17:55:52] Total items = test
+[ 2016-10-16 17:55:52] Total items = test
+[ 2016-10-16 17:55:52] Total items = test
+[ 2016-10-16 17:55:52] Total items = test2
+[ 2016-10-16 17:55:52] Total items = test
+[ 2016-10-16 17:55:52] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 17:55:52] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 17:55:52] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 17:55:53] Character information sent.
+[ 2016-10-16 17:55:53] Firstchar is advancing wave..
+[ 2016-10-16 17:55:53] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|129|0,0|0|0;2|0|1|53|0,0|1|0;1|0|2|133|0,2|-5|0;1|0|3|98|0,2|-4.9|0;
+[ 2016-10-16 17:56:04] Firstchar is advancing wave..
+[ 2016-10-16 17:56:19] Firstchar is advancing wave..
+[ 2016-10-16 17:56:29] Client disconnected.
+[ 2016-10-16 18:02:00] Setting up server...
+[ 2016-10-16 18:02:00] Connected to MYSQL.
+[ 2016-10-16 18:02:00] Skill database loaded with [4] skills
+[ 2016-10-16 18:02:00] Item database loaded with [2] items
+[ 2016-10-16 18:02:00] Monster database loaded with [2] monsters
+[ 2016-10-16 18:02:00] Waves database loaded with [1] waves
+[ 2016-10-16 18:02:00] Server is running on port 32211
+[ 2016-10-16 18:02:02] Account logged in UserID = 2
+[ 2016-10-16 18:02:03] User selected CharacterName = Firstchar
+[ 2016-10-16 18:02:03] Total items = test
+[ 2016-10-16 18:02:03] Total items = test
+[ 2016-10-16 18:02:03] Total items = test
+[ 2016-10-16 18:02:03] Total items = test
+[ 2016-10-16 18:02:03] Total items = test
+[ 2016-10-16 18:02:03] Total items = test2
+[ 2016-10-16 18:02:03] Total items = test
+[ 2016-10-16 18:02:03] Skill 1 = Skill1 / 20 active = True
+[ 2016-10-16 18:02:03] Skill 2 = Skill2 / 55 active = False
+[ 2016-10-16 18:02:03] Skill 3 = Skill3 / 20 active = False
+[ 2016-10-16 18:02:03] Character information sent.
+[ 2016-10-16 18:02:04] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|103|0,0|0|0;2|0|1|63|0,0|1|0;1|0|2|137|0,0|-5|0;1|0|3|121|0,0|-4.9|0;
+[ 2016-10-16 18:02:33] Client disconnected.

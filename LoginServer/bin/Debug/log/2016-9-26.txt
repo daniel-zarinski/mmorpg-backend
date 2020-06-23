@@ -1,0 +1,40 @@
+This is the log file of the 2016-9-26
+[ 2016-09-26 02:02:23] Setting up server...
+[ 2016-09-26 02:02:24] Connected to MYSQL.
+[ 2016-09-26 02:02:24] Server is running on port 32211
+[ 2016-09-26 02:02:38] Account logged in. Character = Firstchar
+[ 2016-09-26 02:02:38] Skill 0 = Skill1 / 1
+[ 2016-09-26 02:02:39] Recieve character packet from Firstchar
+[ 2016-09-26 02:02:53] Client disconnected.
+[ 2016-09-26 02:03:22] Setting up server...
+[ 2016-09-26 02:03:22] Connected to MYSQL.
+[ 2016-09-26 02:03:22] Server is running on port 32211
+[ 2016-09-26 02:03:28] Account logged in. Character = Firstchar
+[ 2016-09-26 02:03:28] Skill 0 = Skill1 / 1
+[ 2016-09-26 02:03:28] Recieve character packet from Firstchar
+[ 2016-09-26 02:04:24] Setting up server...
+[ 2016-09-26 02:04:24] Connected to MYSQL.
+[ 2016-09-26 02:04:24] Server is running on port 32211
+[ 2016-09-26 02:04:31] Account logged in. Character = Firstchar
+[ 2016-09-26 02:04:31] Skill 0 = Skill1 / 30
+[ 2016-09-26 02:04:31] Recieve character packet from Firstchar
+[ 2016-09-26 02:04:35] Client disconnected.
+[ 2016-09-26 02:06:27] Setting up server...
+[ 2016-09-26 02:06:28] Connected to MYSQL.
+[ 2016-09-26 02:06:28] Server is running on port 32211
+[ 2016-09-26 02:06:34] Account logged in. Character = Firstchar
+[ 2016-09-26 02:06:34] Skill 0 = Skill1 / 30
+[ 2016-09-26 02:06:34] Recieve character packet from Firstchar
+[ 2016-09-26 02:06:51] Setting up server...
+[ 2016-09-26 02:06:51] Connected to MYSQL.
+[ 2016-09-26 02:06:51] Server is running on port 32211
+[ 2016-09-26 02:07:09] Client disconnected.
+[ 2016-09-26 02:07:31] Account logged in. Character = Firstchar
+[ 2016-09-26 02:07:31] Skill 0 = Skill1 / 30
+[ 2016-09-26 02:07:31] Skill 1 = Skill2 / 50
+[ 2016-09-26 02:07:31] Recieve character packet from Firstchar
+[ 2016-09-26 02:07:47] Client disconnected.
+[ 2016-09-26 02:07:55] Account logged in. Character = Firstchar
+[ 2016-09-26 02:07:55] Skill 0 = Skill1 / 30
+[ 2016-09-26 02:07:55] Skill 1 = Skill2 / 50
+[ 2016-09-26 02:07:55] Recieve character packet from Firstchar

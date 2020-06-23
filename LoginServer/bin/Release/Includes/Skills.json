@@ -1,0 +1,59 @@
+[
+	{
+		"id": 1,
+		"title": "Extreme Arrow",
+		"level": 1,
+		"attack": 20,
+		"mana": 20,
+		"cooldown": 3,
+		"description": "Gloves made from steel. YEAH?",
+		"slug": "Skill1",
+		"icon": "Skill1",
+		"class": "Any",
+		"delay1": 1,
+		"delay2": 0.6
+
+	},
+	{
+		"id": 2,
+		"title": "Extreme Arrow2",
+		"level": 1,
+		"attack": 55,
+		"mana": 25,
+		"cooldown": 2,
+		"description": "231231313123213213Gloves made from steel. YEAH?",
+		"slug": "Skill2",
+		"icon": "Skill2",
+		"class": "Any",
+		"delay1": 1,
+		"delay2": 0.69
+	},
+	{
+		"id": 3,
+		"title": "Dragon's Breath",
+		"level": 1,
+		"attack": 20,
+		"mana": 30,
+		"cooldown": 2,
+		"description": "AOE",
+		"slug": "Skill3",
+		"icon": "Skill3",
+		"class": "Any",
+		"delay1": 0.9,
+		"delay2": 0.6
+	},
+	{
+		"id": 4,
+		"title": "Extreme Arrow4",
+		"level": 1,
+		"attack": 20,
+		"mana": 35,
+		"cooldown": 2,
+		"description": "Gloves made from steel. YEAH?",
+		"slug": "Skill1",
+		"icon": "Skill1",
+		"class": "Any",
+		"delay1": 1,
+		"delay2": 0.5
+	}
+]

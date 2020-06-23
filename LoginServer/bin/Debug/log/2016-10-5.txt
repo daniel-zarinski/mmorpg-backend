@@ -1,0 +1,214 @@
+This is the log file of the 2016-10-5
+[ 2016-10-05 15:17:53] Setting up server...
+[ 2016-10-05 15:17:54] Can't connect to database. MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at LoginServer.frmLoginServer.SetupServer() in C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\Login Server.cs:line 113
+[ 2016-10-05 15:17:54] Connected to MYSQL.
+[ 2016-10-05 15:17:54] Server is running on port 32211
+[ 2016-10-05 15:18:02] Setting up server...
+[ 2016-10-05 15:18:03] Connected to MYSQL.
+[ 2016-10-05 15:18:03] Server is running on port 32211
+[ 2016-10-05 15:18:15] Client disconnected.
+[ 2016-10-05 15:19:08] Client disconnected.
+[ 2016-10-05 15:19:44] Client disconnected.
+[ 2016-10-05 15:21:19] Setting up server...
+[ 2016-10-05 15:21:19] Connected to MYSQL.
+[ 2016-10-05 15:21:19] Server is running on port 32211
+[ 2016-10-05 15:21:30] Client disconnected.
+[ 2016-10-05 15:22:05] Setting up server...
+[ 2016-10-05 15:22:05] Connected to MYSQL.
+[ 2016-10-05 15:22:05] Server is running on port 32211
+[ 2016-10-05 15:22:16] Client disconnected.
+[ 2016-10-05 15:23:17] Client disconnected.
+[ 2016-10-05 15:23:57] Receive: LOGIN;;;/
+[ 2016-10-05 15:23:57] Receive: LOGIN
+[ 2016-10-05 15:23:57] Login attempt failed. username= password=
+[ 2016-10-05 15:24:06] Client disconnected.
+[ 2016-10-05 15:28:57] Setting up server...
+[ 2016-10-05 15:28:57] Connected to MYSQL.
+[ 2016-10-05 15:28:57] Server is running on port 32211
+[ 2016-10-05 15:29:01] Receive: LOGIN;test;test;/
+[ 2016-10-05 15:29:01] Receive: LOGIN
+[ 2016-10-05 15:29:01] Account logged in. Character = Firstchar
+[ 2016-10-05 15:29:01] Skill 0 = Skill1 / 30
+[ 2016-10-05 15:29:01] Skill 1 = Skill2 / 50
+[ 2016-10-05 15:29:01] Receive: RECEIVE_CHARACTERS;/
+[ 2016-10-05 15:29:02] Receive: RECEIVE_CHARACTERS
+[ 2016-10-05 15:29:02] Recieve character packet from Firstchar
+[ 2016-10-05 15:29:05] Client disconnected.
+[ 2016-10-05 15:29:10] Receive: LOGIN;test;1;/
+[ 2016-10-05 15:29:10] Receive: LOGIN
+[ 2016-10-05 15:29:10] Login attempt failed. username=test password=1
+[ 2016-10-05 15:29:13] Receive: LOGIN;test;1;/
+[ 2016-10-05 15:29:13] Receive: LOGIN
+[ 2016-10-05 15:29:13] Login attempt failed. username=test password=1
+[ 2016-10-05 15:29:15] Client disconnected.
+[ 2016-10-05 15:29:54] Setting up server...
+[ 2016-10-05 15:29:54] Connected to MYSQL.
+[ 2016-10-05 15:29:54] Server is running on port 32211
+[ 2016-10-05 15:29:59] Receive: LOGIN
+[ 2016-10-05 15:29:59] Account logged in. Character = Firstchar
+[ 2016-10-05 15:29:59] Skill 0 = Skill1 / 30
+[ 2016-10-05 15:29:59] Skill 1 = Skill2 / 50
+[ 2016-10-05 15:29:59] Receive: RECEIVE_CHARACTERS
+[ 2016-10-05 15:29:59] Recieve character packet from Firstchar
+[ 2016-10-05 15:30:01] Client disconnected.
+[ 2016-10-05 15:30:06] Receive: LOGIN
+[ 2016-10-05 15:30:06] Login attempt failed. username=test password=1
+[ 2016-10-05 15:30:20] Client disconnected.
+[ 2016-10-05 15:30:38] Setting up server...
+[ 2016-10-05 15:30:38] Connected to MYSQL.
+[ 2016-10-05 15:30:38] Server is running on port 32211
+[ 2016-10-05 15:30:42] Receive: LOGIN
+[ 2016-10-05 15:30:42] Login attempt failed. username=test password=1
+[ 2016-10-05 15:30:44] Receive: LOGIN
+[ 2016-10-05 15:30:44] Login attempt failed. username=test password=2
+[ 2016-10-05 15:30:46] Receive: LOGIN
+[ 2016-10-05 15:30:46] Account logged in. Character = Firstchar
+[ 2016-10-05 15:30:46] Skill 0 = Skill1 / 30
+[ 2016-10-05 15:30:46] Skill 1 = Skill2 / 50
+[ 2016-10-05 15:30:46] Receive: RECEIVE_CHARACTERS
+[ 2016-10-05 15:30:46] Recieve character packet from Firstchar
+[ 2016-10-05 15:30:52] Client disconnected.
+[ 2016-10-05 15:31:28] Setting up server...
+[ 2016-10-05 15:31:28] Connected to MYSQL.
+[ 2016-10-05 15:31:28] Server is running on port 32211
+[ 2016-10-05 15:31:41] Receive: LOGIN
+[ 2016-10-05 15:31:41] Login attempt failed. username=test password=1
+[ 2016-10-05 15:31:43] Receive: LOGIN
+[ 2016-10-05 15:31:43] Account logged in. Character = Firstchar
+[ 2016-10-05 15:31:43] Skill 0 = Skill1 / 30
+[ 2016-10-05 15:31:43] Skill 1 = Skill2 / 50
+[ 2016-10-05 15:31:43] Receive: RECEIVE_CHARACTERS
+[ 2016-10-05 15:31:43] Recieve character packet from Firstchar
+[ 2016-10-05 15:31:47] Client disconnected.
+[ 2016-10-05 15:31:54] Setting up server...
+[ 2016-10-05 15:31:54] Connected to MYSQL.
+[ 2016-10-05 15:31:54] Server is running on port 32211
+[ 2016-10-05 17:09:24] Setting up server...
+[ 2016-10-05 17:09:24] Connected to MYSQL.
+[ 2016-10-05 17:09:24] Server is running on port 32211
+[ 2016-10-05 17:09:28] Receive: LOGIN
+[ 2016-10-05 17:09:28] Login attempt failed. username=test password=1
+[ 2016-10-05 17:09:31] Receive: LOGIN
+[ 2016-10-05 17:09:31] Login attempt failed. username=test password=34
+[ 2016-10-05 17:09:35] Receive: LOGIN
+[ 2016-10-05 17:09:35] Login attempt failed. username=test password=68
+[ 2016-10-05 17:09:37] Receive: LOGIN
+[ 2016-10-05 17:09:37] Login attempt failed. username=test password=12
+[ 2016-10-05 17:09:59] Receive: LOGIN
+[ 2016-10-05 17:09:59] Account logged in. Character = Firstchar
+[ 2016-10-05 17:09:59] Skill 0 = Skill1 / 30
+[ 2016-10-05 17:09:59] Skill 1 = Skill2 / 50
+[ 2016-10-05 17:09:59] Receive: RECEIVE_CHARACTERS
+[ 2016-10-05 17:09:59] Recieve character packet from Firstchar
+[ 2016-10-05 17:10:04] Receive: LOGIN
+[ 2016-10-05 17:10:04] Account logged in. Character = Firstchar
+[ 2016-10-05 17:10:04] Skill 0 = Skill1 / 30
+[ 2016-10-05 17:10:04] Skill 1 = Skill2 / 50
+[ 2016-10-05 17:10:04] Receive: RECEIVE_CHARACTERS
+[ 2016-10-05 17:10:04] Recieve character packet from Firstchar
+[ 2016-10-05 17:10:14] Receive: LOGIN
+[ 2016-10-05 17:10:14] Account logged in. Character = Firstchar
+[ 2016-10-05 17:10:14] Skill 0 = Skill1 / 30
+[ 2016-10-05 17:10:14] Skill 1 = Skill2 / 50
+[ 2016-10-05 17:10:14] Receive: RECEIVE_CHARACTERS
+[ 2016-10-05 17:10:14] Recieve character packet from Firstchar
+[ 2016-10-05 17:10:16] Client disconnected.
+[ 2016-10-05 17:10:24] Forcing a client to logout.
+[ 2016-10-05 17:10:49] Receive: LOGIN
+[ 2016-10-05 17:10:49] Account logged in. Character = Firstchar
+[ 2016-10-05 17:10:49] Skill 0 = Skill1 / 30
+[ 2016-10-05 17:10:49] Skill 1 = Skill2 / 50
+[ 2016-10-05 17:10:49] Receive: RECEIVE_CHARACTERS
+[ 2016-10-05 17:10:49] Recieve character packet from Firstchar
+[ 2016-10-05 17:10:53] Client disconnected.
+[ 2016-10-05 20:42:07] Receive: LOGIN
+[ 2016-10-05 20:42:07] Account logged in. Character = Firstchar
+[ 2016-10-05 20:42:07] Skill 0 = Skill1 / 30
+[ 2016-10-05 20:42:07] Skill 1 = Skill2 / 50
+[ 2016-10-05 20:42:07] Receive: RECEIVE_CHARACTERS
+[ 2016-10-05 20:42:07] Recieve character packet from Firstchar
+[ 2016-10-05 20:42:31] Client disconnected.
+[ 2016-10-05 20:43:30] Receive: LOGIN
+[ 2016-10-05 20:43:30] Account logged in. Character = Firstchar
+[ 2016-10-05 20:43:30] Skill 0 = Skill1 / 30
+[ 2016-10-05 20:43:30] Skill 1 = Skill2 / 50
+[ 2016-10-05 20:43:42] Client disconnected.
+[ 2016-10-05 20:44:58] Receive: LOGIN
+[ 2016-10-05 20:44:58] Account logged in. Character = Firstchar
+[ 2016-10-05 20:44:58] Skill 0 = Skill1 / 30
+[ 2016-10-05 20:44:58] Skill 1 = Skill2 / 50
+[ 2016-10-05 20:44:58] Receive: RECEIVE_CHARACTERS
+[ 2016-10-05 20:44:58] Recieve character packet from Firstchar
+[ 2016-10-05 20:45:06] Client disconnected.
+[ 2016-10-05 21:10:22] Receive: LOGIN
+[ 2016-10-05 21:10:22] Login attempt failed. username=test1 password=1
+[ 2016-10-05 21:10:27] Receive: LOGIN
+[ 2016-10-05 21:10:27] Account logged in. Character = Firstchar
+[ 2016-10-05 21:10:27] Skill 0 = Skill1 / 30
+[ 2016-10-05 21:10:27] Skill 1 = Skill2 / 50
+[ 2016-10-05 21:10:27] Receive: RECEIVE_CHARACTERS
+[ 2016-10-05 21:10:27] Recieve character packet from Firstchar
+[ 2016-10-05 21:10:32] Client disconnected.
+[ 2016-10-05 21:15:18] Receive: LOGIN
+[ 2016-10-05 21:15:18] Login attempt failed. username= password=
+[ 2016-10-05 21:15:20] Receive: LOGIN
+[ 2016-10-05 21:15:20] Login attempt failed. username= password=
+[ 2016-10-05 21:15:22] Receive: LOGIN
+[ 2016-10-05 21:15:22] Login attempt failed. username= password=
+[ 2016-10-05 21:15:27] Client disconnected.
+[ 2016-10-05 22:51:33] Receive: LOGIN
+[ 2016-10-05 22:51:33] Account logged in. Character = Firstchar
+[ 2016-10-05 22:51:33] Skill 0 = Skill1 / 30
+[ 2016-10-05 22:51:33] Skill 1 = Skill2 / 50
+[ 2016-10-05 22:51:46] Client disconnected.
+[ 2016-10-05 22:53:57] Receive: LOGIN
+[ 2016-10-05 22:53:57] Login attempt failed. username=test password=1
+[ 2016-10-05 22:53:59] Receive: LOGIN
+[ 2016-10-05 22:53:59] Account logged in. Character = Firstchar
+[ 2016-10-05 22:53:59] Skill 0 = Skill1 / 30
+[ 2016-10-05 22:53:59] Skill 1 = Skill2 / 50
+[ 2016-10-05 22:54:05] Client disconnected.
+[ 2016-10-05 23:45:33] Client disconnected.
+[ 2016-10-05 23:46:05] Client disconnected.
+[ 2016-10-05 23:47:08] Client disconnected.
+[ 2016-10-05 23:47:29] Client disconnected.
+[ 2016-10-05 23:47:49] Client disconnected.
+[ 2016-10-05 23:48:06] Receive: LOGIN
+[ 2016-10-05 23:48:06] Account logged in. Character = Firstchar
+[ 2016-10-05 23:48:06] Skill 0 = Skill1 / 30
+[ 2016-10-05 23:48:06] Skill 1 = Skill2 / 50
+[ 2016-10-05 23:48:09] Client disconnected.
+[ 2016-10-05 23:55:43] Receive: LOGIN
+[ 2016-10-05 23:55:43] Account logged in. Character = Firstchar
+[ 2016-10-05 23:55:43] Skill 0 = Skill1 / 30
+[ 2016-10-05 23:55:43] Skill 1 = Skill2 / 50
+[ 2016-10-05 23:55:51] Client disconnected.
+[ 2016-10-05 23:55:59] Receive: LOGIN
+[ 2016-10-05 23:55:59] Account logged in. Character = Firstchar
+[ 2016-10-05 23:55:59] Skill 0 = Skill1 / 30
+[ 2016-10-05 23:55:59] Skill 1 = Skill2 / 50
+[ 2016-10-05 23:56:06] Client disconnected.
+[ 2016-10-05 23:56:35] Receive: LOGIN
+[ 2016-10-05 23:56:35] Account logged in. Character = Firstchar
+[ 2016-10-05 23:56:35] Skill 0 = Skill1 / 30
+[ 2016-10-05 23:56:35] Skill 1 = Skill2 / 50
+[ 2016-10-05 23:56:49] Client disconnected.
+[ 2016-10-05 23:56:54] Receive: LOGIN
+[ 2016-10-05 23:56:54] Account logged in. Character = Firstchar
+[ 2016-10-05 23:56:54] Skill 0 = Skill1 / 30
+[ 2016-10-05 23:56:54] Skill 1 = Skill2 / 50
+[ 2016-10-05 23:56:56] Client disconnected.
+[ 2016-10-05 23:59:16] Receive: LOGIN
+[ 2016-10-05 23:59:16] Account logged in. Character = Firstchar
+[ 2016-10-05 23:59:16] Skill 0 = Skill1 / 30
+[ 2016-10-05 23:59:16] Skill 1 = Skill2 / 50
+[ 2016-10-05 23:59:21] Client disconnected.

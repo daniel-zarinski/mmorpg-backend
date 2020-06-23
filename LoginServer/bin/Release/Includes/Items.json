@@ -1,0 +1,463 @@
+[
+	{
+		"id": 1,
+		"title": "Frosty Marine Arund",
+		"value": 6,
+		"level": 1,
+		"description": "Gloves made from steel. YEAH?",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "FrostyMarineArund",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 10,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 150
+		}
+	},
+	{
+		"id": 2,
+		"title": "Azure Gladius",
+		"value": 216,
+		"level": 1,
+		"stats": {
+			"attack": 21,
+			"defence": 42,
+			"vitality": 2
+		},
+		"description": "Very nice sword 10/10",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "AzureGladius",
+		"type": "Weapon",
+		"weapon": {
+			"weapontype": "Sword",
+			"attackpower": 15,
+			"attackspeed": 7,
+			"range": 1.3,
+			"pushbackx": 80
+		}
+	},
+	{
+		"id": 3,
+		"title": "Dark Arund",
+		"value": 216,
+		"level": 1,
+		"stats": {
+			"attack": 21,
+			"defence": 42,
+			"vitality": 2
+		},
+		"description": "Very nice sword 10/10",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "DarkArund",
+		"type": "Weapon",
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 20,
+			"attackspeed": 20,
+			"range": 1.5,
+			"pushbackx": 150
+		}
+	},
+	{
+		"id": 4,
+		"title": "Marx Von Leon Sabre",
+		"value": 216,
+		"level": 1,
+			"stats": {
+				"attack": 21,
+				"defence": 42,
+				"vitality": 2
+			},
+		"description": "One handed Sword",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "MarxVonLeonSabre",
+		"type": "Weapon",
+			"weapon": {
+				"weapontype": "Sword",
+				"attackpower": 25,
+				"attackspeed": 7,
+				"range": 1.3,
+				"pushbackx": 80
+			}
+	},
+	{
+		"id": 5,
+		"title": "Alice Rabbit Top",
+		"value": 216,
+		"level": 1,
+			"stats": {
+				"attack": 3,
+				"defence": 42,
+				"vitality": 2
+			},
+		"description": "One handed Sword",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "AliceRabbitTop",
+		"type": "Shirt",
+			"weapon": {
+				"weapontype": "",
+				"attackpower": 0,
+				"attackspeed": 0,
+				"range": 0,
+				"pushbackx": 0
+			}
+	},	
+	{
+		"id": 6,
+		"title": "War Bow",
+		"value": 6,
+		"level": 10,
+		"description": " Beginner bow",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "WarBow",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 25,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 100
+		}
+	},
+	{
+		"id": 7,
+		"title": "Akha",
+		"value": 6,
+		"level": 10,
+		"description": "Rare Bow",
+		"stackable": false,
+		"rarity": 2,
+		"slug": "Akha",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 30,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 100
+		}
+	},
+	{
+		"id": 8,
+		"title": "Composite Bow",
+		"value": 6,
+		"level": 15,
+		"description": "Bow",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "CompositeBow",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 30,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 100
+		}
+	},
+	{
+		"id": 9,
+		"title": "Solomon's Bow",
+		"value": 6,
+		"level": 15,
+		"description": "Rare Bow",
+		"stackable": false,
+		"rarity": 2,
+		"slug": "SolomonsBow",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 35,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 100
+		}
+	},
+	{
+		"id": 10,
+		"title": "Hunter's Bow",
+		"value": 6,
+		"level": 20,
+		"description": "Bow",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "HuntersBow",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 35,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 100
+		}
+	},
+	{
+		"id": 11,
+		"title": "Ryden",
+		"value": 6,
+		"level": 20,
+		"description": "Rare Bow",
+		"stackable": false,
+		"rarity": 2,
+		"slug": "Ryden",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 55,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 100
+		}
+	},
+	{
+		"id": 12,
+		"title": "Battle Bow",
+		"value": 6,
+		"level": 25,
+		"description": "Bow",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "BattleBow",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 40,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 100
+		}
+	},
+		{
+		"id": 13,
+		"title": "Astaroth Bow",
+		"value": 6,
+		"level": 25,
+		"description": "Rare Bow",
+		"stackable": false,
+		"rarity": 2,
+		"slug": "AstarothBow",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 41,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 100
+		}
+	},
+	{
+		"id": 14,
+		"title": "Ryden",
+		"value": 6,
+		"level": 30,
+		"description": "Bow",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "Ryden",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 45,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 100
+		}
+	},
+		{
+		"id": 15,
+		"title": "Explorer's Vaulter",
+		"value": 6,
+		"level": 30,
+		"description": "Bow",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "ExplorersVaulter",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 55,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 100
+		}
+	},
+	{
+		"id": 16,
+		"title": "Swift Raven Bow",
+		"value": 6,
+		"level": 30,
+		"description": "Rare Bow",
+		"stackable": false,
+		"rarity": 2,
+		"slug": "SwiftRavenBow",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 55,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 100
+		}
+	},
+		{
+		"id": 17,
+		"title": "Red Viper",
+		"value": 6,
+		"level": 35,
+		"description": "Bow",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "RedViper",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 50,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 100
+		}
+	},
+	{
+		"id": 18,
+		"title": "Maple Bow",
+		"value": 6,
+		"level": 35,
+		"description": "Bow",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "MapleBow",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 48,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 100
+		}
+	},
+	{
+		"id": 19,
+		"title": "Olympus",
+		"value": 6,
+		"level": 35,
+		"description": "Rare Bow",
+		"stackable": false,
+		"rarity": 2,
+		"slug": "Olympus",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 75,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 100
+		}
+	},
+	{
+		"id": 20,
+		"title": "King Pepe Red Viper",
+		"value": 6,
+		"level": 35,
+		"description": "Rare Bow",
+		"stackable": false,
+		"rarity": 2,
+		"slug": "KingPepeRedViper",
+		"type": "Weapon",
+		"stats": {
+			"attack": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"weapon": {
+			"weapontype": "Bow",
+			"attackpower": 55,
+			"attackspeed": 15,
+			"range": 1.5,
+			"pushbackx": 100
+		}
+	}
+	
+]

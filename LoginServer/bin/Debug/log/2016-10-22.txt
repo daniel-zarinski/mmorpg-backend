@@ -1,0 +1,829 @@
+This is the log file of the 2016-10-22
+[ 2016-10-22 00:11:57] Setting up server...
+[ 2016-10-22 00:11:58] Connected to MYSQL.
+[ 2016-10-22 00:11:58] Skill database loaded with [4] skills
+[ 2016-10-22 00:11:58] Item database loaded with [5] items
+[ 2016-10-22 00:11:58] Monster database loaded with [2] monsters
+[ 2016-10-22 00:11:58] Waves database loaded with [1] waves
+[ 2016-10-22 00:11:58] Server is running on port 32211
+[ 2016-10-22 00:12:06] Account logged in UserID = 2
+[ 2016-10-22 00:12:14] User selected CharacterName = Firstchar
+[ 2016-10-22 00:12:14] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;0;
+[ 2016-10-22 00:12:14] Character information sent.
+[ 2016-10-22 00:12:15] 0,0
+[ 2016-10-22 00:12:15] 0,0
+[ 2016-10-22 00:12:15] 0,0
+[ 2016-10-22 00:12:15] 0,0
+[ 2016-10-22 00:12:15] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|124|0,0|0|0;2|0|1|65|0,0|1|0;1|0|2|71|0,0|-5|0;1|0|3|115|0,0|-4.9|0;
+[ 2016-10-22 00:12:19] Unknown monster found. monid = 1
+[ 2016-10-22 00:12:25] Unknown monster found. monid = 1
+[ 2016-10-22 00:12:45] Unknown monster found. monid = 1
+[ 2016-10-22 00:12:49] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:12:49] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:16:56] Setting up server...
+[ 2016-10-22 00:16:57] Connected to MYSQL.
+[ 2016-10-22 00:16:57] Skill database loaded with [4] skills
+[ 2016-10-22 00:16:57] Item database loaded with [5] items
+[ 2016-10-22 00:16:57] Monster database loaded with [2] monsters
+[ 2016-10-22 00:16:57] Waves database loaded with [1] waves
+[ 2016-10-22 00:16:57] Server is running on port 32211
+[ 2016-10-22 00:17:04] Account logged in UserID = 2
+[ 2016-10-22 00:17:05] User selected CharacterName = Firstchar
+[ 2016-10-22 00:17:05] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;0;
+[ 2016-10-22 00:17:05] Character information sent.
+[ 2016-10-22 00:17:06] 0,0
+[ 2016-10-22 00:17:06] 0,2+23+0+0+43+0
+[ 2016-10-22 00:17:06] 0,2+18+0+0+0+0
+[ 2016-10-22 00:17:06] 0,0
+[ 2016-10-22 00:17:06] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|65|0,0|0|0;2|0|1|40|0,2+23+0+0+43+0|1|0;1|0|2|64|0,2+18+0+0+0+0|-5|0;1|0|3|79|0,0|-4.9|0;
+[ 2016-10-22 00:17:10] Unknown monster found. monid = 1
+[ 2016-10-22 00:17:50] Setting up server...
+[ 2016-10-22 00:17:50] Connected to MYSQL.
+[ 2016-10-22 00:17:50] Skill database loaded with [4] skills
+[ 2016-10-22 00:17:50] Item database loaded with [5] items
+[ 2016-10-22 00:17:50] Monster database loaded with [2] monsters
+[ 2016-10-22 00:17:50] Waves database loaded with [1] waves
+[ 2016-10-22 00:17:50] Server is running on port 32211
+[ 2016-10-22 00:17:53] Account logged in UserID = 2
+[ 2016-10-22 00:17:54] User selected CharacterName = Firstchar
+[ 2016-10-22 00:17:54] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;0;
+[ 2016-10-22 00:17:54] Character information sent.
+[ 2016-10-22 00:17:54] 1+12+0+0+0+0,0
+[ 2016-10-22 00:17:54] 0,0
+[ 2016-10-22 00:17:54] 0,0
+[ 2016-10-22 00:17:54] 0,0
+[ 2016-10-22 00:17:54] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|95|1+12+0+0+0+0,0|0|0;2|0|1|57|0,0|1|0;1|0|2|115|0,0|-5|0;1|0|3|129|0,0|-4.9|0;
+[ 2016-10-22 00:17:57] Unknown monster found. monid = 1 -1
+[ 2016-10-22 00:18:02] Unknown monster found. monid = 1 -1
+[ 2016-10-22 00:18:06] Unknown monster found. monid = 2 -1
+[ 2016-10-22 00:18:13] Unknown monster found. monid = 1 -1
+[ 2016-10-22 00:18:17] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:18:17] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:18:42] Setting up server...
+[ 2016-10-22 00:18:42] Connected to MYSQL.
+[ 2016-10-22 00:18:42] Skill database loaded with [4] skills
+[ 2016-10-22 00:18:42] Item database loaded with [5] items
+[ 2016-10-22 00:18:42] Monster database loaded with [2] monsters
+[ 2016-10-22 00:18:42] Waves database loaded with [1] waves
+[ 2016-10-22 00:18:42] Server is running on port 32211
+[ 2016-10-22 00:18:57] Account logged in UserID = 2
+[ 2016-10-22 00:18:58] User selected CharacterName = Firstchar
+[ 2016-10-22 00:18:58] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;0;
+[ 2016-10-22 00:18:58] Character information sent.
+[ 2016-10-22 00:18:58] 0,0
+[ 2016-10-22 00:18:58] 0,2+19+0+0+51+51
+[ 2016-10-22 00:18:58] 0,0
+[ 2016-10-22 00:18:58] 0,2+20+0+0+0+30
+[ 2016-10-22 00:18:58] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|131|0,0|0|0;2|0|1|42|0,2+19+0+0+51+51|1|0;1|0|2|124|0,0|-5|0;1|0|3|124|0,2+20+0+0+0+30|-4.9|0;
+[ 2016-10-22 00:19:01] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:19:01] Found character Firstcharin map
+[ 2016-10-22 00:19:03] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:19:03] Found character Firstcharin map
+[ 2016-10-22 00:19:17] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:19:17] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:20:58] Setting up server...
+[ 2016-10-22 00:20:58] Connected to MYSQL.
+[ 2016-10-22 00:20:58] Skill database loaded with [4] skills
+[ 2016-10-22 00:20:58] Item database loaded with [5] items
+[ 2016-10-22 00:20:58] Monster database loaded with [2] monsters
+[ 2016-10-22 00:20:58] Waves database loaded with [1] waves
+[ 2016-10-22 00:20:58] Server is running on port 32211
+[ 2016-10-22 00:21:02] Account logged in UserID = 2
+[ 2016-10-22 00:21:03] User selected CharacterName = Firstchar
+[ 2016-10-22 00:21:03] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;0;
+[ 2016-10-22 00:21:03] Character information sent.
+[ 2016-10-22 00:21:04] 1+17+0+0+36+0,0
+[ 2016-10-22 00:21:04] 0,0
+[ 2016-10-22 00:21:04] 0,2+21+0+0+0+0
+[ 2016-10-22 00:21:04] 0,2+19+0+0+61+30
+[ 2016-10-22 00:21:04] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|126|1+17+0+0+36+0,0|0|0;2|0|1|59|0,0|1|0;1|0|2|61|0,2+21+0+0+0+0|-5|0;1|0|3|78|0,2+19+0+0+61+30|-4.9|0;
+[ 2016-10-22 00:21:07] IN: KILLMONSTER 3 1 0
+[ 2016-10-22 00:21:07] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:21:07] Found character Firstchar in map
+[ 2016-10-22 00:21:08] IN: KILLMONSTER 2 1 0
+[ 2016-10-22 00:21:08] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:21:08] Found character Firstchar in map
+[ 2016-10-22 00:21:10] IN: KILLMONSTER 1 2 0
+[ 2016-10-22 00:21:10] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 00:21:10] Found character Firstchar in map
+[ 2016-10-22 00:21:11] IN: KILLMONSTER 0 1 0
+[ 2016-10-22 00:21:11] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:21:11] Found character Firstchar in map
+[ 2016-10-22 00:21:24] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:21:24] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:22:47] Setting up server...
+[ 2016-10-22 00:22:48] Connected to MYSQL.
+[ 2016-10-22 00:22:48] Skill database loaded with [4] skills
+[ 2016-10-22 00:22:48] Item database loaded with [5] items
+[ 2016-10-22 00:22:48] Monster database loaded with [2] monsters
+[ 2016-10-22 00:22:48] Waves database loaded with [1] waves
+[ 2016-10-22 00:22:48] Server is running on port 32211
+[ 2016-10-22 00:22:52] Account logged in UserID = 2
+[ 2016-10-22 00:22:53] User selected CharacterName = Firstchar
+[ 2016-10-22 00:22:53] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;0;
+[ 2016-10-22 00:22:53] Character information sent.
+[ 2016-10-22 00:22:54] 0,0
+[ 2016-10-22 00:22:54] 0,0
+[ 2016-10-22 00:22:54] 0,0
+[ 2016-10-22 00:22:54] 0,0
+[ 2016-10-22 00:22:54] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|82|0,0|0|0;2|0|1|58|0,0|1|0;1|0|2|121|0,0|-5|0;1|0|3|78|0,0|-4.9|0;
+[ 2016-10-22 00:22:57] IN: KILLMONSTER 2 1 0
+[ 2016-10-22 00:22:57] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:22:57] Found character Firstchar in map
+[ 2016-10-22 00:22:58] IN: KILLMONSTER 3 1 0
+[ 2016-10-22 00:22:58] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:22:58] Found character Firstchar in map
+[ 2016-10-22 00:23:11] IN: KILLMONSTER 1 2 0
+[ 2016-10-22 00:23:11] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 00:23:11] Found character Firstchar in map
+[ 2016-10-22 00:26:44] Setting up server...
+[ 2016-10-22 00:26:44] Connected to MYSQL.
+[ 2016-10-22 00:26:44] Skill database loaded with [4] skills
+[ 2016-10-22 00:26:44] Item database loaded with [5] items
+[ 2016-10-22 00:26:44] Monster database loaded with [2] monsters
+[ 2016-10-22 00:26:44] Waves database loaded with [1] waves
+[ 2016-10-22 00:26:44] Server is running on port 32211
+[ 2016-10-22 00:26:48] Account logged in UserID = 2
+[ 2016-10-22 00:26:49] User selected CharacterName = Firstchar
+[ 2016-10-22 00:26:49] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;0;
+[ 2016-10-22 00:26:49] Character information sent.
+[ 2016-10-22 00:26:50] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|119|1+13+0+0+0+0,0|0|0;2|0|1|65|0,0|1|0;1|0|2|119|0,0|-5|0;1|0|3|104|0,0|-4.9|0;
+[ 2016-10-22 00:26:53] IN: KILLMONSTER 3 1 0
+[ 2016-10-22 00:26:53] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:26:53] Found character Firstchar in map
+[ 2016-10-22 00:26:53] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:26:57] IN: KILLMONSTER 2 1 0
+[ 2016-10-22 00:26:57] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:26:57] Found character Firstchar in map
+[ 2016-10-22 00:26:57] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:27:00] IN: KILLMONSTER 1 2 0
+[ 2016-10-22 00:27:00] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 00:27:00] Found character Firstchar in map
+[ 2016-10-22 00:27:00] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:27:03] IN: KILLMONSTER 0 1 0
+[ 2016-10-22 00:27:03] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:27:03] Found character Firstchar in map
+[ 2016-10-22 00:27:03] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:27:07] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:27:07] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:32:30] Setting up server...
+[ 2016-10-22 00:32:31] Connected to MYSQL.
+[ 2016-10-22 00:32:31] Skill database loaded with [4] skills
+[ 2016-10-22 00:32:31] Item database loaded with [5] items
+[ 2016-10-22 00:32:31] Monster database loaded with [2] monsters
+[ 2016-10-22 00:32:31] Waves database loaded with [1] waves
+[ 2016-10-22 00:32:31] Server is running on port 32211
+[ 2016-10-22 00:32:41] Account logged in UserID = 2
+[ 2016-10-22 00:32:42] User selected CharacterName = Firstchar
+[ 2016-10-22 00:32:42] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;0;
+[ 2016-10-22 00:32:42] Character information sent.
+[ 2016-10-22 00:32:43] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|80|0,0|0|0;2|0|1|57|0,0|1|0;1|0|2|132|1+12+0+0+4+0,0|-5|0;1|0|3|107|1+15+0+0+6+66,0|-4.9|0;
+[ 2016-10-22 00:32:46] IN: KILLMONSTER 3 1 0
+[ 2016-10-22 00:32:46] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:32:46] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:32:46] IN: KILLMONSTER 2 1 0
+[ 2016-10-22 00:32:46] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:32:46] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:32:48] IN: KILLMONSTER 1 2 0
+[ 2016-10-22 00:32:48] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 00:32:48] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:32:49] IN: KILLMONSTER 0 1 0
+[ 2016-10-22 00:32:49] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:32:49] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:33:10] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:33:10] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:34:19] Setting up server...
+[ 2016-10-22 00:34:19] Connected to MYSQL.
+[ 2016-10-22 00:34:19] Skill database loaded with [4] skills
+[ 2016-10-22 00:34:19] Item database loaded with [5] items
+[ 2016-10-22 00:34:19] Monster database loaded with [2] monsters
+[ 2016-10-22 00:34:19] Waves database loaded with [1] waves
+[ 2016-10-22 00:34:19] Server is running on port 32211
+[ 2016-10-22 00:34:25] Account logged in UserID = 2
+[ 2016-10-22 00:34:26] User selected CharacterName = Firstchar
+[ 2016-10-22 00:34:26] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;0;
+[ 2016-10-22 00:34:26] Character information sent.
+[ 2016-10-22 00:34:26] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|68|0,2+19+0+0+33+21|0|0;2|0|1|48|0,0|1|0;1|0|2|82|0,2+23+0+0+0+18|-5|0;1|0|3|96|0,0|-4.9|0;
+[ 2016-10-22 00:34:29] IN: KILLMONSTER 3 1 0
+[ 2016-10-22 00:34:29] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:34:29] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:34:29] IN: KILLMONSTER 2 1 0
+[ 2016-10-22 00:34:29] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:34:29] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:34:30] IN: KILLMONSTER 1 2 0
+[ 2016-10-22 00:34:30] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 00:34:30] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:34:30] IN: KILLMONSTER 0 1 0
+[ 2016-10-22 00:34:30] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:34:30] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:34:30] Firstchar Item added successfully. to slot 4 itemid = 2 power = 23
+[ 2016-10-22 00:34:34] Firstchar Item added successfully. to slot 5 itemid = 2 power = 19
+[ 2016-10-22 00:34:47] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:34:47] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:36:24] Setting up server...
+[ 2016-10-22 00:36:24] Connected to MYSQL.
+[ 2016-10-22 00:36:24] Skill database loaded with [4] skills
+[ 2016-10-22 00:36:24] Item database loaded with [5] items
+[ 2016-10-22 00:36:24] Monster database loaded with [2] monsters
+[ 2016-10-22 00:36:24] Waves database loaded with [1] waves
+[ 2016-10-22 00:36:24] Server is running on port 32211
+[ 2016-10-22 00:36:26] Account logged in UserID = 2
+[ 2016-10-22 00:36:27] User selected CharacterName = Firstchar
+[ 2016-10-22 00:36:27] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;10;
+[ 2016-10-22 00:36:27] Character information sent.
+[ 2016-10-22 00:36:27] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|69|1+15+0+0+0+0,2+22+0+0+0+0|0|0;2|0|1|50|0,0|1|0;1|0|2|124|1+17+0+0+0+50,0|-5|0;1|0|3|99|1+12+0+0+51+0,0|-4.9|0;
+[ 2016-10-22 00:36:30] IN: KILLMONSTER 3 1 0
+[ 2016-10-22 00:36:30] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:36:30] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:36:30] IN: KILLMONSTER 2 1 0
+[ 2016-10-22 00:36:30] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:36:30] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:36:31] IN: KILLMONSTER 1 2 0
+[ 2016-10-22 00:36:31] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 00:36:31] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:36:31] IN: KILLMONSTER 0 1 0
+[ 2016-10-22 00:36:31] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:36:31] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:36:33] Firstchar Item added successfully. to slot 6 itemid = 1 power = 17
+[ 2016-10-22 00:36:33] INVENTORY_PICKUP_Packet - adding item to an existing slot = 6
+[ 2016-10-22 00:36:33] INVENTORY_PICKUP_Packet - adding item to an existing slot = 6Overwritten to slot = 7 itemid = 1 stat1 = 51
+[ 2016-10-22 00:36:38] Firstchar Item added successfully. to slot 8 itemid = 2 power = 22
+[ 2016-10-22 00:36:40] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:36:40] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:37:24] Account logged in UserID = 2
+[ 2016-10-22 00:37:25] User selected CharacterName = Firstchar
+[ 2016-10-22 00:37:25] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;20;
+[ 2016-10-22 00:37:25] Character information sent.
+[ 2016-10-22 00:37:25] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|61|1+14+0+0+53+0,0|0|0;2|1|1|55|0,0|1|0;1|1|2|108|0,0|-5|0;1|1|3|112|0,2+21+0+0+6+0|-4.9|0;
+[ 2016-10-22 00:37:30] IN: KILLMONSTER 3 1 1
+[ 2016-10-22 00:37:30] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:37:30] IN: KILLMONSTER 2 1 1
+[ 2016-10-22 00:37:30] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:37:30] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:37:30] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:37:30] IN: KILLMONSTER 1 2 1
+[ 2016-10-22 00:37:30] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 00:37:30] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:37:30] IN: KILLMONSTER 0 1 1
+[ 2016-10-22 00:37:30] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:37:30] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:37:41] Firstchar Item added successfully. to slot 9 itemid = 2 power = 21
+[ 2016-10-22 00:38:34] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:38:34] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:38:50] Account logged in UserID = 2
+[ 2016-10-22 00:38:51] User selected CharacterName = Firstchar
+[ 2016-10-22 00:38:51] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;30;
+[ 2016-10-22 00:38:51] Character information sent.
+[ 2016-10-22 00:38:51] Character found in map : 2 name = FirstcharPacket sent = SPAWNM;1|2|0|105|0,0|0|0;2|2|1|38|1+14+0+0+0+61,2+18+0+0+0+0|1|0;1|2|2|102|0,0|-5|0;1|2|3|125|0,2+18+0+0+64+26|-4.9|0;
+[ 2016-10-22 00:40:26] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:40:26] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:42:45] Account logged in UserID = 2
+[ 2016-10-22 00:42:46] User selected CharacterName = Firstchar
+[ 2016-10-22 00:42:46] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;30;
+[ 2016-10-22 00:42:46] Character information sent.
+[ 2016-10-22 00:42:46] Character found in map : 3 name = FirstcharPacket sent = SPAWNM;1|3|0|94|0,0|0|0;2|3|1|64|0,2+21+0+0+0+1|1|0;1|3|2|64|0,0|-5|0;1|3|3|123|0,2+20+0+0+0+40|-4.9|0;
+[ 2016-10-22 00:43:00] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:43:00] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:45:42] Account logged in UserID = 2
+[ 2016-10-22 00:45:43] User selected CharacterName = Firstchar
+[ 2016-10-22 00:45:43] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;30;
+[ 2016-10-22 00:45:43] Character information sent.
+[ 2016-10-22 00:45:43] Character found in map : 4 name = FirstcharPacket sent = SPAWNM;1|4|0|120|0,0|0|0;2|4|1|67|1+16+0+0+0+40,0|1|0;1|4|2|76|0,0|-5|0;1|4|3|120|1+13+0+0+48+3,0|-4.9|0;
+[ 2016-10-22 00:46:18] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:46:18] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:46:35] Account logged in UserID = 2
+[ 2016-10-22 00:46:35] User selected CharacterName = Firstchar
+[ 2016-10-22 00:46:35] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;30;
+[ 2016-10-22 00:46:35] Character information sent.
+[ 2016-10-22 00:46:36] Character found in map : 5 name = FirstcharPacket sent = SPAWNM;1|5|0|94|0,2+22+0+0+14+0|0|0;2|5|1|45|1+17+0+0+1+0,0|1|0;1|5|2|111|0,0|-5|0;1|5|3|127|0,0|-4.9|0;
+[ 2016-10-22 00:46:55] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:46:55] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:47:50] Account logged in UserID = 2
+[ 2016-10-22 00:47:51] User selected CharacterName = Firstchar
+[ 2016-10-22 00:47:51] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;30;
+[ 2016-10-22 00:47:51] Character information sent.
+[ 2016-10-22 00:47:51] Character found in map : 6 name = FirstcharPacket sent = SPAWNM;1|6|0|124|0,2+23+0+0+46+31|0|0;2|6|1|31|0,2+23+0+0+1+0|1|0;1|6|2|101|0,0|-5|0;1|6|3|130|0,0|-4.9|0;
+[ 2016-10-22 00:48:02] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:48:02] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:48:19] Account logged in UserID = 2
+[ 2016-10-22 00:48:19] User selected CharacterName = Firstchar
+[ 2016-10-22 00:48:19] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;30;
+[ 2016-10-22 00:48:19] Character information sent.
+[ 2016-10-22 00:48:19] Character found in map : 7 name = FirstcharPacket sent = SPAWNM;1|7|0|87|1+12+0+0+0+28,0|0|0;2|7|1|46|0,2+18+0+0+0+0|1|0;1|7|2|82|0,0|-5|0;1|7|3|108|1+14+0+0+51+3,2+22+0+0+0+0|-4.9|0;
+[ 2016-10-22 00:48:27] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:48:27] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:48:43] Login attempt failed. username=test password=tes
+[ 2016-10-22 00:48:45] Account logged in UserID = 2
+[ 2016-10-22 00:48:46] User selected CharacterName = Firstchar
+[ 2016-10-22 00:48:46] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;30;
+[ 2016-10-22 00:48:46] Character information sent.
+[ 2016-10-22 00:48:46] Character found in map : 8 name = FirstcharPacket sent = SPAWNM;1|8|0|132|0,0|0|0;2|8|1|31|1+12+0+0+0+36,2+20+0+0+0+53|1|0;1|8|2|136|1+12+0+0+8+0,2+17+0+0+0+0|-5|0;1|8|3|90|0,0|-4.9|0;
+[ 2016-10-22 00:48:53] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:48:53] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:49:15] Account logged in UserID = 2
+[ 2016-10-22 00:49:17] User selected CharacterName = Firstchar
+[ 2016-10-22 00:49:17] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;30;
+[ 2016-10-22 00:49:17] Character information sent.
+[ 2016-10-22 00:49:17] Character found in map : 9 name = FirstcharPacket sent = SPAWNM;1|9|0|96|0,0|0|0;2|9|1|45|0,2+17+0+0+0+46|1|0;1|9|2|73|0,0|-5|0;1|9|3|95|1+13+0+0+0+0,0|-4.9|0;
+[ 2016-10-22 00:49:29] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:49:29] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:49:50] Account logged in UserID = 2
+[ 2016-10-22 00:49:51] User selected CharacterName = Firstchar
+[ 2016-10-22 00:49:51] 1;Firstchar;10000;100;10;9635;29;16;27;11;4367;30;
+[ 2016-10-22 00:49:51] Character information sent.
+[ 2016-10-22 00:49:51] Character found in map : 10 name = FirstcharPacket sent = SPAWNM;1|10|0|107|1+13+0+0+0+24,0|0|0;2|10|1|43|0,0|1|0;1|10|2|75|0,0|-5|0;1|10|3|76|1+13+0+0+20+41,2+22+0+0+0+23|-4.9|0;
+[ 2016-10-22 00:50:03] IN: KILLMONSTER 3 1 10
+[ 2016-10-22 00:50:03] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:50:03] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:50:03] IN: KILLMONSTER 2 1 10
+[ 2016-10-22 00:50:03] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:50:03] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:50:03] IN: KILLMONSTER 1 2 10
+[ 2016-10-22 00:50:03] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 00:50:03] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:50:03] IN: KILLMONSTER 0 1 10
+[ 2016-10-22 00:50:03] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:50:03] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:50:10] Firstchar Item added successfully. to slot 10 itemid = 1 power = 13
+[ 2016-10-22 00:50:13] Firstchar Item added successfully. to slot 11 itemid = 2 power = 22
+[ 2016-10-22 00:50:14] Firstchar Item added successfully. to slot 12 itemid = 1 power = 13
+[ 2016-10-22 00:50:22] Item -1 was moved to slot 13
+[ 2016-10-22 00:50:24] Item -1 was moved to slot 26
+[ 2016-10-22 00:50:27] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:50:27] Forcing a ClientList to disconnect..
+[ 2016-10-22 00:51:28] Setting up server...
+[ 2016-10-22 00:51:28] Connected to MYSQL.
+[ 2016-10-22 00:51:28] Skill database loaded with [4] skills
+[ 2016-10-22 00:51:28] Item database loaded with [5] items
+[ 2016-10-22 00:51:28] Monster database loaded with [2] monsters
+[ 2016-10-22 00:51:28] Waves database loaded with [1] waves
+[ 2016-10-22 00:51:28] Server is running on port 32211
+[ 2016-10-22 00:51:53] Account logged in UserID = 2
+[ 2016-10-22 00:51:54] User selected CharacterName = Firstchar
+[ 2016-10-22 00:51:54] 1;Firstchar;10000;100;1;9635;29;16;27;11;4367;0;
+[ 2016-10-22 00:51:54] Character information sent.
+[ 2016-10-22 00:51:55] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|126|0,0|0|0;2|0|1|31|0,0|1|0;1|0|2|127|1+14+0+0+21+0,0|-5|0;1|0|3|83|0,0|-4.9|0;
+[ 2016-10-22 00:52:01] IN: KILLMONSTER 3 1 0
+[ 2016-10-22 00:52:01] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:52:01] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:52:01] IN: KILLMONSTER 2 1 0
+[ 2016-10-22 00:52:01] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:52:01] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:52:01] IN: KILLMONSTER 1 2 0
+[ 2016-10-22 00:52:01] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 00:52:01] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:52:01] IN: KILLMONSTER 0 1 0
+[ 2016-10-22 00:52:01] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 00:52:01] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 00:52:02] Firstchar Item added successfully. to slot 12 itemid = 1 power = 14
+[ 2016-10-22 00:52:06] Client disconnected. - ServerInit line 45
+[ 2016-10-22 00:52:06] Forcing a ClientList to disconnect..
+[ 2016-10-22 01:44:25] Account logged in UserID = 2
+[ 2016-10-22 01:44:26] User selected CharacterName = Firstchar
+[ 2016-10-22 01:44:26] 1;Firstchar;10000;100;1;9635;29;16;27;11;4367;10;
+[ 2016-10-22 01:44:26] Character information sent.
+[ 2016-10-22 01:44:27] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|65|1+15+0+0+11+1,0|0|0;2|1|1|50|0,0|1|0;1|1|2|121|0,2+21+0+0+1+0|-5|0;1|1|3|71|1+15+0+0+68+36,0|-4.9|0;
+[ 2016-10-22 01:44:46] IN: KILLMONSTER 0 1 1
+[ 2016-10-22 01:44:46] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 01:44:46] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 01:44:46] IN: KILLMONSTER 1 2 1
+[ 2016-10-22 01:44:46] Firstchar Leveled up to 2
+[ 2016-10-22 01:44:46] IN: KILLMONSTER 3 1 1
+[ 2016-10-22 01:44:46] IN: KILLMONSTER 2 1 1
+[ 2016-10-22 01:44:46] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 01:44:46] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 01:44:46] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 01:44:46] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 01:44:49] Firstchar Item added successfully. to slot 14 itemid = 1 power = 15
+[ 2016-10-22 01:44:51] Firstchar Item added successfully. to slot 15 itemid = 1 power = 15
+[ 2016-10-22 01:45:00] Firstchar Item added successfully. to slot 16 itemid = 2 power = 21
+[ 2016-10-22 01:45:11] Client disconnected. - ServerInit line 45
+[ 2016-10-22 01:45:11] Forcing a ClientList to disconnect..
+[ 2016-10-22 01:45:39] Setting up server...
+[ 2016-10-22 01:45:39] Connected to MYSQL.
+[ 2016-10-22 01:45:39] Skill database loaded with [4] skills
+[ 2016-10-22 01:45:39] Item database loaded with [5] items
+[ 2016-10-22 01:45:39] Monster database loaded with [2] monsters
+[ 2016-10-22 01:45:39] Waves database loaded with [1] waves
+[ 2016-10-22 01:45:39] Server is running on port 32211
+[ 2016-10-22 01:45:48] Account logged in UserID = 2
+[ 2016-10-22 01:45:49] User selected CharacterName = Firstchar
+[ 2016-10-22 01:45:49] 1;Firstchar;10028;109;1;9638;29;16;27;11;4370;0;
+[ 2016-10-22 01:45:49] Character information sent.
+[ 2016-10-22 01:45:49] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|104|0,0|0|0;2|0|1|51|0,0|1|0;1|0|2|81|0,2+19+0+0+0+0|-5|0;1|0|3|134|0,0|-4.9|0;
+[ 2016-10-22 01:45:52] IN: KILLMONSTER 3 1 0
+[ 2016-10-22 01:45:52] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 01:45:52] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 01:45:52] IN: KILLMONSTER 2 1 0
+[ 2016-10-22 01:45:52] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 01:45:52] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 01:45:53] IN: KILLMONSTER 1 2 0
+[ 2016-10-22 01:45:53] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 01:45:53] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 01:45:53] IN: KILLMONSTER 0 1 0
+[ 2016-10-22 01:45:53] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 01:45:53] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 01:46:03] Firstchar Item added successfully. to slot 17 itemid = 2 power = 19
+[ 2016-10-22 01:46:12] Client disconnected. - ServerInit line 45
+[ 2016-10-22 01:46:12] Forcing a ClientList to disconnect..
+[ 2016-10-22 01:51:46] Setting up server...
+[ 2016-10-22 01:51:46] Connected to MYSQL.
+[ 2016-10-22 01:51:46] Skill database loaded with [4] skills
+[ 2016-10-22 01:51:46] Item database loaded with [5] items
+[ 2016-10-22 01:51:46] Monster database loaded with [2] monsters
+[ 2016-10-22 01:51:46] Waves database loaded with [1] waves
+[ 2016-10-22 01:51:46] Server is running on port 32211
+[ 2016-10-22 01:52:18] Setting up server...
+[ 2016-10-22 01:52:18] Connected to MYSQL.
+[ 2016-10-22 01:52:18] Skill database loaded with [4] skills
+[ 2016-10-22 01:52:18] Item database loaded with [5] items
+[ 2016-10-22 01:52:18] Monster database loaded with [2] monsters
+[ 2016-10-22 01:52:18] Waves database loaded with [1] waves
+[ 2016-10-22 01:52:18] Server is running on port 32211
+[ 2016-10-22 01:53:35] Account logged in UserID = 2
+[ 2016-10-22 01:53:36] User selected CharacterName = Firstchar
+[ 2016-10-22 01:53:36] 1;Firstchar;10028;109;1;9638;29;16;27;11;4370;10;
+[ 2016-10-22 01:53:36] Character information sent.
+[ 2016-10-22 01:53:36] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|94|1+15+0+0+30+0,0|0|0;2|0|1|53|0,2+19+0+0+41+0|1|0;1|0|2|73|1+12+0+0+0+36,0|-5|0;1|0|3|60|0,0|-4.9|0;
+[ 2016-10-22 01:53:41] IN: KILLMONSTER 3 1 0
+[ 2016-10-22 01:53:41] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 01:53:41] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 01:53:41] IN: KILLMONSTER 2 1 0
+[ 2016-10-22 01:53:41] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 01:53:41] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 01:53:41] IN: KILLMONSTER 1 2 0
+[ 2016-10-22 01:53:42] Firstchar Leveled up to 2
+[ 2016-10-22 01:53:42] IN: KILLMONSTER 0 1 0
+[ 2016-10-22 01:53:42] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 01:53:42] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 01:53:43] Firstchar Item added successfully. to slot 18 itemid = 1 power = 12
+[ 2016-10-22 01:53:44] Firstchar Item added successfully. to slot 19 itemid = 1 power = 15
+[ 2016-10-22 01:53:44] INVENTORY_PICKUP_Packet - adding item to an existing slot = 19
+[ 2016-10-22 01:53:44] INVENTORY_PICKUP_Packet - adding item to an existing slot = 19Overwritten to slot = 20 itemid = 2 stat1 = 41
+[ 2016-10-22 01:53:54] Client disconnected. - ServerInit line 45
+[ 2016-10-22 01:53:54] Forcing a ClientList to disconnect..
+[ 2016-10-22 01:56:34] Setting up server...
+[ 2016-10-22 01:56:34] Connected to MYSQL.
+[ 2016-10-22 01:56:34] Skill database loaded with [4] skills
+[ 2016-10-22 01:56:34] Item database loaded with [5] items
+[ 2016-10-22 01:56:35] Monster database loaded with [2] monsters
+[ 2016-10-22 01:56:35] Waves database loaded with [1] waves
+[ 2016-10-22 01:56:35] Server is running on port 32211
+[ 2016-10-22 01:56:39] Account logged in UserID = 2
+[ 2016-10-22 01:56:39] User selected CharacterName = Firstchar
+[ 2016-10-22 01:56:39] 1;Firstchar;10054;120;2;9641;29;16;27;11;4373;2;
+[ 2016-10-22 01:56:39] Character information sent.
+[ 2016-10-22 01:56:40] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|66|0,2+17+0+0+0+0|0|0;2|0|1|60|0,0|1|0;1|0|2|105|0,0|-5|0;1|0|3|98|1+16+0+0+44+0,0|-4.9|0;
+[ 2016-10-22 01:56:43] IN: KILLMONSTER 3 1 0
+[ 2016-10-22 01:56:43] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 01:56:43] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 01:56:43] IN: KILLMONSTER 2 1 0
+[ 2016-10-22 01:56:43] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 01:56:43] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 01:56:44] IN: KILLMONSTER 1 2 0
+[ 2016-10-22 01:56:44] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 01:56:44] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 01:56:44] IN: KILLMONSTER 0 1 0
+[ 2016-10-22 01:56:44] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 01:56:44] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 01:57:13] Client disconnected. - ServerInit line 45
+[ 2016-10-22 01:57:13] Forcing a ClientList to disconnect..
+[ 2016-10-22 01:59:56] Setting up server...
+[ 2016-10-22 01:59:56] Connected to MYSQL.
+[ 2016-10-22 01:59:56] Skill database loaded with [4] skills
+[ 2016-10-22 01:59:56] Item database loaded with [5] items
+[ 2016-10-22 01:59:56] Monster database loaded with [2] monsters
+[ 2016-10-22 01:59:56] Waves database loaded with [1] waves
+[ 2016-10-22 01:59:56] Server is running on port 32211
+[ 2016-10-22 02:00:10] Account logged in UserID = 2
+[ 2016-10-22 02:00:11] User selected CharacterName = Firstchar
+[ 2016-10-22 02:00:11] 1;Firstchar;10054;120;2;9641;29;16;27;11;4373;12;
+[ 2016-10-22 02:00:11] Character information sent.
+[ 2016-10-22 02:00:12] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|74|1+12+0+0+0+41,0|0|0;2|0|1|54|0,2+20+0+0+0+44|1|0;1|0|2|94|1+13+0+0+0+0,2+18+0+0+0+0|-5|0;1|0|3|93|0,0|-4.9|0;
+[ 2016-10-22 02:01:23] Setting up server...
+[ 2016-10-22 02:01:23] Connected to MYSQL.
+[ 2016-10-22 02:01:23] Skill database loaded with [4] skills
+[ 2016-10-22 02:01:23] Item database loaded with [5] items
+[ 2016-10-22 02:01:23] Monster database loaded with [2] monsters
+[ 2016-10-22 02:01:23] Waves database loaded with [1] waves
+[ 2016-10-22 02:01:23] Server is running on port 32211
+[ 2016-10-22 02:01:25] Account logged in UserID = 2
+[ 2016-10-22 02:01:26] User selected CharacterName = Firstchar
+[ 2016-10-22 02:01:26] 1;Firstchar;10054;120;2;9641;29;16;27;11;4373;12;
+[ 2016-10-22 02:01:26] Character information sent.
+[ 2016-10-22 02:01:27] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|83|0,2+23+0+0+0+3|0|0;2|0|1|69|0,0|1|0;1|0|2|64|0,0|-5|0;1|0|3|100|0,0|-4.9|0;
+[ 2016-10-22 02:01:37] IN: KILLMONSTER 3 1 0
+[ 2016-10-22 02:01:37] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 02:01:37] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 02:01:37] IN: KILLMONSTER 2 1 0
+[ 2016-10-22 02:01:37] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 02:01:37] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 02:01:37] IN: KILLMONSTER 1 2 0
+[ 2016-10-22 02:01:37] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 02:01:37] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 02:01:47] Client disconnected. - ServerInit line 45
+[ 2016-10-22 02:01:47] Forcing a ClientList to disconnect..
+[ 2016-10-22 02:01:54] Account logged in UserID = 2
+[ 2016-10-22 02:01:54] User selected CharacterName = Firstchar
+[ 2016-10-22 02:01:54] 1;Firstchar;10054;120;2;9641;29;16;27;11;4373;20;
+[ 2016-10-22 02:01:54] Character information sent.
+[ 2016-10-22 02:01:55] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|108|0,0|0|0;2|1|1|52|0,0|1|0;1|1|2|63|0,0|-5|0;1|1|3|104|1+13+0+0+1+20,0|-4.9|0;
+[ 2016-10-22 02:02:03] Client disconnected. - ServerInit line 45
+[ 2016-10-22 02:02:03] Forcing a ClientList to disconnect..
+[ 2016-10-22 02:02:29] Account logged in UserID = 2
+[ 2016-10-22 02:02:30] User selected CharacterName = Firstchar
+[ 2016-10-22 02:02:30] 1;Firstchar;10054;120;2;9641;29;16;27;11;4373;20;
+[ 2016-10-22 02:02:30] Character information sent.
+[ 2016-10-22 02:02:30] Character found in map : 2 name = FirstcharPacket sent = SPAWNM;1|2|0|130|1+15+0+0+0+0,0|0|0;2|2|1|40|0,0|1|0;1|2|2|89|0,2+24+0+0+6+56|-5|0;1|2|3|139|0,2+18+0+0+20+0|-4.9|0;
+[ 2016-10-22 02:02:33] IN: KILLMONSTER 3 1 2
+[ 2016-10-22 02:02:33] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 02:02:33] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 02:02:33] IN: KILLMONSTER 2 1 2
+[ 2016-10-22 02:02:33] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 02:02:33] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 02:02:34] IN: KILLMONSTER 1 2 2
+[ 2016-10-22 02:02:34] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 02:02:34] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 02:02:34] IN: KILLMONSTER 0 1 2
+[ 2016-10-22 02:02:34] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 02:02:34] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 02:02:38] Firstchar Item added successfully. to slot 21 itemid = 1 power = 15
+[ 2016-10-22 02:02:40] Firstchar Item added successfully. to slot 22 itemid = 2 power = 24
+[ 2016-10-22 02:02:40] INVENTORY_PICKUP_Packet - adding item to an existing slot = 22
+[ 2016-10-22 02:02:40] INVENTORY_PICKUP_Packet - adding item to an existing slot = 22Overwritten to slot = 23 itemid = 2 stat1 = 20
+[ 2016-10-22 02:02:52] Client disconnected. - ServerInit line 45
+[ 2016-10-22 02:02:52] Forcing a ClientList to disconnect..
+[ 2016-10-22 02:07:23] Setting up server...
+[ 2016-10-22 02:07:23] Connected to MYSQL.
+[ 2016-10-22 02:07:23] Skill database loaded with [4] skills
+[ 2016-10-22 02:07:23] Item database loaded with [5] items
+[ 2016-10-22 02:07:23] Monster database loaded with [2] monsters
+[ 2016-10-22 02:07:23] Waves database loaded with [1] waves
+[ 2016-10-22 02:07:23] Server is running on port 32211
+[ 2016-10-22 02:07:24] Account logged in UserID = 2
+[ 2016-10-22 02:07:26] User selected CharacterName = Firstchar
+[ 2016-10-22 02:07:26] 1;Firstchar;10054;120;2;9641;29;16;27;11;4373;30;
+[ 2016-10-22 02:07:26] Character information sent.
+[ 2016-10-22 02:07:27] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|86|1+17+0+0+31+0,0|0|0;2|0|1|32|0,0|1|0;1|0|2|137|1+16+0+0+0+51,2+23+0+0+0+0|-5|0;1|0|3|70|0,0|-4.9|0;
+[ 2016-10-22 02:07:49] IN: KILLMONSTER 0 1 0
+[ 2016-10-22 02:07:49] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 02:07:49] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 02:07:49] IN: KILLMONSTER 2 1 0
+[ 2016-10-22 02:07:49] Firstchar Leveled up to 3
+[ 2016-10-22 02:07:49] IN: KILLMONSTER 3 1 0
+[ 2016-10-22 02:07:49] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 02:07:50] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 02:07:50] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 02:07:50] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 02:07:50] IN: KILLMONSTER 1 2 0
+[ 2016-10-22 02:07:50] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 02:07:50] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 02:07:51] Firstchar Item added successfully. to slot 1 itemid = 1 power = 17
+[ 2016-10-22 02:07:52] Firstchar Item added successfully. to slot 2 itemid = 1 power = 16
+[ 2016-10-22 02:07:52] Firstchar Item added successfully. to slot 3 itemid = 2 power = 23
+[ 2016-10-22 02:07:55] Client disconnected. - ServerInit line 45
+[ 2016-10-22 02:07:55] Forcing a ClientList to disconnect..
+[ 2016-10-22 02:08:03] Account logged in UserID = 2
+[ 2016-10-22 02:08:04] User selected CharacterName = Firstchar
+[ 2016-10-22 02:08:04] 1;Firstchar;10079;132;3;9644;29;16;27;11;4376;6;
+[ 2016-10-22 02:08:04] Character information sent.
+[ 2016-10-22 02:08:04] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|123|0,0|0|0;2|1|1|36|0,2+16+0+0+0+34|1|0;1|1|2|103|0,2+19+0+0+10+0|-5|0;1|1|3|129|0,0|-4.9|0;
+[ 2016-10-22 02:10:22] Setting up server...
+[ 2016-10-22 02:10:22] Connected to MYSQL.
+[ 2016-10-22 02:10:22] Skill database loaded with [4] skills
+[ 2016-10-22 02:10:22] Item database loaded with [5] items
+[ 2016-10-22 02:10:22] Monster database loaded with [2] monsters
+[ 2016-10-22 02:10:22] Waves database loaded with [1] waves
+[ 2016-10-22 02:10:22] Server is running on port 32211
+[ 2016-10-22 02:17:43] Setting up server...
+[ 2016-10-22 02:17:44] Connected to MYSQL.
+[ 2016-10-22 02:17:44] Skill database loaded with [4] skills
+[ 2016-10-22 02:17:44] Item database loaded with [5] items
+[ 2016-10-22 02:17:44] Monster database loaded with [2] monsters
+[ 2016-10-22 02:17:44] Waves database loaded with [1] waves
+[ 2016-10-22 02:17:44] Server is running on port 32211
+[ 2016-10-22 02:17:47] Account logged in UserID = 2
+[ 2016-10-22 02:17:53] User selected CharacterName = Firstchar
+[ 2016-10-22 02:17:53] 1;Firstchar;10079;132;3;9644;29;16;27;11;4376;6;
+[ 2016-10-22 02:17:53] Character information sent.
+[ 2016-10-22 02:17:54] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|86|0,0|0|0;2|0|1|50|0,2+16+0+0+30+0|1|0;1|0|2|126|0,2+22+0+0+60+0|-5|0;1|0|3|111|0,0|-4.9|0;
+[ 2016-10-22 02:17:56] Client disconnected. - ServerInit line 45
+[ 2016-10-22 02:17:56] Forcing a ClientList to disconnect..
+[ 2016-10-22 02:19:56] Setting up server...
+[ 2016-10-22 02:19:56] Connected to MYSQL.
+[ 2016-10-22 02:19:56] Skill database loaded with [4] skills
+[ 2016-10-22 02:19:56] Item database loaded with [5] items
+[ 2016-10-22 02:19:56] Monster database loaded with [2] monsters
+[ 2016-10-22 02:19:56] Waves database loaded with [1] waves
+[ 2016-10-22 02:19:56] Server is running on port 32211
+[ 2016-10-22 02:20:01] Account logged in UserID = 2
+[ 2016-10-22 02:20:02] User selected CharacterName = Firstchar
+[ 2016-10-22 02:20:02] 1;Firstchar;10079;132;3;9644;29;16;27;11;4376;6;
+[ 2016-10-22 02:20:02] Character information sent.
+[ 2016-10-22 02:20:02] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|84|1+15+0+0+63+0,2+24+0+0+3+3|0|0;2|0|1|49|1+16+0+0+0+51,0|1|0;1|0|2|125|1+14+0+0+0+61,2+19+0+0+50+0|-5|0;1|0|3|134|1+12+0+0+51+0,0|-4.9|0;
+[ 2016-10-22 02:20:04] Client disconnected. - ServerInit line 45
+[ 2016-10-22 02:20:05] Forcing a ClientList to disconnect..
+[ 2016-10-22 02:23:34] Setting up server...
+[ 2016-10-22 02:23:34] Connected to MYSQL.
+[ 2016-10-22 02:23:34] Skill database loaded with [4] skills
+[ 2016-10-22 02:23:34] Item database loaded with [5] items
+[ 2016-10-22 02:23:34] Monster database loaded with [2] monsters
+[ 2016-10-22 02:23:34] Waves database loaded with [1] waves
+[ 2016-10-22 02:23:34] Server is running on port 32211
+[ 2016-10-22 02:23:39] Account logged in UserID = 2
+[ 2016-10-22 02:23:39] User selected CharacterName = Firstchar
+[ 2016-10-22 02:23:40] 1;Firstchar;10079;132;3;9644;29;16;27;11;4376;6;
+[ 2016-10-22 02:23:40] Character information sent.
+[ 2016-10-22 02:23:40] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|78|1+15+0+0+61+0,0|0|0;2|0|1|68|0,0|1|0;1|0|2|98|0,0|-5|0;1|0|3|119|0,0|-4.9|0;
+[ 2016-10-22 02:23:41] Client disconnected. - ServerInit line 45
+[ 2016-10-22 02:23:41] Forcing a ClientList to disconnect..
+[ 2016-10-22 02:24:59] Account logged in UserID = 2
+[ 2016-10-22 02:25:00] User selected CharacterName = Firstchar
+[ 2016-10-22 02:25:00] 1;Firstchar;10079;132;3;9644;29;16;27;11;4376;6;
+[ 2016-10-22 02:25:00] Character information sent.
+[ 2016-10-22 02:25:01] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|111|1+12+0+0+0+44,0|0|0;2|1|1|32|0,0|1|0;1|1|2|88|0,2+17+0+0+0+0|-5|0;1|1|3|125|0,0|-4.9|0;
+[ 2016-10-22 02:25:41] Client disconnected. - ServerInit line 45
+[ 2016-10-22 02:25:41] Forcing a ClientList to disconnect..
+[ 2016-10-22 02:25:47] Account logged in UserID = 2
+[ 2016-10-22 02:25:47] User selected CharacterName = Firstchar
+[ 2016-10-22 02:25:47] 1;Firstchar;10079;132;3;9644;29;16;27;11;4376;6;
+[ 2016-10-22 02:25:47] Character information sent.
+[ 2016-10-22 02:25:48] Character found in map : 2 name = FirstcharPacket sent = SPAWNM;1|2|0|86|0,0|0|0;2|2|1|36|0,0|1|0;1|2|2|105|0,0|-5|0;1|2|3|125|0,2+21+0+0+0+0|-4.9|0;
+[ 2016-10-22 02:26:15] IN: KILLMONSTER 0 1 2
+[ 2016-10-22 02:26:15] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 02:26:16] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 02:26:16] IN: KILLMONSTER 2 1 2
+[ 2016-10-22 02:26:16] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 02:26:16] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 02:26:16] IN: KILLMONSTER 3 1 2
+[ 2016-10-22 02:26:16] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 02:26:16] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 02:26:17] IN: KILLMONSTER 1 2 2
+[ 2016-10-22 02:26:17] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 02:26:17] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 02:26:18] Firstchar Item added successfully. to slot 4 itemid = 2 power = 21
+[ 2016-10-22 02:26:23] Client disconnected. - ServerInit line 45
+[ 2016-10-22 02:26:23] Forcing a ClientList to disconnect..
+[ 2016-10-22 19:01:44] Setting up server...
+[ 2016-10-22 19:01:44] Connected to MYSQL.
+[ 2016-10-22 19:01:44] Skill database loaded with [4] skills
+[ 2016-10-22 19:01:44] Item database loaded with [5] items
+[ 2016-10-22 19:01:44] Monster database loaded with [2] monsters
+[ 2016-10-22 19:01:44] Waves database loaded with [1] waves
+[ 2016-10-22 19:01:44] Server is running on port 32211
+[ 2016-10-22 19:01:47] Account logged in UserID = 2
+[ 2016-10-22 19:01:48] User selected CharacterName = Firstchar
+[ 2016-10-22 19:01:48] 1;Firstchar;10079;132;3;9644;29;16;27;11;4376;16;
+[ 2016-10-22 19:01:48] Character information sent.
+[ 2016-10-22 19:01:48] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|90|0,0|0|0;2|0|1|67|0,0|1|0;1|0|2|71|0,0|-5|0;1|0|3|66|1+16+0+0+0+0,0|-4.9|0;
+[ 2016-10-22 19:01:52] Item -1 was moved to slot 5
+[ 2016-10-22 19:02:24] Client disconnected. - ServerInit line 45
+[ 2016-10-22 19:02:24] Forcing a ClientList to disconnect..
+[ 2016-10-22 19:02:35] Account logged in UserID = 2
+[ 2016-10-22 19:02:37] User selected CharacterName = Firstchar
+[ 2016-10-22 19:02:38] 1;Firstchar;10079;132;3;9644;29;16;27;11;4376;16;
+[ 2016-10-22 19:02:38] Character information sent.
+[ 2016-10-22 19:02:38] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|117|0,2+21+0+0+0+51|0|0;2|1|1|40|0,0|1|0;1|1|2|108|0,2+21+0+0+0+61|-5|0;1|1|3|77|0,0|-4.9|0;
+[ 2016-10-22 19:02:41] Item -1 was moved to slot 26
+[ 2016-10-22 19:02:44] Item -1 was moved to slot 5
+[ 2016-10-22 19:02:49] Item -1 was moved to slot 26
+[ 2016-10-22 19:03:21] Client disconnected. - ServerInit line 45
+[ 2016-10-22 19:03:21] Forcing a ClientList to disconnect..
+[ 2016-10-22 19:03:50] Account logged in UserID = 2
+[ 2016-10-22 19:03:51] User selected CharacterName = Firstchar
+[ 2016-10-22 19:03:51] 1;Firstchar;10079;132;3;9644;29;16;27;11;4376;16;
+[ 2016-10-22 19:03:51] Character information sent.
+[ 2016-10-22 19:03:51] Character found in map : 2 name = FirstcharPacket sent = SPAWNM;1|2|0|137|0,0|0|0;2|2|1|49|0,2+18+0+0+0+50|1|0;1|2|2|139|0,0|-5|0;1|2|3|124|0,2+24+0+0+0+0|-4.9|0;
+[ 2016-10-22 19:03:57] Item -1 was moved to slot 5
+[ 2016-10-22 19:04:03] Item -1 was moved to slot 26
+[ 2016-10-22 19:04:11] Client disconnected. - ServerInit line 45
+[ 2016-10-22 19:04:11] Forcing a ClientList to disconnect..
+[ 2016-10-22 19:05:56] Setting up server...
+[ 2016-10-22 19:05:56] Connected to MYSQL.
+[ 2016-10-22 19:05:56] Skill database loaded with [4] skills
+[ 2016-10-22 19:05:56] Item database loaded with [5] items
+[ 2016-10-22 19:05:56] Monster database loaded with [2] monsters
+[ 2016-10-22 19:05:56] Waves database loaded with [1] waves
+[ 2016-10-22 19:05:56] Server is running on port 32211
+[ 2016-10-22 19:05:59] Account logged in UserID = 2
+[ 2016-10-22 19:05:59] User selected CharacterName = Firstchar
+[ 2016-10-22 19:05:59] 1;Firstchar;10079;132;3;9644;29;16;27;11;4376;16;
+[ 2016-10-22 19:05:59] Character information sent.
+[ 2016-10-22 19:05:59] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|123|0,0|0|0;2|0|1|36|0,0|1|0;1|0|2|122|0,2+20+0+0+0+34|-5|0;1|0|3|109|1+16+0+0+0+0,2+22+0+0+0+23|-4.9|0;
+[ 2016-10-22 19:06:06] Item -1 was moved to slot 5
+[ 2016-10-22 19:07:21] Setting up server...
+[ 2016-10-22 19:07:22] Connected to MYSQL.
+[ 2016-10-22 19:07:22] Skill database loaded with [4] skills
+[ 2016-10-22 19:07:22] Item database loaded with [5] items
+[ 2016-10-22 19:07:22] Monster database loaded with [2] monsters
+[ 2016-10-22 19:07:22] Waves database loaded with [1] waves
+[ 2016-10-22 19:07:22] Server is running on port 32211
+[ 2016-10-22 19:07:26] Account logged in UserID = 2
+[ 2016-10-22 19:07:27] User selected CharacterName = Firstchar
+[ 2016-10-22 19:07:27] 1;Firstchar;10079;132;3;9644;29;16;27;11;4376;16;
+[ 2016-10-22 19:07:27] Character information sent.
+[ 2016-10-22 19:07:28] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|61|0,2+21+0+0+21+0|0|0;2|0|1|60|0,2+23+0+0+50+0|1|0;1|0|2|77|0,2+20+0+0+36+0|-5|0;1|0|3|111|0,0|-4.9|0;
+[ 2016-10-22 19:07:37] Item -1 was moved to slot 5
+[ 2016-10-22 19:07:40] Item -1 was moved to slot 26
+[ 2016-10-22 19:07:42] Item -1 was moved to slot 4
+[ 2016-10-22 19:07:42] Item -1 was moved to slot 11
+[ 2016-10-22 19:07:43] Item -1 was moved to slot 4
+[ 2016-10-22 19:07:44] Item -1 was moved to slot 10
+[ 2016-10-22 19:07:45] Item -1 was moved to slot 3
+[ 2016-10-22 19:07:45] Item -1 was moved to slot 10
+[ 2016-10-22 19:07:45] Item -1 was moved to slot 3
+[ 2016-10-22 19:07:46] Item -1 was moved to slot 10
+[ 2016-10-22 19:07:46] Item -1 was moved to slot 3
+[ 2016-10-22 19:07:47] Item -1 was moved to slot 10
+[ 2016-10-22 19:07:48] Item -1 was moved to slot 3
+[ 2016-10-22 19:07:50] Item -1 was moved to slot 26
+[ 2016-10-22 19:07:51] Item -1 was moved to slot 2
+[ 2016-10-22 19:07:53] Item -1 was moved to slot 26
+[ 2016-10-22 19:07:55] Item -1 was moved to slot 1
+[ 2016-10-22 19:07:57] Item -1 was moved to slot 26
+[ 2016-10-22 19:08:01] Item -1 was moved to slot 0
+[ 2016-10-22 19:08:21] Item -1 was moved to slot 26
+[ 2016-10-22 19:08:24] Client disconnected. - ServerInit line 45
+[ 2016-10-22 19:08:24] Forcing a ClientList to disconnect..
+[ 2016-10-22 19:10:23] Setting up server...
+[ 2016-10-22 19:10:23] Connected to MYSQL.
+[ 2016-10-22 19:10:23] Skill database loaded with [4] skills
+[ 2016-10-22 19:10:23] Item database loaded with [5] items
+[ 2016-10-22 19:10:23] Monster database loaded with [2] monsters
+[ 2016-10-22 19:10:23] Waves database loaded with [1] waves
+[ 2016-10-22 19:10:23] Server is running on port 32211
+[ 2016-10-22 19:10:28] Account logged in UserID = 2
+[ 2016-10-22 19:10:29] User selected CharacterName = Firstchar
+[ 2016-10-22 19:10:29] 1;Firstchar;10079;132;3;9644;29;16;27;11;4376;16;
+[ 2016-10-22 19:10:29] Character information sent.
+[ 2016-10-22 19:10:29] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|71|0,2+22+0+0+4+0|0|0;2|0|1|68|0,0|1|0;1|0|2|133|0,0|-5|0;1|0|3|130|0,0|-4.9|0;
+[ 2016-10-22 19:10:35] Item -1 was moved to slot 0
+[ 2016-10-22 19:11:05] Client disconnected. - ServerInit line 45
+[ 2016-10-22 19:11:05] Forcing a ClientList to disconnect..
+[ 2016-10-22 19:12:00] Setting up server...
+[ 2016-10-22 19:12:00] Connected to MYSQL.
+[ 2016-10-22 19:12:00] Skill database loaded with [4] skills
+[ 2016-10-22 19:12:00] Item database loaded with [5] items
+[ 2016-10-22 19:12:00] Monster database loaded with [2] monsters
+[ 2016-10-22 19:12:00] Waves database loaded with [1] waves
+[ 2016-10-22 19:12:00] Server is running on port 32211
+[ 2016-10-22 19:12:07] Login attempt failed. username=tset password=test
+[ 2016-10-22 19:12:10] Account logged in UserID = 2
+[ 2016-10-22 19:12:10] User selected CharacterName = Firstchar
+[ 2016-10-22 19:12:10] 1;Firstchar;10079;132;3;9644;29;16;27;11;4376;16;
+[ 2016-10-22 19:12:10] Character information sent.
+[ 2016-10-22 19:12:11] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|84|1+16+0+0+0+0,2+18+0+0+50+20|0|0;2|0|1|45|0,0|1|0;1|0|2|80|1+14+0+0+0+68,0|-5|0;1|0|3|70|0,2+17+0+0+0+1|-4.9|0;
+[ 2016-10-22 19:12:14] Item 2 was moved to slot 11
+[ 2016-10-22 19:12:15] Item 2 was moved to slot 4
+[ 2016-10-22 19:12:16] Item 1 was moved to slot 9
+[ 2016-10-22 19:12:17] Item 1 was moved to slot 2
+[ 2016-10-22 19:12:23] Item 2 was moved to slot 5
+[ 2016-10-22 19:12:33] Client disconnected. - ServerInit line 45
+[ 2016-10-22 19:12:33] Forcing a ClientList to disconnect..
+[ 2016-10-22 19:15:27] Account logged in UserID = 2
+[ 2016-10-22 19:15:28] User selected CharacterName = Firstchar
+[ 2016-10-22 19:15:28] 1;Firstchar;10079;132;3;9644;29;16;27;11;4376;16;
+[ 2016-10-22 19:15:28] Character information sent.
+[ 2016-10-22 19:15:29] Character found in map : 1 name = FirstcharPacket sent = SPAWNM;1|1|0|65|0,0|0|0;2|1|1|48|0,0|1|0;1|1|2|77|0,2+19+0+0+40+41|-5|0;1|1|3|117|0,2+24+0+0+0+0|-4.9|0;
+[ 2016-10-22 19:15:31] Item 2 was moved to slot 26
+[ 2016-10-22 19:15:34] Item 2 was moved to slot 5
+[ 2016-10-22 19:16:46] Setting up server...
+[ 2016-10-22 19:16:46] Connected to MYSQL.
+[ 2016-10-22 19:16:46] Skill database loaded with [4] skills
+[ 2016-10-22 19:16:46] Item database loaded with [5] items
+[ 2016-10-22 19:16:46] Monster database loaded with [2] monsters
+[ 2016-10-22 19:16:46] Waves database loaded with [1] waves
+[ 2016-10-22 19:16:46] Server is running on port 32211
+[ 2016-10-22 19:17:26] Login attempt failed. username=test password=tests
+[ 2016-10-22 19:17:46] Login attempt failed. username=test password=
+[ 2016-10-22 19:17:55] Account logged in UserID = 2
+[ 2016-10-22 19:17:56] User selected CharacterName = Firstchar
+[ 2016-10-22 19:17:56] 1;Firstchar;10079;132;3;9644;29;16;27;11;4376;16;
+[ 2016-10-22 19:17:56] Character information sent.
+[ 2016-10-22 19:17:57] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|72|0,0|0|0;2|0|1|58|0,0|1|0;1|0|2|61|1+12+0+0+58+0,0|-5|0;1|0|3|138|0,0|-4.9|0;
+[ 2016-10-22 19:17:59] Item 2 was moved to slot 26
+[ 2016-10-22 19:18:02] Item 2 was moved to slot 3
+[ 2016-10-22 19:18:10] Item 1 was moved to slot 26
+[ 2016-10-22 19:18:14] Item 1 was moved to slot 1
+[ 2016-10-22 19:18:20] Item 2 was moved to slot 3
+[ 2016-10-22 19:18:25] Item 1 was moved to slot 26
+[ 2016-10-22 19:18:29] IN: KILLMONSTER 0 1 0
+[ 2016-10-22 19:18:29] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 19:18:29] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 19:18:29] IN: KILLMONSTER 2 1 0
+[ 2016-10-22 19:18:29] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 19:18:29] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 19:18:29] IN: KILLMONSTER 3 1 0
+[ 2016-10-22 19:18:29] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-22 19:18:29] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 19:18:29] IN: KILLMONSTER 1 2 0
+[ 2016-10-22 19:18:29] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-22 19:18:29] Found monster in map!!! YAY - now removing it.
+[ 2016-10-22 19:18:31] Firstchar Item added successfully. to slot 0 itemid = 1 power = 12
+[ 2016-10-22 19:18:42] Item 1 was moved to slot 6
+[ 2016-10-22 19:18:43] Item 1 was moved to slot 26
+[ 2016-10-22 19:18:46] Item 1 was moved to slot 6
+[ 2016-10-22 19:18:48] Item 1 was moved to slot 0
+[ 2016-10-22 19:19:17] Item 2 was moved to slot 28
+[ 2016-10-22 19:44:53] Client disconnected. - ServerInit line 45
+[ 2016-10-22 19:44:53] Forcing a ClientList to disconnect..

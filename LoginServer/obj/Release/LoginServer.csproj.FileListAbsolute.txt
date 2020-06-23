@@ -1,0 +1,12 @@
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\bin\Release\LoginServer.exe.config
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\obj\Release\LoginServer.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\obj\Release\LoginServer.frmLoginServer.resources
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\obj\Release\LoginServer.Properties.Resources.resources
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\obj\Release\LoginServer.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\bin\Release\LoginServer.exe
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\bin\Release\LoginServer.pdb
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\bin\Release\MySql.Data.dll
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\bin\Release\MySql.Data.xml
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\obj\Release\LoginServer.exe
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\obj\Release\LoginServer.pdb
+C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\bin\Release\LitJson.dll

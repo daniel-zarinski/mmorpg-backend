@@ -1,0 +1,45 @@
+This is the log file of the 2016-10-27
+[ 2016-10-27 02:30:31] Setting up server...
+[ 2016-10-27 02:30:32] Can't connect to database. MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at LoginServer.frmLoginServer.SetupServer() in C:\Users\danie\Desktop\MMoRPG\LoginServer_Server\LoginServer\Login Server.cs:line 118
+[ 2016-10-27 02:30:32] Connected to MYSQL.
+[ 2016-10-27 02:30:33] Skill database loaded with [0] skills
+[ 2016-10-27 02:30:35] Item database loaded with [0] items
+[ 2016-10-27 02:30:36] Monster database loaded with [0] monsters
+[ 2016-10-27 02:30:40] Waves database loaded with [0] waves
+[ 2016-10-27 02:30:40] Server is running on port 32211
+[ 2016-10-27 02:30:48] Setting up server...
+[ 2016-10-27 02:30:48] Connected to MYSQL.
+[ 2016-10-27 02:30:48] Skill database loaded with [4] skills
+[ 2016-10-27 02:30:48] Item database loaded with [5] items
+[ 2016-10-27 02:30:48] Monster database loaded with [2] monsters
+[ 2016-10-27 02:30:48] Waves database loaded with [1] waves
+[ 2016-10-27 02:30:48] Server is running on port 32211
+[ 2016-10-27 02:30:53] Account logged in UserID = 2
+[ 2016-10-27 02:30:54] User selected CharacterName = Firstchar
+[ 2016-10-27 02:30:54] 1;Firstchar;10105;139;4;9647;29;16;27;11;4379;71;
+[ 2016-10-27 02:30:54] Character information sent.
+[ 2016-10-27 02:30:54] Character found in map : 0 name = FirstcharPacket sent = SPAWNM;1|0|0|68|0,0|0|0;2|0|1|46|0,2+20+0+0+61+0|1|0;1|0|2|82|0,0|-5|0;1|0|3|78|0,0|-4.9|0;
+[ 2016-10-27 02:30:57] IN: KILLMONSTER 3 1 0
+[ 2016-10-27 02:30:57] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-27 02:30:57] Found monster in map!!! YAY - now removing it.
+[ 2016-10-27 02:30:57] IN: KILLMONSTER 2 1 0
+[ 2016-10-27 02:30:57] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-27 02:30:57] Found monster in map!!! YAY - now removing it.
+[ 2016-10-27 02:30:58] IN: KILLMONSTER 1 2 0
+[ 2016-10-27 02:30:58] Firstchar Killed monsterid = 2 and gained 4exp
+[ 2016-10-27 02:30:58] Found monster in map!!! YAY - now removing it.
+[ 2016-10-27 02:30:58] IN: KILLMONSTER 0 1 0
+[ 2016-10-27 02:30:58] Firstchar Killed monsterid = 1 and gained 2exp
+[ 2016-10-27 02:30:58] Found monster in map!!! YAY - now removing it.
+[ 2016-10-27 02:31:01] Firstchar Item added successfully. to slot 13 itemid = 2 power = 20
+[ 2016-10-27 02:31:26] Client disconnected. - ServerInit line 45
+[ 2016-10-27 02:31:26] Forcing a ClientList to disconnect..
